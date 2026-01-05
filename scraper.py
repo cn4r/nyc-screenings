@@ -63,6 +63,8 @@ def master_scrape(num_days=30):
     """Scrape the next num_days days of screenings"""
     options = webdriver.ChromeOptions()
     options.add_argument('--headless')
+    options.add_argument('--no-sandbox')          # Add this
+    options.add_argument('--disable-dev-shm-usage') # Add this
     driver = webdriver.Chrome(options=options)
     all_data = []
     
