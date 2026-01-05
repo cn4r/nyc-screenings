@@ -7,7 +7,7 @@ import re
 # --- SETUP ---
 BASE_FOLDER = os.getcwd()
 DATA_FOLDER = os.path.join(BASE_FOLDER, "data")
-OUTPUT_FOLDER = os.path.join(BASE_FOLDER, "output")
+OUTPUT_FOLDER = BASE_FOLDER
 
 # Create output folder if it doesn't exist
 if not os.path.exists(OUTPUT_FOLDER):
