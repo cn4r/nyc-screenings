@@ -60,47 +60,65 @@ def extract_showtimes(element):
     return showtimes if showtimes else ['Check website']
 
 def master_scrape(num_days=30):
-    """Scrape the next num_days days of screenings"""
+    """Scrape the next num_days days of screenings with cloud-proofing"""
     options = webdriver.ChromeOptions()
     options.add_argument('--headless')
-    options.add_argument('--no-sandbox')          # Add this
-    options.add_argument('--disable-dev-shm-usage') # Add this
+    # Force a standard desktop window size so all elements are "visible"
+    options.add_argument("--window-size=1920,1080")
+    options.add_argument('--no-sandbox')
+    options.add_argument('--disable-dev-shm-usage')
+    
     driver = webdriver.Chrome(options=options)
     all_data = []
     
-    # Calculate date range
     start_date = datetime.now()
-    end_date = start_date + timedelta(days=num_days - 1)
-    
-    print(f"📅 Scraping from {start_date.strftime('%Y-%m-%d')} to {end_date.strftime('%Y-%m-%d')}")
-    print(f"   ({num_days} days total)\n")
+    print(f"📅 Scraping {num_days} days starting from {start_date.strftime('%Y-%m-%d')}\n")
     
     try:
         for i in range(num_days):
             date_obj = datetime.now() + timedelta(days=i)
             date_str = date_obj.strftime('%Y-%m-%d')
             url = f"https://www.screenslate.com/listings/{date_str}"
-            print(f"Scraping: {date_str}...")
+            
+            print(f"Scraping: {date_str}...", end=" ", flush=True)
             driver.get(url)
             
             try:
-                WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.ID, "listings")))
-                time.sleep(1)
+                # 1. WAIT: Give the main container 10 seconds to appear
+                WebDriverWait(driver, 10).until(
+                    EC.presence_of_element_located((By.ID, "listings"))
+                )
                 
+                # 2. SCROLL: Force lazy-loaded images/content to trigger
+                # We scroll down 1000 pixels then back up
+                driver.execute_script("window.scrollTo(0, 1000);")
+                time.sleep(1)
+                driver.execute_script("window.scrollTo(0, 0);")
+                time.sleep(1) # Final pause for data to settle
+                
+                daily_count = 0
                 current_theater = "Unknown Venue"
-                for element in driver.find_elements(By.CSS_SELECTOR, "#listings *"):
+                
+                # Use a specific selector for the listings container
+                listings_container = driver.find_element(By.ID, "listings")
+                elements = listings_container.find_elements(By.CSS_SELECTOR, "*")
+
+                for element in elements:
                     if element.tag_name == 'h3':
                         current_theater = element.text.strip()
                     
-                    if 'listing' in (element.get_attribute('class') or ''):
+                    # More robust check for the listing class
+                    cls = element.get_attribute('class') or ''
+                    if 'listing' in cls:
                         try:
-                            title = element.find_element(By.CSS_SELECTOR, 'a span').text.strip()
+                            title_el = element.find_element(By.CSS_SELECTOR, 'a span')
+                            title = title_el.text.strip()
                             link = element.find_element(By.TAG_NAME, 'a').get_attribute('href')
+                            
                             spans = element.find_elements(By.TAG_NAME, 'span')
                             director = spans[1].text.replace(' ,', '').strip() if len(spans) > 1 else "N/A"
                             year = spans[2].text.replace(',', '').strip() if len(spans) > 2 else "N/A"
                             
-                            # Extract showtimes
                             showtimes = extract_showtimes(element)
                             
                             all_data.append({
@@ -112,14 +130,19 @@ def master_scrape(num_days=30):
                                 'link': link,
                                 'showtimes': showtimes
                             })
-                        except: 
+                            daily_count += 1
+                        except Exception:
                             continue
-            except: 
+                
+                print(f"Found {daily_count}")
+                
+            except Exception as e:
+                print(f"Skipped (No listings found or timeout)")
                 continue
                 
-        print(f"\n  ✓ Found {len(all_data)} total screenings")
     finally:
         driver.quit()
+        
     return all_data
 
 def save_json(data):
