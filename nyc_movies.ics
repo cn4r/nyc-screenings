@@ -2,1021 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:L'Anticoncept @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260129T193000
-DTEND:20260129T213000
-DESCRIPTION:Dir: GIL K WOLMAN (1951)\nhttps://www.screenslate.com/series/l
- ettrist-film
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/lettrist-film
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Litany for Survival: The Life and Work of Audre Lorde @ BAM
-DTSTART:20260129T190000
-DTEND:20260129T210000
-DESCRIPTION:Dir: MICHELLE PARKERSON\, ADA GAY GRIFFIN (1995)\nhttps://www.
- bam.org/film/2026/litany-for-survival
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/litany-for-survival
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holding Liat @ FILM FORUM
-DTSTART:20260129T122000
-DTEND:20260129T142000
-DESCRIPTION:Dir: BRANDON KRAMER (2025)\nhttps://filmforum.org/film/holding
- -liat
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/holding-liat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holding Liat @ FILM FORUM
-DTSTART:20260129T174000
-DTEND:20260129T194000
-DESCRIPTION:Dir: BRANDON KRAMER (2025)\nhttps://filmforum.org/film/holding
- -liat
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/holding-liat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holding Liat @ FILM FORUM
-DTSTART:20260129T123000
-DTEND:20260129T143000
-DESCRIPTION:Dir: BRANDON KRAMER (2025)\nhttps://filmforum.org/film/holding
- -liat
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/holding-liat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holding Liat @ FILM FORUM
-DTSTART:20260129T150000
-DTEND:20260129T170000
-DESCRIPTION:Dir: BRANDON KRAMER (2025)\nhttps://filmforum.org/film/holding
- -liat
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/holding-liat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holding Liat @ FILM FORUM
-DTSTART:20260129T200000
-DTEND:20260129T220000
-DESCRIPTION:Dir: BRANDON KRAMER (2025)\nhttps://filmforum.org/film/holding
- -liat
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/holding-liat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holding Liat @ FILM FORUM
-DTSTART:20260129T125000
-DTEND:20260129T145000
-DESCRIPTION:Dir: BRANDON KRAMER (2025)\nhttps://filmforum.org/film/holding
- -liat
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/holding-liat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holding Liat @ FILM FORUM
-DTSTART:20260129T151000
-DTEND:20260129T171000
-DESCRIPTION:Dir: BRANDON KRAMER (2025)\nhttps://filmforum.org/film/holding
- -liat
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/holding-liat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holding Liat @ FILM FORUM
-DTSTART:20260129T173000
-DTEND:20260129T193000
-DESCRIPTION:Dir: BRANDON KRAMER (2025)\nhttps://filmforum.org/film/holding
- -liat
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/holding-liat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holding Liat @ FILM FORUM
-DTSTART:20260129T195000
-DTEND:20260129T215000
-DESCRIPTION:Dir: BRANDON KRAMER (2025)\nhttps://filmforum.org/film/holding
- -liat
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/holding-liat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holding Liat @ FILM FORUM
-DTSTART:20260129T130000
-DTEND:20260129T150000
-DESCRIPTION:Dir: BRANDON KRAMER (2025)\nhttps://filmforum.org/film/holding
- -liat
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/holding-liat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holding Liat @ FILM FORUM
-DTSTART:20260129T153000
-DTEND:20260129T173000
-DESCRIPTION:Dir: BRANDON KRAMER (2025)\nhttps://filmforum.org/film/holding
- -liat
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/holding-liat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holding Liat @ FILM FORUM
-DTSTART:20260129T180000
-DTEND:20260129T200000
-DESCRIPTION:Dir: BRANDON KRAMER (2025)\nhttps://filmforum.org/film/holding
- -liat
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/holding-liat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holding Liat @ FILM FORUM
-DTSTART:20260129T203000
-DTEND:20260129T223000
-DESCRIPTION:Dir: BRANDON KRAMER (2025)\nhttps://filmforum.org/film/holding
- -liat
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/holding-liat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holding Liat @ FILM FORUM
-DTSTART:20260129T142500
-DTEND:20260129T162500
-DESCRIPTION:Dir: BRANDON KRAMER (2025)\nhttps://filmforum.org/film/holding
- -liat
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/holding-liat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holding Liat @ FILM FORUM
-DTSTART:20260129T183500
-DTEND:20260129T203500
-DESCRIPTION:Dir: BRANDON KRAMER (2025)\nhttps://filmforum.org/film/holding
- -liat
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/holding-liat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holding Liat @ FILM FORUM
-DTSTART:20260129T163500
-DTEND:20260129T183500
-DESCRIPTION:Dir: BRANDON KRAMER (2025)\nhttps://filmforum.org/film/holding
- -liat
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/holding-liat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Holding Liat @ FILM FORUM
-DTSTART:20260129T204500
-DTEND:20260129T224500
-DESCRIPTION:Dir: BRANDON KRAMER (2025)\nhttps://filmforum.org/film/holding
- -liat
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/holding-liat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seeds @ FILM FORUM
-DTSTART:20260129T123000
-DTEND:20260129T143000
-DESCRIPTION:Dir: BRITTANY SHYNE (2025)\nhttps://filmforum.org/film/seeds
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/seeds
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seeds @ FILM FORUM
-DTSTART:20260129T150000
-DTEND:20260129T170000
-DESCRIPTION:Dir: BRITTANY SHYNE (2025)\nhttps://filmforum.org/film/seeds
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/seeds
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seeds @ FILM FORUM
-DTSTART:20260129T200000
-DTEND:20260129T220000
-DESCRIPTION:Dir: BRITTANY SHYNE (2025)\nhttps://filmforum.org/film/seeds
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/seeds
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Father Mother Sister Brother @ FILM FORUM
-DTSTART:20260129T125000
-DTEND:20260129T145000
-DESCRIPTION:Dir: JIM JARMUSCH (2025)\nhttps://filmforum.org/film/father-mo
- ther-sister-brother
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/father-mother-sister-brother
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Father Mother Sister Brother @ FILM FORUM
-DTSTART:20260129T151000
-DTEND:20260129T171000
-DESCRIPTION:Dir: JIM JARMUSCH (2025)\nhttps://filmforum.org/film/father-mo
- ther-sister-brother
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/father-mother-sister-brother
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Father Mother Sister Brother @ FILM FORUM
-DTSTART:20260129T173000
-DTEND:20260129T193000
-DESCRIPTION:Dir: JIM JARMUSCH (2025)\nhttps://filmforum.org/film/father-mo
- ther-sister-brother
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/father-mother-sister-brother
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Father Mother Sister Brother @ FILM FORUM
-DTSTART:20260129T195000
-DTEND:20260129T215000
-DESCRIPTION:Dir: JIM JARMUSCH (2025)\nhttps://filmforum.org/film/father-mo
- ther-sister-brother
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/father-mother-sister-brother
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Conversation Piece @ FILM FORUM
-DTSTART:20260129T130000
-DTEND:20260129T150000
-DESCRIPTION:Dir: LUCHINO VISCONTI (1977)\nhttps://filmforum.org/film/conve
- rsation-piece
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/conversation-piece
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Conversation Piece @ FILM FORUM
-DTSTART:20260129T153000
-DTEND:20260129T173000
-DESCRIPTION:Dir: LUCHINO VISCONTI (1977)\nhttps://filmforum.org/film/conve
- rsation-piece
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/conversation-piece
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Conversation Piece @ FILM FORUM
-DTSTART:20260129T180000
-DTEND:20260129T200000
-DESCRIPTION:Dir: LUCHINO VISCONTI (1977)\nhttps://filmforum.org/film/conve
- rsation-piece
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/conversation-piece
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Conversation Piece @ FILM FORUM
-DTSTART:20260129T203000
-DTEND:20260129T223000
-DESCRIPTION:Dir: LUCHINO VISCONTI (1977)\nhttps://filmforum.org/film/conve
- rsation-piece
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/conversation-piece
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Queen Kelly @ FILM FORUM
-DTSTART:20260129T142500
-DTEND:20260129T162500
-DESCRIPTION:Dir: ERICH VON STROHEIM (1929)\nhttps://filmforum.org/film/que
- en-kelly
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/queen-kelly
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Queen Kelly @ FILM FORUM
-DTSTART:20260129T183500
-DTEND:20260129T203500
-DESCRIPTION:Dir: ERICH VON STROHEIM (1929)\nhttps://filmforum.org/film/que
- en-kelly
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/queen-kelly
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Voice of Hind Rajab @ FILM FORUM
-DTSTART:20260129T163500
-DTEND:20260129T183500
-DESCRIPTION:Dir: KAOUTHER BEN HANIA (2025)\nhttps://filmforum.org/film/the
- -voice-of-hind-rajab
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-voice-of-hind-rajab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Voice of Hind Rajab @ FILM FORUM
-DTSTART:20260129T204500
-DTEND:20260129T224500
-DESCRIPTION:Dir: KAOUTHER BEN HANIA (2025)\nhttps://filmforum.org/film/the
- -voice-of-hind-rajab
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-voice-of-hind-rajab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
-DTSTART:20260129T133000
-DTEND:20260129T153000
-DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
- s-just-an-accident/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/it-was-just-an-accident/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
-DTSTART:20260129T140000
-DTEND:20260129T160000
-DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
- s-just-an-accident/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/it-was-just-an-accident/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
-DTSTART:20260129T171500
-DTEND:20260129T191500
-DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
- s-just-an-accident/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/it-was-just-an-accident/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
-DTSTART:20260129T202000
-DTEND:20260129T222000
-DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
- s-just-an-accident/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/it-was-just-an-accident/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
-DTSTART:20260129T154500
-DTEND:20260129T174500
-DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
- s-just-an-accident/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/it-was-just-an-accident/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
-DTSTART:20260129T181500
-DTEND:20260129T201500
-DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
- s-just-an-accident/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/it-was-just-an-accident/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
-DTSTART:20260129T204500
-DTEND:20260129T224500
-DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
- s-just-an-accident/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/it-was-just-an-accident/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
-DTSTART:20260129T180000
-DTEND:20260129T200000
-DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
- s-just-an-accident/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/it-was-just-an-accident/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
-DTSTART:20260129T140000
-DTEND:20260129T160000
-DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
- ilms/the-secret-agent/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-secret-agent/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
-DTSTART:20260129T171500
-DTEND:20260129T191500
-DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
- ilms/the-secret-agent/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-secret-agent/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
-DTSTART:20260129T202000
-DTEND:20260129T222000
-DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
- ilms/the-secret-agent/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-secret-agent/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Father Mother Sister Brother @ FILM AT LINCOLN CENTER
-DTSTART:20260129T154500
-DTEND:20260129T174500
-DESCRIPTION:Dir: JIM JARMUSCH (2025)\nhttps://www.filmlinc.org/films/fathe
- r-mother-sister-brother/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/father-mother-sister-brother/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Father Mother Sister Brother @ FILM AT LINCOLN CENTER
-DTSTART:20260129T181500
-DTEND:20260129T201500
-DESCRIPTION:Dir: JIM JARMUSCH (2025)\nhttps://www.filmlinc.org/films/fathe
- r-mother-sister-brother/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/father-mother-sister-brother/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Father Mother Sister Brother @ FILM AT LINCOLN CENTER
-DTSTART:20260129T204500
-DTEND:20260129T224500
-DESCRIPTION:Dir: JIM JARMUSCH (2025)\nhttps://www.filmlinc.org/films/fathe
- r-mother-sister-brother/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/father-mother-sister-brother/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Love That Remains @ FILM AT LINCOLN CENTER
-DTSTART:20260129T180000
-DTEND:20260129T200000
-DESCRIPTION:Dir: HLYNUR PÁLMASON (2025)\nhttps://www.filmlinc.org/films/t
- he-love-that-remains/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-love-that-remains/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jay Kelly @ IFC CENTER
-DTSTART:20260129T103500
-DTEND:20260129T123500
-DESCRIPTION:Dir: NOAH BAUMBACH (2025)\nhttps://www.ifccenter.com/films/jay
- -kelly/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/jay-kelly/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jay Kelly @ IFC CENTER
-DTSTART:20260129T104000
-DTEND:20260129T124000
-DESCRIPTION:Dir: NOAH BAUMBACH (2025)\nhttps://www.ifccenter.com/films/jay
- -kelly/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/jay-kelly/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jay Kelly @ IFC CENTER
-DTSTART:20260129T104500
-DTEND:20260129T124500
-DESCRIPTION:Dir: NOAH BAUMBACH (2025)\nhttps://www.ifccenter.com/films/jay
- -kelly/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/jay-kelly/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jay Kelly @ IFC CENTER
-DTSTART:20260129T113000
-DTEND:20260129T133000
-DESCRIPTION:Dir: NOAH BAUMBACH (2025)\nhttps://www.ifccenter.com/films/jay
- -kelly/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/jay-kelly/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jay Kelly @ IFC CENTER
-DTSTART:20260129T145500
-DTEND:20260129T165500
-DESCRIPTION:Dir: NOAH BAUMBACH (2025)\nhttps://www.ifccenter.com/films/jay
- -kelly/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/jay-kelly/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jay Kelly @ IFC CENTER
-DTSTART:20260129T182500
-DTEND:20260129T202500
-DESCRIPTION:Dir: NOAH BAUMBACH (2025)\nhttps://www.ifccenter.com/films/jay
- -kelly/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/jay-kelly/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jay Kelly @ IFC CENTER
-DTSTART:20260129T125000
-DTEND:20260129T145000
-DESCRIPTION:Dir: NOAH BAUMBACH (2025)\nhttps://www.ifccenter.com/films/jay
- -kelly/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/jay-kelly/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jay Kelly @ IFC CENTER
-DTSTART:20260129T213000
-DTEND:20260129T233000
-DESCRIPTION:Dir: NOAH BAUMBACH (2025)\nhttps://www.ifccenter.com/films/jay
- -kelly/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/jay-kelly/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jay Kelly @ IFC CENTER
-DTSTART:20260129T190000
-DTEND:20260129T210000
-DESCRIPTION:Dir: NOAH BAUMBACH (2025)\nhttps://www.ifccenter.com/films/jay
- -kelly/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/jay-kelly/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jay Kelly @ IFC CENTER
-DTSTART:20260129T130500
-DTEND:20260129T150500
-DESCRIPTION:Dir: NOAH BAUMBACH (2025)\nhttps://www.ifccenter.com/films/jay
- -kelly/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/jay-kelly/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jay Kelly @ IFC CENTER
-DTSTART:20260129T184000
-DTEND:20260129T204000
-DESCRIPTION:Dir: NOAH BAUMBACH (2025)\nhttps://www.ifccenter.com/films/jay
- -kelly/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/jay-kelly/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jay Kelly @ IFC CENTER
-DTSTART:20260129T150000
-DTEND:20260129T170000
-DESCRIPTION:Dir: NOAH BAUMBACH (2025)\nhttps://www.ifccenter.com/films/jay
- -kelly/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/jay-kelly/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jay Kelly @ IFC CENTER
-DTSTART:20260129T210500
-DTEND:20260129T230500
-DESCRIPTION:Dir: NOAH BAUMBACH (2025)\nhttps://www.ifccenter.com/films/jay
- -kelly/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/jay-kelly/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jay Kelly @ IFC CENTER
-DTSTART:20260129T154000
-DTEND:20260129T174000
-DESCRIPTION:Dir: NOAH BAUMBACH (2025)\nhttps://www.ifccenter.com/films/jay
- -kelly/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/jay-kelly/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jay Kelly @ IFC CENTER
-DTSTART:20260129T160500
-DTEND:20260129T180500
-DESCRIPTION:Dir: NOAH BAUMBACH (2025)\nhttps://www.ifccenter.com/films/jay
- -kelly/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/jay-kelly/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jay Kelly @ IFC CENTER
-DTSTART:20260129T214000
-DTEND:20260129T234000
-DESCRIPTION:Dir: NOAH BAUMBACH (2025)\nhttps://www.ifccenter.com/films/jay
- -kelly/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/jay-kelly/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jay Kelly @ IFC CENTER
-DTSTART:20260129T172000
-DTEND:20260129T192000
-DESCRIPTION:Dir: NOAH BAUMBACH (2025)\nhttps://www.ifccenter.com/films/jay
- -kelly/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/jay-kelly/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jay Kelly @ IFC CENTER
-DTSTART:20260129T185000
-DTEND:20260129T205000
-DESCRIPTION:Dir: NOAH BAUMBACH (2025)\nhttps://www.ifccenter.com/films/jay
- -kelly/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/jay-kelly/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jay Kelly @ IFC CENTER
-DTSTART:20260129T203000
-DTEND:20260129T223000
-DESCRIPTION:Dir: NOAH BAUMBACH (2025)\nhttps://www.ifccenter.com/films/jay
- -kelly/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/jay-kelly/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jay Kelly @ IFC CENTER
-DTSTART:20260129T214500
-DTEND:20260129T234500
-DESCRIPTION:Dir: NOAH BAUMBACH (2025)\nhttps://www.ifccenter.com/films/jay
- -kelly/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/jay-kelly/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Left-Handed Girl @ IFC CENTER
-DTSTART:20260129T104000
-DTEND:20260129T124000
-DESCRIPTION:Dir: SHIH-CHING TSOU (2025)\nhttps://www.ifccenter.com/films/l
- eft-handed-girl/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/left-handed-girl/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Train Dreams @ IFC CENTER
-DTSTART:20260129T104500
-DTEND:20260129T124500
-DESCRIPTION:Dir: CLINT BENTLEY (2025)\nhttps://www.ifccenter.com/films/tra
- in-dreams/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/train-dreams/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Magellan @ IFC CENTER
-DTSTART:20260129T113000
-DTEND:20260129T133000
-DESCRIPTION:Dir: LAV DIAZ (2025)\nhttps://www.ifccenter.com/films/magellan
- /
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/magellan/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Magellan @ IFC CENTER
-DTSTART:20260129T145500
-DTEND:20260129T165500
-DESCRIPTION:Dir: LAV DIAZ (2025)\nhttps://www.ifccenter.com/films/magellan
- /
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/magellan/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Magellan @ IFC CENTER
-DTSTART:20260129T182500
-DTEND:20260129T202500
-DESCRIPTION:Dir: LAV DIAZ (2025)\nhttps://www.ifccenter.com/films/magellan
- /
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/magellan/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Useful Ghost @ IFC CENTER
-DTSTART:20260129T125000
-DTEND:20260129T145000
-DESCRIPTION:Dir: RATCHAPOOM BOONBUNCHACHOKE (2026)\nhttps://www.ifccenter.
- com/films/a-useful-ghost/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/a-useful-ghost/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Useful Ghost @ IFC CENTER
-DTSTART:20260129T213000
-DTEND:20260129T233000
-DESCRIPTION:Dir: RATCHAPOOM BOONBUNCHACHOKE (2026)\nhttps://www.ifccenter.
- com/films/a-useful-ghost/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/a-useful-ghost/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mr. Nobody Against Putin @ IFC CENTER
-DTSTART:20260129T125000
-DTEND:20260129T145000
-DESCRIPTION:Dir: PAVEL TALANKIN & DAVID BORENSTEIN (2025)\nhttps://www.ifc
- center.com/films/mr-nobody-against-putin/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mr-nobody-against-putin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mr. Nobody Against Putin @ IFC CENTER
-DTSTART:20260129T190000
-DTEND:20260129T210000
-DESCRIPTION:Dir: PAVEL TALANKIN & DAVID BORENSTEIN (2025)\nhttps://www.ifc
- center.com/films/mr-nobody-against-putin/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mr-nobody-against-putin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Killing of a Chinese Bookie @ IFC CENTER
-DTSTART:20260129T130500
-DTEND:20260129T150500
-DESCRIPTION:Dir: JOHN CASSAVETES (1976)\nhttps://www.ifccenter.com/films/t
- he-killing-of-a-chinese-bookie-original-theatrical-cut/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-killing-of-a-chinese-bookie-origin
- al-theatrical-cut/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Killing of a Chinese Bookie @ IFC CENTER
-DTSTART:20260129T184000
-DTEND:20260129T204000
-DESCRIPTION:Dir: JOHN CASSAVETES (1976)\nhttps://www.ifccenter.com/films/t
- he-killing-of-a-chinese-bookie-original-theatrical-cut/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-killing-of-a-chinese-bookie-origin
- al-theatrical-cut/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Killing of a Chinese Bookie @ IFC CENTER
-DTSTART:20260129T160500
-DTEND:20260129T180500
-DESCRIPTION:Dir: JOHN CASSAVETES (1976)\nhttps://www.ifccenter.com/films/t
- he-killing-of-a-chinese-bookie-original-theatrical-cut/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-killing-of-a-chinese-bookie-origin
- al-theatrical-cut/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Killing of a Chinese Bookie @ IFC CENTER
-DTSTART:20260129T214000
-DTEND:20260129T234000
-DESCRIPTION:Dir: JOHN CASSAVETES (1976)\nhttps://www.ifccenter.com/films/t
- he-killing-of-a-chinese-bookie-original-theatrical-cut/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-killing-of-a-chinese-bookie-origin
- al-theatrical-cut/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sound of Falling @ IFC CENTER
-DTSTART:20260129T150000
-DTEND:20260129T170000
-DESCRIPTION:Dir: MASCHA SCHILINSKI (2025)\nhttps://www.ifccenter.com/films
- /sound-of-falling/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/sound-of-falling/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sound of Falling @ IFC CENTER
-DTSTART:20260129T210500
-DTEND:20260129T230500
-DESCRIPTION:Dir: MASCHA SCHILINSKI (2025)\nhttps://www.ifccenter.com/films
- /sound-of-falling/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/sound-of-falling/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resurrection @ IFC CENTER
-DTSTART:20260129T154000
-DTEND:20260129T174000
-DESCRIPTION:Dir: BI GAN (2025)\nhttps://www.ifccenter.com/films/resurrecti
- on/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/resurrection/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frankenstein @ IFC CENTER
-DTSTART:20260129T172000
-DTEND:20260129T192000
-DESCRIPTION:Dir: GUILLERMO DEL TORO (2025)\nhttps://www.ifccenter.com/film
- s/frankenstein/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/frankenstein/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Poet @ IFC CENTER
-DTSTART:20260129T185000
-DTEND:20260129T205000
-DESCRIPTION:Dir: SIMÓN MESA SOTO (2026)\nhttps://www.ifccenter.com/films/
- a-poet/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/a-poet/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Love That Remains @ IFC CENTER
-DTSTART:20260129T203000
-DTEND:20260129T223000
-DESCRIPTION:Dir: HLYNUR PÁLMASON (2025)\nhttps://www.ifccenter.com/films/
- the-love-that-remains/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-love-that-remains/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OBEX @ IFC CENTER
-DTSTART:20260129T214500
-DTEND:20260129T234500
-DESCRIPTION:Dir: ALBERT BIRNEY (2025)\nhttps://www.ifccenter.com/films/obe
- x/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/obex/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Velvet @ METROGRAPH
-DTSTART:20260129T142000
-DTEND:20260129T162000
-DESCRIPTION:Dir: DAVID LYNCH (1986)\nhttps://www.screenslate.com/series/to
- uch-me-your-eyes
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/touch-me-your-eyes
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Velvet @ METROGRAPH
-DTSTART:20260129T164500
-DTEND:20260129T184500
-DESCRIPTION:Dir: DAVID LYNCH (1986)\nhttps://www.screenslate.com/series/to
- uch-me-your-eyes
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/touch-me-your-eyes
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Velvet @ METROGRAPH
-DTSTART:20260129T165000
-DTEND:20260129T185000
-DESCRIPTION:Dir: DAVID LYNCH (1986)\nhttps://www.screenslate.com/series/to
- uch-me-your-eyes
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/touch-me-your-eyes
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Velvet @ METROGRAPH
-DTSTART:20260129T183000
-DTEND:20260129T203000
-DESCRIPTION:Dir: DAVID LYNCH (1986)\nhttps://www.screenslate.com/series/to
- uch-me-your-eyes
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/touch-me-your-eyes
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Velvet @ METROGRAPH
-DTSTART:20260129T184000
-DTEND:20260129T204000
-DESCRIPTION:Dir: DAVID LYNCH (1986)\nhttps://www.screenslate.com/series/to
- uch-me-your-eyes
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/touch-me-your-eyes
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Velvet @ METROGRAPH
-DTSTART:20260129T211000
-DTEND:20260129T231000
-DESCRIPTION:Dir: DAVID LYNCH (1986)\nhttps://www.screenslate.com/series/to
- uch-me-your-eyes
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/touch-me-your-eyes
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Squid and the Whale @ METROGRAPH
-DTSTART:20260129T164500
-DTEND:20260129T184500
-DESCRIPTION:Dir: NOAH BAUMBACH (2005)\nhttps://metrograph.com/film/?vista_
- film_id=9999000604
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/?vista_film_id=9999000604
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Underground @ METROGRAPH
-DTSTART:20260129T165000
-DTEND:20260129T185000
-DESCRIPTION:Dir: HASKELL WEXLER\, EMILE DE ANTONIO\, MARY LAMPSON (1976)\n
- https://www.screenslate.com/series/fugitive-days
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/fugitive-days
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Platform @ METROGRAPH
-DTSTART:20260129T183000
-DTEND:20260129T203000
-DESCRIPTION:Dir: JIA ZHANGKE (2000)\nhttps://www.screenslate.com/series/me
- mory-palace
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/memory-palace
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Running on Empty @ METROGRAPH
-DTSTART:20260129T184000
-DTEND:20260129T204000
-DESCRIPTION:Dir: SIDNEY LUMET (1988)\nhttps://www.screenslate.com/series/f
- ugitive-days
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/fugitive-days
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A New Love in Tokyo @ METROGRAPH
-DTSTART:20260129T211000
-DTEND:20260129T231000
-DESCRIPTION:Dir: BANMEI TAKAHASHI (1994)\nhttps://www.screenslate.com/seri
- es/tokyo-199x
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/tokyo-199x
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:9 to 5 @ NITEHAWK CINEMA PROSPECT PARK
-DTSTART:20260129T210000
-DTEND:20260129T230000
-DESCRIPTION:Dir: COLIN HIGGINS (1980)\nhttps://www.screenslate.com/series/
- happy-80th-birthday-dolly-nitehawk-cinema
-LOCATION:NITEHAWK CINEMA PROSPECT PARK
-URL:https://www.screenslate.com/series/happy-80th-birthday-dolly-nitehawk-
- cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seconds @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260129T211500
-DTEND:20260129T231500
-DESCRIPTION:Dir: JOHN FRANKENHEIMER (1966)\nhttps://www.screenslate.com/se
- ries/new-year-new-me-nitehawk-cinema
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://www.screenslate.com/series/new-year-new-me-nitehawk-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frankenstein @ PARIS THEATER
-DTSTART:20260129T220000
-DTEND:20260130T000000
-DESCRIPTION:Dir: GUILLERMO DEL TORO (2025)\nhttps://www.paristheaternyc.co
- m/film/frankenstein-paris
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/film/frankenstein-paris
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Out of the Blue @ QUAD CINEMA
-DTSTART:20260129T201500
-DTEND:20260129T221500
-DESCRIPTION:Dir: DENNIS HOPPER (1980)\nhttps://www.screenslate.com/series/
- girls-rebel
-LOCATION:QUAD CINEMA
-URL:https://www.screenslate.com/series/girls-rebel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Peter Hujar's Day @ ROXY CINEMA NEW YORK
-DTSTART:20260129T170000
-DTEND:20260129T190000
-DESCRIPTION:Dir: IRA SACHS (2025)\nhttps://ticketing.uswest.veezi.com/purc
- hase/7016?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7016?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Peter Hujar's Day @ ROXY CINEMA NEW YORK
-DTSTART:20260129T184500
-DTEND:20260129T204500
-DESCRIPTION:Dir: IRA SACHS (2025)\nhttps://ticketing.uswest.veezi.com/purc
- hase/7016?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7016?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Peter Hujar's Day @ ROXY CINEMA NEW YORK
-DTSTART:20260129T204500
-DTEND:20260129T224500
-DESCRIPTION:Dir: IRA SACHS (2025)\nhttps://ticketing.uswest.veezi.com/purc
- hase/7016?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7016?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Design for Living @ ROXY CINEMA NEW YORK
-DTSTART:20260129T184500
-DTEND:20260129T204500
-DESCRIPTION:Dir: ERNST LUBITSCH (1933)\nhttps://www.screenslate.com/series
- /misc-en-scene-presents-first-principles
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.screenslate.com/series/misc-en-scene-presents-first-princi
- ples
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Short Cuts @ ROXY CINEMA NEW YORK
-DTSTART:20260129T204500
-DTEND:20260129T224500
-DESCRIPTION:Dir: ROBERT ALTMAN (1993)\nhttps://www.screenslate.com/series/
- misc-en-scene-presents-first-principles
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.screenslate.com/series/misc-en-scene-presents-first-princi
- ples
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Double Blind (No Sex Last Night) @ SPECTACLE
-DTSTART:20260129T193000
-DTEND:20260129T213000
-DESCRIPTION:Dir: SOPHIE CALLE\, GREGORY SHEPHARD (1992)\nhttps://www.scree
- nslate.com/series/best-spectacle-2025
-LOCATION:SPECTACLE
-URL:https://www.screenslate.com/series/best-spectacle-2025
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Double Blind (No Sex Last Night) @ SPECTACLE
-DTSTART:20260129T220000
-DTEND:20260130T000000
-DESCRIPTION:Dir: SOPHIE CALLE\, GREGORY SHEPHARD (1992)\nhttps://www.scree
- nslate.com/series/best-spectacle-2025
-LOCATION:SPECTACLE
-URL:https://www.screenslate.com/series/best-spectacle-2025
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kill the Moonlight @ SPECTACLE
-DTSTART:20260129T220000
-DTEND:20260130T000000
-DESCRIPTION:Dir: STEVEN HANFT (1994)\nhttps://www.screenslate.com/series/b
- est-spectacle-2025
-LOCATION:SPECTACLE
-URL:https://www.screenslate.com/series/best-spectacle-2025
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Once Does Not Count @ ANTHOLOGY FILM ARCHIVES
 DTSTART:20260130T183000
 DTEND:20260130T203000
@@ -1963,6 +948,24 @@ URL:https://www.screenslate.com/series/late-night-favorites-winter-2025-20
  26
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:This is Spinal Tap @ LOW CINEMA
+DTSTART:20260130T180000
+DTEND:20260130T200000
+DESCRIPTION:Dir: ROB REINER (1984)\nhttps://lowcinema.com/tickets/p/youve-
+ got-mail-gbwx8
+LOCATION:LOW CINEMA
+URL:https://lowcinema.com/tickets/p/youve-got-mail-gbwx8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:This is Spinal Tap @ LOW CINEMA
+DTSTART:20260130T200000
+DTEND:20260130T220000
+DESCRIPTION:Dir: ROB REINER (1984)\nhttps://lowcinema.com/tickets/p/youve-
+ got-mail-gbwx8
+LOCATION:LOW CINEMA
+URL:https://lowcinema.com/tickets/p/youve-got-mail-gbwx8
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rear Window @ METROGRAPH
 DTSTART:20260130T140000
 DTEND:20260130T160000
@@ -2187,6 +1190,15 @@ BEGIN:VEVENT
 SUMMARY:Train Dreams @ MUSEUM OF THE MOVING IMAGE
 DTSTART:20260130T183000
 DTEND:20260130T203000
+DESCRIPTION:Dir: CLINT BENTLEY (2025)\nhttps://www.screenslate.com/series/
+ curators-choice-2025
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://www.screenslate.com/series/curators-choice-2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Train Dreams @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260130T190000
+DTEND:20260130T210000
 DESCRIPTION:Dir: CLINT BENTLEY (2025)\nhttps://www.screenslate.com/series/
  curators-choice-2025
 LOCATION:MUSEUM OF THE MOVING IMAGE
@@ -3250,6 +2262,24 @@ URL:https://www.screenslate.com/series/late-night-favorites-winter-2025-20
  26
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:This is Spinal Tap @ LOW CINEMA
+DTSTART:20260131T180000
+DTEND:20260131T200000
+DESCRIPTION:Dir: ROB REINER (1984)\nhttps://lowcinema.com/tickets/p/youve-
+ got-mail-gbwx8
+LOCATION:LOW CINEMA
+URL:https://lowcinema.com/tickets/p/youve-got-mail-gbwx8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:This is Spinal Tap @ LOW CINEMA
+DTSTART:20260131T200000
+DTEND:20260131T220000
+DESCRIPTION:Dir: ROB REINER (1984)\nhttps://lowcinema.com/tickets/p/youve-
+ got-mail-gbwx8
+LOCATION:LOW CINEMA
+URL:https://lowcinema.com/tickets/p/youve-got-mail-gbwx8
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Downtown 81 @ METROGRAPH
 DTSTART:20260131T120000
 DTEND:20260131T140000
@@ -3504,6 +2534,33 @@ DTSTART:20260131T130000
 DTEND:20260131T150000
 DESCRIPTION:Dir: LAV DIAZ (2025)\nhttps://www.screenslate.com/series/curat
  ors-choice-2025
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://www.screenslate.com/series/curators-choice-2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Magellan @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260131T133000
+DTEND:20260131T153000
+DESCRIPTION:Dir: LAV DIAZ (2025)\nhttps://www.screenslate.com/series/curat
+ ors-choice-2025
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://www.screenslate.com/series/curators-choice-2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Magellan @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260131T170000
+DTEND:20260131T190000
+DESCRIPTION:Dir: LAV DIAZ (2025)\nhttps://www.screenslate.com/series/curat
+ ors-choice-2025
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://www.screenslate.com/series/curators-choice-2025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260131T170000
+DTEND:20260131T190000
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.screenslate.co
+ m/series/curators-choice-2025
 LOCATION:MUSEUM OF THE MOVING IMAGE
 URL:https://www.screenslate.com/series/curators-choice-2025
 END:VEVENT
@@ -4686,6 +3743,24 @@ LOCATION:IFC CENTER
 URL:https://www.ifccenter.com/films/a-useful-ghost/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:This is Spinal Tap @ LOW CINEMA
+DTSTART:20260201T180000
+DTEND:20260201T200000
+DESCRIPTION:Dir: ROB REINER (1984)\nhttps://lowcinema.com/tickets/p/youve-
+ got-mail-gbwx8
+LOCATION:LOW CINEMA
+URL:https://lowcinema.com/tickets/p/youve-got-mail-gbwx8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:This is Spinal Tap @ LOW CINEMA
+DTSTART:20260201T200000
+DTEND:20260201T220000
+DESCRIPTION:Dir: ROB REINER (1984)\nhttps://lowcinema.com/tickets/p/youve-
+ got-mail-gbwx8
+LOCATION:LOW CINEMA
+URL:https://lowcinema.com/tickets/p/youve-got-mail-gbwx8
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Goodbye\, Dragon Inn @ METROGRAPH
 DTSTART:20260201T110000
 DTEND:20260201T130000
@@ -5080,13 +4155,33 @@ URL:https://www.paristheaternyc.com/film/train-dreams-paris
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Short Cuts @ ROXY CINEMA NEW YORK
-DTSTART:20260201T140000
-DTEND:20260201T160000
+DTSTART:20260201T130000
+DTEND:20260201T150000
 DESCRIPTION:Dir: ROBERT ALTMAN (1993)\nhttps://www.screenslate.com/series/
  misc-en-scene-presents-first-principles
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://www.screenslate.com/series/misc-en-scene-presents-first-princi
  ples
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Short Cuts @ ROXY CINEMA NEW YORK
+DTSTART:20260201T164500
+DTEND:20260201T184500
+DESCRIPTION:Dir: ROBERT ALTMAN (1993)\nhttps://www.screenslate.com/series/
+ misc-en-scene-presents-first-principles
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.screenslate.com/series/misc-en-scene-presents-first-princi
+ ples
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghost in the Shell @ ROXY CINEMA NEW YORK
+DTSTART:20260201T164500
+DTEND:20260201T184500
+DESCRIPTION:Dir: MAMORU OSHII (1995)\nhttps://www.roxycinemanewyork.com/sc
+ reenings/brain-dead-studio-presents-ghost-in-the-shell/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/screenings/brain-dead-studio-present
+ s-ghost-in-the-shell/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Little Prince @ ANTHOLOGY FILM ARCHIVES
@@ -5905,6 +5000,15 @@ DESCRIPTION:Dir: RATCHAPOOM BOONBUNCHACHOKE (2026)\nhttps://www.ifccenter.
  com/films/a-useful-ghost/
 LOCATION:IFC CENTER
 URL:https://www.ifccenter.com/films/a-useful-ghost/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:This is Spinal Tap @ LOW CINEMA
+DTSTART:20260202T180000
+DTEND:20260202T200000
+DESCRIPTION:Dir: ROB REINER (1984)\nhttps://lowcinema.com/tickets/p/youve-
+ got-mail-gbwx8
+LOCATION:LOW CINEMA
+URL:https://lowcinema.com/tickets/p/youve-got-mail-gbwx8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Farewell China @ METROGRAPH
@@ -6756,6 +5860,15 @@ DESCRIPTION:Dir: MOMOKO SETO (2025)\nhttps://www.screenslate.com/series/an
  imation-first-2026
 LOCATION:L'ALLIANCE NEW YORK
 URL:https://www.screenslate.com/series/animation-first-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:This is Spinal Tap @ LOW CINEMA
+DTSTART:20260203T201500
+DTEND:20260203T221500
+DESCRIPTION:Dir: ROB REINER (1984)\nhttps://lowcinema.com/tickets/p/youve-
+ got-mail-gbwx8
+LOCATION:LOW CINEMA
+URL:https://lowcinema.com/tickets/p/youve-got-mail-gbwx8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rear Window @ METROGRAPH
@@ -7629,6 +6742,15 @@ DESCRIPTION:Dir: RATCHAPOOM BOONBUNCHACHOKE (2026)\nhttps://www.ifccenter.
  com/films/a-useful-ghost/
 LOCATION:IFC CENTER
 URL:https://www.ifccenter.com/films/a-useful-ghost/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:This is Spinal Tap @ LOW CINEMA
+DTSTART:20260204T180000
+DTEND:20260204T200000
+DESCRIPTION:Dir: ROB REINER (1984)\nhttps://lowcinema.com/tickets/p/youve-
+ got-mail-gbwx8
+LOCATION:LOW CINEMA
+URL:https://lowcinema.com/tickets/p/youve-got-mail-gbwx8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monk in Pieces @ NITEHAWK CINEMA PROSPECT PARK
@@ -9451,11 +8573,11 @@ LOCATION:METROGRAPH
 URL:https://www.screenslate.com/series/tokyo-199x
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ MUSEUM OF THE MOVING IMAGE
+SUMMARY:One Battle After Another @ MUSEUM OF THE MOVING IMAGE
 DTSTART:20260208T153000
 DTEND:20260208T173000
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.screenslate.com/series
- /curators-choice-2025
+DESCRIPTION:Dir: PAUL THOMAS ANDERSON (2025)\nhttps://www.screenslate.com/
+ series/curators-choice-2025
 LOCATION:MUSEUM OF THE MOVING IMAGE
 URL:https://www.screenslate.com/series/curators-choice-2025
 END:VEVENT
@@ -9575,6 +8697,16 @@ DESCRIPTION:Dir: DENNIS COOPER\, ZAC FARLEY (2015)\nhttps://ticketing.uswe
  st.veezi.com/purchase/7020?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7020?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coreys @ ROXY CINEMA NEW YORK
+DTSTART:20260208T180000
+DTEND:20260208T200000
+DESCRIPTION:Dir: CONNOR O'MALLEY (2024)\nhttps://ticketing.uswest.veezi.co
+ m/purchase/7056?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7056?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
@@ -10165,6 +9297,15 @@ LOCATION:QUAD CINEMA
 URL:https://www.screenslate.com/series/cold-front
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Crash @ ROXY CINEMA NEW YORK
+DTSTART:20260211T213000
+DTEND:20260211T233000
+DESCRIPTION:Dir: DAVID CRONENBERG (1996)\nhttps://www.screenslate.com/seri
+ es/they-dont-luv-you-i-love-u
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.screenslate.com/series/they-dont-luv-you-i-love-u
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Smoke Sauna Sisterhood @ SCANDINAVIA HOUSE
 DTSTART:20260211T190000
 DTEND:20260211T210000
@@ -10323,6 +9464,15 @@ DESCRIPTION:Dir: JOAN MICKLIN SILVER (1979)\nhttps://www.screenslate.com/s
  eries/cold-front
 LOCATION:QUAD CINEMA
 URL:https://www.screenslate.com/series/cold-front
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crash @ ROXY CINEMA NEW YORK
+DTSTART:20260212T214500
+DTEND:20260212T234500
+DESCRIPTION:Dir: DAVID CRONENBERG (1996)\nhttps://www.screenslate.com/seri
+ es/they-dont-luv-you-i-love-u
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.screenslate.com/series/they-dont-luv-you-i-love-u
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Possession @ ANTHOLOGY FILM ARCHIVES
@@ -10746,6 +9896,280 @@ LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://www.screenslate.com/series/romancing-dead-nitehawk-cinema
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Crash @ ROXY CINEMA NEW YORK
+DTSTART:20260214T173000
+DTEND:20260214T193000
+DESCRIPTION:Dir: DAVID CRONENBERG (1996)\nhttps://www.screenslate.com/seri
+ es/they-dont-luv-you-i-love-u
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.screenslate.com/series/they-dont-luv-you-i-love-u
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modern Romance @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260215T161500
+DTEND:20260215T181500
+DESCRIPTION:Dir: JEROME HILER\, NATHANIEL DORSKY (1970)\nhttps://www.scree
+ nslate.com/series/avant-garde-ads-part-2
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/avant-garde-ads-part-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modern Romance @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260215T173000
+DTEND:20260215T193000
+DESCRIPTION:Dir: JEROME HILER\, NATHANIEL DORSKY (1970)\nhttps://www.scree
+ nslate.com/series/avant-garde-ads-part-2
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/avant-garde-ads-part-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modern Romance @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260215T180000
+DTEND:20260215T200000
+DESCRIPTION:Dir: JEROME HILER\, NATHANIEL DORSKY (1970)\nhttps://www.scree
+ nslate.com/series/avant-garde-ads-part-2
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/avant-garde-ads-part-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modern Romance @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260215T200000
+DTEND:20260215T220000
+DESCRIPTION:Dir: JEROME HILER\, NATHANIEL DORSKY (1970)\nhttps://www.scree
+ nslate.com/series/avant-garde-ads-part-2
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/avant-garde-ads-part-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modern Romance @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260215T203000
+DTEND:20260215T223000
+DESCRIPTION:Dir: JEROME HILER\, NATHANIEL DORSKY (1970)\nhttps://www.scree
+ nslate.com/series/avant-garde-ads-part-2
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/avant-garde-ads-part-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:We Won't Grow Old Together @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260215T200000
+DTEND:20260215T220000
+DESCRIPTION:Dir: MAURICE PIALAT (1972)\nhttps://www.screenslate.com/series
+ /valentines-day-massacre-2026
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/valentines-day-massacre-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cinema Paradiso @ BAM
+DTSTART:20260215T140000
+DTEND:20260215T160000
+DESCRIPTION:Dir: GIUSEPPE TORNATORE (1988)\nhttps://www.screenslate.com/se
+ ries/cinema-du-cashiers
+LOCATION:BAM
+URL:https://www.screenslate.com/series/cinema-du-cashiers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cinema Paradiso @ BAM
+DTSTART:20260215T164500
+DTEND:20260215T184500
+DESCRIPTION:Dir: GIUSEPPE TORNATORE (1988)\nhttps://www.screenslate.com/se
+ ries/cinema-du-cashiers
+LOCATION:BAM
+URL:https://www.screenslate.com/series/cinema-du-cashiers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cinema Paradiso @ BAM
+DTSTART:20260215T190000
+DTEND:20260215T210000
+DESCRIPTION:Dir: GIUSEPPE TORNATORE (1988)\nhttps://www.screenslate.com/se
+ ries/cinema-du-cashiers
+LOCATION:BAM
+URL:https://www.screenslate.com/series/cinema-du-cashiers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Simone Barbes or Virtue @ BAM
+DTSTART:20260215T164500
+DTEND:20260215T184500
+DESCRIPTION:Dir: MARIE-CLAUDE TREILHOU (1980)\nhttps://www.screenslate.com
+ /series/cinema-du-cashiers
+LOCATION:BAM
+URL:https://www.screenslate.com/series/cinema-du-cashiers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Projectionist @ BAM
+DTSTART:20260215T190000
+DTEND:20260215T210000
+DESCRIPTION:Dir: HARRY HURWITZ (1971)\nhttps://www.screenslate.com/series/
+ cinema-du-cashiers
+LOCATION:BAM
+URL:https://www.screenslate.com/series/cinema-du-cashiers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Cameraman @ FILM FORUM
+DTSTART:20260215T110000
+DTEND:20260215T130000
+DESCRIPTION:Dir: BUSTER KEATON (1928)\nhttps://www.screenslate.com/series/
+ tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Cameraman @ FILM FORUM
+DTSTART:20260215T130000
+DTEND:20260215T150000
+DESCRIPTION:Dir: BUSTER KEATON (1928)\nhttps://www.screenslate.com/series/
+ tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Cameraman @ FILM FORUM
+DTSTART:20260215T145500
+DTEND:20260215T165500
+DESCRIPTION:Dir: BUSTER KEATON (1928)\nhttps://www.screenslate.com/series/
+ tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Cameraman @ FILM FORUM
+DTSTART:20260215T171000
+DTEND:20260215T191000
+DESCRIPTION:Dir: BUSTER KEATON (1928)\nhttps://www.screenslate.com/series/
+ tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Cameraman @ FILM FORUM
+DTSTART:20260215T190000
+DTEND:20260215T210000
+DESCRIPTION:Dir: BUSTER KEATON (1928)\nhttps://www.screenslate.com/series/
+ tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Speedy @ FILM FORUM
+DTSTART:20260215T130000
+DTEND:20260215T150000
+DESCRIPTION:Dir: TED WILDE (1928)\nhttps://www.screenslate.com/series/tene
+ ment-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Crowd @ FILM FORUM
+DTSTART:20260215T145500
+DTEND:20260215T165500
+DESCRIPTION:Dir: KING VIDOR (1928)\nhttps://www.screenslate.com/series/ten
+ ement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Third of a Nation @ FILM FORUM
+DTSTART:20260215T171000
+DTEND:20260215T191000
+DESCRIPTION:Dir: DUDLEY MURPHY (1939)\nhttps://www.screenslate.com/series/
+ tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Once Upon a Time in America @ FILM FORUM
+DTSTART:20260215T190000
+DTEND:20260215T210000
+DESCRIPTION:Dir: SERGIO LEONE (1984)\nhttps://www.screenslate.com/series/t
+ enement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Corpse Bride @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260215T110000
+DTEND:20260215T130000
+DESCRIPTION:Dir: TIM BURTON\, MIKE JOHNSON (77)\nhttps://www.screenslate.c
+ om/series/romancing-dead-nitehawk-cinema
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://www.screenslate.com/series/romancing-dead-nitehawk-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Corpse Bride @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260215T120000
+DTEND:20260215T140000
+DESCRIPTION:Dir: TIM BURTON\, MIKE JOHNSON (77)\nhttps://www.screenslate.c
+ om/series/romancing-dead-nitehawk-cinema
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://www.screenslate.com/series/romancing-dead-nitehawk-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bride of Frankenstein @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260215T110000
+DTEND:20260215T130000
+DESCRIPTION:Dir: JAMES WHALE (1935)\nhttps://www.screenslate.com/series/ro
+ mancing-dead-nitehawk-cinema
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://www.screenslate.com/series/romancing-dead-nitehawk-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Night Train @ PARIS THEATER
+DTSTART:20260215T103000
+DTEND:20260215T123000
+DESCRIPTION:Dir: JERZY KAWALEROWICZ (1959)\nhttps://www.screenslate.com/se
+ ries/all-my-memories-are-movies-cinema-inspired-jay-kelly
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/all-my-memories-are-movies-cinema-i
+ nspired-jay-kelly
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Night Train @ PARIS THEATER
+DTSTART:20260215T131500
+DTEND:20260215T151500
+DESCRIPTION:Dir: JERZY KAWALEROWICZ (1959)\nhttps://www.screenslate.com/se
+ ries/all-my-memories-are-movies-cinema-inspired-jay-kelly
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/all-my-memories-are-movies-cinema-i
+ nspired-jay-kelly
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Night Train @ PARIS THEATER
+DTSTART:20260215T160000
+DTEND:20260215T180000
+DESCRIPTION:Dir: JERZY KAWALEROWICZ (1959)\nhttps://www.screenslate.com/se
+ ries/all-my-memories-are-movies-cinema-inspired-jay-kelly
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/all-my-memories-are-movies-cinema-i
+ nspired-jay-kelly
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flag Wars @ PARIS THEATER
+DTSTART:20260215T131500
+DTEND:20260215T151500
+DESCRIPTION:Dir: LINDA GOODE BRYANT\, LAURA POITRAS (2003)\nhttps://www.sc
+ reenslate.com/series/secrets-lies-through-lens-laura-poitras
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/secrets-lies-through-lens-laura-poi
+ tras
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barton Fink @ PARIS THEATER
+DTSTART:20260215T160000
+DTEND:20260215T180000
+DESCRIPTION:Dir: JOEL COEN (1991)\nhttps://www.screenslate.com/series/new-
+ york-film-critics-circle-paris
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/new-york-film-critics-circle-paris
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mary Jane’s Not a Virgin Anymore @ BAM
 DTSTART:20260216T170000
 DTEND:20260216T190000
@@ -10927,6 +10351,170 @@ URL:https://www.screenslate.com/series/right-here-right-now-films-kathryn-
  bigelow-0
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cinema Paradiso @ BAM
+DTSTART:20260217T173000
+DTEND:20260217T193000
+DESCRIPTION:Dir: GIUSEPPE TORNATORE (1988)\nhttps://www.screenslate.com/se
+ ries/cinema-du-cashiers
+LOCATION:BAM
+URL:https://www.screenslate.com/series/cinema-du-cashiers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cinema Paradiso @ BAM
+DTSTART:20260217T200000
+DTEND:20260217T220000
+DESCRIPTION:Dir: GIUSEPPE TORNATORE (1988)\nhttps://www.screenslate.com/se
+ ries/cinema-du-cashiers
+LOCATION:BAM
+URL:https://www.screenslate.com/series/cinema-du-cashiers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Simone Barbes or Virtue @ BAM
+DTSTART:20260217T200000
+DTEND:20260217T220000
+DESCRIPTION:Dir: MARIE-CLAUDE TREILHOU (1980)\nhttps://www.screenslate.com
+ /series/cinema-du-cashiers
+LOCATION:BAM
+URL:https://www.screenslate.com/series/cinema-du-cashiers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Third of a Nation @ FILM FORUM
+DTSTART:20260217T125000
+DTEND:20260217T145000
+DESCRIPTION:Dir: DUDLEY MURPHY (1939)\nhttps://www.screenslate.com/series/
+ tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Third of a Nation @ FILM FORUM
+DTSTART:20260217T144000
+DTEND:20260217T164000
+DESCRIPTION:Dir: DUDLEY MURPHY (1939)\nhttps://www.screenslate.com/series/
+ tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Third of a Nation @ FILM FORUM
+DTSTART:20260217T162000
+DTEND:20260217T182000
+DESCRIPTION:Dir: DUDLEY MURPHY (1939)\nhttps://www.screenslate.com/series/
+ tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Third of a Nation @ FILM FORUM
+DTSTART:20260217T200000
+DTEND:20260217T220000
+DESCRIPTION:Dir: DUDLEY MURPHY (1939)\nhttps://www.screenslate.com/series/
+ tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rafter Romance @ FILM FORUM
+DTSTART:20260217T144000
+DTEND:20260217T164000
+DESCRIPTION:Dir: WILLIAM A. SEITER (1932)\nhttps://www.screenslate.com/ser
+ ies/tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christmas in July @ FILM FORUM
+DTSTART:20260217T162000
+DTEND:20260217T182000
+DESCRIPTION:Dir: PRESTON STURGES (1940)\nhttps://www.screenslate.com/serie
+ s/tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raising Victor Vargas @ FILM FORUM
+DTSTART:20260217T200000
+DTEND:20260217T220000
+DESCRIPTION:Dir: PETER SOLLETT (2002)\nhttps://www.screenslate.com/series/
+ tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Velvet Revisited @ IFC CENTER
+DTSTART:20260217T190000
+DTEND:20260217T210000
+DESCRIPTION:Dir: PETER BRAATZ (2016)\nhttps://www.screenslate.com/series/d
+ oc-nyc-selects-winter-2026
+LOCATION:IFC CENTER
+URL:https://www.screenslate.com/series/doc-nyc-selects-winter-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Rupture (The Breach) @ L'ALLIANCE NEW YORK
+DTSTART:20260217T160000
+DTEND:20260217T180000
+DESCRIPTION:Dir: CLAUDE CHABROL (1970)\nhttps://www.screenslate.com/series
+ /chabrol-suspense-restored
+LOCATION:L'ALLIANCE NEW YORK
+URL:https://www.screenslate.com/series/chabrol-suspense-restored
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Rupture (The Breach) @ L'ALLIANCE NEW YORK
+DTSTART:20260217T190000
+DTEND:20260217T210000
+DESCRIPTION:Dir: CLAUDE CHABROL (1970)\nhttps://www.screenslate.com/series
+ /chabrol-suspense-restored
+LOCATION:L'ALLIANCE NEW YORK
+URL:https://www.screenslate.com/series/chabrol-suspense-restored
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to Make Millions Before Grandma Dies @ NITEHAWK CINEMA PROSPEC
+ T PARK
+DTSTART:20260217T210000
+DTEND:20260217T230000
+DESCRIPTION:Dir: PAT BOONNITIPAT (2024)\nhttps://nitehawkcinema.com/prospe
+ ctpark/movies/how-to-make-millions-before-grandma-dies/
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://nitehawkcinema.com/prospectpark/movies/how-to-make-millions-be
+ fore-grandma-dies/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Life and Death of Westerly Windina @ NITEHAWK CINEMA WILLIAMSB
+ URG
+DTSTART:20260217T190000
+DTEND:20260217T210000
+DESCRIPTION:Dir: ALAN WHITE\, JAMIE BRISICK (2026)\nhttps://nitehawkcinema
+ .com/williamsburg/movies/westerly-windina/
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://nitehawkcinema.com/williamsburg/movies/westerly-windina/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crimson Peak @ PARIS THEATER
+DTSTART:20260217T190000
+DTEND:20260217T210000
+DESCRIPTION:Dir: GUILLERMO DEL TORO (2015)\nhttps://www.screenslate.com/se
+ ries/monsters-and-makers-gothic-visions-guillermo-del-toro
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/monsters-and-makers-gothic-visions-
+ guillermo-del-toro
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Great Silence @ QUAD CINEMA
+DTSTART:20260217T200000
+DTEND:20260217T220000
+DESCRIPTION:Dir: SERGIO CORBUCCI (1968)\nhttps://www.screenslate.com/serie
+ s/cold-front
+LOCATION:QUAD CINEMA
+URL:https://www.screenslate.com/series/cold-front
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Punku @ ANTHOLOGY FILM ARCHIVES
 DTSTART:20260218T183000
 DTEND:20260218T203000
@@ -11105,6 +10693,458 @@ DESCRIPTION:Dir: SERGIO CORBUCCI (1968)\nhttps://www.screenslate.com/serie
  s/cold-front
 LOCATION:QUAD CINEMA
 URL:https://www.screenslate.com/series/cold-front
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deprisa\, Deprisa @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260219T181500
+DTEND:20260219T201500
+DESCRIPTION:Dir: Len Lye A COLOUR BOX (1935\, 3 min\, 35mm-to-DCP) (Len Ly
+ e RAINBOW DANCE (1936 4 min 35mm-to-DCP))\nhttps://www.screenslate.com/ser
+ ies/avant-garde-ads-part-2
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/avant-garde-ads-part-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deprisa\, Deprisa @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260219T183000
+DTEND:20260219T203000
+DESCRIPTION:Dir: Len Lye A COLOUR BOX (1935\, 3 min\, 35mm-to-DCP) (Len Ly
+ e RAINBOW DANCE (1936 4 min 35mm-to-DCP))\nhttps://www.screenslate.com/ser
+ ies/avant-garde-ads-part-2
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/avant-garde-ads-part-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deprisa\, Deprisa @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260219T204500
+DTEND:20260219T224500
+DESCRIPTION:Dir: Len Lye A COLOUR BOX (1935\, 3 min\, 35mm-to-DCP) (Len Ly
+ e RAINBOW DANCE (1936 4 min 35mm-to-DCP))\nhttps://www.screenslate.com/ser
+ ies/avant-garde-ads-part-2
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/avant-garde-ads-part-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deprisa\, Deprisa @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260219T210000
+DTEND:20260219T230000
+DESCRIPTION:Dir: Len Lye A COLOUR BOX (1935\, 3 min\, 35mm-to-DCP) (Len Ly
+ e RAINBOW DANCE (1936 4 min 35mm-to-DCP))\nhttps://www.screenslate.com/ser
+ ies/avant-garde-ads-part-2
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/avant-garde-ads-part-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der Fan @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260219T210000
+DTEND:20260219T230000
+DESCRIPTION:Dir: ECKHART SCHMIDT (1982)\nhttps://www.screenslate.com/serie
+ s/valentines-day-massacre-2026
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/valentines-day-massacre-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Good Fairy @ BAM
+DTSTART:20260219T170000
+DTEND:20260219T190000
+DESCRIPTION:Dir: WILLIAM WYLER (1935)\nhttps://www.screenslate.com/series/
+ cinema-du-cashiers
+LOCATION:BAM
+URL:https://www.screenslate.com/series/cinema-du-cashiers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Good Fairy @ BAM
+DTSTART:20260219T191500
+DTEND:20260219T211500
+DESCRIPTION:Dir: WILLIAM WYLER (1935)\nhttps://www.screenslate.com/series/
+ cinema-du-cashiers
+LOCATION:BAM
+URL:https://www.screenslate.com/series/cinema-du-cashiers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Good Fairy @ BAM
+DTSTART:20260219T213000
+DTEND:20260219T233000
+DESCRIPTION:Dir: WILLIAM WYLER (1935)\nhttps://www.screenslate.com/series/
+ cinema-du-cashiers
+LOCATION:BAM
+URL:https://www.screenslate.com/series/cinema-du-cashiers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goodbye\, Dragon Inn @ BAM
+DTSTART:20260219T191500
+DTEND:20260219T211500
+DESCRIPTION:Dir: TSAI MING LIANG (2003)\nhttps://www.screenslate.com/serie
+ s/cinema-du-cashiers
+LOCATION:BAM
+URL:https://www.screenslate.com/series/cinema-du-cashiers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Smallest Show on Earth @ BAM
+DTSTART:20260219T213000
+DTEND:20260219T233000
+DESCRIPTION:Dir: BASIL DEARDEN (1957)\nhttps://www.screenslate.com/series/
+ cinema-du-cashiers
+LOCATION:BAM
+URL:https://www.screenslate.com/series/cinema-du-cashiers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Take Out @ FILM FORUM
+DTSTART:20260219T121500
+DTEND:20260219T141500
+DESCRIPTION:Dir: SEAN BAKER (2004)\nhttps://www.screenslate.com/series/ten
+ ement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Take Out @ FILM FORUM
+DTSTART:20260219T142000
+DTEND:20260219T162000
+DESCRIPTION:Dir: SEAN BAKER (2004)\nhttps://www.screenslate.com/series/ten
+ ement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Take Out @ FILM FORUM
+DTSTART:20260219T162000
+DTEND:20260219T182000
+DESCRIPTION:Dir: SEAN BAKER (2004)\nhttps://www.screenslate.com/series/ten
+ ement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Take Out @ FILM FORUM
+DTSTART:20260219T184000
+DTEND:20260219T204000
+DESCRIPTION:Dir: SEAN BAKER (2004)\nhttps://www.screenslate.com/series/ten
+ ement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Take Out @ FILM FORUM
+DTSTART:20260219T211000
+DTEND:20260219T231000
+DESCRIPTION:Dir: SEAN BAKER (2004)\nhttps://www.screenslate.com/series/ten
+ ement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hester Street @ FILM FORUM
+DTSTART:20260219T142000
+DTEND:20260219T162000
+DESCRIPTION:Dir: JOAN MICKLIN SILVER (1975)\nhttps://www.screenslate.com/s
+ eries/tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Connection @ FILM FORUM
+DTSTART:20260219T162000
+DTEND:20260219T182000
+DESCRIPTION:Dir: SHIRLEY CLARKE (1961)\nhttps://www.screenslate.com/series
+ /tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Sures @ FILM FORUM
+DTSTART:20260219T184000
+DTEND:20260219T204000
+DESCRIPTION:Dir: DIEGO ECHEVERRIA (1984)\nhttps://www.screenslate.com/seri
+ es/tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heavy Traffic @ FILM FORUM
+DTSTART:20260219T211000
+DTEND:20260219T231000
+DESCRIPTION:Dir: RALPH BAKSHI (1973)\nhttps://www.screenslate.com/series/t
+ enement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Just Before Nightfall @ L'ALLIANCE NEW YORK
+DTSTART:20260219T160000
+DTEND:20260219T180000
+DESCRIPTION:Dir: CLAUDE CHABROL (1971)\nhttps://www.screenslate.com/series
+ /chabrol-suspense-restored
+LOCATION:L'ALLIANCE NEW YORK
+URL:https://www.screenslate.com/series/chabrol-suspense-restored
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Just Before Nightfall @ L'ALLIANCE NEW YORK
+DTSTART:20260219T190000
+DTEND:20260219T210000
+DESCRIPTION:Dir: CLAUDE CHABROL (1971)\nhttps://www.screenslate.com/series
+ /chabrol-suspense-restored
+LOCATION:L'ALLIANCE NEW YORK
+URL:https://www.screenslate.com/series/chabrol-suspense-restored
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Cyborg: Steel Warrior @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260219T211500
+DTEND:20260219T231500
+DESCRIPTION:Dir: BOAZ DAVIDSON (1993)\nhttps://www.screenslate.com/series/
+ ridiculous-sublime-nitehawk-cinema
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://www.screenslate.com/series/ridiculous-sublime-nitehawk-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alien Force @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260219T213000
+DTEND:20260219T233000
+DESCRIPTION:Dir: RON FORD (1996)\nhttps://www.screenslate.com/series/visua
+ l-vengeance-nitehawk-cinema
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://www.screenslate.com/series/visual-vengeance-nitehawk-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Great Silence @ QUAD CINEMA
+DTSTART:20260219T200000
+DTEND:20260219T220000
+DESCRIPTION:Dir: SERGIO CORBUCCI (1968)\nhttps://www.screenslate.com/serie
+ s/cold-front
+LOCATION:QUAD CINEMA
+URL:https://www.screenslate.com/series/cold-front
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cece's Interlude @ ROXY CINEMA NEW YORK
+DTSTART:20260219T190000
+DTEND:20260219T210000
+DESCRIPTION:Dir: TEE PARK (2025)\nhttps://ticketing.uswest.veezi.com/purch
+ ase/7042?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7042?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der Fan @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260220T183000
+DTEND:20260220T203000
+DESCRIPTION:Dir: Maryam Tafakory NAZABAZI 2021\, 20 min\, digital (Joan Br
+ aderman 30 SECOND SPOT RECONSIDERED 1988 11 min video)\nhttps://www.anthol
+ ogyfilmarchives.org/film_screenings/calendar?view=list&amp\;month=2&amp\;y
+ ear=2026#showing-60788
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=2&amp;year=2026#showing-60788
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der Fan @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260220T190000
+DTEND:20260220T210000
+DESCRIPTION:Dir: Maryam Tafakory NAZABAZI 2021\, 20 min\, digital (Joan Br
+ aderman 30 SECOND SPOT RECONSIDERED 1988 11 min video)\nhttps://www.anthol
+ ogyfilmarchives.org/film_screenings/calendar?view=list&amp\;month=2&amp\;y
+ ear=2026#showing-60788
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=2&amp;year=2026#showing-60788
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der Fan @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260220T211500
+DTEND:20260220T231500
+DESCRIPTION:Dir: Maryam Tafakory NAZABAZI 2021\, 20 min\, digital (Joan Br
+ aderman 30 SECOND SPOT RECONSIDERED 1988 11 min video)\nhttps://www.anthol
+ ogyfilmarchives.org/film_screenings/calendar?view=list&amp\;month=2&amp\;y
+ ear=2026#showing-60788
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=2&amp;year=2026#showing-60788
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Witch Who Came from the Sea @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260220T211500
+DTEND:20260220T231500
+DESCRIPTION:Dir: MATT CIMBER (1976)\nhttps://www.screenslate.com/series/va
+ lentines-day-massacre-2026
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/valentines-day-massacre-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billy Preston: That's the Way God Planned It @ FILM FORUM
+DTSTART:20260220T121500
+DTEND:20260220T141500
+DESCRIPTION:Dir: PARIS BARCLAY (2024)\nhttps://filmforum.org/film/billy-pr
+ eston-thats-the-way-god-planned-it
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/billy-preston-thats-the-way-god-planned-it
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billy Preston: That's the Way God Planned It @ FILM FORUM
+DTSTART:20260220T143000
+DTEND:20260220T163000
+DESCRIPTION:Dir: PARIS BARCLAY (2024)\nhttps://filmforum.org/film/billy-pr
+ eston-thats-the-way-god-planned-it
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/billy-preston-thats-the-way-god-planned-it
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billy Preston: That's the Way God Planned It @ FILM FORUM
+DTSTART:20260220T164500
+DTEND:20260220T184500
+DESCRIPTION:Dir: PARIS BARCLAY (2024)\nhttps://filmforum.org/film/billy-pr
+ eston-thats-the-way-god-planned-it
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/billy-preston-thats-the-way-god-planned-it
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billy Preston: That's the Way God Planned It @ FILM FORUM
+DTSTART:20260220T123000
+DTEND:20260220T143000
+DESCRIPTION:Dir: PARIS BARCLAY (2024)\nhttps://filmforum.org/film/billy-pr
+ eston-thats-the-way-god-planned-it
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/billy-preston-thats-the-way-god-planned-it
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billy Preston: That's the Way God Planned It @ FILM FORUM
+DTSTART:20260220T135000
+DTEND:20260220T155000
+DESCRIPTION:Dir: PARIS BARCLAY (2024)\nhttps://filmforum.org/film/billy-pr
+ eston-thats-the-way-god-planned-it
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/billy-preston-thats-the-way-god-planned-it
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billy Preston: That's the Way God Planned It @ FILM FORUM
+DTSTART:20260220T154000
+DTEND:20260220T174000
+DESCRIPTION:Dir: PARIS BARCLAY (2024)\nhttps://filmforum.org/film/billy-pr
+ eston-thats-the-way-god-planned-it
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/billy-preston-thats-the-way-god-planned-it
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billy Preston: That's the Way God Planned It @ FILM FORUM
+DTSTART:20260220T180000
+DTEND:20260220T200000
+DESCRIPTION:Dir: PARIS BARCLAY (2024)\nhttps://filmforum.org/film/billy-pr
+ eston-thats-the-way-god-planned-it
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/billy-preston-thats-the-way-god-planned-it
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billy Preston: That's the Way God Planned It @ FILM FORUM
+DTSTART:20260220T200000
+DTEND:20260220T220000
+DESCRIPTION:Dir: PARIS BARCLAY (2024)\nhttps://filmforum.org/film/billy-pr
+ eston-thats-the-way-god-planned-it
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/billy-preston-thats-the-way-god-planned-it
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Italianamerican @ FILM FORUM
+DTSTART:20260220T123000
+DTEND:20260220T143000
+DESCRIPTION:Dir: MARTIN SCORSESE (1974)\nhttps://www.screenslate.com/serie
+ s/tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Me and My Gal @ FILM FORUM
+DTSTART:20260220T135000
+DTEND:20260220T155000
+DESCRIPTION:Dir: RAOUL WALSH (1932)\nhttps://www.screenslate.com/series/te
+ nement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Landlord @ FILM FORUM
+DTSTART:20260220T154000
+DTEND:20260220T174000
+DESCRIPTION:Dir: HAL ASHBY (1970)\nhttps://www.screenslate.com/series/tene
+ ment-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sweet Love\, Bitter @ FILM FORUM
+DTSTART:20260220T180000
+DTEND:20260220T200000
+DESCRIPTION:Dir: HERBERT DANSKA (1967)\nhttps://www.screenslate.com/series
+ /tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Connection @ FILM FORUM
+DTSTART:20260220T200000
+DTEND:20260220T220000
+DESCRIPTION:Dir: SHIRLEY CLARKE (1961)\nhttps://www.screenslate.com/series
+ /tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Near Dark @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260220T235500
+DTEND:20260221T015500
+DESCRIPTION:Dir: KATHRYN BIGELOW (1987)\nhttps://www.screenslate.com/serie
+ s/romancing-dead-nitehawk-cinema
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://www.screenslate.com/series/romancing-dead-nitehawk-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crash @ ROXY CINEMA NEW YORK
+DTSTART:20260220T190000
+DTEND:20260220T210000
+DESCRIPTION:Dir: DAVID CRONENBERG (1996)\nhttps://www.screenslate.com/seri
+ es/they-dont-luv-you-i-love-u
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.screenslate.com/series/they-dont-luv-you-i-love-u
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crash @ ROXY CINEMA NEW YORK
+DTSTART:20260220T211500
+DTEND:20260220T231500
+DESCRIPTION:Dir: DAVID CRONENBERG (1996)\nhttps://www.screenslate.com/seri
+ es/they-dont-luv-you-i-love-u
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.screenslate.com/series/they-dont-luv-you-i-love-u
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cece's Interlude @ ROXY CINEMA NEW YORK
+DTSTART:20260220T211500
+DTEND:20260220T231500
+DESCRIPTION:Dir: TEE PARK (2025)\nhttps://ticketing.uswest.veezi.com/purch
+ ase/7042?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7042?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sentimental Value @ SCANDINAVIA HOUSE
+DTSTART:20260220T190000
+DTEND:20260220T210000
+DESCRIPTION:Dir: JOACHIM TRIER (2025)\nhttps://www.screenslate.com/series/
+ 2026-lux-audience-award-nominees
+LOCATION:SCANDINAVIA HOUSE
+URL:https://www.screenslate.com/series/2026-lux-audience-award-nominees
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Witch Who Came from the Sea @ ANTHOLOGY FILM ARCHIVES
@@ -11317,6 +11357,24 @@ LOCATION:NITEHAWK CINEMA PROSPECT PARK
 URL:https://www.screenslate.com/series/romancing-dead-nitehawk-cinema
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Blithe Spirit @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260221T121500
+DTEND:20260221T141500
+DESCRIPTION:Dir: DAVID LEAN (1945)\nhttps://www.screenslate.com/series/rom
+ ancing-dead-nitehawk-cinema
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://www.screenslate.com/series/romancing-dead-nitehawk-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Snow Day @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260221T121500
+DTEND:20260221T141500
+DESCRIPTION:Dir: CHRIS KOCH (2000)\nhttps://www.screenslate.com/series/nos
+ talgia-ultra-nitehawk-cinema
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://www.screenslate.com/series/nostalgia-ultra-nitehawk-cinema
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Incredibles @ NITEHAWK CINEMA WILLIAMSBURG
 DTSTART:20260221T110000
 DTEND:20260221T130000
@@ -11372,6 +11430,354 @@ DESCRIPTION:Dir: ROBERT ALTMAN (2001)\nhttps://www.screenslate.com/series/
  game-afoot-blanc-slate-whodunnits
 LOCATION:PARIS THEATER
 URL:https://www.screenslate.com/series/game-afoot-blanc-slate-whodunnits
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Castration Movie Anthology ii. The Best of Both Worlds @ ROXY CINE
+ MA NEW YORK
+DTSTART:20260221T204500
+DTEND:20260221T224500
+DESCRIPTION:Dir: LOUISE WEARD (2025)\nhttps://ticketing.uswest.veezi.com/p
+ urchase/7086?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7086?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Adventures of the Exquisite Corpse\, Part I: Huge Pupils @ ANT
+ HOLOGY FILM ARCHIVES
+DTSTART:20260222T163000
+DTEND:20260222T183000
+DESCRIPTION:Dir: ANDREW NOREN (1967)\nhttps://www.screenslate.com/series/e
+ ssential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/essential-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Adventures of the Exquisite Corpse\, Part I: Huge Pupils @ ANT
+ HOLOGY FILM ARCHIVES
+DTSTART:20260222T171500
+DTEND:20260222T191500
+DESCRIPTION:Dir: ANDREW NOREN (1967)\nhttps://www.screenslate.com/series/e
+ ssential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/essential-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Adventures of the Exquisite Corpse\, Part I: Huge Pupils @ ANT
+ HOLOGY FILM ARCHIVES
+DTSTART:20260222T181500
+DTEND:20260222T201500
+DESCRIPTION:Dir: ANDREW NOREN (1967)\nhttps://www.screenslate.com/series/e
+ ssential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/essential-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Adventures of the Exquisite Corpse\, Part I: Huge Pupils @ ANT
+ HOLOGY FILM ARCHIVES
+DTSTART:20260222T200000
+DTEND:20260222T220000
+DESCRIPTION:Dir: ANDREW NOREN (1967)\nhttps://www.screenslate.com/series/e
+ ssential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/essential-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Adventures of the Exquisite Corpse\, Part I: Huge Pupils @ ANT
+ HOLOGY FILM ARCHIVES
+DTSTART:20260222T203000
+DTEND:20260222T223000
+DESCRIPTION:Dir: ANDREW NOREN (1967)\nhttps://www.screenslate.com/series/e
+ ssential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/essential-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:We Won't Grow Old Together @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260222T171500
+DTEND:20260222T191500
+DESCRIPTION:Dir: MAURICE PIALAT (1972)\nhttps://www.screenslate.com/series
+ /valentines-day-massacre-2026
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/valentines-day-massacre-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Modern Romance @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260222T200000
+DTEND:20260222T220000
+DESCRIPTION:Dir: ALBERT BROOKS (1981)\nhttps://www.screenslate.com/series/
+ valentines-day-massacre-2026
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/valentines-day-massacre-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brand X @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260222T203000
+DTEND:20260222T223000
+DESCRIPTION:Dir: WYNN CHAMBERLAIN (1970)\nhttps://www.screenslate.com/seri
+ es/avant-garde-ads-part-2
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/avant-garde-ads-part-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Annie Rooney @ FILM FORUM
+DTSTART:20260222T110000
+DTEND:20260222T130000
+DESCRIPTION:Dir: WILLIAM BEAUDINE (1925)\nhttps://www.screenslate.com/seri
+ es/tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Annie Rooney @ FILM FORUM
+DTSTART:20260222T121500
+DTEND:20260222T141500
+DESCRIPTION:Dir: WILLIAM BEAUDINE (1925)\nhttps://www.screenslate.com/seri
+ es/tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Annie Rooney @ FILM FORUM
+DTSTART:20260222T143000
+DTEND:20260222T163000
+DESCRIPTION:Dir: WILLIAM BEAUDINE (1925)\nhttps://www.screenslate.com/seri
+ es/tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Annie Rooney @ FILM FORUM
+DTSTART:20260222T164500
+DTEND:20260222T184500
+DESCRIPTION:Dir: WILLIAM BEAUDINE (1925)\nhttps://www.screenslate.com/seri
+ es/tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Annie Rooney @ FILM FORUM
+DTSTART:20260222T190000
+DTEND:20260222T210000
+DESCRIPTION:Dir: WILLIAM BEAUDINE (1925)\nhttps://www.screenslate.com/seri
+ es/tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Annie Rooney @ FILM FORUM
+DTSTART:20260222T211000
+DTEND:20260222T231000
+DESCRIPTION:Dir: WILLIAM BEAUDINE (1925)\nhttps://www.screenslate.com/seri
+ es/tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Annie Rooney @ FILM FORUM
+DTSTART:20260222T130000
+DTEND:20260222T150000
+DESCRIPTION:Dir: WILLIAM BEAUDINE (1925)\nhttps://www.screenslate.com/seri
+ es/tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Annie Rooney @ FILM FORUM
+DTSTART:20260222T152000
+DTEND:20260222T172000
+DESCRIPTION:Dir: WILLIAM BEAUDINE (1925)\nhttps://www.screenslate.com/seri
+ es/tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Annie Rooney @ FILM FORUM
+DTSTART:20260222T174000
+DTEND:20260222T194000
+DESCRIPTION:Dir: WILLIAM BEAUDINE (1925)\nhttps://www.screenslate.com/seri
+ es/tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Annie Rooney @ FILM FORUM
+DTSTART:20260222T203000
+DTEND:20260222T223000
+DESCRIPTION:Dir: WILLIAM BEAUDINE (1925)\nhttps://www.screenslate.com/seri
+ es/tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billy Preston: That's the Way God Planned It @ FILM FORUM
+DTSTART:20260222T121500
+DTEND:20260222T141500
+DESCRIPTION:Dir: PARIS BARCLAY (2024)\nhttps://filmforum.org/film/billy-pr
+ eston-thats-the-way-god-planned-it
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/billy-preston-thats-the-way-god-planned-it
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billy Preston: That's the Way God Planned It @ FILM FORUM
+DTSTART:20260222T143000
+DTEND:20260222T163000
+DESCRIPTION:Dir: PARIS BARCLAY (2024)\nhttps://filmforum.org/film/billy-pr
+ eston-thats-the-way-god-planned-it
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/billy-preston-thats-the-way-god-planned-it
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billy Preston: That's the Way God Planned It @ FILM FORUM
+DTSTART:20260222T164500
+DTEND:20260222T184500
+DESCRIPTION:Dir: PARIS BARCLAY (2024)\nhttps://filmforum.org/film/billy-pr
+ eston-thats-the-way-god-planned-it
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/billy-preston-thats-the-way-god-planned-it
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billy Preston: That's the Way God Planned It @ FILM FORUM
+DTSTART:20260222T190000
+DTEND:20260222T210000
+DESCRIPTION:Dir: PARIS BARCLAY (2024)\nhttps://filmforum.org/film/billy-pr
+ eston-thats-the-way-god-planned-it
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/billy-preston-thats-the-way-god-planned-it
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billy Preston: That's the Way God Planned It @ FILM FORUM
+DTSTART:20260222T211000
+DTEND:20260222T231000
+DESCRIPTION:Dir: PARIS BARCLAY (2024)\nhttps://filmforum.org/film/billy-pr
+ eston-thats-the-way-god-planned-it
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/billy-preston-thats-the-way-god-planned-it
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Uncle Moses @ FILM FORUM
+DTSTART:20260222T130000
+DTEND:20260222T150000
+DESCRIPTION:Dir: AUBREY SCOTTO (1932)\nhttps://www.screenslate.com/series/
+ tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:His People @ FILM FORUM
+DTSTART:20260222T152000
+DTEND:20260222T172000
+DESCRIPTION:Dir: EDWARD SLOMAN (1925)\nhttps://www.screenslate.com/series/
+ tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Tree Grows in Brooklyn @ FILM FORUM
+DTSTART:20260222T174000
+DTEND:20260222T194000
+DESCRIPTION:Dir: ELIA KAZAN (1945)\nhttps://www.screenslate.com/series/ten
+ ement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Raisin in the Sun @ FILM FORUM
+DTSTART:20260222T203000
+DTEND:20260222T223000
+DESCRIPTION:Dir: DANIEL PETRIE (1961)\nhttps://www.screenslate.com/series/
+ tenement-stories-immigrants-bohemians
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
+ ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thee Whispering Began @ MILLENNIUM FILM WORKSHOP
+DTSTART:20260222T193000
+DTEND:20260222T213000
+DESCRIPTION:Dir: GENESIS P-ORRIDGE\, LADY JAYE\, SAM ZIMMERMAN (2004)\nhtt
+ ps://www.screenslate.com/series/personal-cinema
+LOCATION:MILLENNIUM FILM WORKSHOP
+URL:https://www.screenslate.com/series/personal-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blithe Spirit @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260222T113000
+DTEND:20260222T133000
+DESCRIPTION:Dir: DAVID LEAN (1945)\nhttps://www.screenslate.com/series/rom
+ ancing-dead-nitehawk-cinema
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://www.screenslate.com/series/romancing-dead-nitehawk-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blithe Spirit @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260222T121500
+DTEND:20260222T141500
+DESCRIPTION:Dir: DAVID LEAN (1945)\nhttps://www.screenslate.com/series/rom
+ ancing-dead-nitehawk-cinema
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://www.screenslate.com/series/romancing-dead-nitehawk-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Snow Day @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260222T121500
+DTEND:20260222T141500
+DESCRIPTION:Dir: CHRIS KOCH (2000)\nhttps://www.screenslate.com/series/nos
+ talgia-ultra-nitehawk-cinema
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://www.screenslate.com/series/nostalgia-ultra-nitehawk-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Incredibles @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260222T110000
+DTEND:20260222T130000
+DESCRIPTION:Dir: BRAD BIRD (2004)\nhttps://www.screenslate.com/series/ther
+ es-something-about-samuel-selected-works-samuel-l-jackson
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://www.screenslate.com/series/theres-something-about-samuel-selec
+ ted-works-samuel-l-jackson
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Incredibles @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260222T111500
+DTEND:20260222T131500
+DESCRIPTION:Dir: BRAD BIRD (2004)\nhttps://www.screenslate.com/series/ther
+ es-something-about-samuel-selected-works-samuel-l-jackson
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://www.screenslate.com/series/theres-something-about-samuel-selec
+ ted-works-samuel-l-jackson
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Ghost and Mrs. Muir @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260222T111500
+DTEND:20260222T131500
+DESCRIPTION:Dir: JOSEPH L. MANKIEWICZ (1947)\nhttps://www.screenslate.com/
+ series/romancing-dead-nitehawk-cinema
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://www.screenslate.com/series/romancing-dead-nitehawk-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nashville @ PARIS THEATER
+DTSTART:20260222T103000
+DTEND:20260222T123000
+DESCRIPTION:Dir: ROBERT ALTMAN (1975)\nhttps://www.screenslate.com/series/
+ all-my-memories-are-movies-cinema-inspired-jay-kelly
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/all-my-memories-are-movies-cinema-i
+ nspired-jay-kelly
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anxious in Beirut @ ANTHOLOGY FILM ARCHIVES
@@ -12160,5 +12566,86 @@ DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.screenslate.com/series/2
  026-lux-audience-award-nominees
 LOCATION:SCANDINAVIA HOUSE
 URL:https://www.screenslate.com/series/2026-lux-audience-award-nominees
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mother @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260228T170000
+DTEND:20260228T190000
+DESCRIPTION:Dir: Carlos Adriano UNTITLED #4: IN SPITE OF RUIN\, SING IN TH
+ E RAIN / SEM TITULO #4: APESAR DOS PESARES\, NA CHUVA HÁ DE CANTARES 2018
+ \, 27 min\, DCP. In Portuguese with English subtitles. (Jennifer West)\nht
+ tps://www.screenslate.com/series/scott-macdonald-selects-birth-earth-scree
+ n-sky
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/scott-macdonald-selects-birth-earth
+ -screen-sky
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mother @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260228T180000
+DTEND:20260228T200000
+DESCRIPTION:Dir: Carlos Adriano UNTITLED #4: IN SPITE OF RUIN\, SING IN TH
+ E RAIN / SEM TITULO #4: APESAR DOS PESARES\, NA CHUVA HÁ DE CANTARES 2018
+ \, 27 min\, DCP. In Portuguese with English subtitles. (Jennifer West)\nht
+ tps://www.screenslate.com/series/scott-macdonald-selects-birth-earth-scree
+ n-sky
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/scott-macdonald-selects-birth-earth
+ -screen-sky
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mother @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260228T201500
+DTEND:20260228T221500
+DESCRIPTION:Dir: Carlos Adriano UNTITLED #4: IN SPITE OF RUIN\, SING IN TH
+ E RAIN / SEM TITULO #4: APESAR DOS PESARES\, NA CHUVA HÁ DE CANTARES 2018
+ \, 27 min\, DCP. In Portuguese with English subtitles. (Jennifer West)\nht
+ tps://www.screenslate.com/series/scott-macdonald-selects-birth-earth-scree
+ n-sky
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/scott-macdonald-selects-birth-earth
+ -screen-sky
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mother @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260228T203000
+DTEND:20260228T223000
+DESCRIPTION:Dir: Carlos Adriano UNTITLED #4: IN SPITE OF RUIN\, SING IN TH
+ E RAIN / SEM TITULO #4: APESAR DOS PESARES\, NA CHUVA HÁ DE CANTARES 2018
+ \, 27 min\, DCP. In Portuguese with English subtitles. (Jennifer West)\nht
+ tps://www.screenslate.com/series/scott-macdonald-selects-birth-earth-scree
+ n-sky
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/scott-macdonald-selects-birth-earth
+ -screen-sky
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Was Born\, But... @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260228T203000
+DTEND:20260228T223000
+DESCRIPTION:Dir: YASUJIRŌ OZU (1932)\nhttps://www.screenslate.com/series/
+ essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/essential-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pulp Fiction @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260228T120000
+DTEND:20260228T140000
+DESCRIPTION:Dir: QUENTIN TARANTINO (1994)\nhttps://www.screenslate.com/ser
+ ies/theres-something-about-samuel-selected-works-samuel-l-jackson
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://www.screenslate.com/series/theres-something-about-samuel-selec
+ ted-works-samuel-l-jackson
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Django Unchained @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260228T230000
+DTEND:20260301T010000
+DESCRIPTION:Dir: QUENTIN TARANTINO (2012)\nhttps://www.screenslate.com/ser
+ ies/theres-something-about-samuel-selected-works-samuel-l-jackson
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://www.screenslate.com/series/theres-something-about-samuel-selec
+ ted-works-samuel-l-jackson
 END:VEVENT
 END:VCALENDAR
