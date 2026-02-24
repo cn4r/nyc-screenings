@@ -2,1213 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:Anxious in Beirut @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260223T190000
-DTEND:20260223T210000
-DESCRIPTION:Dir: ZAKARIA JABER (2023)\nhttps://www.anthologyfilmarchives.o
- rg/film_screenings/calendar?view=list&amp\;month=2&amp\;year=2026#showing-
- 60781
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
- st&amp;month=2&amp;year=2026#showing-60781
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maluala @ BAM
-DTSTART:20260223T190000
-DTEND:20260223T210000
-DESCRIPTION:Dir: PAM SPORN (2000)\nhttps://www.screenslate.com/series/blac
- k-cuba
-LOCATION:BAM
-URL:https://www.screenslate.com/series/black-cuba
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maluala @ BAM
-DTSTART:20260223T204500
-DTEND:20260223T224500
-DESCRIPTION:Dir: PAM SPORN (2000)\nhttps://www.screenslate.com/series/blac
- k-cuba
-LOCATION:BAM
-URL:https://www.screenslate.com/series/black-cuba
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Natchez @ FILM FORUM
-DTSTART:20260223T121500
-DTEND:20260223T141500
-DESCRIPTION:Dir: SUZANNAH HERBERT (2025)\nhttps://filmforum.org/film/natch
- ez
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/natchez
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Natchez @ FILM FORUM
-DTSTART:20260223T161000
-DTEND:20260223T181000
-DESCRIPTION:Dir: SUZANNAH HERBERT (2025)\nhttps://filmforum.org/film/natch
- ez
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/natchez
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Natchez @ FILM FORUM
-DTSTART:20260223T143000
-DTEND:20260223T163000
-DESCRIPTION:Dir: SUZANNAH HERBERT (2025)\nhttps://filmforum.org/film/natch
- ez
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/natchez
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Natchez @ FILM FORUM
-DTSTART:20260223T164500
-DTEND:20260223T184500
-DESCRIPTION:Dir: SUZANNAH HERBERT (2025)\nhttps://filmforum.org/film/natch
- ez
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/natchez
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Natchez @ FILM FORUM
-DTSTART:20260223T190000
-DTEND:20260223T210000
-DESCRIPTION:Dir: SUZANNAH HERBERT (2025)\nhttps://filmforum.org/film/natch
- ez
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/natchez
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Natchez @ FILM FORUM
-DTSTART:20260223T211000
-DTEND:20260223T231000
-DESCRIPTION:Dir: SUZANNAH HERBERT (2025)\nhttps://filmforum.org/film/natch
- ez
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/natchez
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Natchez @ FILM FORUM
-DTSTART:20260223T122000
-DTEND:20260223T142000
-DESCRIPTION:Dir: SUZANNAH HERBERT (2025)\nhttps://filmforum.org/film/natch
- ez
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/natchez
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Natchez @ FILM FORUM
-DTSTART:20260223T145000
-DTEND:20260223T165000
-DESCRIPTION:Dir: SUZANNAH HERBERT (2025)\nhttps://filmforum.org/film/natch
- ez
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/natchez
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Natchez @ FILM FORUM
-DTSTART:20260223T173000
-DTEND:20260223T193000
-DESCRIPTION:Dir: SUZANNAH HERBERT (2025)\nhttps://filmforum.org/film/natch
- ez
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/natchez
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Natchez @ FILM FORUM
-DTSTART:20260223T200000
-DTEND:20260223T220000
-DESCRIPTION:Dir: SUZANNAH HERBERT (2025)\nhttps://filmforum.org/film/natch
- ez
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/natchez
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Natchez @ FILM FORUM
-DTSTART:20260223T141000
-DTEND:20260223T161000
-DESCRIPTION:Dir: SUZANNAH HERBERT (2025)\nhttps://filmforum.org/film/natch
- ez
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/natchez
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Natchez @ FILM FORUM
-DTSTART:20260223T150000
-DTEND:20260223T170000
-DESCRIPTION:Dir: SUZANNAH HERBERT (2025)\nhttps://filmforum.org/film/natch
- ez
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/natchez
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Natchez @ FILM FORUM
-DTSTART:20260223T173500
-DTEND:20260223T193500
-DESCRIPTION:Dir: SUZANNAH HERBERT (2025)\nhttps://filmforum.org/film/natch
- ez
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/natchez
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Natchez @ FILM FORUM
-DTSTART:20260223T184500
-DTEND:20260223T204500
-DESCRIPTION:Dir: SUZANNAH HERBERT (2025)\nhttps://filmforum.org/film/natch
- ez
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/natchez
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Natchez @ FILM FORUM
-DTSTART:20260223T191500
-DTEND:20260223T211500
-DESCRIPTION:Dir: SUZANNAH HERBERT (2025)\nhttps://filmforum.org/film/natch
- ez
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/natchez
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Tree Grows in Brooklyn @ FILM FORUM
-DTSTART:20260223T121500
-DTEND:20260223T141500
-DESCRIPTION:Dir: ELIA KAZAN (1945)\nhttps://www.screenslate.com/series/ten
- ement-stories-immigrants-bohemians
-LOCATION:FILM FORUM
-URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
- ns
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Billy Preston: That's the Way God Planned It @ FILM FORUM
-DTSTART:20260223T121500
-DTEND:20260223T141500
-DESCRIPTION:Dir: PARIS BARCLAY (2024)\nhttps://filmforum.org/film/billy-pr
- eston-thats-the-way-god-planned-it
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/billy-preston-thats-the-way-god-planned-it
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Billy Preston: That's the Way God Planned It @ FILM FORUM
-DTSTART:20260223T143000
-DTEND:20260223T163000
-DESCRIPTION:Dir: PARIS BARCLAY (2024)\nhttps://filmforum.org/film/billy-pr
- eston-thats-the-way-god-planned-it
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/billy-preston-thats-the-way-god-planned-it
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Billy Preston: That's the Way God Planned It @ FILM FORUM
-DTSTART:20260223T164500
-DTEND:20260223T184500
-DESCRIPTION:Dir: PARIS BARCLAY (2024)\nhttps://filmforum.org/film/billy-pr
- eston-thats-the-way-god-planned-it
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/billy-preston-thats-the-way-god-planned-it
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Billy Preston: That's the Way God Planned It @ FILM FORUM
-DTSTART:20260223T190000
-DTEND:20260223T210000
-DESCRIPTION:Dir: PARIS BARCLAY (2024)\nhttps://filmforum.org/film/billy-pr
- eston-thats-the-way-god-planned-it
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/billy-preston-thats-the-way-god-planned-it
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Billy Preston: That's the Way God Planned It @ FILM FORUM
-DTSTART:20260223T211000
-DTEND:20260223T231000
-DESCRIPTION:Dir: PARIS BARCLAY (2024)\nhttps://filmforum.org/film/billy-pr
- eston-thats-the-way-god-planned-it
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/billy-preston-thats-the-way-god-planned-it
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calle Málaga @ FILM FORUM
-DTSTART:20260223T122000
-DTEND:20260223T142000
-DESCRIPTION:Dir: MARYAM TOUZANI (2025)\nhttps://filmforum.org/film/calle-m
- alaga
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/calle-malaga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calle Málaga @ FILM FORUM
-DTSTART:20260223T145000
-DTEND:20260223T165000
-DESCRIPTION:Dir: MARYAM TOUZANI (2025)\nhttps://filmforum.org/film/calle-m
- alaga
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/calle-malaga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calle Málaga @ FILM FORUM
-DTSTART:20260223T173000
-DTEND:20260223T193000
-DESCRIPTION:Dir: MARYAM TOUZANI (2025)\nhttps://filmforum.org/film/calle-m
- alaga
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/calle-malaga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Calle Málaga @ FILM FORUM
-DTSTART:20260223T200000
-DTEND:20260223T220000
-DESCRIPTION:Dir: MARYAM TOUZANI (2025)\nhttps://filmforum.org/film/calle-m
- alaga
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/calle-malaga
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Voice of Hind Rajab @ FILM FORUM
-DTSTART:20260223T141000
-DTEND:20260223T161000
-DESCRIPTION:Dir: KAOUTHER BEN HANIA (2025)\nhttps://filmforum.org/film/the
- -voice-of-hind-rajab
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-voice-of-hind-rajab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Raisin in the Sun @ FILM FORUM
-DTSTART:20260223T150000
-DTEND:20260223T170000
-DESCRIPTION:Dir: DANIEL PETRIE (1961)\nhttps://www.screenslate.com/series/
- tenement-stories-immigrants-bohemians
-LOCATION:FILM FORUM
-URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
- ns
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lonesome @ FILM FORUM
-DTSTART:20260223T173500
-DTEND:20260223T193500
-DESCRIPTION:Dir: PAUL FEJOS (1928)\nhttps://www.screenslate.com/series/ten
- ement-stories-immigrants-bohemians
-LOCATION:FILM FORUM
-URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
- ns
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Once Upon a Time in America @ FILM FORUM
-DTSTART:20260223T184500
-DTEND:20260223T204500
-DESCRIPTION:Dir: SERGIO LEONE (1984)\nhttps://www.screenslate.com/series/t
- enement-stories-immigrants-bohemians
-LOCATION:FILM FORUM
-URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
- ns
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shoes @ FILM FORUM
-DTSTART:20260223T191500
-DTEND:20260223T211500
-DESCRIPTION:Dir: LOIS WEBER (1916)\nhttps://www.screenslate.com/series/ten
- ement-stories-immigrants-bohemians
-LOCATION:FILM FORUM
-URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
- ns
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
-DTSTART:20260223T141500
-DTEND:20260223T161500
-DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
- s-just-an-accident/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/it-was-just-an-accident/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
-DTSTART:20260223T150000
-DTEND:20260223T170000
-DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
- s-just-an-accident/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/it-was-just-an-accident/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
-DTSTART:20260223T173000
-DTEND:20260223T193000
-DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
- s-just-an-accident/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/it-was-just-an-accident/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
-DTSTART:20260223T203000
-DTEND:20260223T223000
-DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
- s-just-an-accident/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/it-was-just-an-accident/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
-DTSTART:20260223T163000
-DTEND:20260223T183000
-DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
- s-just-an-accident/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/it-was-just-an-accident/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
-DTSTART:20260223T190000
-DTEND:20260223T210000
-DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
- s-just-an-accident/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/it-was-just-an-accident/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
-DTSTART:20260223T212000
-DTEND:20260223T232000
-DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
- s-just-an-accident/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/it-was-just-an-accident/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
-DTSTART:20260223T180000
-DTEND:20260223T200000
-DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
- s-just-an-accident/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/it-was-just-an-accident/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
-DTSTART:20260223T201500
-DTEND:20260223T221500
-DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
- s-just-an-accident/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/it-was-just-an-accident/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
-DTSTART:20260223T150000
-DTEND:20260223T170000
-DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
- ilms/the-secret-agent/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-secret-agent/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
-DTSTART:20260223T173000
-DTEND:20260223T193000
-DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
- ilms/the-secret-agent/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-secret-agent/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Love That Remains @ FILM AT LINCOLN CENTER
-DTSTART:20260223T150000
-DTEND:20260223T170000
-DESCRIPTION:Dir: HLYNUR PÁLMASON (2025)\nhttps://www.filmlinc.org/films/t
- he-love-that-remains/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-love-that-remains/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Love That Remains @ FILM AT LINCOLN CENTER
-DTSTART:20260223T203000
-DTEND:20260223T223000
-DESCRIPTION:Dir: HLYNUR PÁLMASON (2025)\nhttps://www.filmlinc.org/films/t
- he-love-that-remains/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-love-that-remains/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sirāt @ FILM AT LINCOLN CENTER
-DTSTART:20260223T163000
-DTEND:20260223T183000
-DESCRIPTION:Dir: OLIVER LAXE (2025)\nhttps://www.filmlinc.org/films/sirat/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/sirat/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sirāt @ FILM AT LINCOLN CENTER
-DTSTART:20260223T190000
-DTEND:20260223T210000
-DESCRIPTION:Dir: OLIVER LAXE (2025)\nhttps://www.filmlinc.org/films/sirat/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/sirat/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sirāt @ FILM AT LINCOLN CENTER
-DTSTART:20260223T212000
-DTEND:20260223T232000
-DESCRIPTION:Dir: OLIVER LAXE (2025)\nhttps://www.filmlinc.org/films/sirat/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/sirat/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Day in the Country @ FILM AT LINCOLN CENTER
-DTSTART:20260223T180000
-DTEND:20260223T200000
-DESCRIPTION:Dir: RAYMOND DEPARDON (1974/2002)\nhttps://www.screenslate.com
- /series/raymond-depardon-humanity-focus
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.screenslate.com/series/raymond-depardon-humanity-focus
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Numéros zéros @ FILM AT LINCOLN CENTER
-DTSTART:20260223T201500
-DTEND:20260223T221500
-DESCRIPTION:Dir: RAYMOND DEPARDON (1981)\nhttps://www.screenslate.com/seri
- es/raymond-depardon-humanity-focus
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.screenslate.com/series/raymond-depardon-humanity-focus
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ IFC CENTER
-DTSTART:20260223T103500
-DTEND:20260223T123500
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.ifccenter.com/films/th
- e-perfect-neighbor/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-perfect-neighbor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ IFC CENTER
-DTSTART:20260223T104000
-DTEND:20260223T124000
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.ifccenter.com/films/th
- e-perfect-neighbor/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-perfect-neighbor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ IFC CENTER
-DTSTART:20260223T132500
-DTEND:20260223T152500
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.ifccenter.com/films/th
- e-perfect-neighbor/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-perfect-neighbor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ IFC CENTER
-DTSTART:20260223T161000
-DTEND:20260223T181000
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.ifccenter.com/films/th
- e-perfect-neighbor/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-perfect-neighbor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ IFC CENTER
-DTSTART:20260223T185500
-DTEND:20260223T205500
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.ifccenter.com/films/th
- e-perfect-neighbor/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-perfect-neighbor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ IFC CENTER
-DTSTART:20260223T214000
-DTEND:20260223T234000
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.ifccenter.com/films/th
- e-perfect-neighbor/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-perfect-neighbor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ IFC CENTER
-DTSTART:20260223T104500
-DTEND:20260223T124500
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.ifccenter.com/films/th
- e-perfect-neighbor/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-perfect-neighbor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ IFC CENTER
-DTSTART:20260223T142500
-DTEND:20260223T162500
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.ifccenter.com/films/th
- e-perfect-neighbor/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-perfect-neighbor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ IFC CENTER
-DTSTART:20260223T193500
-DTEND:20260223T213500
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.ifccenter.com/films/th
- e-perfect-neighbor/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-perfect-neighbor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ IFC CENTER
-DTSTART:20260223T215500
-DTEND:20260223T235500
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.ifccenter.com/films/th
- e-perfect-neighbor/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-perfect-neighbor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ IFC CENTER
-DTSTART:20260223T105000
-DTEND:20260223T125000
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.ifccenter.com/films/th
- e-perfect-neighbor/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-perfect-neighbor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ IFC CENTER
-DTSTART:20260223T125000
-DTEND:20260223T145000
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.ifccenter.com/films/th
- e-perfect-neighbor/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-perfect-neighbor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ IFC CENTER
-DTSTART:20260223T150000
-DTEND:20260223T170000
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.ifccenter.com/films/th
- e-perfect-neighbor/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-perfect-neighbor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ IFC CENTER
-DTSTART:20260223T171000
-DTEND:20260223T191000
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.ifccenter.com/films/th
- e-perfect-neighbor/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-perfect-neighbor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ IFC CENTER
-DTSTART:20260223T192000
-DTEND:20260223T212000
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.ifccenter.com/films/th
- e-perfect-neighbor/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-perfect-neighbor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ IFC CENTER
-DTSTART:20260223T213000
-DTEND:20260223T233000
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.ifccenter.com/films/th
- e-perfect-neighbor/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-perfect-neighbor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ IFC CENTER
-DTSTART:20260223T105500
-DTEND:20260223T125500
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.ifccenter.com/films/th
- e-perfect-neighbor/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-perfect-neighbor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ IFC CENTER
-DTSTART:20260223T144500
-DTEND:20260223T164500
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.ifccenter.com/films/th
- e-perfect-neighbor/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-perfect-neighbor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ IFC CENTER
-DTSTART:20260223T190000
-DTEND:20260223T210000
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.ifccenter.com/films/th
- e-perfect-neighbor/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-perfect-neighbor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ IFC CENTER
-DTSTART:20260223T122500
-DTEND:20260223T142500
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.ifccenter.com/films/th
- e-perfect-neighbor/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-perfect-neighbor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ IFC CENTER
-DTSTART:20260223T194500
-DTEND:20260223T214500
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.ifccenter.com/films/th
- e-perfect-neighbor/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-perfect-neighbor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ IFC CENTER
-DTSTART:20260223T220000
-DTEND:20260224T000000
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.ifccenter.com/films/th
- e-perfect-neighbor/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-perfect-neighbor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ IFC CENTER
-DTSTART:20260223T124500
-DTEND:20260223T144500
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.ifccenter.com/films/th
- e-perfect-neighbor/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-perfect-neighbor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ IFC CENTER
-DTSTART:20260223T165500
-DTEND:20260223T185500
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.ifccenter.com/films/th
- e-perfect-neighbor/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-perfect-neighbor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ IFC CENTER
-DTSTART:20260223T211000
-DTEND:20260223T231000
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.ifccenter.com/films/th
- e-perfect-neighbor/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-perfect-neighbor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ IFC CENTER
-DTSTART:20260223T125500
-DTEND:20260223T145500
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.ifccenter.com/films/th
- e-perfect-neighbor/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-perfect-neighbor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ IFC CENTER
-DTSTART:20260223T145500
-DTEND:20260223T165500
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.ifccenter.com/films/th
- e-perfect-neighbor/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-perfect-neighbor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ IFC CENTER
-DTSTART:20260223T174000
-DTEND:20260223T194000
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.ifccenter.com/films/th
- e-perfect-neighbor/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-perfect-neighbor/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live-Action Oscar-Nominated Shorts 2026 @ IFC CENTER
-DTSTART:20260223T104000
-DTEND:20260223T124000
-DESCRIPTION:Dir: 2026 (119M)\nhttps://www.screenslate.com/series/2026-osca
- rr-nominated-shorts
-LOCATION:IFC CENTER
-URL:https://www.screenslate.com/series/2026-oscarr-nominated-shorts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live-Action Oscar-Nominated Shorts 2026 @ IFC CENTER
-DTSTART:20260223T132500
-DTEND:20260223T152500
-DESCRIPTION:Dir: 2026 (119M)\nhttps://www.screenslate.com/series/2026-osca
- rr-nominated-shorts
-LOCATION:IFC CENTER
-URL:https://www.screenslate.com/series/2026-oscarr-nominated-shorts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live-Action Oscar-Nominated Shorts 2026 @ IFC CENTER
-DTSTART:20260223T161000
-DTEND:20260223T181000
-DESCRIPTION:Dir: 2026 (119M)\nhttps://www.screenslate.com/series/2026-osca
- rr-nominated-shorts
-LOCATION:IFC CENTER
-URL:https://www.screenslate.com/series/2026-oscarr-nominated-shorts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live-Action Oscar-Nominated Shorts 2026 @ IFC CENTER
-DTSTART:20260223T185500
-DTEND:20260223T205500
-DESCRIPTION:Dir: 2026 (119M)\nhttps://www.screenslate.com/series/2026-osca
- rr-nominated-shorts
-LOCATION:IFC CENTER
-URL:https://www.screenslate.com/series/2026-oscarr-nominated-shorts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live-Action Oscar-Nominated Shorts 2026 @ IFC CENTER
-DTSTART:20260223T214000
-DTEND:20260223T234000
-DESCRIPTION:Dir: 2026 (119M)\nhttps://www.screenslate.com/series/2026-osca
- rr-nominated-shorts
-LOCATION:IFC CENTER
-URL:https://www.screenslate.com/series/2026-oscarr-nominated-shorts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sirāt @ IFC CENTER
-DTSTART:20260223T104500
-DTEND:20260223T124500
-DESCRIPTION:Dir: OLIVER LAXE (2025)\nhttps://www.ifccenter.com/films/sirat
- /
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/sirat/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sirāt @ IFC CENTER
-DTSTART:20260223T142500
-DTEND:20260223T162500
-DESCRIPTION:Dir: OLIVER LAXE (2025)\nhttps://www.ifccenter.com/films/sirat
- /
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/sirat/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sirāt @ IFC CENTER
-DTSTART:20260223T193500
-DTEND:20260223T213500
-DESCRIPTION:Dir: OLIVER LAXE (2025)\nhttps://www.ifccenter.com/films/sirat
- /
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/sirat/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sirāt @ IFC CENTER
-DTSTART:20260223T215500
-DTEND:20260223T235500
-DESCRIPTION:Dir: OLIVER LAXE (2025)\nhttps://www.ifccenter.com/films/sirat
- /
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/sirat/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Animated Oscar-Nominated Shorts 2026 @ IFC CENTER
-DTSTART:20260223T105000
-DTEND:20260223T125000
-DESCRIPTION:Dir: 2026 (83M)\nhttps://www.screenslate.com/series/2026-oscar
- r-nominated-shorts
-LOCATION:IFC CENTER
-URL:https://www.screenslate.com/series/2026-oscarr-nominated-shorts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Animated Oscar-Nominated Shorts 2026 @ IFC CENTER
-DTSTART:20260223T125000
-DTEND:20260223T145000
-DESCRIPTION:Dir: 2026 (83M)\nhttps://www.screenslate.com/series/2026-oscar
- r-nominated-shorts
-LOCATION:IFC CENTER
-URL:https://www.screenslate.com/series/2026-oscarr-nominated-shorts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Animated Oscar-Nominated Shorts 2026 @ IFC CENTER
-DTSTART:20260223T150000
-DTEND:20260223T170000
-DESCRIPTION:Dir: 2026 (83M)\nhttps://www.screenslate.com/series/2026-oscar
- r-nominated-shorts
-LOCATION:IFC CENTER
-URL:https://www.screenslate.com/series/2026-oscarr-nominated-shorts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Animated Oscar-Nominated Shorts 2026 @ IFC CENTER
-DTSTART:20260223T171000
-DTEND:20260223T191000
-DESCRIPTION:Dir: 2026 (83M)\nhttps://www.screenslate.com/series/2026-oscar
- r-nominated-shorts
-LOCATION:IFC CENTER
-URL:https://www.screenslate.com/series/2026-oscarr-nominated-shorts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Animated Oscar-Nominated Shorts 2026 @ IFC CENTER
-DTSTART:20260223T192000
-DTEND:20260223T212000
-DESCRIPTION:Dir: 2026 (83M)\nhttps://www.screenslate.com/series/2026-oscar
- r-nominated-shorts
-LOCATION:IFC CENTER
-URL:https://www.screenslate.com/series/2026-oscarr-nominated-shorts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Animated Oscar-Nominated Shorts 2026 @ IFC CENTER
-DTSTART:20260223T213000
-DTEND:20260223T233000
-DESCRIPTION:Dir: 2026 (83M)\nhttps://www.screenslate.com/series/2026-oscar
- r-nominated-shorts
-LOCATION:IFC CENTER
-URL:https://www.screenslate.com/series/2026-oscarr-nominated-shorts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Doc Program A: Oscar- Nominated Shorts 2026 @ IFC CENTER
-DTSTART:20260223T105500
-DTEND:20260223T125500
-DESCRIPTION:Dir: 2026 (83M)\nhttps://www.screenslate.com/series/2026-oscar
- r-nominated-shorts
-LOCATION:IFC CENTER
-URL:https://www.screenslate.com/series/2026-oscarr-nominated-shorts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Doc Program A: Oscar- Nominated Shorts 2026 @ IFC CENTER
-DTSTART:20260223T144500
-DTEND:20260223T164500
-DESCRIPTION:Dir: 2026 (83M)\nhttps://www.screenslate.com/series/2026-oscar
- r-nominated-shorts
-LOCATION:IFC CENTER
-URL:https://www.screenslate.com/series/2026-oscarr-nominated-shorts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Doc Program A: Oscar- Nominated Shorts 2026 @ IFC CENTER
-DTSTART:20260223T190000
-DTEND:20260223T210000
-DESCRIPTION:Dir: 2026 (83M)\nhttps://www.screenslate.com/series/2026-oscar
- r-nominated-shorts
-LOCATION:IFC CENTER
-URL:https://www.screenslate.com/series/2026-oscarr-nominated-shorts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nirvanna: the Band the Show the Movie @ IFC CENTER
-DTSTART:20260223T122500
-DTEND:20260223T142500
-DESCRIPTION:Dir: MATT JOHNSON (2026)\nhttps://www.ifccenter.com/films/nirv
- anna-the-band-the-show-the-movie/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/nirvanna-the-band-the-show-the-movie/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nirvanna: the Band the Show the Movie @ IFC CENTER
-DTSTART:20260223T194500
-DTEND:20260223T214500
-DESCRIPTION:Dir: MATT JOHNSON (2026)\nhttps://www.ifccenter.com/films/nirv
- anna-the-band-the-show-the-movie/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/nirvanna-the-band-the-show-the-movie/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nirvanna: the Band the Show the Movie @ IFC CENTER
-DTSTART:20260223T220000
-DTEND:20260224T000000
-DESCRIPTION:Dir: MATT JOHNSON (2026)\nhttps://www.ifccenter.com/films/nirv
- anna-the-band-the-show-the-movie/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/nirvanna-the-band-the-show-the-movie/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Doc Program B: Oscar-Nominated Shorts 2026 @ IFC CENTER
-DTSTART:20260223T124500
-DTEND:20260223T144500
-DESCRIPTION:Dir: 2026 (76M)\nhttps://www.screenslate.com/series/2026-oscar
- r-nominated-shorts
-LOCATION:IFC CENTER
-URL:https://www.screenslate.com/series/2026-oscarr-nominated-shorts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Doc Program B: Oscar-Nominated Shorts 2026 @ IFC CENTER
-DTSTART:20260223T165500
-DTEND:20260223T185500
-DESCRIPTION:Dir: 2026 (76M)\nhttps://www.screenslate.com/series/2026-oscar
- r-nominated-shorts
-LOCATION:IFC CENTER
-URL:https://www.screenslate.com/series/2026-oscarr-nominated-shorts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Doc Program B: Oscar-Nominated Shorts 2026 @ IFC CENTER
-DTSTART:20260223T211000
-DTEND:20260223T231000
-DESCRIPTION:Dir: 2026 (76M)\nhttps://www.screenslate.com/series/2026-oscar
- r-nominated-shorts
-LOCATION:IFC CENTER
-URL:https://www.screenslate.com/series/2026-oscarr-nominated-shorts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Train Dreams @ IFC CENTER
-DTSTART:20260223T125500
-DTEND:20260223T145500
-DESCRIPTION:Dir: CLINT BENTLEY (2025)\nhttps://www.ifccenter.com/films/tra
- in-dreams/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/train-dreams/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frankenstein @ IFC CENTER
-DTSTART:20260223T145500
-DTEND:20260223T165500
-DESCRIPTION:Dir: GUILLERMO DEL TORO (2025)\nhttps://www.ifccenter.com/film
- s/frankenstein/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/frankenstein/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Poet @ IFC CENTER
-DTSTART:20260223T165500
-DTEND:20260223T185500
-DESCRIPTION:Dir: SIMÓN MESA SOTO (2026)\nhttps://www.ifccenter.com/films/
- a-poet/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/a-poet/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mr. Nobody Against Putin @ IFC CENTER
-DTSTART:20260223T174000
-DTEND:20260223T194000
-DESCRIPTION:Dir: PAVEL TALANKIN & DAVID BORENSTEIN (2025)\nhttps://www.ifc
- center.com/films/mr-nobody-against-putin/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mr-nobody-against-putin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In the Mood for Love @ METROGRAPH
-DTSTART:20260223T150000
-DTEND:20260223T170000
-DESCRIPTION:Dir: WONG KAR-WAI (2000)\nhttps://www.screenslate.com/series/d
- ays-being-maggie-cheung
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/days-being-maggie-cheung
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In the Mood for Love @ METROGRAPH
-DTSTART:20260223T153000
-DTEND:20260223T173000
-DESCRIPTION:Dir: WONG KAR-WAI (2000)\nhttps://www.screenslate.com/series/d
- ays-being-maggie-cheung
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/days-being-maggie-cheung
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In the Mood for Love @ METROGRAPH
-DTSTART:20260223T170000
-DTEND:20260223T190000
-DESCRIPTION:Dir: WONG KAR-WAI (2000)\nhttps://www.screenslate.com/series/d
- ays-being-maggie-cheung
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/days-being-maggie-cheung
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In the Mood for Love @ METROGRAPH
-DTSTART:20260223T173000
-DTEND:20260223T193000
-DESCRIPTION:Dir: WONG KAR-WAI (2000)\nhttps://www.screenslate.com/series/d
- ays-being-maggie-cheung
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/days-being-maggie-cheung
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In the Mood for Love @ METROGRAPH
-DTSTART:20260223T192500
-DTEND:20260223T212500
-DESCRIPTION:Dir: WONG KAR-WAI (2000)\nhttps://www.screenslate.com/series/d
- ays-being-maggie-cheung
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/days-being-maggie-cheung
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In the Mood for Love @ METROGRAPH
-DTSTART:20260223T194500
-DTEND:20260223T214500
-DESCRIPTION:Dir: WONG KAR-WAI (2000)\nhttps://www.screenslate.com/series/d
- ays-being-maggie-cheung
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/days-being-maggie-cheung
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In the Mood for Love @ METROGRAPH
-DTSTART:20260223T214000
-DTEND:20260223T234000
-DESCRIPTION:Dir: WONG KAR-WAI (2000)\nhttps://www.screenslate.com/series/d
- ays-being-maggie-cheung
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/days-being-maggie-cheung
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In the Mood for Love @ METROGRAPH
-DTSTART:20260223T214500
-DTEND:20260223T234500
-DESCRIPTION:Dir: WONG KAR-WAI (2000)\nhttps://www.screenslate.com/series/d
- ays-being-maggie-cheung
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/days-being-maggie-cheung
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taste @ METROGRAPH
-DTSTART:20260223T153000
-DTEND:20260223T173000
-DESCRIPTION:Dir: ANOCHA SUWICHAKORNPONG (2021)\nhttps://www.screenslate.co
- m/series/politics-time-films-anocha-suwichakornpong
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/politics-time-films-anocha-suwichak
- ornpong
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Comrades: Almost a Love Story @ METROGRAPH
-DTSTART:20260223T170000
-DTEND:20260223T190000
-DESCRIPTION:Dir: PETER CHAN (1996)\nhttps://www.screenslate.com/series/day
- s-being-maggie-cheung
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/days-being-maggie-cheung
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Somersault @ METROGRAPH
-DTSTART:20260223T173000
-DTEND:20260223T193000
-DESCRIPTION:Dir: CATE SHORTLAND (2004)\nhttps://metrograph.com/film/?vista
- _film_id=9999004698
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/?vista_film_id=9999004698
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A New Love in Tokyo @ METROGRAPH
-DTSTART:20260223T192500
-DTEND:20260223T212500
-DESCRIPTION:Dir: BANMEI TAKAHASHI (1994)\nhttps://www.screenslate.com/seri
- es/tokyo-199x
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/tokyo-199x
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Can She Bake a Cherry Pie? @ METROGRAPH
-DTSTART:20260223T194500
-DTEND:20260223T214500
-DESCRIPTION:Dir: HENRY JAGLOM (1983)\nhttps://metrograph.com/film/?vista_f
- ilm_id=9999004697
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/?vista_film_id=9999004697
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Safe @ METROGRAPH
-DTSTART:20260223T214000
-DTEND:20260223T234000
-DESCRIPTION:Dir: TODD HAYNES (1995)\nhttps://www.screenslate.com/series/ye
- ar-begins-silence
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/year-begins-silence
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Caché @ METROGRAPH
-DTSTART:20260223T214500
-DTEND:20260223T234500
-DESCRIPTION:Dir: MICHAEL HANEKE (2005)\nhttps://www.screenslate.com/series
- /touch-me-your-eyes
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/touch-me-your-eyes
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Save the Green Planet! @ MUSEUM OF MODERN ART
-DTSTART:20260223T160000
-DTEND:20260223T180000
-DESCRIPTION:Dir: JANG JOON-HWAN (2003)\nhttps://www.screenslate.com/series
- /seoul-after-dark-personal-memories-korean-cinema
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.screenslate.com/series/seoul-after-dark-personal-memories-
- korean-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Save the Green Planet! @ MUSEUM OF MODERN ART
-DTSTART:20260223T183000
-DTEND:20260223T203000
-DESCRIPTION:Dir: JANG JOON-HWAN (2003)\nhttps://www.screenslate.com/series
- /seoul-after-dark-personal-memories-korean-cinema
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.screenslate.com/series/seoul-after-dark-personal-memories-
- korean-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Chaser @ MUSEUM OF MODERN ART
-DTSTART:20260223T183000
-DTEND:20260223T203000
-DESCRIPTION:Dir: NA HONG-JIN (2008)\nhttps://www.screenslate.com/series/se
- oul-after-dark-personal-memories-korean-cinema
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.screenslate.com/series/seoul-after-dark-personal-memories-
- korean-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Perfect Blue @ NITEHAWK CINEMA PROSPECT PARK
-DTSTART:20260223T213000
-DTEND:20260223T233000
-DESCRIPTION:Dir: SATOSHI KON (1997)\nhttps://www.screenslate.com/series/an
- ime-after-dark-nitehawk-cinema-0
-LOCATION:NITEHAWK CINEMA PROSPECT PARK
-URL:https://www.screenslate.com/series/anime-after-dark-nitehawk-cinema-0
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Return of the Living Dead III @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260223T213000
-DTEND:20260223T233000
-DESCRIPTION:Dir: BRIAN YUZNA (1993)\nhttps://www.screenslate.com/series/ro
- mancing-dead-nitehawk-cinema
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://www.screenslate.com/series/romancing-dead-nitehawk-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Steel @ PARIS THEATER
-DTSTART:20260223T190000
-DTEND:20260223T210000
-DESCRIPTION:Dir: KATHRYN BIGELOW (1989)\nhttps://www.screenslate.com/serie
- s/right-here-right-now-films-kathryn-bigelow-0
-LOCATION:PARIS THEATER
-URL:https://www.screenslate.com/series/right-here-right-now-films-kathryn-
- bigelow-0
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Steel @ PARIS THEATER
-DTSTART:20260223T215000
-DTEND:20260223T235000
-DESCRIPTION:Dir: KATHRYN BIGELOW (1989)\nhttps://www.screenslate.com/serie
- s/right-here-right-now-films-kathryn-bigelow-0
-LOCATION:PARIS THEATER
-URL:https://www.screenslate.com/series/right-here-right-now-films-kathryn-
- bigelow-0
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Train Dreams @ PARIS THEATER
-DTSTART:20260223T215000
-DTEND:20260223T235000
-DESCRIPTION:Dir: CLINT BENTLEY (2025)\nhttps://www.paristheaternyc.com/fil
- m/train-dreams-paris
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/film/train-dreams-paris
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marie\, the Doll @ SPECTACLE
-DTSTART:20260223T193000
-DTEND:20260223T213000
-DESCRIPTION:Dir: JOËL SÉRIA (1976)\nhttps://www.screenslate.com/series/d
- olls
-LOCATION:SPECTACLE
-URL:https://www.screenslate.com/series/dolls
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marie\, the Doll @ SPECTACLE
-DTSTART:20260223T220000
-DTEND:20260224T000000
-DESCRIPTION:Dir: JOËL SÉRIA (1976)\nhttps://www.screenslate.com/series/d
- olls
-LOCATION:SPECTACLE
-URL:https://www.screenslate.com/series/dolls
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Payday @ SPECTACLE
-DTSTART:20260223T220000
-DTEND:20260224T000000
-DESCRIPTION:Dir: DARYL DUKE (1973)\nhttps://www.screenslate.com/series/bes
- t-best-spectacle-theater
-LOCATION:SPECTACLE
-URL:https://www.screenslate.com/series/best-best-spectacle-theater
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Last Supper @ BAM
 DTSTART:20260224T190000
 DTEND:20260224T210000
@@ -1225,15 +18,6 @@ DESCRIPTION:Dir: TOMÁS GUTIÉRREZ ALEA (1976)\nhttps://www.screenslate.co
  m/series/black-cuba
 LOCATION:BAM
 URL:https://www.screenslate.com/series/black-cuba
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Riverbend @ BAM
-DTSTART:20260224T190000
-DTEND:20260224T210000
-DESCRIPTION:Dir: SAM FIRSTENBERG (1989)\nhttps://www.bam.org/film/2026/riv
- erbend
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/riverbend
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Natchez @ FILM FORUM
@@ -1526,6 +310,78 @@ DESCRIPTION:Dir: MARTIN SCORSESE (1976)\nhttps://www.screenslate.com/serie
 LOCATION:FILM FORUM
 URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
  ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260224T120000
+DTEND:20260224T140000
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260224T150000
+DTEND:20260224T170000
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260224T120500
+DTEND:20260224T140500
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260224T141500
+DTEND:20260224T161500
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260224T201500
+DTEND:20260224T221500
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Love That Remains @ FILM AT LINCOLN CENTER
+DTSTART:20260224T120500
+DTEND:20260224T140500
+DESCRIPTION:Dir: HLYNUR PÁLMASON (2025)\nhttps://www.filmlinc.org/films/t
+ he-love-that-remains/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-love-that-remains/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Love That Remains @ FILM AT LINCOLN CENTER
+DTSTART:20260224T150000
+DTEND:20260224T170000
+DESCRIPTION:Dir: HLYNUR PÁLMASON (2025)\nhttps://www.filmlinc.org/films/t
+ he-love-that-remains/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-love-that-remains/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260224T141500
+DTEND:20260224T161500
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jan Palach @ FILM AT LINCOLN CENTER
@@ -2610,6 +1466,174 @@ URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
  ns
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260225T120000
+DTEND:20260225T140000
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260225T150000
+DTEND:20260225T170000
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260225T173000
+DTEND:20260225T193000
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260225T120500
+DTEND:20260225T140500
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260225T203000
+DTEND:20260225T223000
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260225T141500
+DTEND:20260225T161500
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260225T163000
+DTEND:20260225T183000
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260225T190000
+DTEND:20260225T210000
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260225T212000
+DTEND:20260225T232000
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260225T180000
+DTEND:20260225T200000
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260225T201500
+DTEND:20260225T221500
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Love That Remains @ FILM AT LINCOLN CENTER
+DTSTART:20260225T120500
+DTEND:20260225T140500
+DESCRIPTION:Dir: HLYNUR PÁLMASON (2025)\nhttps://www.filmlinc.org/films/t
+ he-love-that-remains/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-love-that-remains/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Love That Remains @ FILM AT LINCOLN CENTER
+DTSTART:20260225T150000
+DTEND:20260225T170000
+DESCRIPTION:Dir: HLYNUR PÁLMASON (2025)\nhttps://www.filmlinc.org/films/t
+ he-love-that-remains/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-love-that-remains/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Love That Remains @ FILM AT LINCOLN CENTER
+DTSTART:20260225T203000
+DTEND:20260225T223000
+DESCRIPTION:Dir: HLYNUR PÁLMASON (2025)\nhttps://www.filmlinc.org/films/t
+ he-love-that-remains/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-love-that-remains/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260225T141500
+DTEND:20260225T161500
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sirāt @ FILM AT LINCOLN CENTER
+DTSTART:20260225T163000
+DTEND:20260225T183000
+DESCRIPTION:Dir: OLIVER LAXE (2025)\nhttps://www.filmlinc.org/films/sirat/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/sirat/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sirāt @ FILM AT LINCOLN CENTER
+DTSTART:20260225T190000
+DTEND:20260225T210000
+DESCRIPTION:Dir: OLIVER LAXE (2025)\nhttps://www.filmlinc.org/films/sirat/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/sirat/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sirāt @ FILM AT LINCOLN CENTER
+DTSTART:20260225T212000
+DTEND:20260225T232000
+DESCRIPTION:Dir: OLIVER LAXE (2025)\nhttps://www.filmlinc.org/films/sirat/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/sirat/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12 Days @ FILM AT LINCOLN CENTER
+DTSTART:20260225T180000
+DTEND:20260225T200000
+DESCRIPTION:Dir: RAYMOND DEPARDON (2017)\nhttps://www.screenslate.com/seri
+ es/raymond-depardon-humanity-focus
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.screenslate.com/series/raymond-depardon-humanity-focus
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:San Clemente @ FILM AT LINCOLN CENTER
 DTSTART:20260225T201500
 DTEND:20260225T221500
@@ -3220,6 +2244,15 @@ URL:https://www.screenslate.com/series/all-my-memories-are-movies-cinema-i
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Thing @ QUAD CINEMA
+DTSTART:20260225T174500
+DTEND:20260225T194500
+DESCRIPTION:Dir: JOHN CARPENTER (1982)\nhttps://www.screenslate.com/series
+ /cold-front
+LOCATION:QUAD CINEMA
+URL:https://www.screenslate.com/series/cold-front
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Thing @ QUAD CINEMA
 DTSTART:20260225T200000
 DTEND:20260225T220000
 DESCRIPTION:Dir: JOHN CARPENTER (1982)\nhttps://www.screenslate.com/series
@@ -3572,6 +2605,165 @@ DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1974)\nhttps://www.screenslate.com/
 LOCATION:FILM FORUM
 URL:https://www.screenslate.com/series/tenement-stories-immigrants-bohemia
  ns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260226T120000
+DTEND:20260226T140000
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260226T150000
+DTEND:20260226T170000
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260226T173000
+DTEND:20260226T193000
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260226T120500
+DTEND:20260226T140500
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260226T203000
+DTEND:20260226T223000
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260226T141500
+DTEND:20260226T161500
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260226T163000
+DTEND:20260226T183000
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260226T190000
+DTEND:20260226T210000
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260226T212000
+DTEND:20260226T232000
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260226T180000
+DTEND:20260226T200000
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Love That Remains @ FILM AT LINCOLN CENTER
+DTSTART:20260226T120500
+DTEND:20260226T140500
+DESCRIPTION:Dir: HLYNUR PÁLMASON (2025)\nhttps://www.filmlinc.org/films/t
+ he-love-that-remains/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-love-that-remains/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Love That Remains @ FILM AT LINCOLN CENTER
+DTSTART:20260226T150000
+DTEND:20260226T170000
+DESCRIPTION:Dir: HLYNUR PÁLMASON (2025)\nhttps://www.filmlinc.org/films/t
+ he-love-that-remains/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-love-that-remains/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Love That Remains @ FILM AT LINCOLN CENTER
+DTSTART:20260226T203000
+DTEND:20260226T223000
+DESCRIPTION:Dir: HLYNUR PÁLMASON (2025)\nhttps://www.filmlinc.org/films/t
+ he-love-that-remains/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-love-that-remains/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260226T141500
+DTEND:20260226T161500
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sirāt @ FILM AT LINCOLN CENTER
+DTSTART:20260226T163000
+DTEND:20260226T183000
+DESCRIPTION:Dir: OLIVER LAXE (2025)\nhttps://www.filmlinc.org/films/sirat/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/sirat/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sirāt @ FILM AT LINCOLN CENTER
+DTSTART:20260226T190000
+DTEND:20260226T210000
+DESCRIPTION:Dir: OLIVER LAXE (2025)\nhttps://www.filmlinc.org/films/sirat/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/sirat/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sirāt @ FILM AT LINCOLN CENTER
+DTSTART:20260226T212000
+DTEND:20260226T232000
+DESCRIPTION:Dir: OLIVER LAXE (2025)\nhttps://www.filmlinc.org/films/sirat/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/sirat/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Eighth Floor @ FILM AT LINCOLN CENTER
+DTSTART:20260226T180000
+DTEND:20260226T200000
+DESCRIPTION:Dir: RAYMOND DEPARDON (2014)\nhttps://www.screenslate.com/seri
+ es/raymond-depardon-humanity-focus
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.screenslate.com/series/raymond-depardon-humanity-focus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The 10th District Court — Moments of Trials @ FILM AT LINCOLN CE
@@ -4088,6 +3280,17 @@ LOCATION:IFC CENTER
 URL:https://www.ifccenter.com/films/mr-nobody-against-putin/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nova '78 @ MUSEUM OF MODERN ART
+DTSTART:20260226T190000
+DTEND:20260226T210000
+DESCRIPTION:Dir: AARON BROOKNER\, RODRIGO AREIAS (2025)\nhttps://www.scree
+ nslate.com/series/doc-fortnight-2026-momas-festival-international-nonficti
+ on-film-and-media-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ganja & Hess @ NITEHAWK CINEMA PROSPECT PARK
 DTSTART:20260226T211500
 DTEND:20260226T231500
@@ -4274,6 +3477,219 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/days-and-nights-in-the-forest
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260227T121500
+DTEND:20260227T141500
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260227T125000
+DTEND:20260227T145000
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260227T151500
+DTEND:20260227T171500
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260227T204500
+DTEND:20260227T224500
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260227T130000
+DTEND:20260227T150000
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260227T143000
+DTEND:20260227T163000
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260227T164500
+DTEND:20260227T184500
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260227T190000
+DTEND:20260227T210000
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260227T211500
+DTEND:20260227T231500
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260227T173500
+DTEND:20260227T193500
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260227T180000
+DTEND:20260227T200000
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260227T201500
+DTEND:20260227T221500
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sirāt @ FILM AT LINCOLN CENTER
+DTSTART:20260227T125000
+DTEND:20260227T145000
+DESCRIPTION:Dir: OLIVER LAXE (2025)\nhttps://www.filmlinc.org/films/sirat/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/sirat/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sirāt @ FILM AT LINCOLN CENTER
+DTSTART:20260227T151500
+DTEND:20260227T171500
+DESCRIPTION:Dir: OLIVER LAXE (2025)\nhttps://www.filmlinc.org/films/sirat/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/sirat/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sirāt @ FILM AT LINCOLN CENTER
+DTSTART:20260227T204500
+DTEND:20260227T224500
+DESCRIPTION:Dir: OLIVER LAXE (2025)\nhttps://www.filmlinc.org/films/sirat/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/sirat/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Love That Remains @ FILM AT LINCOLN CENTER
+DTSTART:20260227T130000
+DTEND:20260227T150000
+DESCRIPTION:Dir: HLYNUR PÁLMASON (2025)\nhttps://www.filmlinc.org/films/t
+ he-love-that-remains/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-love-that-remains/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Love That Remains @ FILM AT LINCOLN CENTER
+DTSTART:20260227T151500
+DTEND:20260227T171500
+DESCRIPTION:Dir: HLYNUR PÁLMASON (2025)\nhttps://www.filmlinc.org/films/t
+ he-love-that-remains/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-love-that-remains/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What Does That Nature Say to You @ FILM AT LINCOLN CENTER
+DTSTART:20260227T143000
+DTEND:20260227T163000
+DESCRIPTION:Dir: HONG SANGSOO (2025)\nhttps://www.filmlinc.org/films/what-
+ does-that-nature/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/what-does-that-nature/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What Does That Nature Say to You @ FILM AT LINCOLN CENTER
+DTSTART:20260227T164500
+DTEND:20260227T184500
+DESCRIPTION:Dir: HONG SANGSOO (2025)\nhttps://www.filmlinc.org/films/what-
+ does-that-nature/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/what-does-that-nature/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What Does That Nature Say to You @ FILM AT LINCOLN CENTER
+DTSTART:20260227T190000
+DTEND:20260227T210000
+DESCRIPTION:Dir: HONG SANGSOO (2025)\nhttps://www.filmlinc.org/films/what-
+ does-that-nature/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/what-does-that-nature/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What Does That Nature Say to You @ FILM AT LINCOLN CENTER
+DTSTART:20260227T211500
+DTEND:20260227T231500
+DESCRIPTION:Dir: HONG SANGSOO (2025)\nhttps://www.filmlinc.org/films/what-
+ does-that-nature/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/what-does-that-nature/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260227T173500
+DTEND:20260227T193500
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Captive of the Desert @ FILM AT LINCOLN CENTER
+DTSTART:20260227T180000
+DTEND:20260227T200000
+DESCRIPTION:Dir: RAYMOND DEPARDON (1990)\nhttps://www.screenslate.com/seri
+ es/raymond-depardon-humanity-focus
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.screenslate.com/series/raymond-depardon-humanity-focus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Untouched by the West @ FILM AT LINCOLN CENTER
+DTSTART:20260227T201500
+DTEND:20260227T221500
+DESCRIPTION:Dir: RAYMOND DEPARDON (2002)\nhttps://www.screenslate.com/seri
+ es/raymond-depardon-humanity-focus
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.screenslate.com/series/raymond-depardon-humanity-focus
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Ugly Stepsister @ IFC CENTER
 DTSTART:20260227T234500
 DTEND:20260228T014500
@@ -4283,18 +3699,72 @@ LOCATION:IFC CENTER
 URL:https://www.ifccenter.com/films/the-ugly-stepsister/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Wind Will Carry Us @ METROGRAPH
+SUMMARY:Nostalghia @ METROGRAPH
+DTSTART:20260227T150000
+DTEND:20260227T170000
+DESCRIPTION:Dir: ANDREI TARKOVSKY (1983)\nhttps://www.screenslate.com/seri
+ es/year-begins-silence
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/year-begins-silence
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nostalghia @ METROGRAPH
 DTSTART:20260227T151000
 DTEND:20260227T171000
-DESCRIPTION:Dir: ABBAS KIAROSTAMI (1999)\nhttps://www.screenslate.com/seri
+DESCRIPTION:Dir: ANDREI TARKOVSKY (1983)\nhttps://www.screenslate.com/seri
+ es/year-begins-silence
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/year-begins-silence
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nostalghia @ METROGRAPH
+DTSTART:20260227T173000
+DTEND:20260227T193000
+DESCRIPTION:Dir: ANDREI TARKOVSKY (1983)\nhttps://www.screenslate.com/seri
+ es/year-begins-silence
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/year-begins-silence
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nostalghia @ METROGRAPH
+DTSTART:20260227T192500
+DTEND:20260227T212500
+DESCRIPTION:Dir: ANDREI TARKOVSKY (1983)\nhttps://www.screenslate.com/seri
+ es/year-begins-silence
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/year-begins-silence
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nostalghia @ METROGRAPH
+DTSTART:20260227T193500
+DTEND:20260227T213500
+DESCRIPTION:Dir: ANDREI TARKOVSKY (1983)\nhttps://www.screenslate.com/seri
+ es/year-begins-silence
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/year-begins-silence
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nostalghia @ METROGRAPH
+DTSTART:20260227T215000
+DTEND:20260227T235000
+DESCRIPTION:Dir: ANDREI TARKOVSKY (1983)\nhttps://www.screenslate.com/seri
+ es/year-begins-silence
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/year-begins-silence
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nostalghia @ METROGRAPH
+DTSTART:20260227T220000
+DTEND:20260228T000000
+DESCRIPTION:Dir: ANDREI TARKOVSKY (1983)\nhttps://www.screenslate.com/seri
  es/year-begins-silence
 LOCATION:METROGRAPH
 URL:https://www.screenslate.com/series/year-begins-silence
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wind Will Carry Us @ METROGRAPH
-DTSTART:20260227T173000
-DTEND:20260227T193000
+DTSTART:20260227T151000
+DTEND:20260227T171000
 DESCRIPTION:Dir: ABBAS KIAROSTAMI (1999)\nhttps://www.screenslate.com/seri
  es/year-begins-silence
 LOCATION:METROGRAPH
@@ -4308,6 +3778,70 @@ DESCRIPTION:Dir: WONG KAR-WAI (2000)\nhttps://www.screenslate.com/series/d
  ays-being-maggie-cheung
 LOCATION:METROGRAPH
 URL:https://www.screenslate.com/series/days-being-maggie-cheung
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Silence @ METROGRAPH
+DTSTART:20260227T173000
+DTEND:20260227T193000
+DESCRIPTION:Dir: INGMAR BERGMAN (1963)\nhttps://www.screenslate.com/series
+ /year-begins-silence
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/year-begins-silence
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xalé @ METROGRAPH
+DTSTART:20260227T192500
+DTEND:20260227T212500
+DESCRIPTION:Dir: MOUSSA SÈNE ABSA (2022)\nhttps://metrograph.com/film/?vi
+ sta_film_id=9999004704
+LOCATION:METROGRAPH
+URL:https://metrograph.com/film/?vista_film_id=9999004704
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holy Girl @ METROGRAPH
+DTSTART:20260227T193500
+DTEND:20260227T213500
+DESCRIPTION:Dir: LUCRECIA MARTEL (2004)\nhttps://www.screenslate.com/serie
+ s/sex-confusion
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/sex-confusion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Klute @ METROGRAPH
+DTSTART:20260227T215000
+DTEND:20260227T235000
+DESCRIPTION:Dir: ALAN J. PAKULA (1971)\nhttps://www.screenslate.com/series
+ /touch-me-your-eyes
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/touch-me-your-eyes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Real Young Girl @ METROGRAPH
+DTSTART:20260227T220000
+DTEND:20260228T000000
+DESCRIPTION:Dir: CATHERINE BREILLAT (1976)\nhttps://www.screenslate.com/se
+ ries/sex-confusion
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/sex-confusion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amílcar @ MUSEUM OF MODERN ART
+DTSTART:20260227T190000
+DTEND:20260227T210000
+DESCRIPTION:Dir: MIGUEL EEK (2025)\nhttps://www.screenslate.com/series/doc
+ -fortnight-2026-momas-festival-international-nonfiction-film-and-media-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spirited Away @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260227T190000
+DTEND:20260227T210000
+DESCRIPTION:Dir: HAYAO MIYAZAKI (2001)\nhttps://www.screenslate.com/series
+ /2001-year-not-movie
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://www.screenslate.com/series/2001-year-not-movie
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Habit @ NITEHAWK CINEMA WILLIAMSBURG
@@ -4607,6 +4141,203 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/days-and-nights-in-the-forest
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260228T121500
+DTEND:20260228T141500
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260228T130000
+DTEND:20260228T150000
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260228T140000
+DTEND:20260228T160000
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260228T143000
+DTEND:20260228T163000
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260228T164500
+DTEND:20260228T184500
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260228T190000
+DTEND:20260228T210000
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260228T211500
+DTEND:20260228T231500
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260228T161500
+DTEND:20260228T181500
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260228T183000
+DTEND:20260228T203000
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260228T200000
+DTEND:20260228T220000
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260228T203000
+DTEND:20260228T223000
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260228T130000
+DTEND:20260228T150000
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Profils paysans: L’approche @ FILM AT LINCOLN CENTER
+DTSTART:20260228T140000
+DTEND:20260228T160000
+DESCRIPTION:Dir: RAYMOND DEPARDON (2000)\nhttps://www.screenslate.com/seri
+ es/raymond-depardon-humanity-focus
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.screenslate.com/series/raymond-depardon-humanity-focus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What Does That Nature Say to You @ FILM AT LINCOLN CENTER
+DTSTART:20260228T143000
+DTEND:20260228T163000
+DESCRIPTION:Dir: HONG SANGSOO (2025)\nhttps://www.filmlinc.org/films/what-
+ does-that-nature/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/what-does-that-nature/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What Does That Nature Say to You @ FILM AT LINCOLN CENTER
+DTSTART:20260228T164500
+DTEND:20260228T184500
+DESCRIPTION:Dir: HONG SANGSOO (2025)\nhttps://www.filmlinc.org/films/what-
+ does-that-nature/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/what-does-that-nature/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What Does That Nature Say to You @ FILM AT LINCOLN CENTER
+DTSTART:20260228T190000
+DTEND:20260228T210000
+DESCRIPTION:Dir: HONG SANGSOO (2025)\nhttps://www.filmlinc.org/films/what-
+ does-that-nature/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/what-does-that-nature/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What Does That Nature Say to You @ FILM AT LINCOLN CENTER
+DTSTART:20260228T211500
+DTEND:20260228T231500
+DESCRIPTION:Dir: HONG SANGSOO (2025)\nhttps://www.filmlinc.org/films/what-
+ does-that-nature/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/what-does-that-nature/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Profils paysans: Le quotidien @ FILM AT LINCOLN CENTER
+DTSTART:20260228T161500
+DTEND:20260228T181500
+DESCRIPTION:Dir: RAYMOND DEPARDON (2005)\nhttps://www.screenslate.com/seri
+ es/raymond-depardon-humanity-focus
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.screenslate.com/series/raymond-depardon-humanity-focus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Love That Remains @ FILM AT LINCOLN CENTER
+DTSTART:20260228T164500
+DTEND:20260228T184500
+DESCRIPTION:Dir: HLYNUR PÁLMASON (2025)\nhttps://www.filmlinc.org/films/t
+ he-love-that-remains/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-love-that-remains/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La vie moderne @ FILM AT LINCOLN CENTER
+DTSTART:20260228T183000
+DTEND:20260228T203000
+DESCRIPTION:Dir: RAYMOND DEPARDON (2008)\nhttps://www.screenslate.com/seri
+ es/raymond-depardon-humanity-focus
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.screenslate.com/series/raymond-depardon-humanity-focus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sirāt @ FILM AT LINCOLN CENTER
+DTSTART:20260228T200000
+DTEND:20260228T220000
+DESCRIPTION:Dir: OLIVER LAXE (2025)\nhttps://www.filmlinc.org/films/sirat/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/sirat/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La france @ FILM AT LINCOLN CENTER
+DTSTART:20260228T203000
+DTEND:20260228T223000
+DESCRIPTION:Dir: RAYMOND DEPARDON\, CLAUDINE NOUGARET (2010)\nhttps://www.
+ screenslate.com/series/raymond-depardon-humanity-focus
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.screenslate.com/series/raymond-depardon-humanity-focus
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Ugly Stepsister @ IFC CENTER
 DTSTART:20260228T234500
 DTEND:20260301T014500
@@ -4635,12 +4366,120 @@ URL:https://www.screenslate.com/series/max-ophuls-motion-within-motion
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Ronde @ METROGRAPH
+DTSTART:20260228T140000
+DTEND:20260228T160000
+DESCRIPTION:Dir: MAX OPHÜLS (1950)\nhttps://www.screenslate.com/series/ma
+ x-ophuls-motion-within-motion
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/max-ophuls-motion-within-motion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Ronde @ METROGRAPH
+DTSTART:20260228T143000
+DTEND:20260228T163000
+DESCRIPTION:Dir: MAX OPHÜLS (1950)\nhttps://www.screenslate.com/series/ma
+ x-ophuls-motion-within-motion
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/max-ophuls-motion-within-motion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Ronde @ METROGRAPH
+DTSTART:20260228T160000
+DTEND:20260228T180000
+DESCRIPTION:Dir: MAX OPHÜLS (1950)\nhttps://www.screenslate.com/series/ma
+ x-ophuls-motion-within-motion
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/max-ophuls-motion-within-motion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Ronde @ METROGRAPH
+DTSTART:20260228T163500
+DTEND:20260228T183500
+DESCRIPTION:Dir: MAX OPHÜLS (1950)\nhttps://www.screenslate.com/series/ma
+ x-ophuls-motion-within-motion
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/max-ophuls-motion-within-motion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Ronde @ METROGRAPH
+DTSTART:20260228T184500
+DTEND:20260228T204500
+DESCRIPTION:Dir: MAX OPHÜLS (1950)\nhttps://www.screenslate.com/series/ma
+ x-ophuls-motion-within-motion
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/max-ophuls-motion-within-motion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Ronde @ METROGRAPH
+DTSTART:20260228T210000
+DTEND:20260228T230000
+DESCRIPTION:Dir: MAX OPHÜLS (1950)\nhttps://www.screenslate.com/series/ma
+ x-ophuls-motion-within-motion
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/max-ophuls-motion-within-motion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Ronde @ METROGRAPH
 DTSTART:20260228T220000
 DTEND:20260301T000000
 DESCRIPTION:Dir: MAX OPHÜLS (1950)\nhttps://www.screenslate.com/series/ma
  x-ophuls-motion-within-motion
 LOCATION:METROGRAPH
 URL:https://www.screenslate.com/series/max-ophuls-motion-within-motion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Silence @ METROGRAPH
+DTSTART:20260228T140000
+DTEND:20260228T160000
+DESCRIPTION:Dir: INGMAR BERGMAN (1963)\nhttps://www.screenslate.com/series
+ /year-begins-silence
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/year-begins-silence
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Plaisir @ METROGRAPH
+DTSTART:20260228T143000
+DTEND:20260228T163000
+DESCRIPTION:Dir: MAX OPHÜLS (1952)\nhttps://www.screenslate.com/series/ma
+ x-ophuls-motion-within-motion
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/max-ophuls-motion-within-motion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carlos @ METROGRAPH
+DTSTART:20260228T160000
+DTEND:20260228T180000
+DESCRIPTION:Dir: OLIVIER ASSAYAS (2010)\nhttps://www.screenslate.com/serie
+ s/fugitive-days
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/fugitive-days
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hero @ METROGRAPH
+DTSTART:20260228T163500
+DTEND:20260228T183500
+DESCRIPTION:Dir: ZHANG YIMOU (2002)\nhttps://www.screenslate.com/series/da
+ ys-being-maggie-cheung
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/days-being-maggie-cheung
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holy Girl @ METROGRAPH
+DTSTART:20260228T184500
+DTEND:20260228T204500
+DESCRIPTION:Dir: LUCRECIA MARTEL (2004)\nhttps://www.screenslate.com/serie
+ s/sex-confusion
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/sex-confusion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside the Yellow Cocoon Shell @ METROGRAPH
+DTSTART:20260228T210000
+DTEND:20260228T230000
+DESCRIPTION:Dir: THIEN AN PHAM (2023)\nhttps://www.screenslate.com/series/
+ currents-southeast-asian-cinema
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/currents-southeast-asian-cinema
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Lovers on the Bridge @ METROGRAPH
@@ -4650,6 +4489,78 @@ DESCRIPTION:Dir: LEOS CARAX (1991)\nhttps://www.screenslate.com/series/amo
  ur-fou-valentines-day-metrograph
 LOCATION:METROGRAPH
 URL:https://www.screenslate.com/series/amour-fou-valentines-day-metrograph
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daughter of Nectar @ MUSEUM OF MODERN ART
+DTSTART:20260228T133000
+DTEND:20260228T153000
+DESCRIPTION:Dir: PANG-CHUAN HUANG\, CHUNNI LIN (2025)\nhttps://www.screens
+ late.com/series/doc-fortnight-2026-momas-festival-international-nonfiction
+ -film-and-media-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daughter of Nectar @ MUSEUM OF MODERN ART
+DTSTART:20260228T163000
+DTEND:20260228T183000
+DESCRIPTION:Dir: PANG-CHUAN HUANG\, CHUNNI LIN (2025)\nhttps://www.screens
+ late.com/series/doc-fortnight-2026-momas-festival-international-nonfiction
+ -film-and-media-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daughter of Nectar @ MUSEUM OF MODERN ART
+DTSTART:20260228T190000
+DTEND:20260228T210000
+DESCRIPTION:Dir: PANG-CHUAN HUANG\, CHUNNI LIN (2025)\nhttps://www.screens
+ late.com/series/doc-fortnight-2026-momas-festival-international-nonfiction
+ -film-and-media-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Narrative @ MUSEUM OF MODERN ART
+DTSTART:20260228T163000
+DTEND:20260228T183000
+DESCRIPTION:Dir: ANOCHA SUWICHAKORNPONG (2025)\nhttps://www.screenslate.co
+ m/series/doc-fortnight-2026-momas-festival-international-nonfiction-film-a
+ nd-media-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Powwow People @ MUSEUM OF MODERN ART
+DTSTART:20260228T190000
+DTEND:20260228T210000
+DESCRIPTION:Dir: SKY HOPINKA (2025)\nhttps://www.screenslate.com/series/do
+ c-fortnight-2026-momas-festival-international-nonfiction-film-and-media-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spirited Away @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260228T123000
+DTEND:20260228T143000
+DESCRIPTION:Dir: HAYAO MIYAZAKI (2001)\nhttps://www.screenslate.com/series
+ /2001-year-not-movie
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://www.screenslate.com/series/2001-year-not-movie
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spirited Away @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260228T150000
+DTEND:20260228T170000
+DESCRIPTION:Dir: HAYAO MIYAZAKI (2001)\nhttps://www.screenslate.com/series
+ /2001-year-not-movie
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://www.screenslate.com/series/2001-year-not-movie
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Werckmeister Harmonies @ MUSEUM OF THE MOVING IMAGE
@@ -4984,6 +4895,105 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/days-and-nights-in-the-forest
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260301T121500
+DTEND:20260301T141500
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260301T130000
+DTEND:20260301T150000
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260301T143000
+DTEND:20260301T163000
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260301T164500
+DTEND:20260301T184500
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260301T190000
+DTEND:20260301T210000
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260301T211500
+DTEND:20260301T231500
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260301T153000
+DTEND:20260301T173000
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260301T174500
+DTEND:20260301T194500
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260301T193000
+DTEND:20260301T213000
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260301T200000
+DTEND:20260301T220000
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Love That Remains @ FILM AT LINCOLN CENTER
+DTSTART:20260301T130000
+DTEND:20260301T150000
+DESCRIPTION:Dir: HLYNUR PÁLMASON (2025)\nhttps://www.filmlinc.org/films/t
+ he-love-that-remains/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-love-that-remains/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:New York\, NY @ FILM AT LINCOLN CENTER
 DTSTART:20260301T130000
 DTEND:20260301T150000
@@ -4993,31 +5003,49 @@ LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.screenslate.com/series/raymond-depardon-humanity-focus
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York\, NY @ FILM AT LINCOLN CENTER
+SUMMARY:What Does That Nature Say to You @ FILM AT LINCOLN CENTER
+DTSTART:20260301T143000
+DTEND:20260301T163000
+DESCRIPTION:Dir: HONG SANGSOO (2025)\nhttps://www.filmlinc.org/films/what-
+ does-that-nature/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/what-does-that-nature/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What Does That Nature Say to You @ FILM AT LINCOLN CENTER
+DTSTART:20260301T164500
+DTEND:20260301T184500
+DESCRIPTION:Dir: HONG SANGSOO (2025)\nhttps://www.filmlinc.org/films/what-
+ does-that-nature/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/what-does-that-nature/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What Does That Nature Say to You @ FILM AT LINCOLN CENTER
+DTSTART:20260301T190000
+DTEND:20260301T210000
+DESCRIPTION:Dir: HONG SANGSOO (2025)\nhttps://www.filmlinc.org/films/what-
+ does-that-nature/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/what-does-that-nature/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What Does That Nature Say to You @ FILM AT LINCOLN CENTER
+DTSTART:20260301T211500
+DTEND:20260301T231500
+DESCRIPTION:Dir: HONG SANGSOO (2025)\nhttps://www.filmlinc.org/films/what-
+ does-that-nature/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/what-does-that-nature/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
 DTSTART:20260301T153000
 DTEND:20260301T173000
-DESCRIPTION:Dir: RAYMOND DEPARDON (1986)\nhttps://www.screenslate.com/seri
- es/raymond-depardon-humanity-focus
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
 LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.screenslate.com/series/raymond-depardon-humanity-focus
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:New York\, NY @ FILM AT LINCOLN CENTER
-DTSTART:20260301T174500
-DTEND:20260301T194500
-DESCRIPTION:Dir: RAYMOND DEPARDON (1986)\nhttps://www.screenslate.com/seri
- es/raymond-depardon-humanity-focus
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.screenslate.com/series/raymond-depardon-humanity-focus
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:New York\, NY @ FILM AT LINCOLN CENTER
-DTSTART:20260301T200000
-DTEND:20260301T220000
-DESCRIPTION:Dir: RAYMOND DEPARDON (1986)\nhttps://www.screenslate.com/seri
- es/raymond-depardon-humanity-focus
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.screenslate.com/series/raymond-depardon-humanity-focus
+URL:https://www.filmlinc.org/films/the-secret-agent/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:News Items @ FILM AT LINCOLN CENTER
@@ -5038,6 +5066,14 @@ LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.screenslate.com/series/raymond-depardon-humanity-focus
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sirāt @ FILM AT LINCOLN CENTER
+DTSTART:20260301T193000
+DTEND:20260301T213000
+DESCRIPTION:Dir: OLIVER LAXE (2025)\nhttps://www.filmlinc.org/films/sirat/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/sirat/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Caught in the Acts @ FILM AT LINCOLN CENTER
 DTSTART:20260301T200000
 DTEND:20260301T220000
@@ -5045,6 +5081,152 @@ DESCRIPTION:Dir: VARIOUS FILMMAKERS (1994)\nhttps://www.screenslate.com/se
  ries/raymond-depardon-humanity-focus
 LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.screenslate.com/series/raymond-depardon-humanity-focus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Earrings of Madame de… @ METROGRAPH
+DTSTART:20260301T120000
+DTEND:20260301T140000
+DESCRIPTION:Dir: MAX OPHÜLS (1953)\nhttps://www.screenslate.com/series/ma
+ x-ophuls-motion-within-motion
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/max-ophuls-motion-within-motion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Earrings of Madame de… @ METROGRAPH
+DTSTART:20260301T121500
+DTEND:20260301T141500
+DESCRIPTION:Dir: MAX OPHÜLS (1953)\nhttps://www.screenslate.com/series/ma
+ x-ophuls-motion-within-motion
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/max-ophuls-motion-within-motion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Earrings of Madame de… @ METROGRAPH
+DTSTART:20260301T140000
+DTEND:20260301T160000
+DESCRIPTION:Dir: MAX OPHÜLS (1953)\nhttps://www.screenslate.com/series/ma
+ x-ophuls-motion-within-motion
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/max-ophuls-motion-within-motion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Earrings of Madame de… @ METROGRAPH
+DTSTART:20260301T141500
+DTEND:20260301T161500
+DESCRIPTION:Dir: MAX OPHÜLS (1953)\nhttps://www.screenslate.com/series/ma
+ x-ophuls-motion-within-motion
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/max-ophuls-motion-within-motion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Earrings of Madame de… @ METROGRAPH
+DTSTART:20260301T164000
+DTEND:20260301T184000
+DESCRIPTION:Dir: MAX OPHÜLS (1953)\nhttps://www.screenslate.com/series/ma
+ x-ophuls-motion-within-motion
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/max-ophuls-motion-within-motion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Earrings of Madame de… @ METROGRAPH
+DTSTART:20260301T164500
+DTEND:20260301T184500
+DESCRIPTION:Dir: MAX OPHÜLS (1953)\nhttps://www.screenslate.com/series/ma
+ x-ophuls-motion-within-motion
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/max-ophuls-motion-within-motion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Earrings of Madame de… @ METROGRAPH
+DTSTART:20260301T190000
+DTEND:20260301T210000
+DESCRIPTION:Dir: MAX OPHÜLS (1953)\nhttps://www.screenslate.com/series/ma
+ x-ophuls-motion-within-motion
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/max-ophuls-motion-within-motion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Earrings of Madame de… @ METROGRAPH
+DTSTART:20260301T193000
+DTEND:20260301T213000
+DESCRIPTION:Dir: MAX OPHÜLS (1953)\nhttps://www.screenslate.com/series/ma
+ x-ophuls-motion-within-motion
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/max-ophuls-motion-within-motion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Earrings of Madame de… @ METROGRAPH
+DTSTART:20260301T213000
+DTEND:20260301T233000
+DESCRIPTION:Dir: MAX OPHÜLS (1953)\nhttps://www.screenslate.com/series/ma
+ x-ophuls-motion-within-motion
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/max-ophuls-motion-within-motion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liberté\, la nuit @ METROGRAPH
+DTSTART:20260301T121500
+DTEND:20260301T141500
+DESCRIPTION:Dir: PHILIPPE GARREL (1983)\nhttps://www.screenslate.com/serie
+ s/fugitive-days
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/fugitive-days
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krabi 2562 @ METROGRAPH
+DTSTART:20260301T140000
+DTEND:20260301T160000
+DESCRIPTION:Dir: ANOCHA SUWICHAKORNPONG\, BEN RIVERS (2019)\nhttps://www.s
+ creenslate.com/series/politics-time-films-anocha-suwichakornpong
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/politics-time-films-anocha-suwichak
+ ornpong
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lola Montès @ METROGRAPH
+DTSTART:20260301T141500
+DTEND:20260301T161500
+DESCRIPTION:Dir: MAX OPHÜLS (1955)\nhttps://www.screenslate.com/series/ma
+ x-ophuls-motion-within-motion
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/max-ophuls-motion-within-motion
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Klute @ METROGRAPH
+DTSTART:20260301T164000
+DTEND:20260301T184000
+DESCRIPTION:Dir: ALAN J. PAKULA (1971)\nhttps://www.screenslate.com/series
+ /touch-me-your-eyes
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/touch-me-your-eyes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mundane History @ METROGRAPH
+DTSTART:20260301T164500
+DTEND:20260301T184500
+DESCRIPTION:Dir: ANOCHA SUWICHAKORNPONG (2009)\nhttps://www.screenslate.co
+ m/series/politics-time-films-anocha-suwichakornpong
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/politics-time-films-anocha-suwichak
+ ornpong
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nostalghia @ METROGRAPH
+DTSTART:20260301T190000
+DTEND:20260301T210000
+DESCRIPTION:Dir: ANDREI TARKOVSKY (1983)\nhttps://www.screenslate.com/seri
+ es/year-begins-silence
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/year-begins-silence
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Real Young Girl @ METROGRAPH
+DTSTART:20260301T193000
+DTEND:20260301T213000
+DESCRIPTION:Dir: CATHERINE BREILLAT (1976)\nhttps://www.screenslate.com/se
+ ries/sex-confusion
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/sex-confusion
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Heroic Trio @ METROGRAPH
@@ -5063,6 +5245,60 @@ DESCRIPTION:Dir: WONG KAR-WAI (2000)\nhttps://www.screenslate.com/series/d
  ays-being-maggie-cheung
 LOCATION:METROGRAPH
 URL:https://www.screenslate.com/series/days-being-maggie-cheung
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nova '78 @ MUSEUM OF MODERN ART
+DTSTART:20260301T133000
+DTEND:20260301T153000
+DESCRIPTION:Dir: AARON BROOKNER\, RODRIGO AREIAS (2025)\nhttps://www.scree
+ nslate.com/series/doc-fortnight-2026-momas-festival-international-nonficti
+ on-film-and-media-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nova '78 @ MUSEUM OF MODERN ART
+DTSTART:20260301T140000
+DTEND:20260301T160000
+DESCRIPTION:Dir: AARON BROOKNER\, RODRIGO AREIAS (2025)\nhttps://www.scree
+ nslate.com/series/doc-fortnight-2026-momas-festival-international-nonficti
+ on-film-and-media-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nova '78 @ MUSEUM OF MODERN ART
+DTSTART:20260301T163000
+DTEND:20260301T183000
+DESCRIPTION:Dir: AARON BROOKNER\, RODRIGO AREIAS (2025)\nhttps://www.scree
+ nslate.com/series/doc-fortnight-2026-momas-festival-international-nonficti
+ on-film-and-media-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cara a Cara @ MUSEUM OF MODERN ART
+DTSTART:20260301T140000
+DTEND:20260301T160000
+DESCRIPTION:Dir: FEDERICO VEIROJ (2025)\nhttps://www.screenslate.com/serie
+ s/doc-fortnight-2026-momas-festival-international-nonfiction-film-and-medi
+ a-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peacemaker @ MUSEUM OF MODERN ART
+DTSTART:20260301T163000
+DTEND:20260301T183000
+DESCRIPTION:Dir: IVAN RAMLJAK (2025)\nhttps://www.screenslate.com/series/d
+ oc-fortnight-2026-momas-festival-international-nonfiction-film-and-media-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Thing from Another World @ MUSEUM OF THE MOVING IMAGE
@@ -5284,6 +5520,239 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/days-and-nights-in-the-forest
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260302T121500
+DTEND:20260302T141500
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260302T125000
+DTEND:20260302T145000
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260302T160000
+DTEND:20260302T180000
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260302T204500
+DTEND:20260302T224500
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260302T130000
+DTEND:20260302T150000
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260302T173500
+DTEND:20260302T193500
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260302T143000
+DTEND:20260302T163000
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260302T164500
+DTEND:20260302T184500
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260302T190000
+DTEND:20260302T210000
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260302T211500
+DTEND:20260302T231500
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260302T151500
+DTEND:20260302T171500
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260302T181500
+DTEND:20260302T201500
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Was Just an Accident @ FILM AT LINCOLN CENTER
+DTSTART:20260302T203000
+DTEND:20260302T223000
+DESCRIPTION:Dir: JAFAR PANAHI (2025)\nhttps://www.filmlinc.org/films/it-wa
+ s-just-an-accident/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/it-was-just-an-accident/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sirāt @ FILM AT LINCOLN CENTER
+DTSTART:20260302T125000
+DTEND:20260302T145000
+DESCRIPTION:Dir: OLIVER LAXE (2025)\nhttps://www.filmlinc.org/films/sirat/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/sirat/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sirāt @ FILM AT LINCOLN CENTER
+DTSTART:20260302T160000
+DTEND:20260302T180000
+DESCRIPTION:Dir: OLIVER LAXE (2025)\nhttps://www.filmlinc.org/films/sirat/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/sirat/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sirāt @ FILM AT LINCOLN CENTER
+DTSTART:20260302T204500
+DTEND:20260302T224500
+DESCRIPTION:Dir: OLIVER LAXE (2025)\nhttps://www.filmlinc.org/films/sirat/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/sirat/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260302T130000
+DTEND:20260302T150000
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Secret Agent @ FILM AT LINCOLN CENTER
+DTSTART:20260302T173500
+DTEND:20260302T193500
+DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2025)\nhttps://www.filmlinc.org/f
+ ilms/the-secret-agent/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-secret-agent/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What Does That Nature Say to You @ FILM AT LINCOLN CENTER
+DTSTART:20260302T143000
+DTEND:20260302T163000
+DESCRIPTION:Dir: HONG SANGSOO (2025)\nhttps://www.filmlinc.org/films/what-
+ does-that-nature/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/what-does-that-nature/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What Does That Nature Say to You @ FILM AT LINCOLN CENTER
+DTSTART:20260302T164500
+DTEND:20260302T184500
+DESCRIPTION:Dir: HONG SANGSOO (2025)\nhttps://www.filmlinc.org/films/what-
+ does-that-nature/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/what-does-that-nature/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What Does That Nature Say to You @ FILM AT LINCOLN CENTER
+DTSTART:20260302T190000
+DTEND:20260302T210000
+DESCRIPTION:Dir: HONG SANGSOO (2025)\nhttps://www.filmlinc.org/films/what-
+ does-that-nature/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/what-does-that-nature/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What Does That Nature Say to You @ FILM AT LINCOLN CENTER
+DTSTART:20260302T211500
+DTEND:20260302T231500
+DESCRIPTION:Dir: HONG SANGSOO (2025)\nhttps://www.filmlinc.org/films/what-
+ does-that-nature/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/what-does-that-nature/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Love That Remains @ FILM AT LINCOLN CENTER
+DTSTART:20260302T151500
+DTEND:20260302T171500
+DESCRIPTION:Dir: HLYNUR PÁLMASON (2025)\nhttps://www.filmlinc.org/films/t
+ he-love-that-remains/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-love-that-remains/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The 10th District Court — Moments of Trials @ FILM AT LINCOLN CE
+ NTER
+DTSTART:20260302T181500
+DTEND:20260302T201500
+DESCRIPTION:Dir: RAYMOND DEPARDON (2004)\nhttps://www.screenslate.com/seri
+ es/raymond-depardon-humanity-focus
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.screenslate.com/series/raymond-depardon-humanity-focus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris @ FILM AT LINCOLN CENTER
+DTSTART:20260302T203000
+DTEND:20260302T223000
+DESCRIPTION:Dir: RAYMOND DEPARDON (1998)\nhttps://www.screenslate.com/seri
+ es/raymond-depardon-humanity-focus
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.screenslate.com/series/raymond-depardon-humanity-focus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Empty Suitcases @ FILM-MAKERS’ COOP
+DTSTART:20260302T190000
+DTEND:20260302T210000
+DESCRIPTION:Dir: BETTE GORDON (1981)\nhttps://filmmakerscoop.ecwid.com/Bet
+ te-Gordon%E2%80%99s-EMPTY-SUITCASES-on-16mm-p816955701
+LOCATION:FILM-MAKERS’ COOP
+URL:https://filmmakerscoop.ecwid.com/Bette-Gordon%E2%80%99s-EMPTY-SUITCASE
+ S-on-16mm-p816955701
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pictures of Ghosts @ IFC CENTER
 DTSTART:20260302T190000
 DTEND:20260302T210000
@@ -5291,6 +5760,37 @@ DESCRIPTION:Dir: KLEBER MENDONÇA FILHO (2023)\nhttps://www.screenslate.co
  m/series/doc-nyc-selects-winter-2026
 LOCATION:IFC CENTER
 URL:https://www.screenslate.com/series/doc-nyc-selects-winter-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amílcar @ MUSEUM OF MODERN ART
+DTSTART:20260302T163000
+DTEND:20260302T183000
+DESCRIPTION:Dir: MIGUEL EEK (2025)\nhttps://www.screenslate.com/series/doc
+ -fortnight-2026-momas-festival-international-nonfiction-film-and-media-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amílcar @ MUSEUM OF MODERN ART
+DTSTART:20260302T190000
+DTEND:20260302T210000
+DESCRIPTION:Dir: MIGUEL EEK (2025)\nhttps://www.screenslate.com/series/doc
+ -fortnight-2026-momas-festival-international-nonfiction-film-and-media-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matter of Britain @ MUSEUM OF MODERN ART
+DTSTART:20260302T190000
+DTEND:20260302T210000
+DESCRIPTION:Dir: PETER TREHERNE (2026)\nhttps://www.screenslate.com/series
+ /doc-fortnight-2026-momas-festival-international-nonfiction-film-and-media
+ -0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cutting Through Rocks @ NITEHAWK CINEMA PROSPECT PARK
@@ -5424,6 +5924,58 @@ LOCATION:IFC CENTER
 URL:https://www.screenslate.com/series/doc-nyc-selects-winter-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Powwow People @ MUSEUM OF MODERN ART
+DTSTART:20260303T160000
+DTEND:20260303T180000
+DESCRIPTION:Dir: SKY HOPINKA (2025)\nhttps://www.screenslate.com/series/do
+ c-fortnight-2026-momas-festival-international-nonfiction-film-and-media-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Powwow People @ MUSEUM OF MODERN ART
+DTSTART:20260303T183000
+DTEND:20260303T203000
+DESCRIPTION:Dir: SKY HOPINKA (2025)\nhttps://www.screenslate.com/series/do
+ c-fortnight-2026-momas-festival-international-nonfiction-film-and-media-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Powwow People @ MUSEUM OF MODERN ART
+DTSTART:20260303T190000
+DTEND:20260303T210000
+DESCRIPTION:Dir: SKY HOPINKA (2025)\nhttps://www.screenslate.com/series/do
+ c-fortnight-2026-momas-festival-international-nonfiction-film-and-media-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daughter of Nectar @ MUSEUM OF MODERN ART
+DTSTART:20260303T183000
+DTEND:20260303T203000
+DESCRIPTION:Dir: PANG-CHUAN HUANG\, CHUNNI LIN (2025)\nhttps://www.screens
+ late.com/series/doc-fortnight-2026-momas-festival-international-nonfiction
+ -film-and-media-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cara a Cara @ MUSEUM OF MODERN ART
+DTSTART:20260303T190000
+DTEND:20260303T210000
+DESCRIPTION:Dir: FEDERICO VEIROJ (2025)\nhttps://www.screenslate.com/serie
+ s/doc-fortnight-2026-momas-festival-international-nonfiction-film-and-medi
+ a-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pulp Fiction @ NITEHAWK CINEMA PROSPECT PARK
 DTSTART:20260303T204500
 DTEND:20260303T224500
@@ -5504,6 +6056,39 @@ DESCRIPTION:Dir: EMILIE BLICHFELDT (2025)\nhttps://www.ifccenter.com/films
  /the-ugly-stepsister/
 LOCATION:IFC CENTER
 URL:https://www.ifccenter.com/films/the-ugly-stepsister/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matter of Britain @ MUSEUM OF MODERN ART
+DTSTART:20260304T163000
+DTEND:20260304T183000
+DESCRIPTION:Dir: PETER TREHERNE (2026)\nhttps://www.screenslate.com/series
+ /doc-fortnight-2026-momas-festival-international-nonfiction-film-and-media
+ -0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matter of Britain @ MUSEUM OF MODERN ART
+DTSTART:20260304T190000
+DTEND:20260304T210000
+DESCRIPTION:Dir: PETER TREHERNE (2026)\nhttps://www.screenslate.com/series
+ /doc-fortnight-2026-momas-festival-international-nonfiction-film-and-media
+ -0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Seasons @ MUSEUM OF MODERN ART
+DTSTART:20260304T190000
+DTEND:20260304T210000
+DESCRIPTION:Dir: MAUREEN FAZENDEIRO (2025)\nhttps://www.screenslate.com/se
+ ries/doc-fortnight-2026-momas-festival-international-nonfiction-film-and-m
+ edia-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hank's Saloon @ NITEHAWK CINEMA PROSPECT PARK
@@ -5634,6 +6219,59 @@ DESCRIPTION:Dir: JULIET JORDAN (2014)\nhttps://madmuseum.org/events/direct
  ors-screening-miriam-home-delivery
 LOCATION:MUSEUM OF ARTS AND DESIGN
 URL:https://madmuseum.org/events/directors-screening-miriam-home-delivery
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Narrative @ MUSEUM OF MODERN ART
+DTSTART:20260305T163000
+DTEND:20260305T183000
+DESCRIPTION:Dir: ANOCHA SUWICHAKORNPONG (2025)\nhttps://www.screenslate.co
+ m/series/doc-fortnight-2026-momas-festival-international-nonfiction-film-a
+ nd-media-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Narrative @ MUSEUM OF MODERN ART
+DTSTART:20260305T183000
+DTEND:20260305T203000
+DESCRIPTION:Dir: ANOCHA SUWICHAKORNPONG (2025)\nhttps://www.screenslate.co
+ m/series/doc-fortnight-2026-momas-festival-international-nonfiction-film-a
+ nd-media-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Narrative @ MUSEUM OF MODERN ART
+DTSTART:20260305T190000
+DTEND:20260305T210000
+DESCRIPTION:Dir: ANOCHA SUWICHAKORNPONG (2025)\nhttps://www.screenslate.co
+ m/series/doc-fortnight-2026-momas-festival-international-nonfiction-film-a
+ nd-media-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peacemaker @ MUSEUM OF MODERN ART
+DTSTART:20260305T183000
+DTEND:20260305T203000
+DESCRIPTION:Dir: IVAN RAMLJAK (2025)\nhttps://www.screenslate.com/series/d
+ oc-fortnight-2026-momas-festival-international-nonfiction-film-and-media-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Rib of the Greater Bay Area @ MUSEUM OF MODERN ART
+DTSTART:20260305T190000
+DTEND:20260305T210000
+DESCRIPTION:Dir: ZHOU TAO (2026)\nhttps://www.screenslate.com/series/doc-f
+ ortnight-2026-momas-festival-international-nonfiction-film-and-media-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Super Mario Bros. @ NITEHAWK CINEMA WILLIAMSBURG
@@ -5886,6 +6524,46 @@ DESCRIPTION:Dir: YASUJIRŌ OZU (1960)\nhttps://www.screenslate.com/series/
  john-and-miyoko-davey-classics
 LOCATION:JAPAN SOCIETY
 URL:https://www.screenslate.com/series/john-and-miyoko-davey-classics
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arnaud Desplechin presents Shoah @ L'ALLIANCE NEW YORK
+DTSTART:20260306T180000
+DTEND:20260306T200000
+DESCRIPTION:Dir: CLAUDE LANZMANN (1985)\nhttps://lallianceny.org/event/arn
+ aud-desplechin-presents-shoah/
+LOCATION:L'ALLIANCE NEW YORK
+URL:https://lallianceny.org/event/arnaud-desplechin-presents-shoah/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Rib of the Greater Bay Area @ MUSEUM OF MODERN ART
+DTSTART:20260306T163000
+DTEND:20260306T183000
+DESCRIPTION:Dir: ZHOU TAO (2026)\nhttps://www.screenslate.com/series/doc-f
+ ortnight-2026-momas-festival-international-nonfiction-film-and-media-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Rib of the Greater Bay Area @ MUSEUM OF MODERN ART
+DTSTART:20260306T190000
+DTEND:20260306T210000
+DESCRIPTION:Dir: ZHOU TAO (2026)\nhttps://www.screenslate.com/series/doc-f
+ ortnight-2026-momas-festival-international-nonfiction-film-and-media-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Vanishing Point @ MUSEUM OF MODERN ART
+DTSTART:20260306T190000
+DTEND:20260306T210000
+DESCRIPTION:Dir: BANI KHOSHNOUDI (2025)\nhttps://www.screenslate.com/serie
+ s/doc-fortnight-2026-momas-festival-international-nonfiction-film-and-medi
+ a-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mulholland Drive @ MUSEUM OF THE MOVING IMAGE
@@ -6191,6 +6869,75 @@ DESCRIPTION:Dir: ANDREW JARECKI\, CHARLOTTE KAUFMAN (2025)\nhttps://www.sc
  reenslate.com/series/oscar-nominated-feature-docs-2026
 LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
 URL:https://www.screenslate.com/series/oscar-nominated-feature-docs-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Donkey Skin @ L'ALLIANCE NEW YORK
+DTSTART:20260307T113000
+DTEND:20260307T133000
+DESCRIPTION:Dir: JACQUES DEMY (1970)\nhttps://lallianceny.org/event/donkey
+ -skin/
+LOCATION:L'ALLIANCE NEW YORK
+URL:https://lallianceny.org/event/donkey-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Donkey Skin @ L'ALLIANCE NEW YORK
+DTSTART:20260307T160000
+DTEND:20260307T180000
+DESCRIPTION:Dir: JACQUES DEMY (1970)\nhttps://lallianceny.org/event/donkey
+ -skin/
+LOCATION:L'ALLIANCE NEW YORK
+URL:https://lallianceny.org/event/donkey-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arnaud Desplechin presents Shoah @ L'ALLIANCE NEW YORK
+DTSTART:20260307T160000
+DTEND:20260307T180000
+DESCRIPTION:Dir: CLAUDE LANZMANN (1985)\nhttps://lallianceny.org/event/arn
+ aud-desplechin-presents-shoah/
+LOCATION:L'ALLIANCE NEW YORK
+URL:https://lallianceny.org/event/arnaud-desplechin-presents-shoah/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside the Yellow Cocoon Shell @ METROGRAPH
+DTSTART:20260307T120000
+DTEND:20260307T140000
+DESCRIPTION:Dir: THIEN AN PHAM (2023)\nhttps://www.screenslate.com/series/
+ currents-southeast-asian-cinema
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/currents-southeast-asian-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Vanishing Point @ MUSEUM OF MODERN ART
+DTSTART:20260307T140000
+DTEND:20260307T160000
+DESCRIPTION:Dir: The Vanishing Point (BANI KHOSHNOUDI)\nhttps://www.screen
+ slate.com/series/doc-fortnight-2026-momas-festival-international-nonfictio
+ n-film-and-media-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Vanishing Point @ MUSEUM OF MODERN ART
+DTSTART:20260307T143000
+DTEND:20260307T163000
+DESCRIPTION:Dir: The Vanishing Point (BANI KHOSHNOUDI)\nhttps://www.screen
+ slate.com/series/doc-fortnight-2026-momas-festival-international-nonfictio
+ n-film-and-media-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Vanishing Point @ MUSEUM OF MODERN ART
+DTSTART:20260307T163000
+DTEND:20260307T183000
+DESCRIPTION:Dir: The Vanishing Point (BANI KHOSHNOUDI)\nhttps://www.screen
+ slate.com/series/doc-fortnight-2026-momas-festival-international-nonfictio
+ n-film-and-media-0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mulholland Drive @ MUSEUM OF THE MOVING IMAGE
@@ -6534,6 +7281,68 @@ LOCATION:METROGRAPH
 URL:https://www.screenslate.com/series/days-being-maggie-cheung
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:In the Mood for Love @ METROGRAPH
+DTSTART:20260308T130000
+DTEND:20260308T150000
+DESCRIPTION:Dir: WONG KAR-WAI (2000)\nhttps://www.screenslate.com/series/d
+ ays-being-maggie-cheung
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/days-being-maggie-cheung
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nostalghia @ METROGRAPH
+DTSTART:20260308T130000
+DTEND:20260308T150000
+DESCRIPTION:Dir: ANDREI TARKOVSKY (1983)\nhttps://www.screenslate.com/seri
+ es/year-begins-silence
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/year-begins-silence
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Seasons @ MUSEUM OF MODERN ART
+DTSTART:20260308T140000
+DTEND:20260308T160000
+DESCRIPTION:Dir: 2:00PM* (The Seasons)\nhttps://www.screenslate.com/series
+ /doc-fortnight-2026-momas-festival-international-nonfiction-film-and-media
+ -0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Seasons @ MUSEUM OF MODERN ART
+DTSTART:20260308T143000
+DTEND:20260308T163000
+DESCRIPTION:Dir: 2:00PM* (The Seasons)\nhttps://www.screenslate.com/series
+ /doc-fortnight-2026-momas-festival-international-nonfiction-film-and-media
+ -0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Seasons @ MUSEUM OF MODERN ART
+DTSTART:20260308T163000
+DTEND:20260308T183000
+DESCRIPTION:Dir: 2:00PM* (The Seasons)\nhttps://www.screenslate.com/series
+ /doc-fortnight-2026-momas-festival-international-nonfiction-film-and-media
+ -0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EIGHT BRIDGES @ MUSEUM OF MODERN ART
+DTSTART:20260308T163000
+DTEND:20260308T183000
+DESCRIPTION:Dir: JAMES BENNING (2026)\nhttps://www.screenslate.com/series/
+ doc-fortnight-2026-momas-festival-international-nonfiction-film-and-media-
+ 0
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/doc-fortnight-2026-momas-festival-i
+ nternational-nonfiction-film-and-media-0
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Space is the Place @ MUSEUM OF THE MOVING IMAGE
 DTSTART:20260308T123000
 DTEND:20260308T143000
@@ -6851,961 +7660,6 @@ LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://www.screenslate.com/series/future-film-female-nitehawk-cinema
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A Body to Live In @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260310T183000
-DTEND:20260310T203000
-DESCRIPTION:Dir: ANGELO MADSEN (2025)\nhttps://www.anthologyfilmarchives.o
- rg/film_screenings/calendar?view=list&amp\;month=03&amp\;year=2026#showing
- -60878
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
- st&amp;month=03&amp;year=2026#showing-60878
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Body to Live In @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260310T210000
-DTEND:20260310T230000
-DESCRIPTION:Dir: ANGELO MADSEN (2025)\nhttps://www.anthologyfilmarchives.o
- rg/film_screenings/calendar?view=list&amp\;month=03&amp\;year=2026#showing
- -60878
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
- st&amp;month=03&amp;year=2026#showing-60878
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:To Sleep with Anger @ BAM
-DTSTART:20260310T190000
-DTEND:20260310T210000
-DESCRIPTION:Dir: CHARLES BURNETT (1990)\nhttps://www.screenslate.com/serie
- s/triple-canopy-presents-magic
-LOCATION:BAM
-URL:https://www.screenslate.com/series/triple-canopy-presents-magic
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:To Sleep with Anger @ BAM
-DTSTART:20260310T211500
-DTEND:20260310T231500
-DESCRIPTION:Dir: CHARLES BURNETT (1990)\nhttps://www.screenslate.com/serie
- s/triple-canopy-presents-magic
-LOCATION:BAM
-URL:https://www.screenslate.com/series/triple-canopy-presents-magic
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Object at Noon (Dokfa nai meuman) @ BAM
-DTSTART:20260310T211500
-DTEND:20260310T231500
-DESCRIPTION:Dir: APICHATPONG WEERASETHAKUL (2000)\nhttps://www.screenslate
- .com/series/triple-canopy-presents-magic
-LOCATION:BAM
-URL:https://www.screenslate.com/series/triple-canopy-presents-magic
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260310T123000
-DTEND:20260310T143000
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260310T150000
-DTEND:20260310T170000
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260310T173000
-DTEND:20260310T193000
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260310T200000
-DTEND:20260310T220000
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260310T124000
-DTEND:20260310T144000
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260310T144000
-DTEND:20260310T164000
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260310T164500
-DTEND:20260310T184500
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260310T184500
-DTEND:20260310T204500
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260310T204500
-DTEND:20260310T224500
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:André is an Idiot @ FILM FORUM
-DTSTART:20260310T124000
-DTEND:20260310T144000
-DESCRIPTION:Dir: TONY BENNA (2025)\nhttps://filmforum.org/film/andre-is-an
- -idiot
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/andre-is-an-idiot
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:André is an Idiot @ FILM FORUM
-DTSTART:20260310T144000
-DTEND:20260310T164000
-DESCRIPTION:Dir: TONY BENNA (2025)\nhttps://filmforum.org/film/andre-is-an
- -idiot
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/andre-is-an-idiot
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:André is an Idiot @ FILM FORUM
-DTSTART:20260310T164500
-DTEND:20260310T184500
-DESCRIPTION:Dir: TONY BENNA (2025)\nhttps://filmforum.org/film/andre-is-an
- -idiot
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/andre-is-an-idiot
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:André is an Idiot @ FILM FORUM
-DTSTART:20260310T184500
-DTEND:20260310T204500
-DESCRIPTION:Dir: TONY BENNA (2025)\nhttps://filmforum.org/film/andre-is-an
- -idiot
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/andre-is-an-idiot
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:André is an Idiot @ FILM FORUM
-DTSTART:20260310T204500
-DTEND:20260310T224500
-DESCRIPTION:Dir: TONY BENNA (2025)\nhttps://filmforum.org/film/andre-is-an
- -idiot
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/andre-is-an-idiot
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cutting Through Rocks @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY
-  FILM
-DTSTART:20260310T183000
-DTEND:20260310T203000
-DESCRIPTION:Dir: SARA KHAKI\, MOHAMMADREZA EYNI (2025)\nhttps://www.screen
- slate.com/series/oscar-nominated-feature-docs-2026
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.screenslate.com/series/oscar-nominated-feature-docs-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cutting Through Rocks @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY
-  FILM
-DTSTART:20260310T203000
-DTEND:20260310T223000
-DESCRIPTION:Dir: SARA KHAKI\, MOHAMMADREZA EYNI (2025)\nhttps://www.screen
- slate.com/series/oscar-nominated-feature-docs-2026
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.screenslate.com/series/oscar-nominated-feature-docs-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Come See Me in the Good Light @ FIREHOUSE: DCTV’S CINEMA FOR DOC
- UMENTARY FILM
-DTSTART:20260310T203000
-DTEND:20260310T223000
-DESCRIPTION:Dir: RYAN WHITE (2025)\nhttps://www.screenslate.com/series/osc
- ar-nominated-feature-docs-2026
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.screenslate.com/series/oscar-nominated-feature-docs-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Girls About Town @ NITEHAWK CINEMA PROSPECT PARK
-DTSTART:20260310T190000
-DTEND:20260310T210000
-DESCRIPTION:Dir: GEORGE CUKOR (1931)\nhttps://www.screenslate.com/series/p
- re-code-parade-nitehawk-cinema
-LOCATION:NITEHAWK CINEMA PROSPECT PARK
-URL:https://www.screenslate.com/series/pre-code-parade-nitehawk-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eternal Sunshine of the Spotless Mind @ NITEHAWK CINEMA WILLIAMSBU
- RG
-DTSTART:20260310T211500
-DTEND:20260310T231500
-DESCRIPTION:Dir: MICHEL GONDRY (2004)\nhttps://www.screenslate.com/series/
- femme-photographers-nitehawk-cinema
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://www.screenslate.com/series/femme-photographers-nitehawk-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Body to Live In @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260311T183000
-DTEND:20260311T203000
-DESCRIPTION:Dir: ANGELO MADSEN (2025)\nhttps://www.anthologyfilmarchives.o
- rg/film_screenings/calendar?view=list&amp\;month=03&amp\;year=2026#showing
- -60878
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
- st&amp;month=03&amp;year=2026#showing-60878
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Body to Live In @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260311T210000
-DTEND:20260311T230000
-DESCRIPTION:Dir: ANGELO MADSEN (2025)\nhttps://www.anthologyfilmarchives.o
- rg/film_screenings/calendar?view=list&amp\;month=03&amp\;year=2026#showing
- -60878
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
- st&amp;month=03&amp;year=2026#showing-60878
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:To Sleep with Anger @ BAM
-DTSTART:20260311T163000
-DTEND:20260311T183000
-DESCRIPTION:Dir: CHARLES BURNETT (1990)\nhttps://www.screenslate.com/serie
- s/triple-canopy-presents-magic
-LOCATION:BAM
-URL:https://www.screenslate.com/series/triple-canopy-presents-magic
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:To Sleep with Anger @ BAM
-DTSTART:20260311T190000
-DTEND:20260311T210000
-DESCRIPTION:Dir: CHARLES BURNETT (1990)\nhttps://www.screenslate.com/serie
- s/triple-canopy-presents-magic
-LOCATION:BAM
-URL:https://www.screenslate.com/series/triple-canopy-presents-magic
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:To Sleep with Anger @ BAM
-DTSTART:20260311T205000
-DTEND:20260311T225000
-DESCRIPTION:Dir: CHARLES BURNETT (1990)\nhttps://www.screenslate.com/serie
- s/triple-canopy-presents-magic
-LOCATION:BAM
-URL:https://www.screenslate.com/series/triple-canopy-presents-magic
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silvia Prieto @ BAM
-DTSTART:20260311T190000
-DTEND:20260311T210000
-DESCRIPTION:Dir: MARTÍN REJTMAN (1999)\nhttps://www.screenslate.com/serie
- s/cinema-tropical-25
-LOCATION:BAM
-URL:https://www.screenslate.com/series/cinema-tropical-25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gabbeh @ BAM
-DTSTART:20260311T190000
-DTEND:20260311T210000
-DESCRIPTION:Dir: MOHSEN MAKHMALBAF (1996)\nhttps://www.screenslate.com/ser
- ies/triple-canopy-presents-magic
-LOCATION:BAM
-URL:https://www.screenslate.com/series/triple-canopy-presents-magic
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Last Year at Marienbad @ BAM
-DTSTART:20260311T205000
-DTEND:20260311T225000
-DESCRIPTION:Dir: ALAIN RESNAIS (1961)\nhttps://www.screenslate.com/series/
- triple-canopy-presents-magic
-LOCATION:BAM
-URL:https://www.screenslate.com/series/triple-canopy-presents-magic
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260311T123000
-DTEND:20260311T143000
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260311T150000
-DTEND:20260311T170000
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260311T173000
-DTEND:20260311T193000
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260311T200000
-DTEND:20260311T220000
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260311T124000
-DTEND:20260311T144000
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260311T144000
-DTEND:20260311T164000
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260311T164500
-DTEND:20260311T184500
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260311T184500
-DTEND:20260311T204500
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260311T204500
-DTEND:20260311T224500
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:André is an Idiot @ FILM FORUM
-DTSTART:20260311T124000
-DTEND:20260311T144000
-DESCRIPTION:Dir: TONY BENNA (2025)\nhttps://filmforum.org/film/andre-is-an
- -idiot
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/andre-is-an-idiot
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:André is an Idiot @ FILM FORUM
-DTSTART:20260311T144000
-DTEND:20260311T164000
-DESCRIPTION:Dir: TONY BENNA (2025)\nhttps://filmforum.org/film/andre-is-an
- -idiot
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/andre-is-an-idiot
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:André is an Idiot @ FILM FORUM
-DTSTART:20260311T164500
-DTEND:20260311T184500
-DESCRIPTION:Dir: TONY BENNA (2025)\nhttps://filmforum.org/film/andre-is-an
- -idiot
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/andre-is-an-idiot
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:André is an Idiot @ FILM FORUM
-DTSTART:20260311T184500
-DTEND:20260311T204500
-DESCRIPTION:Dir: TONY BENNA (2025)\nhttps://filmforum.org/film/andre-is-an
- -idiot
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/andre-is-an-idiot
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:André is an Idiot @ FILM FORUM
-DTSTART:20260311T204500
-DTEND:20260311T224500
-DESCRIPTION:Dir: TONY BENNA (2025)\nhttps://filmforum.org/film/andre-is-an
- -idiot
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/andre-is-an-idiot
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY 
- FILM
-DTSTART:20260311T183000
-DTEND:20260311T203000
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.screenslate.com/series
- /oscar-nominated-feature-docs-2026
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.screenslate.com/series/oscar-nominated-feature-docs-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY 
- FILM
-DTSTART:20260311T203000
-DTEND:20260311T223000
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.screenslate.com/series
- /oscar-nominated-feature-docs-2026
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.screenslate.com/series/oscar-nominated-feature-docs-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mr. Nobody Against Putin @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENT
- ARY FILM
-DTSTART:20260311T203000
-DTEND:20260311T223000
-DESCRIPTION:Dir: PAVEL TALANKIN & DAVID BORENSTEIN (2025)\nhttps://www.scr
- eenslate.com/series/oscar-nominated-feature-docs-2026
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.screenslate.com/series/oscar-nominated-feature-docs-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Creed @ NITEHAWK CINEMA PROSPECT PARK
-DTSTART:20260311T211500
-DTEND:20260311T231500
-DESCRIPTION:Dir: RYAN COOGLER (2015)\nhttps://www.screenslate.com/series/f
- emme-photographers-nitehawk-cinema
-LOCATION:NITEHAWK CINEMA PROSPECT PARK
-URL:https://www.screenslate.com/series/femme-photographers-nitehawk-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Servant @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260311T191500
-DTEND:20260311T211500
-DESCRIPTION:Dir: JOSEPH LOSEY (1963)\nhttps://www.screenslate.com/series/m
- an-under-influence-63-days-stevens-selects-nitehawk-cinema
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://www.screenslate.com/series/man-under-influence-63-days-stevens
- -selects-nitehawk-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lioness (Emalõvi) @ SCANDINAVIA HOUSE
-DTSTART:20260311T190000
-DTEND:20260311T210000
-DESCRIPTION:Dir: LIINA TRISHKINA-VANHATALO (2024)\nhttps://www.screenslate
- .com/series/new-nordic-cinema
-LOCATION:SCANDINAVIA HOUSE
-URL:https://www.screenslate.com/series/new-nordic-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Serious Man @ 6 RIVER TERRACE
-DTSTART:20260312T183000
-DTEND:20260312T203000
-DESCRIPTION:Dir: JOEL COEN\, ETHAN COEN (2009)\nhttps://www.screenslate.co
- m/series/immigrant-stories
-LOCATION:6 RIVER TERRACE
-URL:https://www.screenslate.com/series/immigrant-stories
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Body to Live In @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260312T183000
-DTEND:20260312T203000
-DESCRIPTION:Dir: ANGELO MADSEN (2025)\nhttps://www.anthologyfilmarchives.o
- rg/film_screenings/calendar?view=list&amp\;month=03&amp\;year=2026#showing
- -60878
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
- st&amp;month=03&amp;year=2026#showing-60878
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Body to Live In @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260312T210000
-DTEND:20260312T230000
-DESCRIPTION:Dir: ANGELO MADSEN (2025)\nhttps://www.anthologyfilmarchives.o
- rg/film_screenings/calendar?view=list&amp\;month=03&amp\;year=2026#showing
- -60878
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
- st&amp;month=03&amp;year=2026#showing-60878
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Body to Live In @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260312T190000
-DTEND:20260312T210000
-DESCRIPTION:Dir: ANGELO MADSEN (2025)\nhttps://www.anthologyfilmarchives.o
- rg/film_screenings/calendar?view=list&amp\;month=03&amp\;year=2026#showing
- -60878
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
- st&amp;month=03&amp;year=2026#showing-60878
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ceija Stojka @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260312T190000
-DTEND:20260312T210000
-DESCRIPTION:Dir: KARIN BERGER (1999)\nhttps://www.anthologyfilmarchives.or
- g/film_screenings/calendar?view=list&amp\;month=03&amp\;year=2026#showing-
- 60913
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
- st&amp;month=03&amp;year=2026#showing-60913
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Object at Noon (Dokfa nai meuman) @ BAM
-DTSTART:20260312T170000
-DTEND:20260312T190000
-DESCRIPTION:Dir: APICHATPONG WEERASETHAKUL (2000)\nhttps://www.screenslate
- .com/series/triple-canopy-presents-magic
-LOCATION:BAM
-URL:https://www.screenslate.com/series/triple-canopy-presents-magic
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Object at Noon (Dokfa nai meuman) @ BAM
-DTSTART:20260312T190000
-DTEND:20260312T210000
-DESCRIPTION:Dir: APICHATPONG WEERASETHAKUL (2000)\nhttps://www.screenslate
- .com/series/triple-canopy-presents-magic
-LOCATION:BAM
-URL:https://www.screenslate.com/series/triple-canopy-presents-magic
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Object at Noon (Dokfa nai meuman) @ BAM
-DTSTART:20260312T211500
-DTEND:20260312T231500
-DESCRIPTION:Dir: APICHATPONG WEERASETHAKUL (2000)\nhttps://www.screenslate
- .com/series/triple-canopy-presents-magic
-LOCATION:BAM
-URL:https://www.screenslate.com/series/triple-canopy-presents-magic
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Legend of Suram Fortress @ BAM
-DTSTART:20260312T190000
-DTEND:20260312T210000
-DESCRIPTION:Dir: SERGEI PARAJANOV\, DODO ABASHIDZE (1985)\nhttps://www.scr
- eenslate.com/series/triple-canopy-presents-magic
-LOCATION:BAM
-URL:https://www.screenslate.com/series/triple-canopy-presents-magic
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Suspiria @ BAM
-DTSTART:20260312T211500
-DTEND:20260312T231500
-DESCRIPTION:Dir: DARIO ARGENTO (1977)\nhttps://www.screenslate.com/series/
- triple-canopy-presents-magic
-LOCATION:BAM
-URL:https://www.screenslate.com/series/triple-canopy-presents-magic
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260312T123000
-DTEND:20260312T143000
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260312T150000
-DTEND:20260312T170000
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260312T173000
-DTEND:20260312T193000
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260312T200000
-DTEND:20260312T220000
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260312T124000
-DTEND:20260312T144000
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260312T144000
-DTEND:20260312T164000
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260312T164500
-DTEND:20260312T184500
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260312T184500
-DTEND:20260312T204500
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260312T204500
-DTEND:20260312T224500
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:André is an Idiot @ FILM FORUM
-DTSTART:20260312T124000
-DTEND:20260312T144000
-DESCRIPTION:Dir: TONY BENNA (2025)\nhttps://filmforum.org/film/andre-is-an
- -idiot
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/andre-is-an-idiot
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:André is an Idiot @ FILM FORUM
-DTSTART:20260312T144000
-DTEND:20260312T164000
-DESCRIPTION:Dir: TONY BENNA (2025)\nhttps://filmforum.org/film/andre-is-an
- -idiot
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/andre-is-an-idiot
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:André is an Idiot @ FILM FORUM
-DTSTART:20260312T164500
-DTEND:20260312T184500
-DESCRIPTION:Dir: TONY BENNA (2025)\nhttps://filmforum.org/film/andre-is-an
- -idiot
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/andre-is-an-idiot
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:André is an Idiot @ FILM FORUM
-DTSTART:20260312T184500
-DTEND:20260312T204500
-DESCRIPTION:Dir: TONY BENNA (2025)\nhttps://filmforum.org/film/andre-is-an
- -idiot
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/andre-is-an-idiot
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:André is an Idiot @ FILM FORUM
-DTSTART:20260312T204500
-DTEND:20260312T224500
-DESCRIPTION:Dir: TONY BENNA (2025)\nhttps://filmforum.org/film/andre-is-an
- -idiot
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/andre-is-an-idiot
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Alabama Solution @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY 
- FILM
-DTSTART:20260312T180000
-DTEND:20260312T200000
-DESCRIPTION:Dir: ANDREW JARECKI\, CHARLOTTE KAUFMAN (2025)\nhttps://www.sc
- reenslate.com/series/oscar-nominated-feature-docs-2026
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.screenslate.com/series/oscar-nominated-feature-docs-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Alabama Solution @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY 
- FILM
-DTSTART:20260312T203000
-DTEND:20260312T223000
-DESCRIPTION:Dir: ANDREW JARECKI\, CHARLOTTE KAUFMAN (2025)\nhttps://www.sc
- reenslate.com/series/oscar-nominated-feature-docs-2026
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.screenslate.com/series/oscar-nominated-feature-docs-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Perfect Neighbor @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY 
- FILM
-DTSTART:20260312T203000
-DTEND:20260312T223000
-DESCRIPTION:Dir: GEETA GANDBHIR (2025)\nhttps://www.screenslate.com/series
- /oscar-nominated-feature-docs-2026
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.screenslate.com/series/oscar-nominated-feature-docs-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night of the Living Dead @ IFC CENTER
-DTSTART:20260312T190000
-DTEND:20260312T210000
-DESCRIPTION:Dir: GEORGE A. ROMERO (1968)\nhttps://www.ifccenter.com/films/
- night-of-the-living-dead-x-partially-devoured/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/night-of-the-living-dead-x-partially-d
- evoured/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dirty Difficult Dangerous @ NITEHAWK CINEMA PROSPECT PARK
-DTSTART:20260312T190000
-DTEND:20260312T210000
-DESCRIPTION:Dir: WISSAM CHARAF (2022)\nhttps://www.screenslate.com/series/
- cinema-arabiyya-nitehawk-cinema
-LOCATION:NITEHAWK CINEMA PROSPECT PARK
-URL:https://www.screenslate.com/series/cinema-arabiyya-nitehawk-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Laserblast @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260312T213000
-DTEND:20260312T233000
-DESCRIPTION:Dir: MICHAEL RAE (1978)\nhttps://www.screenslate.com/series/de
- uce-nitehawk-cinema
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://www.screenslate.com/series/deuce-nitehawk-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moi-même @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260313T181500
-DTEND:20260313T201500
-DESCRIPTION:Dir: JAMES BROUGHTON (1946)\nhttps://www.screenslate.com/serie
- s/essential-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/essential-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moi-même @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260313T183000
-DTEND:20260313T203000
-DESCRIPTION:Dir: JAMES BROUGHTON (1946)\nhttps://www.screenslate.com/serie
- s/essential-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/essential-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moi-même @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260313T201500
-DTEND:20260313T221500
-DESCRIPTION:Dir: JAMES BROUGHTON (1946)\nhttps://www.screenslate.com/serie
- s/essential-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/essential-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moi-même @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260313T204500
-DTEND:20260313T224500
-DESCRIPTION:Dir: JAMES BROUGHTON (1946)\nhttps://www.screenslate.com/serie
- s/essential-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/essential-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Red Horse Animation @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260313T204500
-DTEND:20260313T224500
-DESCRIPTION:Dir: LEE BREUER (1974)\nhttps://www.screenslate.com/series/mab
- ou-mines-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/mabou-mines-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pulse @ MUSEUM OF THE MOVING IMAGE
-DTSTART:20260313T190000
-DTEND:20260313T210000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2001)\nhttps://www.screenslate.com/seri
- es/2001-year-not-movie
-LOCATION:MUSEUM OF THE MOVING IMAGE
-URL:https://www.screenslate.com/series/2001-year-not-movie
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:www.RachelOrmont.com @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260313T235500
-DTEND:20260314T015500
-DESCRIPTION:Dir: PETER VACK (2024)\nhttps://nitehawkcinema.com/williamsbur
- g/movies/www-rachelormont-com/
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://nitehawkcinema.com/williamsburg/movies/www-rachelormont-com/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Misery @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260313T235500
-DTEND:20260314T015500
-DESCRIPTION:Dir: ROB REINER (1990)\nhttps://nitehawkcinema.com/williamsbur
- g/movies/misery/
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://nitehawkcinema.com/williamsburg/movies/misery/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Works and Days (of Tayoko Shiojiri in the Shiotani Basin) @ AN
- THOLOGY FILM ARCHIVES
-DTSTART:20260314T123000
-DTEND:20260314T143000
-DESCRIPTION:Dir: C.W. WINTER\, ANDERS EDSTRÖM (2020)\nhttps://www.antholo
- gyfilmarchives.org/film_screenings/calendar?view=list&amp\;month=03&amp\;y
- ear=2026#showing-60916
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
- st&amp;month=03&amp;year=2026#showing-60916
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Works and Days (of Tayoko Shiojiri in the Shiotani Basin) @ AN
- THOLOGY FILM ARCHIVES
-DTSTART:20260314T160000
-DTEND:20260314T180000
-DESCRIPTION:Dir: C.W. WINTER\, ANDERS EDSTRÖM (2020)\nhttps://www.antholo
- gyfilmarchives.org/film_screenings/calendar?view=list&amp\;month=03&amp\;y
- ear=2026#showing-60916
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
- st&amp;month=03&amp;year=2026#showing-60916
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Works and Days (of Tayoko Shiojiri in the Shiotani Basin) @ AN
- THOLOGY FILM ARCHIVES
-DTSTART:20260314T201500
-DTEND:20260314T221500
-DESCRIPTION:Dir: C.W. WINTER\, ANDERS EDSTRÖM (2020)\nhttps://www.antholo
- gyfilmarchives.org/film_screenings/calendar?view=list&amp\;month=03&amp\;y
- ear=2026#showing-60916
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
- st&amp;month=03&amp;year=2026#showing-60916
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mabou Mines' Lear '87 Archive @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260314T160000
-DTEND:20260314T180000
-DESCRIPTION:Dir: JILL GODMILOW (2001)\nhttps://www.screenslate.com/series/
- mabou-mines-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/mabou-mines-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Far from Poland @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260314T201500
-DTEND:20260314T221500
-DESCRIPTION:Dir: JILL GODMILOW (1984)\nhttps://www.screenslate.com/series/
- mabou-mines-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/mabou-mines-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fat Girl @ MUSEUM OF THE MOVING IMAGE
-DTSTART:20260314T180000
-DTEND:20260314T200000
-DESCRIPTION:Dir: CATHERINE BREILLAT (2001)\nhttps://www.screenslate.com/se
- ries/2001-year-not-movie
-LOCATION:MUSEUM OF THE MOVING IMAGE
-URL:https://www.screenslate.com/series/2001-year-not-movie
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Madonna: Truth or Dare @ NITEHAWK CINEMA PROSPECT PARK
-DTSTART:20260314T120000
-DTEND:20260314T140000
-DESCRIPTION:Dir: ALEK KESHISHIAN (1991)\nhttps://www.screenslate.com/serie
- s/anniversary-party-nitehawk-cinema
-LOCATION:NITEHAWK CINEMA PROSPECT PARK
-URL:https://www.screenslate.com/series/anniversary-party-nitehawk-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Madonna: Truth or Dare @ NITEHAWK CINEMA PROSPECT PARK
-DTSTART:20260314T121500
-DTEND:20260314T141500
-DESCRIPTION:Dir: ALEK KESHISHIAN (1991)\nhttps://www.screenslate.com/serie
- s/anniversary-party-nitehawk-cinema
-LOCATION:NITEHAWK CINEMA PROSPECT PARK
-URL:https://www.screenslate.com/series/anniversary-party-nitehawk-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dope @ NITEHAWK CINEMA PROSPECT PARK
-DTSTART:20260314T121500
-DTEND:20260314T141500
-DESCRIPTION:Dir: RICK FAMUYIWA (2015)\nhttps://www.screenslate.com/series/
- femme-photographers-nitehawk-cinema
-LOCATION:NITEHAWK CINEMA PROSPECT PARK
-URL:https://www.screenslate.com/series/femme-photographers-nitehawk-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Happy Feet @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260314T110000
-DTEND:20260314T130000
-DESCRIPTION:Dir: GEORGE MILLER (2006)\nhttps://www.screenslate.com/series/
- anniversary-party-nitehawk-cinema
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://www.screenslate.com/series/anniversary-party-nitehawk-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Happy Feet @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260314T111500
-DTEND:20260314T131500
-DESCRIPTION:Dir: GEORGE MILLER (2006)\nhttps://www.screenslate.com/series/
- anniversary-party-nitehawk-cinema
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://www.screenslate.com/series/anniversary-party-nitehawk-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jawbreaker @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260314T111500
-DTEND:20260314T131500
-DESCRIPTION:Dir: DARREN STEIN (1999)\nhttps://www.screenslate.com/series/f
- emme-photographers-nitehawk-cinema
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://www.screenslate.com/series/femme-photographers-nitehawk-cinema
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Works and Days (of Tayoko Shiojiri in the Shiotani Basin) @ AN
  THOLOGY FILM ARCHIVES
 DTSTART:20260315T123000
@@ -7860,6 +7714,56 @@ LOCATION:ANTHOLOGY FILM ARCHIVES
 URL:https://www.screenslate.com/series/mabou-mines-cinema
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Kingdom’s Stone @ BAM
+DTSTART:20260315T140000
+DTEND:20260315T160000
+DESCRIPTION:Dir: LUIZ FERNANDO CARVALHO (2008)\nhttps://www.screenslate.co
+ m/series/may-your-eyes-be-blessed-film-and-tv-work-luiz-fernando-carvalho
+LOCATION:BAM
+URL:https://www.screenslate.com/series/may-your-eyes-be-blessed-film-and-t
+ v-work-luiz-fernando-carvalho
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Kingdom’s Stone @ BAM
+DTSTART:20260315T184500
+DTEND:20260315T204500
+DESCRIPTION:Dir: LUIZ FERNANDO CARVALHO (2008)\nhttps://www.screenslate.co
+ m/series/may-your-eyes-be-blessed-film-and-tv-work-luiz-fernando-carvalho
+LOCATION:BAM
+URL:https://www.screenslate.com/series/may-your-eyes-be-blessed-film-and-t
+ v-work-luiz-fernando-carvalho
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Kingdom’s Stone @ BAM
+DTSTART:20260315T213000
+DTEND:20260315T233000
+DESCRIPTION:Dir: LUIZ FERNANDO CARVALHO (2008)\nhttps://www.screenslate.co
+ m/series/may-your-eyes-be-blessed-film-and-tv-work-luiz-fernando-carvalho
+LOCATION:BAM
+URL:https://www.screenslate.com/series/may-your-eyes-be-blessed-film-and-t
+ v-work-luiz-fernando-carvalho
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Passion According to G.H. @ BAM
+DTSTART:20260315T184500
+DTEND:20260315T204500
+DESCRIPTION:Dir: LUIZ FERNANDO CARVALHO (2024)\nhttps://www.screenslate.co
+ m/series/may-your-eyes-be-blessed-film-and-tv-work-luiz-fernando-carvalho
+LOCATION:BAM
+URL:https://www.screenslate.com/series/may-your-eyes-be-blessed-film-and-t
+ v-work-luiz-fernando-carvalho
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:King Lear @ BAM
+DTSTART:20260315T213000
+DTEND:20260315T233000
+DESCRIPTION:Dir: PETER BROOK (1971)\nhttps://www.screenslate.com/series/ma
+ y-your-eyes-be-blessed-film-and-tv-work-luiz-fernando-carvalho
+LOCATION:BAM
+URL:https://www.screenslate.com/series/may-your-eyes-be-blessed-film-and-t
+ v-work-luiz-fernando-carvalho
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Bellboy @ FILM FORUM
 DTSTART:20260315T110000
 DTEND:20260315T130000
@@ -7878,76 +7782,22 @@ LOCATION:MUSEUM OF THE MOVING IMAGE
 URL:https://www.screenslate.com/series/2001-year-not-movie
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Other Children @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260316T190000
-DTEND:20260316T210000
-DESCRIPTION:Dir: JOANNE AKILITIS (1979)\nhttps://www.screenslate.com/serie
- s/mabou-mines-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/mabou-mines-cinema
+SUMMARY:The Royal Tenenbaums @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260315T150000
+DTEND:20260315T170000
+DESCRIPTION:Dir: WES ANDERSON (2001)\nhttps://www.screenslate.com/series/2
+ 001-year-not-movie
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://www.screenslate.com/series/2001-year-not-movie
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Summer School\, 2001 @ CZECH CENTER
-DTSTART:20260316T190000
-DTEND:20260316T210000
-DESCRIPTION:Dir: DUŽAN DUONG (2025)\nhttps://new-york.czechcentres.cz/en/
- program/letni-skola-2001
-LOCATION:CZECH CENTER
-URL:https://new-york.czechcentres.cz/en/program/letni-skola-2001
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bellboy @ FILM FORUM
-DTSTART:20260316T180000
-DTEND:20260316T200000
-DESCRIPTION:Dir: JERRY LEWIS (1960)\nhttps://filmforum.org/film/the-bellbo
- y-ffjr-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-bellboy-ffjr-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bellboy @ FILM FORUM
-DTSTART:20260316T200000
-DTEND:20260316T220000
-DESCRIPTION:Dir: JERRY LEWIS (1960)\nhttps://filmforum.org/film/the-bellbo
- y-ffjr-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-bellboy-ffjr-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Money from Home @ FILM FORUM
-DTSTART:20260316T200000
-DTEND:20260316T220000
-DESCRIPTION:Dir: GEORGE MARSHALL (1953)\nhttps://filmforum.org/film/money-
- from-home
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/money-from-home
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Good Hot Stuff @ IFC CENTER
-DTSTART:20260316T190000
-DTEND:20260316T210000
-DESCRIPTION:Dir: TOM DESIMONE\, JACK DEVEAU\, ROBERT ALVAREZ (1975)\nhttps
- ://www.screenslate.com/series/cruising-movies-2026
-LOCATION:IFC CENTER
-URL:https://www.screenslate.com/series/cruising-movies-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dope @ NITEHAWK CINEMA PROSPECT PARK
-DTSTART:20260316T204500
-DTEND:20260316T224500
-DESCRIPTION:Dir: RICK FAMUYIWA (2015)\nhttps://www.screenslate.com/series/
- femme-photographers-nitehawk-cinema
-LOCATION:NITEHAWK CINEMA PROSPECT PARK
-URL:https://www.screenslate.com/series/femme-photographers-nitehawk-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resurrection of Eve @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260316T213000
-DTEND:20260316T233000
-DESCRIPTION:Dir: ARTIE MITCHELL\, JON FONTANA (1973)\nhttps://www.screensl
- ate.com/series/skin-deep-nitehawk-cinema
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://www.screenslate.com/series/skin-deep-nitehawk-cinema
+SUMMARY:Wishbone @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260315T150000
+DTEND:20260315T170000
+DESCRIPTION:Dir: PENNY PANAYOTOPOULOU (2024)\nhttps://www.screenslate.com/
+ series/always-sunday-greek-film-series
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://www.screenslate.com/series/always-sunday-greek-film-series
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Far from Poland @ ANTHOLOGY FILM ARCHIVES
@@ -7959,6 +7809,55 @@ LOCATION:ANTHOLOGY FILM ARCHIVES
 URL:https://www.screenslate.com/series/mabou-mines-cinema
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Passion According to G.H. @ BAM
+DTSTART:20260317T184500
+DTEND:20260317T204500
+DESCRIPTION:Dir: LUIZ FERNANDO CARVALHO (2024)\nhttps://www.screenslate.co
+ m/series/may-your-eyes-be-blessed-film-and-tv-work-luiz-fernando-carvalho
+LOCATION:BAM
+URL:https://www.screenslate.com/series/may-your-eyes-be-blessed-film-and-t
+ v-work-luiz-fernando-carvalho
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Passion According to G.H. @ BAM
+DTSTART:20260317T213000
+DTEND:20260317T233000
+DESCRIPTION:Dir: LUIZ FERNANDO CARVALHO (2024)\nhttps://www.screenslate.co
+ m/series/may-your-eyes-be-blessed-film-and-tv-work-luiz-fernando-carvalho
+LOCATION:BAM
+URL:https://www.screenslate.com/series/may-your-eyes-be-blessed-film-and-t
+ v-work-luiz-fernando-carvalho
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iracema @ BAM
+DTSTART:20260317T213000
+DTEND:20260317T233000
+DESCRIPTION:Dir: ORLANDO SENNA\, JORGE BODANZKY (1975)\nhttps://www.screen
+ slate.com/series/may-your-eyes-be-blessed-film-and-tv-work-luiz-fernando-c
+ arvalho
+LOCATION:BAM
+URL:https://www.screenslate.com/series/may-your-eyes-be-blessed-film-and-t
+ v-work-luiz-fernando-carvalho
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spotlight on a Murderer @ L'ALLIANCE NEW YORK
+DTSTART:20260317T160000
+DTEND:20260317T180000
+DESCRIPTION:Dir: GEORGES FRANJU (1961)\nhttps://www.screenslate.com/series
+ /fantastic-realism-georges-franju
+LOCATION:L'ALLIANCE NEW YORK
+URL:https://www.screenslate.com/series/fantastic-realism-georges-franju
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spotlight on a Murderer @ L'ALLIANCE NEW YORK
+DTSTART:20260317T190000
+DTEND:20260317T210000
+DESCRIPTION:Dir: GEORGES FRANJU (1961)\nhttps://www.screenslate.com/series
+ /fantastic-realism-georges-franju
+LOCATION:L'ALLIANCE NEW YORK
+URL:https://www.screenslate.com/series/fantastic-realism-georges-franju
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jawbreaker @ NITEHAWK CINEMA WILLIAMSBURG
 DTSTART:20260317T213000
 DTEND:20260317T233000
@@ -7966,61 +7865,6 @@ DESCRIPTION:Dir: DARREN STEIN (1999)\nhttps://www.screenslate.com/series/f
  emme-photographers-nitehawk-cinema
 LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://www.screenslate.com/series/femme-photographers-nitehawk-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moi-même @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260318T183000
-DTEND:20260318T203000
-DESCRIPTION:Dir: MOJO LORWIN\, LEE BREUER (1968/2024)\nhttps://www.screens
- late.com/series/mabou-mines-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/mabou-mines-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moi-même @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260318T190000
-DTEND:20260318T210000
-DESCRIPTION:Dir: MOJO LORWIN\, LEE BREUER (1968/2024)\nhttps://www.screens
- late.com/series/mabou-mines-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/mabou-mines-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moi-même @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260318T203000
-DTEND:20260318T223000
-DESCRIPTION:Dir: MOJO LORWIN\, LEE BREUER (1968/2024)\nhttps://www.screens
- late.com/series/mabou-mines-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/mabou-mines-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Red Horse Animation @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260318T203000
-DTEND:20260318T223000
-DESCRIPTION:Dir: LEE BREUER (1974)\nhttps://www.screenslate.com/series/mab
- ou-mines-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/mabou-mines-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jaws @ NITEHAWK CINEMA PROSPECT PARK
-DTSTART:20260318T191500
-DTEND:20260318T211500
-DESCRIPTION:Dir: STEVEN SPIELBERG (1975)\nhttps://www.screenslate.com/seri
- es/man-under-influence-63-days-stevens-selects-nitehawk-cinema
-LOCATION:NITEHAWK CINEMA PROSPECT PARK
-URL:https://www.screenslate.com/series/man-under-influence-63-days-stevens
- -selects-nitehawk-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mother of Snow Cranes @ SCANDINAVIA HOUSE
-DTSTART:20260318T190000
-DTEND:20260318T210000
-DESCRIPTION:Dir: IIRIS HÄRMÄ (2024)\nhttps://www.screenslate.com/series/
- new-nordic-cinema
-LOCATION:SCANDINAVIA HOUSE
-URL:https://www.screenslate.com/series/new-nordic-cinema
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Ladies Man @ ANTHOLOGY FILM ARCHIVES
@@ -8070,6 +7914,36 @@ DESCRIPTION:Dir: JEAN-PIERRE GORIN\, JEAN-LUC GODARD (1972)\nhttps://www.s
 LOCATION:ANTHOLOGY FILM ARCHIVES
 URL:https://www.screenslate.com/series/metaphysics-pratfall-jerry-lewis-an
  d-jean-luc-godard
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Passion According to G.H. @ BAM
+DTSTART:20260319T184500
+DTEND:20260319T204500
+DESCRIPTION:Dir: LUIZ FERNANDO CARVALHO (2024)\nhttps://www.screenslate.co
+ m/series/may-your-eyes-be-blessed-film-and-tv-work-luiz-fernando-carvalho
+LOCATION:BAM
+URL:https://www.screenslate.com/series/may-your-eyes-be-blessed-film-and-t
+ v-work-luiz-fernando-carvalho
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Passion According to G.H. @ BAM
+DTSTART:20260319T213000
+DTEND:20260319T233000
+DESCRIPTION:Dir: LUIZ FERNANDO CARVALHO (2024)\nhttps://www.screenslate.co
+ m/series/may-your-eyes-be-blessed-film-and-tv-work-luiz-fernando-carvalho
+LOCATION:BAM
+URL:https://www.screenslate.com/series/may-your-eyes-be-blessed-film-and-t
+ v-work-luiz-fernando-carvalho
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:India Song @ BAM
+DTSTART:20260319T213000
+DTEND:20260319T233000
+DESCRIPTION:Dir: MARGUERITE DURAS (1975)\nhttps://www.screenslate.com/seri
+ es/may-your-eyes-be-blessed-film-and-tv-work-luiz-fernando-carvalho
+LOCATION:BAM
+URL:https://www.screenslate.com/series/may-your-eyes-be-blessed-film-and-t
+ v-work-luiz-fernando-carvalho
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dead Lover @ IFC CENTER
@@ -8185,6 +8059,24 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/two-prosecutors
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Franju Shorts @ L'ALLIANCE NEW YORK
+DTSTART:20260320T160000
+DTEND:20260320T180000
+DESCRIPTION:Dir: GEORGES FRANJU (95M)\nhttps://www.screenslate.com/series/
+ fantastic-realism-georges-franju
+LOCATION:L'ALLIANCE NEW YORK
+URL:https://www.screenslate.com/series/fantastic-realism-georges-franju
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Franju Shorts @ L'ALLIANCE NEW YORK
+DTSTART:20260320T190000
+DTEND:20260320T210000
+DESCRIPTION:Dir: GEORGES FRANJU (95M)\nhttps://www.screenslate.com/series/
+ fantastic-realism-georges-franju
+LOCATION:L'ALLIANCE NEW YORK
+URL:https://www.screenslate.com/series/fantastic-realism-georges-franju
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Royal Tenenbaums @ MUSEUM OF THE MOVING IMAGE
 DTSTART:20260320T183000
 DTEND:20260320T203000
@@ -8192,6 +8084,15 @@ DESCRIPTION:Dir: WES ANDERSON (2001)\nhttps://www.screenslate.com/series/2
  001-year-not-movie
 LOCATION:MUSEUM OF THE MOVING IMAGE
 URL:https://www.screenslate.com/series/2001-year-not-movie
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Night of the Creeps @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260320T235500
+DTEND:20260321T015500
+DESCRIPTION:Dir: FRED DEKKER (1986)\nhttps://nitehawkcinema.com/williamsbu
+ rg/movies/night-of-the-creeps/
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://nitehawkcinema.com/williamsburg/movies/night-of-the-creeps/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hollywood or Bust @ ANTHOLOGY FILM ARCHIVES
@@ -8634,193 +8535,5 @@ DESCRIPTION:Dir: CÉLINE SCIAMMA (2019)\nhttps://www.screenslate.com/serie
  s/femme-photographers-nitehawk-cinema
 LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://www.screenslate.com/series/femme-photographers-nitehawk-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Nutty Professor @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260323T183000
-DTEND:20260323T203000
-DESCRIPTION:Dir: JERRY LEWIS (1963)\nhttps://www.screenslate.com/series/me
- taphysics-pratfall-jerry-lewis-and-jean-luc-godard
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/metaphysics-pratfall-jerry-lewis-an
- d-jean-luc-godard
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Nutty Professor @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260323T211500
-DTEND:20260323T231500
-DESCRIPTION:Dir: JERRY LEWIS (1963)\nhttps://www.screenslate.com/series/me
- taphysics-pratfall-jerry-lewis-and-jean-luc-godard
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/metaphysics-pratfall-jerry-lewis-an
- d-jean-luc-godard
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nouvelle Vague @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260323T211500
-DTEND:20260323T231500
-DESCRIPTION:Dir: JEAN-LUC GODARD (1990)\nhttps://www.screenslate.com/serie
- s/metaphysics-pratfall-jerry-lewis-and-jean-luc-godard
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/metaphysics-pratfall-jerry-lewis-an
- d-jean-luc-godard
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Two Prosecutors @ FILM FORUM
-DTSTART:20260323T122000
-DTEND:20260323T142000
-DESCRIPTION:Dir: SERGEI LOZNITSA (2025)\nhttps://filmforum.org/film/two-pr
- osecutors
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/two-prosecutors
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Two Prosecutors @ FILM FORUM
-DTSTART:20260323T150000
-DTEND:20260323T170000
-DESCRIPTION:Dir: SERGEI LOZNITSA (2025)\nhttps://filmforum.org/film/two-pr
- osecutors
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/two-prosecutors
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Two Prosecutors @ FILM FORUM
-DTSTART:20260323T173000
-DTEND:20260323T193000
-DESCRIPTION:Dir: SERGEI LOZNITSA (2025)\nhttps://filmforum.org/film/two-pr
- osecutors
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/two-prosecutors
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Two Prosecutors @ FILM FORUM
-DTSTART:20260323T200000
-DTEND:20260323T220000
-DESCRIPTION:Dir: SERGEI LOZNITSA (2025)\nhttps://filmforum.org/film/two-pr
- osecutors
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/two-prosecutors
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Headless Woman @ NITEHAWK CINEMA PROSPECT PARK
-DTSTART:20260323T210000
-DTEND:20260323T230000
-DESCRIPTION:Dir: LUCRECIA MARTEL (2008)\nhttps://www.screenslate.com/serie
- s/femme-photographers-nitehawk-cinema
-LOCATION:NITEHAWK CINEMA PROSPECT PARK
-URL:https://www.screenslate.com/series/femme-photographers-nitehawk-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shattered Glass @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260323T213000
-DTEND:20260323T233000
-DESCRIPTION:Dir: BILLY RAY (2003)\nhttps://www.screenslate.com/series/femm
- e-photographers-nitehawk-cinema
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://www.screenslate.com/series/femme-photographers-nitehawk-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smorgasbord @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260324T184500
-DTEND:20260324T204500
-DESCRIPTION:Dir: JERRY LEWIS (1983)\nhttps://www.screenslate.com/series/me
- taphysics-pratfall-jerry-lewis-and-jean-luc-godard
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/metaphysics-pratfall-jerry-lewis-an
- d-jean-luc-godard
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smorgasbord @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260324T190000
-DTEND:20260324T210000
-DESCRIPTION:Dir: JERRY LEWIS (1983)\nhttps://www.screenslate.com/series/me
- taphysics-pratfall-jerry-lewis-and-jean-luc-godard
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/metaphysics-pratfall-jerry-lewis-an
- d-jean-luc-godard
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smorgasbord @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260324T203000
-DTEND:20260324T223000
-DESCRIPTION:Dir: JERRY LEWIS (1983)\nhttps://www.screenslate.com/series/me
- taphysics-pratfall-jerry-lewis-and-jean-luc-godard
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/metaphysics-pratfall-jerry-lewis-an
- d-jean-luc-godard
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smorgasbord @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260324T210000
-DTEND:20260324T230000
-DESCRIPTION:Dir: JERRY LEWIS (1983)\nhttps://www.screenslate.com/series/me
- taphysics-pratfall-jerry-lewis-and-jean-luc-godard
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/metaphysics-pratfall-jerry-lewis-an
- d-jean-luc-godard
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wavelength @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260324T190000
-DTEND:20260324T210000
-DESCRIPTION:Dir: MICHAEL SNOW (1967)\nhttps://www.screenslate.com/series/e
- ssential-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/essential-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:<---> (Back and Forth) @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260324T203000
-DTEND:20260324T223000
-DESCRIPTION:Dir: MICHAEL SNOW (1969)\nhttps://www.screenslate.com/series/e
- ssential-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/essential-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Keep Your Right Up / Soigne Ta Droite @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260324T210000
-DTEND:20260324T230000
-DESCRIPTION:Dir: JEAN-LUC GODARD (1987)\nhttps://www.screenslate.com/serie
- s/metaphysics-pratfall-jerry-lewis-and-jean-luc-godard
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/metaphysics-pratfall-jerry-lewis-an
- d-jean-luc-godard
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Two Prosecutors @ FILM FORUM
-DTSTART:20260324T122000
-DTEND:20260324T142000
-DESCRIPTION:Dir: SERGEI LOZNITSA (2025)\nhttps://filmforum.org/film/two-pr
- osecutors
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/two-prosecutors
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Two Prosecutors @ FILM FORUM
-DTSTART:20260324T150000
-DTEND:20260324T170000
-DESCRIPTION:Dir: SERGEI LOZNITSA (2025)\nhttps://filmforum.org/film/two-pr
- osecutors
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/two-prosecutors
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Two Prosecutors @ FILM FORUM
-DTSTART:20260324T173000
-DTEND:20260324T193000
-DESCRIPTION:Dir: SERGEI LOZNITSA (2025)\nhttps://filmforum.org/film/two-pr
- osecutors
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/two-prosecutors
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Two Prosecutors @ FILM FORUM
-DTSTART:20260324T200000
-DTEND:20260324T220000
-DESCRIPTION:Dir: SERGEI LOZNITSA (2025)\nhttps://filmforum.org/film/two-pr
- osecutors
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/two-prosecutors
 END:VEVENT
 END:VCALENDAR
