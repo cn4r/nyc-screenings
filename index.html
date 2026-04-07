@@ -1,905 +1,387 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>NYC Movie Ledger</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body { font-family: "Times New Roman", serif; background: #fafafa; color: #000;
+               max-width: 1400px; margin: 40px auto; padding: 20px; }
+        h1 { border-bottom: 3px solid #000; text-transform: uppercase;
+              letter-spacing: 3px; padding-bottom: 10px; }
+        .subtitle { color: #666; font-style: italic; margin-bottom: 20px; }
+        .controls { margin-bottom: 30px; padding: 20px; background: #fff; border: 2px solid #000; }
+        .search-bar { width: 100%; padding: 12px; border: 2px solid #000; font-family: inherit;
+                       font-size: 1.1em; margin-bottom: 15px; box-sizing: border-box; }
+        .search-bar:focus { outline: none; border-color: #d32f2f; }
+        .filters { display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr; gap: 15px; }
+        .filter-group { display: flex; flex-direction: column; }
+        .filter-group label { font-weight: bold; margin-bottom: 5px; text-transform: uppercase;
+                               font-size: 0.9em; letter-spacing: 1px; }
+        select, input[type="time"] { padding: 8px; border: 2px solid #000; font-family: inherit; font-size: 1em; }
+        select[multiple] { min-height: 120px; }
+        .day-checkboxes { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 5px; }
+        .day-checkbox { display: flex; align-items: center; gap: 5px; padding: 6px 10px;
+                         border: 2px solid #000; cursor: pointer; transition: all 0.2s;
+                         background: #fff; font-size: 0.9em; }
+        .day-checkbox:hover { background: #f0f0f0; }
+        .day-checkbox input[type="checkbox"] { cursor: pointer; }
+        .day-checkbox.checked { background: #d32f2f; color: #fff; border-color: #d32f2f; }
+        .filter-hint { font-size: 0.75em; color: #999; font-style: italic; margin-top: 3px; }
+        .time-filter { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-top: 5px; }
+        .time-filter-text { font-size: 0.95em; white-space: nowrap; }
+        .time-filter input[type="time"] { width: 110px; }
 
-    <!DOCTYPE html>
-    <html>
-    <head>
-        <title>NYC Movie Ledger</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <style>
-            body { 
-                font-family: "Times New Roman", serif; 
-                background: #fafafa; 
-                color: #000; 
-                max-width: 1400px; 
-                margin: 40px auto; 
-                padding: 20px; 
-            }
-            h1 { 
-                border-bottom: 3px solid #000; 
-                text-transform: uppercase; 
-                letter-spacing: 3px; 
-                padding-bottom: 10px;
-            }
-            .subtitle {
-                color: #666;
-                font-style: italic;
-                margin-bottom: 20px;
-            }
-            .controls { 
-                margin-bottom: 30px; 
-                padding: 20px; 
-                background: #fff;
-                border: 2px solid #000; 
-            }
-            .search-bar {
-                width: 100%;
-                padding: 12px;
-                border: 2px solid #000;
-                font-family: inherit;
-                font-size: 1.1em;
-                margin-bottom: 15px;
-                box-sizing: border-box;
-            }
-            .search-bar:focus {
-                outline: none;
-                border-color: #d32f2f;
-            }
-            .filters {
-                display: grid;
-                grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-                gap: 15px;
-            }
-            .filter-group {
-                display: flex;
-                flex-direction: column;
-            }
-            .filter-group label {
-                font-weight: bold;
-                margin-bottom: 5px;
-                text-transform: uppercase;
-                font-size: 0.9em;
-                letter-spacing: 1px;
-            }
-            select, input[type="time"] {
-                padding: 8px;
-                border: 2px solid #000;
-                font-family: inherit;
-                font-size: 1em;
-            }
-            
-            /* Multi-select styling */
-            select[multiple] {
-                min-height: 120px;
-            }
-            
-            /* Day of Week Checkboxes */
-            .day-checkboxes {
-                display: flex;
-                flex-wrap: wrap;
-                gap: 8px;
-                margin-top: 5px;
-            }
-            .day-checkbox {
-                display: flex;
-                align-items: center;
-                gap: 5px;
-                padding: 6px 10px;
-                border: 2px solid #000;
-                cursor: pointer;
-                transition: all 0.2s;
-                background: #fff;
-                font-size: 0.9em;
-            }
-            .day-checkbox:hover {
-                background: #f0f0f0;
-            }
-            .day-checkbox input[type="checkbox"] {
-                cursor: pointer;
-            }
-            .day-checkbox.checked {
-                background: #d32f2f;
-                color: #fff;
-                border-color: #d32f2f;
-            }
-            
-            .filter-hint {
-                font-size: 0.75em;
-                color: #999;
-                font-style: italic;
-                margin-top: 3px;
-            }
-            
-            /* Time filter styling */
-            .time-filter {
-                display: flex;
-                align-items: center;
-                gap: 10px;
-                flex-wrap: wrap;
-                margin-top: 5px;
-            }
-            .time-filter-text {
-                font-size: 0.95em;
-                white-space: nowrap;
-            }
-            .time-filter input[type="time"] {
-                width: 110px;
-            }
-            
-            /* Calendar Grid */
-            .calendar {
-                display: grid;
-                grid-template-columns: repeat(7, 1fr);
-                gap: 10px;
-                margin-bottom: 30px;
-                background: #fff;
-                padding: 20px;
-                border: 2px solid #000;
-            }
-            .calendar-day {
-                aspect-ratio: 1;
-                border: 2px solid #ddd;
-                padding: 8px;
-                text-align: center;
-                cursor: pointer;
-                transition: all 0.2s;
-                display: flex;
-                flex-direction: column;
-                justify-content: center;
-                align-items: center;
-                position: relative;
-            }
-            .calendar-day:hover {
-                background: #f0f0f0;
-                transform: scale(1.05);
-            }
-            .calendar-day.has-screenings {
-                border-color: #000;
-                background: #fff;
-                font-weight: bold;
-            }
-            .calendar-day.has-screenings:hover {
-                background: #000;
-                color: #fff;
-            }
-            .calendar-day.selected {
-                background: #d32f2f;
-                color: #fff;
-                border-color: #d32f2f;
-            }
-            .calendar-day.empty {
-                border: none;
-                cursor: default;
-            }
-            .calendar-day.empty:hover {
-                background: transparent;
-                transform: none;
-            }
-            .calendar-header {
-                font-weight: bold;
-                text-align: center;
-                padding: 10px;
-                background: #000;
-                color: #fff;
-                text-transform: uppercase;
-                font-size: 0.85em;
-                letter-spacing: 1px;
-                cursor: pointer;
-                transition: all 0.2s;
-            }
-            .calendar-header:hover {
-                background: #333;
-            }
-            .calendar-header.selected {
-                background: #d32f2f;
-            }
-            .day-number {
-                font-size: 1.2em;
-                margin-bottom: 2px;
-            }
-            .screening-count {
-                font-size: 0.7em;
-                color: #666;
-            }
-            .calendar-day.has-screenings .screening-count {
-                color: #d32f2f;
-            }
-            .calendar-day.selected .screening-count {
-                color: #fff;
-            }
-            
-            .movie-card {
-                background: #fff;
-                border: 2px solid #000;
-                padding: 20px;
-                margin-bottom: 15px;
-                transition: all 0.2s;
-            }
-            .movie-card:hover {
-                box-shadow: 5px 5px 0px #000;
-                transform: translate(-2px, -2px);
-            }
-            .movie-title {
-                font-size: 1.3em;
-                font-weight: bold;
-                margin-bottom: 5px;
-            }
-            .movie-meta {
-                color: #666;
-                margin-bottom: 10px;
-                font-size: 0.95em;
-            }
-            .theater {
-                font-weight: bold;
-                margin-bottom: 10px;
-            }
-            .showtimes {
-                display: flex;
-                flex-wrap: wrap;
-                gap: 8px;
-                margin: 10px 0;
-            }
-            .showtime {
-                background: #000;
-                color: #fff;
-                padding: 5px 12px;
-                font-weight: bold;
-                font-size: 0.9em;
-            }
-            .date-badge {
-                display: inline-block;
-                background: #000;
-                color: #fff;
-                padding: 3px 10px;
-                font-size: 0.85em;
-                font-weight: bold;
-                margin-bottom: 10px;
-            }
-            .link {
-                color: #000;
-                text-decoration: none;
-                border-bottom: 2px solid #000;
-                font-weight: bold;
-            }
-            .link:hover {
-                background: #000;
-                color: #fff;
-            }
-            .count {
-                text-align: center;
-                padding: 15px;
-                background: #000;
-                color: #fff;
-                font-weight: bold;
-                font-size: 1.1em;
-                margin-bottom: 20px;
-                letter-spacing: 2px;
-            }
-            .search-hint {
-                font-size: 0.85em;
-                color: #999;
-                font-style: italic;
-                margin-top: 5px;
-            }
-            .footer {
-                margin-top: 40px;
-                padding-top: 20px;
-                border-top: 2px solid #000;
-                text-align: center;
-                color: #666;
-                font-size: 0.9em;
-            }
-            
-            /* MAP CONTAINER STYLES */
-            #map-container {
-                margin-bottom: 25px;
-                border: 2px solid #000;
-                background: #fff;
-                padding: 15px;
-            }
-            #map {
-                height: 400px;
-                width: 100%;
-                border: 2px solid #000;
-            }
-            .btn-clear {
-                margin-top: 10px;
-                padding: 8px 15px;
-                cursor: pointer;
-                background: #fff;
-                border: 2px solid #000;
-                font-family: inherit;
-                font-weight: bold;
-                text-transform: uppercase;
-                transition: 0.2s;
-            }
-            .btn-clear:hover {
-                background: #000;
-                color: #fff;
-            }
-            
-            @media (max-width: 768px) {
-                .filters {
-                    grid-template-columns: 1fr;
-                }
-                .calendar {
-                    grid-template-columns: repeat(7, 1fr);
-                    gap: 5px;
-                }
-                .day-number {
-                    font-size: 1em;
-                }
-                .screening-count {
-                    display: none;
-                }
-            }
-        </style>
-    </head>
-    <body>
-        <h1>"The Ledger"</h1>
-        <div class="subtitle">
-            Next 30 Days (2026-04-06 to 2026-05-05)<br>
-            Scraped from https://www.screenslate.com • Last updated: April 06, 2026 at 06:04 AM
-        </div>
-        
-        <div class="controls">
-            <input 
-                type="text" 
-                id="searchBar" 
-                class="search-bar" 
-                placeholder="Search movies, directors, theaters..."
-                oninput="filterMovies()"
-            >
-            <div class="search-hint">Try: "Coppola", "Metrograph", "Pulp Fiction", "1994"</div>
-            
-            <div class="filters">
-                <div class="filter-group">
-                    <label>Days of Week (Multi-Select)</label>
-                    <div class="day-checkboxes">
-                        <label class="day-checkbox">
-                            <input type="checkbox" value="0" onchange="handleDayCheckboxChange()"> Sun
-                        </label>
-                        <label class="day-checkbox">
-                            <input type="checkbox" value="1" onchange="handleDayCheckboxChange()"> Mon
-                        </label>
-                        <label class="day-checkbox">
-                            <input type="checkbox" value="2" onchange="handleDayCheckboxChange()"> Tue
-                        </label>
-                        <label class="day-checkbox">
-                            <input type="checkbox" value="3" onchange="handleDayCheckboxChange()"> Wed
-                        </label>
-                        <label class="day-checkbox">
-                            <input type="checkbox" value="4" onchange="handleDayCheckboxChange()"> Thu
-                        </label>
-                        <label class="day-checkbox">
-                            <input type="checkbox" value="5" onchange="handleDayCheckboxChange()"> Fri
-                        </label>
-                        <label class="day-checkbox">
-                            <input type="checkbox" value="6" onchange="handleDayCheckboxChange()"> Sat
-                        </label>
-                    </div>
+        .calendar { display: grid; grid-template-columns: repeat(7, 1fr); gap: 10px;
+                     margin-bottom: 30px; background: #fff; padding: 20px; border: 2px solid #000; }
+        .calendar-day { aspect-ratio: 1; border: 2px solid #ddd; padding: 8px; text-align: center;
+                         cursor: pointer; transition: all 0.2s; display: flex; flex-direction: column;
+                         justify-content: center; align-items: center; position: relative; }
+        .calendar-day:hover { background: #f0f0f0; transform: scale(1.05); }
+        .calendar-day.has-screenings { border-color: #000; background: #fff; font-weight: bold; }
+        .calendar-day.has-screenings:hover { background: #000; color: #fff; }
+        .calendar-day.selected { background: #d32f2f; color: #fff; border-color: #d32f2f; }
+        .calendar-day.empty { border: none; cursor: default; }
+        .calendar-day.empty:hover { background: transparent; transform: none; }
+        .calendar-header { font-weight: bold; text-align: center; padding: 10px; background: #000;
+                            color: #fff; text-transform: uppercase; font-size: 0.85em;
+                            letter-spacing: 1px; cursor: pointer; transition: all 0.2s; }
+        .calendar-header:hover { background: #333; }
+        .calendar-header.selected { background: #d32f2f; }
+        .day-number { font-size: 1.2em; margin-bottom: 2px; }
+        .screening-count { font-size: 0.7em; color: #666; }
+        .calendar-day.has-screenings .screening-count { color: #d32f2f; }
+        .calendar-day.selected .screening-count { color: #fff; }
+
+        .movie-card { background: #fff; border: 2px solid #000; padding: 20px;
+                       margin-bottom: 15px; transition: all 0.2s; }
+        .movie-card:hover { box-shadow: 5px 5px 0px #000; transform: translate(-2px, -2px); }
+        .movie-title { font-size: 1.3em; font-weight: bold; margin-bottom: 5px; }
+        .movie-meta { color: #666; margin-bottom: 10px; font-size: 0.95em; }
+        .theater { font-weight: bold; margin-bottom: 10px; }
+        .showtimes { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0; }
+        .showtime { background: #000; color: #fff; padding: 5px 12px; font-weight: bold; font-size: 0.9em; }
+        .date-badge { display: inline-block; background: #000; color: #fff; padding: 3px 10px;
+                       font-size: 0.85em; font-weight: bold; margin-bottom: 10px; }
+        .link { color: #000; text-decoration: none; border-bottom: 2px solid #000; font-weight: bold; }
+        .link:hover { background: #000; color: #fff; }
+        .count { text-align: center; padding: 15px; background: #000; color: #fff;
+                  font-weight: bold; font-size: 1.1em; margin-bottom: 20px; letter-spacing: 2px; }
+        .search-hint { font-size: 0.85em; color: #999; font-style: italic; margin-top: 5px; }
+        .footer { margin-top: 40px; padding-top: 20px; border-top: 2px solid #000;
+                   text-align: center; color: #666; font-size: 0.9em; }
+
+        #map-container { margin-bottom: 25px; border: 2px solid #000; background: #fff; padding: 15px; }
+        #map { height: 400px; width: 100%; border: 2px solid #000; }
+        .btn-clear { margin-top: 10px; padding: 8px 15px; cursor: pointer; background: #fff;
+                      border: 2px solid #000; font-family: inherit; font-weight: bold;
+                      text-transform: uppercase; transition: 0.2s; }
+        .btn-clear:hover { background: #000; color: #fff; }
+
+        @media (max-width: 768px) {
+            .filters { grid-template-columns: 1fr; }
+            .calendar { gap: 5px; }
+            .day-number { font-size: 1em; }
+            .screening-count { display: none; }
+        }
+    </style>
+</head>
+<body>
+    <h1>&ldquo;The Ledger&rdquo;</h1>
+    <div class="subtitle">
+        Next 30 Days (2026-04-07 to 2026-04-07)<br>
+        Scraped from https://www.screenslate.com &bull; Last updated: April 07, 2026 at 05:46 AM
+    </div>
+
+    <div class="controls">
+        <input type="text" id="searchBar" class="search-bar"
+               placeholder="Search movies, directors, theaters..." oninput="filterMovies()">
+        <div class="search-hint">Try: &quot;Coppola&quot;, &quot;Metrograph&quot;, &quot;Pulp Fiction&quot;, &quot;1994&quot;</div>
+        <div class="filters">
+            <div class="filter-group">
+                <label>Days of Week</label>
+                <div class="day-checkboxes">
+                    <label class="day-checkbox"><input type="checkbox" value="0" onchange="handleDayCheckboxChange()"> Sun</label>
+                    <label class="day-checkbox"><input type="checkbox" value="1" onchange="handleDayCheckboxChange()"> Mon</label>
+                    <label class="day-checkbox"><input type="checkbox" value="2" onchange="handleDayCheckboxChange()"> Tue</label>
+                    <label class="day-checkbox"><input type="checkbox" value="3" onchange="handleDayCheckboxChange()"> Wed</label>
+                    <label class="day-checkbox"><input type="checkbox" value="4" onchange="handleDayCheckboxChange()"> Thu</label>
+                    <label class="day-checkbox"><input type="checkbox" value="5" onchange="handleDayCheckboxChange()"> Fri</label>
+                    <label class="day-checkbox"><input type="checkbox" value="6" onchange="handleDayCheckboxChange()"> Sat</label>
                 </div>
-                
-                <div class="filter-group">
-                    <label>Specific Dates (Multi-Select)</label>
-                    <select id="dateFilter" multiple onchange="handleDateFilterChange()">
-                    </select>
-                    <div class="filter-hint">Hold Ctrl/Cmd to select multiple</div>
-                </div>
-                
-                <div class="filter-group">
-                    <label>Theaters (Multi-Select)</label>
-                    <select id="theaterFilter" multiple onchange="filterMovies()">
-                    </select>
-                    <div class="filter-hint">Hold Ctrl/Cmd to select multiple</div>
-                </div>
-                
-                <div class="filter-group">
-                    <label>Neighborhoods (Multi-Select)</label>
-                    <select id="neighborhoodFilter" multiple onchange="handleNeighborhoodChange()">
-                    </select>
-                    <div class="filter-hint">Hold Ctrl/Cmd to select multiple</div>
-                </div>
-                
-                <div class="filter-group">
-                    <label>Time Filter</label>
-                    <div class="time-filter">
-                        <span class="time-filter-text">Start time is between</span>
-                        <input type="time" id="startTime" value="00:00" onchange="filterMovies()">
-                        <span class="time-filter-text">and</span>
-                        <input type="time" id="endTime" value="23:59" onchange="filterMovies()">
-                    </div>
+            </div>
+            <div class="filter-group">
+                <label>Specific Dates</label>
+                <select id="dateFilter" multiple onchange="handleDateFilterChange()"></select>
+                <div class="filter-hint">Hold Ctrl/Cmd to select multiple</div>
+            </div>
+            <div class="filter-group">
+                <label>Theaters</label>
+                <select id="theaterFilter" multiple onchange="filterMovies()"></select>
+                <div class="filter-hint">Hold Ctrl/Cmd to select multiple</div>
+            </div>
+            <div class="filter-group">
+                <label>Neighborhoods</label>
+                <select id="neighborhoodFilter" multiple onchange="handleNeighborhoodChange()"></select>
+                <div class="filter-hint">Hold Ctrl/Cmd to select multiple</div>
+            </div>
+            <div class="filter-group">
+                <label>Time Filter</label>
+                <div class="time-filter">
+                    <span class="time-filter-text">Between</span>
+                    <input type="time" id="startTime" value="00:00" onchange="filterMovies()">
+                    <span class="time-filter-text">and</span>
+                    <input type="time" id="endTime" value="23:59" onchange="filterMovies()">
                 </div>
             </div>
         </div>
-        
-        <div id="calendar" class="calendar"></div>
-        
-        <div id="map-container">
-            <div style="font-weight:bold; margin-bottom:10px; text-transform:uppercase;">Map Filter (Draw to Filter)</div>
-            <div id="map"></div>
-            <button class="btn-clear" onclick="clearSelection()">Clear Map Drawing</button>
-        </div>
-        
-        <div class="count" id="resultCount">0 screenings found</div>
-        
-        <div id="movieContainer"></div>
-        
-        <div class="footer">
-            Data sourced from <a href="https://www.screenslate.com" target="_blank" style="color:#000;">Screen Slate</a><br>
-            Calendar file available: <a href="./nyc_movies.ics" download style="color:#000;">Download ICS</a>
-        </div>
+    </div>
 
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA5B9DU1gTNvgJ4rVC5FsEgGneDcEVXfG0&libraries=drawing"></script>
-        <script>
-        const allMovies = [{"date": "2026-04-06", "theater": "BAM", "title": "Solomon Northup's Odyssey", "director": "GORDON PARKS", "year": "1984", "link": "https://www.bam.org/film/2026/solomon-northups-odyssey", "showtimes": ["4:30PM", "7:00PM", "9:30PM"]}, {"date": "2026-04-06", "theater": "BAM", "title": "12 Years a Slave", "director": "STEVE MCQUEEN", "year": "2013", "link": "https://www.bam.org/film/2026/12-years-a-slave", "showtimes": ["9:30PM"]}, {"date": "2026-04-06", "theater": "FILM FORUM", "title": "Living the Land", "director": "HUO MENG", "year": "2025", "link": "https://filmforum.org/film/living-the-land", "showtimes": ["12:15PM", "3:00PM", "5:45PM", "8:30PM", "12:45PM", "3:15PM", "8:20PM", "1:00PM", "3:20PM", "5:40PM", "8:00PM"]}, {"date": "2026-04-06", "theater": "FILM FORUM", "title": "Kontinental \u201825", "director": "RADU JUDE", "year": "2025", "link": "https://filmforum.org/film/kontinental-25", "showtimes": ["12:45PM", "3:15PM", "5:45PM", "8:20PM"]}, {"date": "2026-04-06", "theater": "FILM FORUM", "title": "Reunion", "director": "JERRY SCHATZBERG", "year": "1989", "link": "https://filmforum.org/film/reunion", "showtimes": ["1:00PM", "3:20PM", "5:40PM"]}, {"date": "2026-04-06", "theater": "FILM FORUM", "title": "Lvira Notari: Beyond Silence", "director": "VALERIO CIRIACI", "year": "2025", "link": "https://filmforum.org/film/elvira-notari-beyond-silence", "showtimes": ["8:00PM"]}, {"date": "2026-04-06", "theater": "FILM AT LINCOLN CENTER", "title": "Pompei: Below the Clouds", "director": "GIANFRANCO ROSI", "year": "2025", "link": "https://www.filmlinc.org/films/below-the-clouds/", "showtimes": ["12:00PM", "12:30PM", "2:30PM", "4:30PM", "6:30PM", "8:30PM", "1:00PM", "3:30PM", "6:15PM", "8:45PM"]}, {"date": "2026-04-06", "theater": "FILM AT LINCOLN CENTER", "title": "Miroirs No. 3", "director": "CHRISTIAN PETZOLD", "year": "2026", "link": "https://www.filmlinc.org/films/miroirs-no-3/", "showtimes": ["12:30PM", "2:30PM", "4:30PM", "6:30PM", "8:30PM"]}, {"date": "2026-04-06", "theater": "FILM AT LINCOLN CENTER", "title": "The Stranger", "director": "FRAN\u00c7OIS OZON", "year": "2025", "link": "https://www.filmlinc.org/films/the-stranger/", "showtimes": ["1:00PM", "3:30PM", "6:15PM", "8:45PM"]}, {"date": "2026-04-06", "theater": "FILM AT LINCOLN CENTER", "title": "Dry Leaf", "director": "ALEXANDRE KOBERIDZE", "year": "2025", "link": "https://www.filmlinc.org/nyff/films/dry-leaf/", "showtimes": ["2:30PM"]}, {"date": "2026-04-06", "theater": "FIREHOUSE: DCTV\u2019S CINEMA FOR DOCUMENTARY FILM", "title": "John Lilly and the Earth Coincidence Control Office", "director": "MICHAEL ALMEREYDA, COURTNEY STEPHENS", "year": "2025", "link": "https://www.dctvny.org/s/firehouse-film/ohn-lilly-and-the-earth-coincidence-control-office-MCW2DJG6WTAFA7HPC3YHGZX3SN24", "showtimes": ["7:00PM"]}, {"date": "2026-04-06", "theater": "IFC CENTER", "title": "DJ Ahmet", "director": "GEORGI M. UNKOVSKI", "year": "2026", "link": "https://www.ifccenter.com/films/dj-ahmet/", "showtimes": ["10:35AM", "2:35PM", "7:40PM", "10:40AM", "3:00PM", "11:00AM", "3:35PM", "6:30PM", "9:20PM", "11:05AM", "5:35PM", "9:50PM", "12:35PM", "12:40PM", "9:25PM", "1:10PM", "5:30PM", "1:15PM", "4:00PM", "6:45PM", "9:30PM", "1:30PM", "7:25PM", "3:25PM", "4:50PM"]}, {"date": "2026-04-06", "theater": "IFC CENTER", "title": "Live-Action Oscar-Nominated Shorts 2026", "director": "2026", "year": "119M", "link": "https://www.screenslate.com/series/2026-oscarr-nominated-shorts", "showtimes": ["10:40AM", "3:00PM"]}, {"date": "2026-04-06", "theater": "IFC CENTER", "title": "Serpent's Path", "director": "KIYOSHI KUROSAWA", "year": "1998", "link": "https://www.ifccenter.com/films/serpents-path-and-chime/", "showtimes": ["11:00AM", "3:35PM", "6:30PM", "9:20PM"]}, {"date": "2026-04-06", "theater": "IFC CENTER", "title": "After Hours", "director": "MARTIN SCORSESE", "year": "1985", "link": "https://www.screenslate.com/series/best-show-films-catherine-ohara", "showtimes": ["11:05AM", "5:35PM", "9:50PM"]}, {"date": "2026-04-06", "theater": "IFC CENTER", "title": "Dead Lover", "director": "GRACE GLOWICKI", "year": "2026", "link": "https://www.ifccenter.com/films/dead-lover/", "showtimes": ["12:35PM"]}, {"date": "2026-04-06", "theater": "IFC CENTER", "title": "Alpha", "director": "JULIA DUCOURNAU", "year": "2026", "link": "https://www.ifccenter.com/films/alpha/", "showtimes": ["12:40PM", "9:25PM"]}, {"date": "2026-04-06", "theater": "IFC CENTER", "title": "Animated Oscar-Nominated Shorts 2026", "director": "2026", "year": "83M", "link": "https://www.screenslate.com/series/2026-oscarr-nominated-shorts", "showtimes": ["1:10PM", "5:30PM"]}, {"date": "2026-04-06", "theater": "IFC CENTER", "title": "Blue Velvet", "director": "DAVID LYNCH", "year": "1986", "link": "https://www.ifccenter.com/films/blue-velvet/", "showtimes": ["1:15PM", "4:00PM", "6:45PM", "9:30PM"]}, {"date": "2026-04-06", "theater": "IFC CENTER", "title": "Miroirs No. 3", "director": "CHRISTIAN PETZOLD", "year": "2026", "link": "https://www.ifccenter.com/films/miroirs-no-3/", "showtimes": ["1:30PM", "7:25PM"]}, {"date": "2026-04-06", "theater": "IFC CENTER", "title": "Nirvanna: the Band the Show the Movie", "director": "MATT JOHNSON", "year": "2026", "link": "https://www.ifccenter.com/films/nirvanna-the-band-the-show-the-movie/", "showtimes": ["3:25PM"]}, {"date": "2026-04-06", "theater": "IFC CENTER", "title": "Sir\u0101t", "director": "OLIVER LAXE", "year": "2025", "link": "https://www.ifccenter.com/films/sirat/", "showtimes": ["4:50PM", "9:50PM"]}, {"date": "2026-04-06", "theater": "LOW CINEMA", "title": "Bride of Chucky", "director": "RONNY YU", "year": "1998", "link": "https://www.screenslate.com/series/nu-metal-cinema", "showtimes": ["6:00PM", "8:15PM"]}, {"date": "2026-04-06", "theater": "LOW CINEMA", "title": "Book of Shadows: Blair Witch 2", "director": "JOE BERLINGER", "year": "2000", "link": "https://www.screenslate.com/series/nu-metal-cinema", "showtimes": ["8:15PM"]}, {"date": "2026-04-06", "theater": "METROGRAPH", "title": "Allegro Non Troppo", "director": "BRUNO BOZZETTO", "year": "1976", "link": "https://www.screenslate.com/series/animated-music-allegro-non-troppo-and-fantasia", "showtimes": ["2:00PM", "3:40PM", "4:00PM", "5:30PM", "6:10PM", "8:00PM", "9:15PM", "10:00PM"]}, {"date": "2026-04-06", "theater": "METROGRAPH", "title": "Invention for Destruction", "director": "KAREL ZEMAN", "year": "1958", "link": "https://www.screenslate.com/series/weird-and-wonderful-world-czech-animation", "showtimes": ["3:40PM"]}, {"date": "2026-04-06", "theater": "METROGRAPH", "title": "The Story of Qiu Ju", "director": "YIMOU ZHANG", "year": "1991", "link": "https://www.screenslate.com/series/empress-li", "showtimes": ["4:00PM"]}, {"date": "2026-04-06", "theater": "METROGRAPH", "title": "Clouds of Sils Maria", "director": "OLIVIER ASSAYAS", "year": "2014", "link": "https://www.screenslate.com/series/juliette-binoche-emotion-motion", "showtimes": ["5:30PM"]}, {"date": "2026-04-06", "theater": "METROGRAPH", "title": "Zodiac", "director": "DAVID FINCHER", "year": "2007", "link": "https://www.screenslate.com/series/after-case", "showtimes": ["6:10PM"]}, {"date": "2026-04-06", "theater": "METROGRAPH", "title": "Let the Sunshine In", "director": "CLAIRE DENIS", "year": "2017", "link": "https://www.screenslate.com/series/juliette-binoche-emotion-motion", "showtimes": ["8:00PM"]}, {"date": "2026-04-06", "theater": "METROGRAPH", "title": "Stalker", "director": "ANDREI TARKOVSKY", "year": "1979", "link": "https://www.screenslate.com/series/holy-trips", "showtimes": ["9:15PM"]}, {"date": "2026-04-06", "theater": "METROGRAPH", "title": "The Trap", "director": "KAIZ\u00d4 HAYASHI", "year": "1996", "link": "https://www.screenslate.com/series/after-case", "showtimes": ["10:00PM"]}, {"date": "2026-04-06", "theater": "MUSEUM OF MODERN ART", "title": "Star Spangled to Death", "director": "KEN JACOBS", "year": "1956-60/2003-04", "link": "https://www.screenslate.com/series/whole-shebang-celebrating-ken-and-flo-jacobs", "showtimes": ["10:30AM", "6:30PM", "7:00PM"]}, {"date": "2026-04-06", "theater": "MUSEUM OF MODERN ART", "title": "Variety", "director": "BETTE GORDON", "year": "1983", "link": "https://www.screenslate.com/series/view-vaults-1980s", "showtimes": ["6:30PM"]}, {"date": "2026-04-06", "theater": "NITEHAWK CINEMA PROSPECT PARK", "title": "Dead Lover", "director": "GRACE GLOWICKI", "year": "2026", "link": "https://nitehawkcinema.com/prospectpark/movies/dead-lover/", "showtimes": ["9:15PM"]}, {"date": "2026-04-06", "theater": "NITEHAWK CINEMA WILLIAMSBURG", "title": "American Movie", "director": "CHRIS SMITH", "year": "1999", "link": "https://www.screenslate.com/series/were-making-movie-nitehawk-cinema", "showtimes": ["9:30PM"]}, {"date": "2026-04-06", "theater": "ROXY CINEMA NEW YORK", "title": "Puddysticks", "director": "MEGAN SEELY", "year": "2024", "link": "https://ticketing.uswest.veezi.com/purchase/7250?siteToken=tt17e5ajy3v48kh5b2kremvnz4", "showtimes": ["7:00PM", "9:30PM"]}, {"date": "2026-04-06", "theater": "ROXY CINEMA NEW YORK", "title": "Resurrection", "director": "BI GAN", "year": "2025", "link": "https://ticketing.uswest.veezi.com/purchase/7263?siteToken=tt17e5ajy3v48kh5b2kremvnz4", "showtimes": ["9:30PM"]}, {"date": "2026-04-06", "theater": "SPECTACLE", "title": "Summer In the City", "director": "CHRISTIAN BLACKWOOD AND ROBERT LEACOCK", "year": "1970", "link": "https://www.screenslate.com/series/new-york-verge-four-films-michael-and-christian-blackwood", "showtimes": ["7:30PM", "10:00PM"]}, {"date": "2026-04-07", "theater": "ANTHOLOGY FILM ARCHIVES", "title": "Disclosure", "director": "SAM FEDER", "year": "2020", "link": "https://www.screenslate.com/series/cinema-gender-transgression", "showtimes": ["6:30PM", "9:00PM"]}, {"date": "2026-04-07", "theater": "ANTHOLOGY FILM ARCHIVES", "title": "Heightened Scrutiny", "director": "SAM FEDER", "year": "2025", "link": "https://www.screenslate.com/series/cinema-gender-transgression", "showtimes": ["9:00PM"]}, {"date": "2026-04-07", "theater": "BAM", "title": "Solomon Northup's Odyssey", "director": "GORDON PARKS", "year": "1984", "link": "https://www.bam.org/film/2026/solomon-northups-odyssey", "showtimes": ["4:30PM", "7:00PM", "9:30PM"]}, {"date": "2026-04-07", "theater": "FILM FORUM", "title": "Living the Land", "director": "HUO MENG", "year": "2025", "link": "https://filmforum.org/film/living-the-land", "showtimes": ["12:15PM", "3:00PM", "5:45PM", "8:30PM", "12:45PM", "3:15PM", "8:20PM", "1:00PM", "6:00PM", "3:20PM"]}, {"date": "2026-04-07", "theater": "FILM FORUM", "title": "Kontinental \u201825", "director": "RADU JUDE", "year": "2025", "link": "https://filmforum.org/film/kontinental-25", "showtimes": ["12:45PM", "3:15PM", "5:45PM", "8:20PM"]}, {"date": "2026-04-07", "theater": "FILM FORUM", "title": "The Love Parade", "director": "ERNST LUBITSCH", "year": "1929", "link": "https://www.screenslate.com/series/lubitsch-touch-0", "showtimes": ["1:00PM", "6:00PM"]}, {"date": "2026-04-07", "theater": "FILM FORUM", "title": "Reunion", "director": "JERRY SCHATZBERG", "year": "1989", "link": "https://filmforum.org/film/reunion", "showtimes": ["3:20PM", "8:20PM"]}, {"date": "2026-04-07", "theater": "FIREHOUSE: DCTV\u2019S CINEMA FOR DOCUMENTARY FILM", "title": "John Lilly and the Earth Coincidence Control Office", "director": "MICHAEL ALMEREYDA, COURTNEY STEPHENS", "year": "2025", "link": "https://www.dctvny.org/s/firehouse-film/ohn-lilly-and-the-earth-coincidence-control-office-MCW2DJG6WTAFA7HPC3YHGZX3SN24", "showtimes": ["7:00PM"]}, {"date": "2026-04-07", "theater": "IFC CENTER", "title": "DJ Ahmet", "director": "GEORGI M. UNKOVSKI", "year": "2026", "link": "https://www.ifccenter.com/films/dj-ahmet/", "showtimes": ["10:35AM", "2:35PM", "7:20PM", "10:40AM", "3:00PM", "10:50AM", "5:30PM", "11:05AM", "9:40PM", "12:35PM", "7:45PM", "12:40PM", "9:25PM", "1:05PM", "6:00PM", "1:15PM", "4:00PM", "6:45PM", "9:30PM", "3:35PM", "6:30PM", "9:20PM", "4:30PM", "7:00PM"]}, {"date": "2026-04-07", "theater": "IFC CENTER", "title": "Live-Action Oscar-Nominated Shorts 2026", "director": "2026", "year": "119M", "link": "https://www.screenslate.com/series/2026-oscarr-nominated-shorts", "showtimes": ["10:40AM", "3:00PM"]}, {"date": "2026-04-07", "theater": "IFC CENTER", "title": "Animated Oscar-Nominated Shorts 2026", "director": "2026", "year": "83M", "link": "https://www.screenslate.com/series/2026-oscarr-nominated-shorts", "showtimes": ["10:50AM", "5:30PM"]}, {"date": "2026-04-07", "theater": "IFC CENTER", "title": "After Hours", "director": "MARTIN SCORSESE", "year": "1985", "link": "https://www.screenslate.com/series/best-show-films-catherine-ohara", "showtimes": ["11:05AM", "9:40PM"]}, {"date": "2026-04-07", "theater": "IFC CENTER", "title": "Dead Lover", "director": "GRACE GLOWICKI", "year": "2026", "link": "https://www.ifccenter.com/films/dead-lover/", "showtimes": ["12:35PM", "7:45PM"]}, {"date": "2026-04-07", "theater": "IFC CENTER", "title": "Alpha", "director": "JULIA DUCOURNAU", "year": "2026", "link": "https://www.ifccenter.com/films/alpha/", "showtimes": ["12:40PM", "9:25PM"]}, {"date": "2026-04-07", "theater": "IFC CENTER", "title": "Miroirs No. 3", "director": "CHRISTIAN PETZOLD", "year": "2026", "link": "https://www.ifccenter.com/films/miroirs-no-3/", "showtimes": ["1:05PM", "6:00PM"]}, {"date": "2026-04-07", "theater": "IFC CENTER", "title": "Blue Velvet", "director": "DAVID LYNCH", "year": "1986", "link": "https://www.ifccenter.com/films/blue-velvet/", "showtimes": ["1:15PM", "4:00PM", "6:45PM", "9:30PM"]}, {"date": "2026-04-07", "theater": "IFC CENTER", "title": "Serpent's Path", "director": "KIYOSHI KUROSAWA", "year": "1998", "link": "https://www.ifccenter.com/films/serpents-path-and-chime/", "showtimes": ["3:35PM", "6:30PM", "9:20PM"]}, {"date": "2026-04-07", "theater": "IFC CENTER", "title": "Nirvanna: the Band the Show the Movie", "director": "MATT JOHNSON", "year": "2026", "link": "https://www.ifccenter.com/films/nirvanna-the-band-the-show-the-movie/", "showtimes": ["4:00PM"]}, {"date": "2026-04-07", "theater": "IFC CENTER", "title": "Sir\u0101t", "director": "OLIVER LAXE", "year": "2025", "link": "https://www.ifccenter.com/films/sirat/", "showtimes": ["4:30PM", "9:25PM"]}, {"date": "2026-04-07", "theater": "IFC CENTER", "title": "Hundreds of Beavers", "director": "MIKE CHESLIK", "year": "2024", "link": "https://www.ifccenter.com/films/hundreds-of-beavers/", "showtimes": ["7:00PM"]}, {"date": "2026-04-07", "theater": "L'ALLIANCE NEW YORK", "title": "Thomas the Impostor", "director": "GEORGES FRANJU", "year": "1965", "link": "https://www.screenslate.com/series/fantastic-realism-georges-franju", "showtimes": ["4:00PM", "7:00PM"]}, {"date": "2026-04-07", "theater": "LOW CINEMA", "title": "Queen of the Damned", "director": "MICHAEL RYMER", "year": "2002", "link": "https://www.screenslate.com/series/nu-metal-cinema", "showtimes": ["6:00PM", "8:15PM"]}, {"date": "2026-04-07", "theater": "LOW CINEMA", "title": "Little Nicky", "director": "STEVEN BRILL", "year": "2000", "link": "https://www.screenslate.com/series/nu-metal-cinema", "showtimes": ["8:15PM"]}, {"date": "2026-04-07", "theater": "MUSEUM OF MODERN ART", "title": "Star Spangled to Death", "director": "KEN JACOBS", "year": "1956-60/2003-04", "link": "https://www.screenslate.com/series/whole-shebang-celebrating-ken-and-flo-jacobs", "showtimes": ["10:30AM", "4:00PM", "6:30PM"]}, {"date": "2026-04-07", "theater": "MUSEUM OF MODERN ART", "title": "Sugar Cane Alley", "director": "EUZHAN PALCY", "year": "1983", "link": "https://www.screenslate.com/series/view-vaults-1980s", "showtimes": ["4:00PM"]}, {"date": "2026-04-07", "theater": "MUSEUM OF MODERN ART", "title": "The King of Comedy", "director": "MARTIN SCORSESE", "year": "1982", "link": "https://www.screenslate.com/series/view-vaults-1980s", "showtimes": ["6:30PM"]}, {"date": "2026-04-07", "theater": "NITEHAWK CINEMA WILLIAMSBURG", "title": "Dead Lover", "director": "GRACE GLOWICKI", "year": "2026", "link": "https://nitehawkcinema.com/williamsburg/movies/dead-lover/", "showtimes": ["9:30PM"]}, {"date": "2026-04-07", "theater": "PARIS THEATER", "title": "Gosford Park", "director": "ROBERT ALTMAN", "year": "2001", "link": "https://www.screenslate.com/series/disorganized-crime-big-mistakes-and-dan-levys-cinematic-accomplices", "showtimes": ["12:30PM", "3:45PM", "7:00PM", "9:50PM"]}, {"date": "2026-04-07", "theater": "PARIS THEATER", "title": "Midnight Run", "director": "MARTIN BREST", "year": "1988", "link": "https://www.screenslate.com/series/disorganized-crime-big-mistakes-and-dan-levys-cinematic-accomplices", "showtimes": ["3:45PM"]}, {"date": "2026-04-07", "theater": "PARIS THEATER", "title": "Planet of the Apes", "director": "FRANKLIN J. SCHAFFNER", "year": "1968", "link": "https://www.screenslate.com/series/academy-museum-branch-selects", "showtimes": ["7:00PM"]}, {"date": "2026-04-07", "theater": "PARIS THEATER", "title": "Clue", "director": "JONATHAN LYNN", "year": "1985", "link": "https://www.screenslate.com/series/disorganized-crime-big-mistakes-and-dan-levys-cinematic-accomplices", "showtimes": ["9:50PM"]}, {"date": "2026-04-07", "theater": "QUAD CINEMA", "title": "The 400 Blows", "director": "FRAN\u00c7OIS TRUFFAUT", "year": "1959", "link": "https://www.screenslate.com/series/little-rascals", "showtimes": ["8:15PM"]}, {"date": "2026-04-07", "theater": "ROXY CINEMA NEW YORK", "title": "Love Jones", "director": "THEODORE WITCHER", "year": "1997", "link": "https://www.screenslate.com/series/jack-harlow-selects", "showtimes": ["7:00PM"]}, {"date": "2026-04-07", "theater": "SPECTACLE", "title": "Dangerous Seductress", "director": "H. TJUT DJALIL", "year": "1992", "link": "https://www.screenslate.com/series/masters-indonesian-exploitation-h-tjut-djalil", "showtimes": ["10:00PM"]}, {"date": "2026-04-08", "theater": "BAM", "title": "Solomon Northup's Odyssey", "director": "GORDON PARKS", "year": "1984", "link": "https://www.bam.org/film/2026/solomon-northups-odyssey", "showtimes": ["4:30PM", "7:00PM", "9:30PM"]}, {"date": "2026-04-08", "theater": "FILM FORUM", "title": "Living the Land", "director": "HUO MENG", "year": "2025", "link": "https://filmforum.org/film/living-the-land", "showtimes": ["12:15PM", "3:00PM", "5:45PM", "8:30PM", "12:25PM", "5:20PM", "7:50PM", "12:45PM", "3:15PM", "8:20PM", "1:00PM", "3:20PM", "5:40PM", "8:00PM", "2:50PM"]}, {"date": "2026-04-08", "theater": "FILM FORUM", "title": "Two Prosecutors", "director": "SERGEI LOZNITSA", "year": "2025", "link": "https://filmforum.org/film/two-prosecutors", "showtimes": ["12:25PM", "5:20PM", "7:50PM"]}, {"date": "2026-04-08", "theater": "FILM FORUM", "title": "Kontinental \u201825", "director": "RADU JUDE", "year": "2025", "link": "https://filmforum.org/film/kontinental-25", "showtimes": ["12:45PM", "3:15PM", "5:45PM", "8:20PM"]}, {"date": "2026-04-08", "theater": "FILM FORUM", "title": "Reunion", "director": "JERRY SCHATZBERG", "year": "1989", "link": "https://filmforum.org/film/reunion", "showtimes": ["1:00PM", "3:20PM", "5:40PM", "8:00PM"]}, {"date": "2026-04-08", "theater": "FILM FORUM", "title": "Days and Nights in the Forest", "director": "SATYAJIT RAY", "year": "1970", "link": "https://filmforum.org/film/days-and-nights-in-the-forest", "showtimes": ["2:50PM"]}, {"date": "2026-04-08", "theater": "FIREHOUSE: DCTV\u2019S CINEMA FOR DOCUMENTARY FILM", "title": "John Lilly and the Earth Coincidence Control Office", "director": "MICHAEL ALMEREYDA, COURTNEY STEPHENS", "year": "2025", "link": "https://www.dctvny.org/s/firehouse-film/ohn-lilly-and-the-earth-coincidence-control-office-MCW2DJG6WTAFA7HPC3YHGZX3SN24", "showtimes": ["7:00PM"]}, {"date": "2026-04-08", "theater": "IFC CENTER", "title": "DJ Ahmet", "director": "GEORGI M. UNKOVSKI", "year": "2026", "link": "https://www.ifccenter.com/films/dj-ahmet/", "showtimes": ["10:35AM", "2:35PM", "7:30PM", "10:40AM", "3:00PM", "10:50AM", "1:10PM", "5:30PM", "11:00AM", "3:35PM", "7:05PM", "11:35AM", "5:35PM", "9:50PM", "12:35PM", "12:40PM", "1:25PM", "4:00PM", "6:45PM", "9:30PM", "1:30PM", "7:25PM", "3:25PM", "4:50PM", "9:45PM", "7:00PM"]}, {"date": "2026-04-08", "theater": "IFC CENTER", "title": "Live-Action Oscar-Nominated Shorts 2026", "director": "2026", "year": "119M", "link": "https://www.screenslate.com/series/2026-oscarr-nominated-shorts", "showtimes": ["10:40AM", "3:00PM"]}, {"date": "2026-04-08", "theater": "IFC CENTER", "title": "Animated Oscar-Nominated Shorts 2026", "director": "2026", "year": "83M", "link": "https://www.screenslate.com/series/2026-oscarr-nominated-shorts", "showtimes": ["10:50AM", "1:10PM", "5:30PM"]}, {"date": "2026-04-08", "theater": "IFC CENTER", "title": "Serpent's Path", "director": "KIYOSHI KUROSAWA", "year": "1998", "link": "https://www.ifccenter.com/films/serpents-path-and-chime/", "showtimes": ["11:00AM", "3:35PM", "7:05PM"]}, {"date": "2026-04-08", "theater": "IFC CENTER", "title": "After Hours", "director": "MARTIN SCORSESE", "year": "1985", "link": "https://www.screenslate.com/series/best-show-films-catherine-ohara", "showtimes": ["11:35AM", "5:35PM", "9:50PM"]}, {"date": "2026-04-08", "theater": "IFC CENTER", "title": "Dead Lover", "director": "GRACE GLOWICKI", "year": "2026", "link": "https://www.ifccenter.com/films/dead-lover/", "showtimes": ["12:35PM"]}, {"date": "2026-04-08", "theater": "IFC CENTER", "title": "Alpha", "director": "JULIA DUCOURNAU", "year": "2026", "link": "https://www.ifccenter.com/films/alpha/", "showtimes": ["12:40PM"]}, {"date": "2026-04-08", "theater": "IFC CENTER", "title": "Blue Velvet", "director": "DAVID LYNCH", "year": "1986", "link": "https://www.ifccenter.com/films/blue-velvet/", "showtimes": ["1:25PM", "4:00PM", "6:45PM", "9:30PM"]}, {"date": "2026-04-08", "theater": "IFC CENTER", "title": "Miroirs No. 3", "director": "CHRISTIAN PETZOLD", "year": "2026", "link": "https://www.ifccenter.com/films/miroirs-no-3/", "showtimes": ["1:30PM", "7:25PM"]}, {"date": "2026-04-08", "theater": "IFC CENTER", "title": "Nirvanna: the Band the Show the Movie", "director": "MATT JOHNSON", "year": "2026", "link": "https://www.ifccenter.com/films/nirvanna-the-band-the-show-the-movie/", "showtimes": ["3:25PM"]}, {"date": "2026-04-08", "theater": "IFC CENTER", "title": "Sir\u0101t", "director": "OLIVER LAXE", "year": "2025", "link": "https://www.ifccenter.com/films/sirat/", "showtimes": ["4:50PM", "9:45PM"]}, {"date": "2026-04-08", "theater": "IFC CENTER", "title": "Who Moves America", "director": "YAEL BRIDGE", "year": "2026", "link": "https://www.screenslate.com/series/doc-nyc-selects-spring-2026", "showtimes": ["7:00PM", "9:30PM"]}, {"date": "2026-04-08", "theater": "LOW CINEMA", "title": "End of Days", "director": "PETER HYAMS", "year": "1999", "link": "https://www.screenslate.com/series/nu-metal-cinema", "showtimes": ["6:00PM", "8:30PM"]}, {"date": "2026-04-08", "theater": "LOW CINEMA", "title": "The One", "director": "JAMES WONG", "year": "2001", "link": "https://lowcinema.com/movie/the-one/", "showtimes": ["8:30PM"]}, {"date": "2026-04-08", "theater": "MUSEUM OF MODERN ART", "title": "Leviticus", "director": "ADRIAN CHIARELLA", "year": "2026", "link": "https://www.screenslate.com/series/new-directorsnew-films-2026", "showtimes": ["7:00PM", "7:30PM"]}, {"date": "2026-04-08", "theater": "NITEHAWK CINEMA WILLIAMSBURG", "title": "Lost in Translation", "director": "SOFIA COPPOLA", "year": "2003", "link": "https://www.screenslate.com/series/man-under-influence-63-days-stevens-selects-nitehawk-cinema", "showtimes": ["7:15PM"]}, {"date": "2026-04-08", "theater": "PARIS THEATER", "title": "Eastern Promises", "director": "DAVID CRONENBERG", "year": "2007", "link": "https://www.screenslate.com/series/disorganized-crime-big-mistakes-and-dan-levys-cinematic-accomplices", "showtimes": ["12:45PM", "3:30PM", "7:00PM", "9:30PM"]}, {"date": "2026-04-08", "theater": "PARIS THEATER", "title": "Out of Sight", "director": "STEVEN SODERBERGH", "year": "1998", "link": "https://www.screenslate.com/series/disorganized-crime-big-mistakes-and-dan-levys-cinematic-accomplices", "showtimes": ["3:30PM"]}, {"date": "2026-04-08", "theater": "PARIS THEATER", "title": "Eraserhead", "director": "DAVID LYNCH", "year": "1977", "link": "https://www.screenslate.com/series/academy-museum-branch-selects", "showtimes": ["7:00PM"]}, {"date": "2026-04-08", "theater": "PARIS THEATER", "title": "Goodfellas", "director": "MARTIN SCORSESE", "year": "1990", "link": "https://www.screenslate.com/series/disorganized-crime-big-mistakes-and-dan-levys-cinematic-accomplices", "showtimes": ["9:30PM"]}, {"date": "2026-04-08", "theater": "QUAD CINEMA", "title": "The 400 Blows", "director": "FRAN\u00c7OIS TRUFFAUT", "year": "1959", "link": "https://www.screenslate.com/series/little-rascals", "showtimes": ["8:15PM"]}, {"date": "2026-04-08", "theater": "ROXY CINEMA NEW YORK", "title": "Final Fantasy: The Spirits Within", "director": "HIRONOBU SAKAGACHI, MOTONORI SAKAKIBARA", "year": "2001", "link": "https://ticketing.uswest.veezi.com/purchase/7253?siteToken=tt17e5ajy3v48kh5b2kremvnz4", "showtimes": ["7:00PM"]}, {"date": "2026-04-08", "theater": "SPECTACLE", "title": "Empire City", "director": "CHRISTIAN BLACKWOOD", "year": "1985", "link": "https://www.screenslate.com/series/new-york-verge-four-films-michael-and-christian-blackwood", "showtimes": ["10:00PM"]}, {"date": "2026-04-08", "theater": "VILLAGE EAST CINEMA", "title": "A Clockwork Orange", "director": "STANLEY KUBRICK", "year": "1971", "link": "https://www.screenslate.com/series/heeeres-kubrick-35mm", "showtimes": ["1:00PM", "4:00PM", "7:00PM"]}, {"date": "2026-04-09", "theater": "ANTHOLOGY FILM ARCHIVES", "title": "God's Gift", "director": "GASTON KABOR\u00c9", "year": "1982", "link": "https://www.screenslate.com/series/black-time-queer-time-part-2", "showtimes": ["6:30PM", "6:45PM", "8:30PM", "8:45PM"]}, {"date": "2026-04-09", "theater": "ANTHOLOGY FILM ARCHIVES", "title": "Vintage: Families of Value", "director": "THOMAS ALLEN HARRIS", "year": "1995", "link": "https://www.screenslate.com/series/black-time-queer-time-part-2", "showtimes": ["8:30PM"]}, {"date": "2026-04-09", "theater": "BAM", "title": "Solomon Northup's Odyssey", "director": "GORDON PARKS", "year": "1984", "link": "https://www.bam.org/film/2026/solomon-northups-odyssey", "showtimes": ["4:30PM", "7:00PM"]}, {"date": "2026-04-09", "theater": "BAM", "title": "Coming to America", "director": "JOHN LANDIS", "year": "1988", "link": "https://www.screenslate.com/series/hoyt-schermerhorn-stand-clear-closing-doors", "showtimes": ["7:00PM"]}, {"date": "2026-04-09", "theater": "FILM FORUM", "title": "Living the Land", "director": "HUO MENG", "year": "2025", "link": "https://filmforum.org/film/living-the-land", "showtimes": ["12:15PM", "3:00PM", "5:45PM", "8:30PM", "12:25PM", "5:20PM", "7:50PM", "12:45PM", "3:15PM", "8:20PM", "1:00PM", "3:20PM", "2:50PM", "6:00PM"]}, {"date": "2026-04-09", "theater": "FILM FORUM", "title": "Two Prosecutors", "director": "SERGEI LOZNITSA", "year": "2025", "link": "https://filmforum.org/film/two-prosecutors", "showtimes": ["12:25PM", "5:20PM", "7:50PM"]}, {"date": "2026-04-09", "theater": "FILM FORUM", "title": "Kontinental \u201825", "director": "RADU JUDE", "year": "2025", "link": "https://filmforum.org/film/kontinental-25", "showtimes": ["12:45PM", "3:15PM", "5:45PM", "8:20PM"]}, {"date": "2026-04-09", "theater": "FILM FORUM", "title": "Reunion", "director": "JERRY SCHATZBERG", "year": "1989", "link": "https://filmforum.org/film/reunion", "showtimes": ["1:00PM", "3:20PM", "8:20PM"]}, {"date": "2026-04-09", "theater": "FILM FORUM", "title": "Days and Nights in the Forest", "director": "SATYAJIT RAY", "year": "1970", "link": "https://filmforum.org/film/days-and-nights-in-the-forest", "showtimes": ["2:50PM"]}, {"date": "2026-04-09", "theater": "FILM FORUM", "title": "\u00c8 Piccerella", "director": "ELVIRA NOTARI", "year": "1922", "link": "https://filmforum.org/film/epiccerella", "showtimes": ["6:00PM"]}, {"date": "2026-04-09", "theater": "FIREHOUSE: DCTV\u2019S CINEMA FOR DOCUMENTARY FILM", "title": "John Lilly and the Earth Coincidence Control Office", "director": "MICHAEL ALMEREYDA, COURTNEY STEPHENS", "year": "2025", "link": "https://www.dctvny.org/s/firehouse-film/ohn-lilly-and-the-earth-coincidence-control-office-MCW2DJG6WTAFA7HPC3YHGZX3SN24", "showtimes": ["7:00PM"]}, {"date": "2026-04-09", "theater": "IFC CENTER", "title": "Serpent's Path", "director": "KIYOSHI KUROSAWA", "year": "1998", "link": "https://www.ifccenter.com/films/serpents-path-and-chime/", "showtimes": ["10:35AM", "3:35PM", "9:45PM", "2:50PM", "7:30PM", "10:50AM", "5:30PM", "11:05AM", "12:40PM", "12:50PM", "1:05PM", "7:25PM", "1:15PM", "4:00PM", "6:45PM", "9:30PM", "3:00PM", "5:05PM", "6:30PM", "9:25PM"]}, {"date": "2026-04-09", "theater": "IFC CENTER", "title": "DJ Ahmet", "director": "GEORGI M. UNKOVSKI", "year": "2026", "link": "https://www.ifccenter.com/films/dj-ahmet/", "showtimes": ["10:35AM", "2:50PM", "7:30PM"]}, {"date": "2026-04-09", "theater": "IFC CENTER", "title": "Animated Oscar-Nominated Shorts 2026", "director": "2026", "year": "83M", "link": "https://www.screenslate.com/series/2026-oscarr-nominated-shorts", "showtimes": ["10:50AM", "5:30PM"]}, {"date": "2026-04-09", "theater": "IFC CENTER", "title": "After Hours", "director": "MARTIN SCORSESE", "year": "1985", "link": "https://www.screenslate.com/series/best-show-films-catherine-ohara", "showtimes": ["11:05AM"]}, {"date": "2026-04-09", "theater": "IFC CENTER", "title": "Alpha", "director": "JULIA DUCOURNAU", "year": "2026", "link": "https://www.ifccenter.com/films/alpha/", "showtimes": ["12:40PM"]}, {"date": "2026-04-09", "theater": "IFC CENTER", "title": "Nirvanna: the Band the Show the Movie", "director": "MATT JOHNSON", "year": "2026", "link": "https://www.ifccenter.com/films/nirvanna-the-band-the-show-the-movie/", "showtimes": ["12:50PM"]}, {"date": "2026-04-09", "theater": "IFC CENTER", "title": "Miroirs No. 3", "director": "CHRISTIAN PETZOLD", "year": "2026", "link": "https://www.ifccenter.com/films/miroirs-no-3/", "showtimes": ["1:05PM", "7:25PM"]}, {"date": "2026-04-09", "theater": "IFC CENTER", "title": "Blue Velvet", "director": "DAVID LYNCH", "year": "1986", "link": "https://www.ifccenter.com/films/blue-velvet/", "showtimes": ["1:15PM", "4:00PM", "6:45PM", "9:30PM"]}, {"date": "2026-04-09", "theater": "IFC CENTER", "title": "Live-Action Oscar-Nominated Shorts 2026", "director": "2026", "year": "119M", "link": "https://www.screenslate.com/series/2026-oscarr-nominated-shorts", "showtimes": ["3:00PM"]}, {"date": "2026-04-09", "theater": "IFC CENTER", "title": "Sir\u0101t", "director": "OLIVER LAXE", "year": "2025", "link": "https://www.ifccenter.com/films/sirat/", "showtimes": ["5:05PM"]}, {"date": "2026-04-09", "theater": "IFC CENTER", "title": "Steal This Story, Please!", "director": "CARL DEAL, TIA LESSIN", "year": "2025", "link": "https://www.ifccenter.com/films/steal-this-story-please/", "showtimes": ["6:30PM"]}, {"date": "2026-04-09", "theater": "IFC CENTER", "title": "Dead Lover", "director": "GRACE GLOWICKI", "year": "2026", "link": "https://www.ifccenter.com/films/dead-lover/", "showtimes": ["9:25PM"]}, {"date": "2026-04-09", "theater": "LOW CINEMA", "title": "Spawn", "director": "MARK A.Z. DIPP\u00c9", "year": "1997", "link": "https://lowcinema.com/movie/spawn/", "showtimes": ["6:00PM", "8:15PM"]}, {"date": "2026-04-09", "theater": "LOW CINEMA", "title": "Queen of the Damned", "director": "MICHAEL RYMER", "year": "2002", "link": "https://www.screenslate.com/series/nu-metal-cinema", "showtimes": ["8:15PM"]}, {"date": "2026-04-09", "theater": "METROGRAPH", "title": "The Seventh Seal", "director": "INGMAR BERGMAN", "year": "1957", "link": "https://www.screenslate.com/series/holy-trips", "showtimes": ["2:15PM", "2:30PM", "4:15PM", "4:20PM", "6:15PM", "6:40PM", "8:15PM", "9:30PM", "10:15PM"]}, {"date": "2026-04-09", "theater": "METROGRAPH", "title": "The Red Turtle", "director": "MICHAEL DUDOK DE WIT", "year": "2016", "link": "https://www.screenslate.com/series/fables-fragile-earth", "showtimes": ["2:30PM"]}, {"date": "2026-04-09", "theater": "METROGRAPH", "title": "The Silence", "director": "INGMAR BERGMAN", "year": "1963", "link": "https://www.screenslate.com/series/year-begins-silence", "showtimes": ["4:15PM"]}, {"date": "2026-04-09", "theater": "METROGRAPH", "title": "Three Colors: Blue", "director": "KRZYSZTOF KIES\u0301LOWSKI", "year": "1993", "link": "https://www.screenslate.com/series/moral-mazes-krzysztof-kieslowski", "showtimes": ["4:20PM"]}, {"date": "2026-04-09", "theater": "METROGRAPH", "title": "Three Colors: White", "director": "KRZYSZTOF KIES\u0301LOWSKI", "year": "1994", "link": "https://www.screenslate.com/series/moral-mazes-krzysztof-kieslowski", "showtimes": ["6:15PM"]}, {"date": "2026-04-09", "theater": "METROGRAPH", "title": "The Gospel According to St. Matthew", "director": "PIER PAOLO PASOLINI", "year": "1964", "link": "https://www.screenslate.com/series/holy-trips", "showtimes": ["6:40PM"]}, {"date": "2026-04-09", "theater": "METROGRAPH", "title": "Ju Dou", "director": "ZHANG YIMOU AND YANG FENGLIANG", "year": "1990", "link": "https://www.screenslate.com/series/empress-li", "showtimes": ["8:15PM"]}, {"date": "2026-04-09", "theater": "METROGRAPH", "title": "Inherent Vice", "director": "PAUL THOMAS ANDERSON", "year": "2014", "link": "https://www.screenslate.com/series/after-case", "showtimes": ["9:30PM"]}, {"date": "2026-04-09", "theater": "METROGRAPH", "title": "High Life", "director": "CLAIRE DENIS", "year": "2018", "link": "https://www.screenslate.com/series/juliette-binoche-emotion-motion", "showtimes": ["10:15PM"]}, {"date": "2026-04-09", "theater": "MUSEUM OF MODERN ART", "title": "Fantasy", "director": "ISABEL PAGLIAI", "year": "2026", "link": "https://www.screenslate.com/series/new-directorsnew-films-2026", "showtimes": ["6:00PM", "8:15PM"]}, {"date": "2026-04-09", "theater": "MUSEUM OF MODERN ART", "title": "Aro Berria", "director": "IRATI GOROSTIDI AGIRRETXE", "year": "2025", "link": "https://www.screenslate.com/series/new-directorsnew-films-2026", "showtimes": ["8:15PM"]}, {"date": "2026-04-09", "theater": "NITEHAWK CINEMA PROSPECT PARK", "title": "Dead Lover", "director": "GRACE GLOWICKI", "year": "2026", "link": "https://nitehawkcinema.com/prospectpark/movies/dead-lover/", "showtimes": ["9:15PM"]}, {"date": "2026-04-09", "theater": "PARIS THEATER", "title": "Clue", "director": "JONATHAN LYNN", "year": "1985", "link": "https://www.screenslate.com/series/disorganized-crime-big-mistakes-and-dan-levys-cinematic-accomplices", "showtimes": ["12:45PM", "3:30PM", "7:00PM", "9:45PM"]}, {"date": "2026-04-09", "theater": "PARIS THEATER", "title": "Fargo", "director": "JOEL COEN, ETHAN COEN", "year": "1996", "link": "https://www.screenslate.com/series/disorganized-crime-big-mistakes-and-dan-levys-cinematic-accomplices", "showtimes": ["3:30PM"]}, {"date": "2026-04-09", "theater": "PARIS THEATER", "title": "Midnight Run", "director": "MARTIN BREST", "year": "1988", "link": "https://www.screenslate.com/series/disorganized-crime-big-mistakes-and-dan-levys-cinematic-accomplices", "showtimes": ["9:45PM"]}, {"date": "2026-04-09", "theater": "QUAD CINEMA", "title": "The 400 Blows", "director": "FRAN\u00c7OIS TRUFFAUT", "year": "1959", "link": "https://www.screenslate.com/series/little-rascals", "showtimes": ["8:15PM"]}, {"date": "2026-04-09", "theater": "ROXY CINEMA NEW YORK", "title": "Secrets & Lies", "director": "FEDERICO FELLINI", "year": "1963", "link": "https://www.screenslate.com/series/jack-harlow-selects", "showtimes": ["7:00PM", "9:45PM"]}, {"date": "2026-04-09", "theater": "SPECTACLE", "title": "End of History", "director": "JACOB GREGOR", "year": "2025", "link": "https://www.spectacletheater.com/end-of-history/", "showtimes": ["7:30PM", "10:00PM"]}, {"date": "2026-04-09", "theater": "SPECTACLE", "title": "The Unsolved Love Hotel Murder Case Incident", "director": "DAVE JACKSON, GUY", "year": "71", "link": "https://www.screenslate.com/series/sculpting-fragments-three-films", "showtimes": ["10:00PM"]}, {"date": "2026-04-10", "theater": "ALAMO DRAFTHOUSE LOWER MANHATTAN", "title": "Outcome", "director": "JONAH HILL", "year": "2026", "link": "https://docs.google.com/forms/d/e/1FAIpQLScgcLYJriAWx1Wh-bhyFNM0Cqk08Fy-LoqwM0T6wP9WXuW3CQ/viewform", "showtimes": ["5:20PM", "7:45PM"]}, {"date": "2026-04-10", "theater": "ANTHOLOGY FILM ARCHIVES", "title": "The Cry of Jazz", "director": "ED BLAND", "year": "1959", "link": "https://www.screenslate.com/series/black-time-queer-time-part-2", "showtimes": ["6:30PM", "6:45PM", "8:45PM", "9:00PM"]}, {"date": "2026-04-10", "theater": "ANTHOLOGY FILM ARCHIVES", "title": "No President", "director": "JACK SMITH", "year": "1967-70", "link": "https://www.screenslate.com/series/essential-cinema", "showtimes": ["8:45PM"]}, {"date": "2026-04-10", "theater": "BAM", "title": "The Wiz", "director": "SIDNEY LUMET", "year": "1978", "link": "https://www.screenslate.com/series/hoyt-schermerhorn-stand-clear-closing-doors", "showtimes": ["4:00PM", "7:00PM", "9:15PM"]}, {"date": "2026-04-10", "theater": "BAM", "title": "The Travel Companion", "director": "TRAVIS WOOD, ALEX MALLIS", "year": "2026", "link": "https://www.bam.org/events/cinema/fy26/0426/the-travel-companion/", "showtimes": ["7:00PM"]}, {"date": "2026-04-10", "theater": "BAM", "title": "The Warriors", "director": "WALTER HILL", "year": "1979", "link": "https://www.screenslate.com/series/hoyt-schermerhorn-stand-clear-closing-doors", "showtimes": ["7:00PM"]}, {"date": "2026-04-10", "theater": "BAM", "title": "Coming to America", "director": "JOHN LANDIS", "year": "1988", "link": "https://www.screenslate.com/series/hoyt-schermerhorn-stand-clear-closing-doors", "showtimes": ["9:15PM"]}, {"date": "2026-04-10", "theater": "FILM FORUM", "title": "Reunion", "director": "JERRY SCHATZBERG", "year": "1989", "link": "https://filmforum.org/film/reunion", "showtimes": ["1:00PM", "3:20PM", "5:40PM", "8:00PM"]}, {"date": "2026-04-10", "theater": "IFC CENTER", "title": "Steal This Story, Please!", "director": "CARL DEAL, TIA LESSIN", "year": "2025", "link": "https://www.ifccenter.com/films/steal-this-story-please/", "showtimes": ["10:50AM", "1:30PM", "4:10PM", "6:50PM", "9:30PM"]}, {"date": "2026-04-10", "theater": "LOW CINEMA", "title": "Book of Shadows: Blair Witch 2", "director": "JOE BERLINGER", "year": "2000", "link": "https://www.screenslate.com/series/nu-metal-cinema", "showtimes": ["6:00PM", "8:15PM"]}, {"date": "2026-04-10", "theater": "LOW CINEMA", "title": "Bride of Chucky", "director": "RONNY YU", "year": "1998", "link": "https://www.screenslate.com/series/nu-metal-cinema", "showtimes": ["8:15PM"]}, {"date": "2026-04-10", "theater": "METROGRAPH", "title": "Darjeeling Limited", "director": "WES ANDERSON", "year": "2007", "link": "https://www.screenslate.com/series/holy-trips", "showtimes": ["1:30PM", "2:00PM", "3:30PM", "4:30PM", "6:20PM", "8:00PM", "10:20PM", "10:35PM"]}, {"date": "2026-04-10", "theater": "METROGRAPH", "title": "Nausica\u00e4 of the Valley of the Wind", "director": "HAYAO MIYAZAKI", "year": "1984", "link": "https://www.screenslate.com/series/fables-fragile-earth", "showtimes": ["2:00PM"]}, {"date": "2026-04-10", "theater": "METROGRAPH", "title": "The Matrix", "director": "LANA WACHOWSKI & LILLY WACHOWSKI", "year": "1999", "link": "https://www.screenslate.com/series/sukiyaki-bebop", "showtimes": ["3:30PM"]}, {"date": "2026-04-10", "theater": "METROGRAPH", "title": "Alice", "director": "JAN \u0160VANKMAJER", "year": "1988", "link": "https://www.screenslate.com/series/weird-and-wonderful-world-czech-animation", "showtimes": ["4:30PM"]}, {"date": "2026-04-10", "theater": "METROGRAPH", "title": "The Revolt of the Toys", "director": "HERM\u00cdNA T\u00ddRLOV\u00c1, FRANTI\u0160EK S\u00c1DEK", "year": "1947", "link": "https://www.screenslate.com/series/weird-and-wonderful-world-czech-animation", "showtimes": ["6:20PM"]}, {"date": "2026-04-10", "theater": "METROGRAPH", "title": "Shanghai Triad", "director": "YIMOU ZHANG", "year": "1995", "link": "https://www.screenslate.com/series/empress-li", "showtimes": ["8:00PM"]}, {"date": "2026-04-10", "theater": "METROGRAPH", "title": "Miami Vice", "director": "MICHAEL MANN", "year": "2006", "link": "https://www.screenslate.com/series/empress-li", "showtimes": ["10:20PM"]}, {"date": "2026-04-10", "theater": "METROGRAPH", "title": "The Holy Mountain", "director": "ALEJANDRO JODOROWSKY", "year": "1973", "link": "https://www.screenslate.com/series/holy-trips", "showtimes": ["10:35PM"]}, {"date": "2026-04-10", "theater": "MUSEUM OF MODERN ART", "title": "The Prophet", "director": "IQUE LANGA", "year": "2026", "link": "https://www.screenslate.com/series/new-directorsnew-films-2026", "showtimes": ["6:00PM", "8:30PM"]}, {"date": "2026-04-10", "theater": "MUSEUM OF MODERN ART", "title": "Do You Love Me", "director": "LANA DAHER", "year": "2025", "link": "https://www.screenslate.com/series/new-directorsnew-films-2026", "showtimes": ["8:30PM"]}, {"date": "2026-04-10", "theater": "MUSEUM OF THE MOVING IMAGE", "title": "Trouble Every Day", "director": "ALBERT LAMORISSE", "year": "1956", "link": "https://www.screenslate.com/series/special-screenings", "showtimes": ["1:00PM", "6:30PM"]}, {"date": "2026-04-10", "theater": "NITEHAWK CINEMA WILLIAMSBURG", "title": "A Nightmare on Elm Street 3: Dream Warriors", "director": "CHUCK RUSSELL", "year": "1987", "link": "https://nitehawkcinema.com/williamsburg/movies/a-nightmare-on-elm-street-3-dream-warriors/", "showtimes": ["11:55PM"]}, {"date": "2026-04-10", "theater": "PARIS THEATER", "title": "Phantom Thread", "director": "PAUL THOMAS ANDERSON", "year": "2017", "link": "https://www.screenslate.com/series/all-rage-films-inspired-lee-sung-jins-beef", "showtimes": ["12:00PM", "3:30PM", "7:00PM", "9:45PM"]}, {"date": "2026-04-10", "theater": "PARIS THEATER", "title": "Revolutionary Road", "director": "SAM MENDES", "year": "2009", "link": "https://www.screenslate.com/series/all-rage-films-inspired-lee-sung-jins-beef", "showtimes": ["3:30PM"]}, {"date": "2026-04-10", "theater": "PARIS THEATER", "title": "The Informant!", "director": "STEVEN SODERBERGH", "year": "2009", "link": "https://www.screenslate.com/series/all-rage-films-inspired-lee-sung-jins-beef", "showtimes": ["7:00PM"]}, {"date": "2026-04-10", "theater": "PARIS THEATER", "title": "Michael Clayton", "director": "TONY GILROY", "year": "2007", "link": "https://www.screenslate.com/series/all-rage-films-inspired-lee-sung-jins-beef", "showtimes": ["9:45PM"]}, {"date": "2026-04-10", "theater": "ROXY CINEMA NEW YORK", "title": "Secrets & Lies", "director": "MIKE LEIGH", "year": "1996", "link": "https://www.screenslate.com/series/jack-harlow-selects", "showtimes": ["5:00PM", "7:45PM"]}, {"date": "2026-04-10", "theater": "ROXY CINEMA NEW YORK", "title": "The Whirled", "director": "KEN JACOBS", "year": "1963", "link": "https://www.screenslate.com/series/whole-shebang-celebrating-ken-and-flo-jacobs", "showtimes": ["7:45PM"]}, {"date": "2026-04-10", "theater": "SPECTACLE", "title": "Summer In the City", "director": "CHRISTIAN BLACKWOOD AND ROBERT LEACOCK", "year": "1970", "link": "https://www.screenslate.com/series/new-york-verge-four-films-michael-and-christian-blackwood", "showtimes": ["5:00PM", "7:30PM", "10:00PM", "11:55PM"]}, {"date": "2026-04-10", "theater": "SPECTACLE", "title": "End of History", "director": "JACOB GREGOR", "year": "2025", "link": "https://www.spectacletheater.com/end-of-history/", "showtimes": ["7:30PM"]}, {"date": "2026-04-10", "theater": "SPECTACLE", "title": "The Sound of Summer", "director": "GUY", "year": "2002", "link": "https://www.screenslate.com/series/sculpting-fragments-three-films", "showtimes": ["10:00PM"]}, {"date": "2026-04-11", "theater": "ALAMO DRAFTHOUSE LOWER MANHATTAN", "title": "Outcome", "director": "JONAH HILL", "year": "2026", "link": "https://docs.google.com/forms/d/e/1FAIpQLScgcLYJriAWx1Wh-bhyFNM0Cqk08Fy-LoqwM0T6wP9WXuW3CQ/viewform", "showtimes": ["5:25PM", "7:50PM"]}, {"date": "2026-04-11", "theater": "ANTHOLOGY FILM ARCHIVES", "title": "A Litany for Survival: The Life and Work of Audre Lorde", "director": "MICHELLE PARKERSON, ADA GAY GRIFFIN", "year": "1995", "link": "https://www.screenslate.com/series/black-time-queer-time-part-2", "showtimes": ["5:30PM", "6:15PM", "7:30PM", "8:00PM"]}, {"date": "2026-04-11", "theater": "ANTHOLOGY FILM ARCHIVES", "title": "Kino-Pravda, Nos. 1-6", "director": "DZIGA VERTOV", "year": "1922", "link": "https://www.screenslate.com/series/essential-cinema", "showtimes": ["6:15PM"]}, {"date": "2026-04-11", "theater": "ANTHOLOGY FILM ARCHIVES", "title": "Young Soul Rebels", "director": "ISAAC JULIEN", "year": "1991", "link": "https://www.screenslate.com/series/black-time-queer-time-part-2", "showtimes": ["7:30PM"]}, {"date": "2026-04-11", "theater": "ANTHOLOGY FILM ARCHIVES", "title": "Kino-Eye", "director": "DZIGA VERTOV", "year": "1925", "link": "https://www.screenslate.com/series/essential-cinema", "showtimes": ["8:00PM"]}, {"date": "2026-04-11", "theater": "BAM", "title": "Teenage Mutant Ninja Turtles", "director": "STEVE BARRON", "year": "1990", "link": "https://www.screenslate.com/series/hoyt-schermerhorn-stand-clear-closing-doors", "showtimes": ["2:00PM", "4:15PM", "6:45PM", "7:00PM", "9:00PM"]}, {"date": "2026-04-11", "theater": "BAM", "title": "Crocodile Dundee II", "director": "JOHN CORNELL", "year": "1988", "link": "https://www.screenslate.com/series/hoyt-schermerhorn-stand-clear-closing-doors", "showtimes": ["4:15PM"]}, {"date": "2026-04-11", "theater": "BAM", "title": "Turk 182", "director": "BOB CLARK", "year": "1985", "link": "https://www.screenslate.com/series/hoyt-schermerhorn-stand-clear-closing-doors", "showtimes": ["6:45PM"]}, {"date": "2026-04-11", "theater": "BAM", "title": "The Travel Companion", "director": "TRAVIS WOOD, ALEX MALLIS", "year": "2026", "link": "https://www.bam.org/events/cinema/fy26/0426/the-travel-companion/", "showtimes": ["7:00PM"]}, {"date": "2026-04-11", "theater": "BAM", "title": "Taking of Pelham 123", "director": "TONY SCOTT", "year": "2009", "link": "https://www.screenslate.com/series/hoyt-schermerhorn-stand-clear-closing-doors", "showtimes": ["9:00PM"]}, {"date": "2026-04-11", "theater": "CZECH CENTER", "title": "Change My Mind", "director": "ROBIN KVAPIL", "year": "2025", "link": "https://new-york.czechcentres.cz/en/program/nyc-premiera-velky-vlastenecky-vylet", "showtimes": ["7:00PM"]}, {"date": "2026-04-11", "theater": "FILM FORUM", "title": "Reunion", "director": "JERRY SCHATZBERG", "year": "1989", "link": "https://filmforum.org/film/reunion", "showtimes": ["1:00PM", "3:20PM", "5:40PM", "8:00PM"]}, {"date": "2026-04-11", "theater": "IFC CENTER", "title": "Steal This Story, Please!", "director": "CARL DEAL, TIA LESSIN", "year": "2025", "link": "https://www.ifccenter.com/films/steal-this-story-please/", "showtimes": ["10:50AM", "1:30PM", "4:10PM", "6:50PM", "9:30PM"]}, {"date": "2026-04-11", "theater": "L'ALLIANCE NEW YORK", "title": "Microcosmos", "director": "MARIE P\u00c9RENNOU, CLAUDE NURIDSANY", "year": "1996", "link": "https://lallianceny.org/event/microcosmos/", "showtimes": ["11:30AM"]}, {"date": "2026-04-11", "theater": "METROGRAPH", "title": "Sambizanga", "director": "SARAH MALDOROR", "year": "1972", "link": "https://www.screenslate.com/series/tahar-cheriaa-chronicles-pan-african-pioneer", "showtimes": ["1:50PM", "10:35PM"]}, {"date": "2026-04-11", "theater": "METROGRAPH", "title": "Miami Vice", "director": "MICHAEL MANN", "year": "2006", "link": "https://www.screenslate.com/series/empress-li", "showtimes": ["10:35PM"]}, {"date": "2026-04-11", "theater": "MUSEUM OF MODERN ART", "title": "Panda", "director": "XINGYANG ZHANG", "year": "2026", "link": "https://www.screenslate.com/series/new-directorsnew-films-2026", "showtimes": ["2:00PM", "5:30PM", "8:15PM"]}, {"date": "2026-04-11", "theater": "MUSEUM OF MODERN ART", "title": "Chronovisor", "director": "KEVIN WALKER, JACK AUEN", "year": "2026", "link": "https://www.screenslate.com/series/new-directorsnew-films-2026", "showtimes": ["5:30PM"]}, {"date": "2026-04-11", "theater": "MUSEUM OF MODERN ART", "title": "Erupcja", "director": "PETE OHS", "year": "2025", "link": "https://www.screenslate.com/series/new-directorsnew-films-2026", "showtimes": ["8:15PM"]}, {"date": "2026-04-11", "theater": "MUSEUM OF THE MOVING IMAGE", "title": "How to Marry a Millionaire", "director": "BILLY WILDER", "year": "1955", "link": "https://www.screenslate.com/series/marilyn-monroe-new-york", "showtimes": ["1:00PM", "2:00PM", "4:00PM", "6:00PM"]}, {"date": "2026-04-11", "theater": "MUSEUM OF THE MOVING IMAGE", "title": "Hedwig and the Angry Inch", "director": "JOHN CAMERON MITCHELL", "year": "2001", "link": "https://www.screenslate.com/series/2001-year-not-movie", "showtimes": ["6:00PM"]}, {"date": "2026-04-11", "theater": "NITEHAWK CINEMA PROSPECT PARK", "title": "Real Life", "director": "ALBERT BROOKS", "year": "1979", "link": "https://www.screenslate.com/series/were-making-movie-nitehawk-cinema", "showtimes": ["11:30AM"]}, {"date": "2026-04-11", "theater": "NITEHAWK CINEMA WILLIAMSBURG", "title": "The Fox and the Hound", "director": "ART STEVENS, RICHARD RICH, TED BERMAN", "year": "1981", "link": "https://www.screenslate.com/series/anniversary-party-nitehawk-cinema", "showtimes": ["11:15AM"]}, {"date": "2026-04-11", "theater": "PARIS THEATER", "title": "Taxi Driver", "director": "MARTIN SCORSESE", "year": "1976", "link": "https://www.screenslate.com/series/academy-museum-branch-selects", "showtimes": ["11:00AM", "2:00PM", "5:15PM", "8:30PM"]}, {"date": "2026-04-11", "theater": "PARIS THEATER", "title": "Cach\u00e9", "director": "MICHAEL HANEKE", "year": "2005", "link": "https://www.screenslate.com/series/all-rage-films-inspired-lee-sung-jins-beef", "showtimes": ["2:00PM"]}, {"date": "2026-04-11", "theater": "PARIS THEATER", "title": "Phantom Thread", "director": "PAUL THOMAS ANDERSON", "year": "2017", "link": "https://www.screenslate.com/series/all-rage-films-inspired-lee-sung-jins-beef", "showtimes": ["5:15PM"]}, {"date": "2026-04-11", "theater": "PARIS THEATER", "title": "The Handmaiden", "director": "PARK CHAN-WOOK", "year": "2016", "link": "https://www.screenslate.com/series/all-rage-films-inspired-lee-sung-jins-beef", "showtimes": ["8:30PM"]}, {"date": "2026-04-11", "theater": "ROXY CINEMA NEW YORK", "title": "Secrets & Lies", "director": "MIKE LEIGH", "year": "1996", "link": "https://www.screenslate.com/series/jack-harlow-selects", "showtimes": ["1:00PM", "3:45PM", "7:00PM", "9:45PM"]}, {"date": "2026-04-11", "theater": "ROXY CINEMA NEW YORK", "title": "Dreams in Nightmares", "director": "SHATARA MICHELLE FORD", "year": "2024", "link": "https://ticketing.uswest.veezi.com/purchase/7239?siteToken=tt17e5ajy3v48kh5b2kremvnz4", "showtimes": ["3:45PM"]}, {"date": "2026-04-11", "theater": "ROXY CINEMA NEW YORK", "title": "Love Jones", "director": "THEODORE WITCHER", "year": "1997", "link": "https://www.screenslate.com/series/jack-harlow-selects", "showtimes": ["9:45PM"]}, {"date": "2026-04-11", "theater": "SPECTACLE", "title": "Tiananmen", "director": "SHI JIAN AND CHEN JUE", "year": "1988 - 1991", "link": "https://www.screenslate.com/series/structure-wave-youth-cinema-lost-chapter-chinas-new-documentary-movement", "showtimes": ["2:00PM", "10:00PM", "11:55PM"]}, {"date": "2026-04-11", "theater": "SPECTACLE", "title": "China 9, Liberty 37", "director": "MONTE HELLMAN", "year": "1978", "link": "https://www.screenslate.com/series/best-best-spectacle-theater", "showtimes": ["10:00PM"]}, {"date": "2026-04-11", "theater": "SPECTACLE", "title": "Demonic Scandal", "director": "H. TJUT DJALIL", "year": "1992", "link": "https://www.screenslate.com/series/masters-indonesian-exploitation-h-tjut-djalil", "showtimes": ["11:55PM"]}, {"date": "2026-04-12", "theater": "ALAMO DRAFTHOUSE LOWER MANHATTAN", "title": "Outcome", "director": "JONAH HILL", "year": "2026", "link": "https://docs.google.com/forms/d/e/1FAIpQLScgcLYJriAWx1Wh-bhyFNM0Cqk08Fy-LoqwM0T6wP9WXuW3CQ/viewform", "showtimes": ["5:30PM", "7:55PM"]}, {"date": "2026-04-12", "theater": "ANTHOLOGY FILM ARCHIVES", "title": "Forward, Soviet!", "director": "Forward, Soviet!", "year": "DZIGA VERTOV", "link": "https://www.screenslate.com/series/black-time-queer-time-part-2", "showtimes": ["5:00PM", "6:00PM", "7:30PM", "8:00PM"]}, {"date": "2026-04-12", "theater": "ANTHOLOGY FILM ARCHIVES", "title": "A Sixth of the World", "director": "DZIGA VERTOV", "year": "1926", "link": "https://www.screenslate.com/series/essential-cinema", "showtimes": ["8:00PM"]}, {"date": "2026-04-12", "theater": "BAM", "title": "The Wiz", "director": "SIDNEY LUMET", "year": "1978", "link": "https://www.screenslate.com/series/hoyt-schermerhorn-stand-clear-closing-doors", "showtimes": ["1:30PM", "4:15PM", "6:45PM", "7:00PM"]}, {"date": "2026-04-12", "theater": "BAM", "title": "The Pawnbroker", "director": "SIDNEY LUMET", "year": "1965", "link": "https://www.screenslate.com/series/hoyt-schermerhorn-stand-clear-closing-doors", "showtimes": ["4:15PM"]}, {"date": "2026-04-12", "theater": "BAM", "title": "Nighthawks", "director": "BRUCE MALMUTH", "year": "1981", "link": "https://www.screenslate.com/series/hoyt-schermerhorn-stand-clear-closing-doors", "showtimes": ["6:45PM"]}, {"date": "2026-04-12", "theater": "BAM", "title": "The Travel Companion", "director": "TRAVIS WOOD, ALEX MALLIS", "year": "2026", "link": "https://www.bam.org/events/cinema/fy26/0426/the-travel-companion/", "showtimes": ["7:00PM"]}, {"date": "2026-04-12", "theater": "FILM FORUM", "title": "Dr. Jack", "director": "SAM TAYLOR", "year": "1922", "link": "https://www.screenslate.com/series/film-forum-jr", "showtimes": ["11:00AM", "1:00PM", "3:20PM", "5:40PM", "8:00PM"]}, {"date": "2026-04-12", "theater": "FILM FORUM", "title": "Reunion", "director": "JERRY SCHATZBERG", "year": "1989", "link": "https://filmforum.org/film/reunion", "showtimes": ["1:00PM", "3:20PM", "5:40PM", "8:00PM"]}, {"date": "2026-04-12", "theater": "IFC CENTER", "title": "Steal This Story, Please!", "director": "CARL DEAL, TIA LESSIN", "year": "2025", "link": "https://www.ifccenter.com/films/steal-this-story-please/", "showtimes": ["10:50AM", "1:30PM", "4:10PM", "7:45PM"]}, {"date": "2026-04-12", "theater": "METROGRAPH", "title": "Alice", "director": "JAN \u0160VANKMAJER", "year": "1988", "link": "https://www.screenslate.com/series/weird-and-wonderful-world-czech-animation", "showtimes": ["11:15AM", "9:30PM"]}, {"date": "2026-04-12", "theater": "METROGRAPH", "title": "Shanghai Triad", "director": "YIMOU ZHANG", "year": "1995", "link": "https://www.screenslate.com/series/empress-li", "showtimes": ["9:30PM"]}, {"date": "2026-04-12", "theater": "MUSEUM OF MODERN ART", "title": "Trial of Hein", "director": "KAI ST\u00c4NICKE", "year": "2026", "link": "https://www.screenslate.com/series/new-directorsnew-films-2026", "showtimes": ["1:00PM", "4:00PM", "6:45PM"]}, {"date": "2026-04-12", "theater": "MUSEUM OF MODERN ART", "title": "Agon", "director": "GIULIO BERTELLI", "year": "2025", "link": "https://www.screenslate.com/series/new-directorsnew-films-2026", "showtimes": ["4:00PM"]}, {"date": "2026-04-12", "theater": "MUSEUM OF MODERN ART", "title": "Strange River", "director": "JAUME CLARET MUXART", "year": "2025", "link": "https://www.screenslate.com/series/new-directorsnew-films-2026", "showtimes": ["6:45PM"]}, {"date": "2026-04-12", "theater": "MUSEUM OF THE MOVING IMAGE", "title": "Don't Bother to Knock", "director": "NORMAN Z. MCLEOD", "year": "1932", "link": "https://www.screenslate.com/series/special-screenings", "showtimes": ["12:00PM", "12:30PM", "3:00PM"]}, {"date": "2026-04-12", "theater": "NITEHAWK CINEMA PROSPECT PARK", "title": "Real Life", "director": "ALBERT BROOKS", "year": "1979", "link": "https://www.screenslate.com/series/were-making-movie-nitehawk-cinema", "showtimes": ["11:30AM"]}, {"date": "2026-04-12", "theater": "NITEHAWK CINEMA WILLIAMSBURG", "title": "Ed Wood", "director": "TIM BURTON", "year": "1994", "link": "https://www.screenslate.com/series/were-making-movie-nitehawk-cinema", "showtimes": ["11:00AM", "11:15AM"]}, {"date": "2026-04-12", "theater": "NITEHAWK CINEMA WILLIAMSBURG", "title": "The Fox and the Hound", "director": "ART STEVENS, RICHARD RICH, TED BERMAN", "year": "1981", "link": "https://www.screenslate.com/series/anniversary-party-nitehawk-cinema", "showtimes": ["11:15AM"]}, {"date": "2026-04-12", "theater": "PARIS THEATER", "title": "Chinatown", "director": "ROMAN POLANSKI", "year": "1974", "link": "https://www.screenslate.com/series/academy-museum-branch-selects", "showtimes": ["11:00AM", "2:30PM", "5:30PM", "8:15PM"]}, {"date": "2026-04-12", "theater": "PARIS THEATER", "title": "The Second Mother", "director": "ANNA MUYLAERT", "year": "2015", "link": "https://www.screenslate.com/series/all-rage-films-inspired-lee-sung-jins-beef", "showtimes": ["2:30PM"]}, {"date": "2026-04-12", "theater": "PARIS THEATER", "title": "Burn After Reading", "director": "JOEL COEN", "year": "2008", "link": "https://www.screenslate.com/series/all-rage-films-inspired-lee-sung-jins-beef", "showtimes": ["5:30PM"]}, {"date": "2026-04-12", "theater": "PARIS THEATER", "title": "Cach\u00e9", "director": "MICHAEL HANEKE", "year": "2005", "link": "https://www.screenslate.com/series/all-rage-films-inspired-lee-sung-jins-beef", "showtimes": ["8:15PM"]}, {"date": "2026-04-12", "theater": "ROXY CINEMA NEW YORK", "title": "Magellan", "director": "LAV DIAZ", "year": "2025", "link": "https://ticketing.uswest.veezi.com/purchase/7191?siteToken=tt17e5ajy3v48kh5b2kremvnz4", "showtimes": ["2:30PM", "3:00PM", "5:45PM", "8:15PM"]}, {"date": "2026-04-12", "theater": "ROXY CINEMA NEW YORK", "title": "Provincial Actors", "director": "AGNIESZKA HOLLAND", "year": "1979", "link": "https://ticketing.uswest.veezi.com/purchase/7284?siteToken=tt17e5ajy3v48kh5b2kremvnz4", "showtimes": ["3:00PM"]}, {"date": "2026-04-12", "theater": "ROXY CINEMA NEW YORK", "title": "Reeling", "director": "YANA ALLIATA", "year": "2026", "link": "https://ticketing.uswest.veezi.com/purchase/7251?siteToken=tt17e5ajy3v48kh5b2kremvnz4", "showtimes": ["5:45PM"]}, {"date": "2026-04-12", "theater": "SPECTACLE", "title": "Fanboy", "director": "Fanboy", "year": "BEAN MCKEE", "link": "https://www.spectacletheater.com/fist-church/", "showtimes": ["3:00PM", "5:00PM", "7:30PM"]}, {"date": "2026-04-12", "theater": "SPECTACLE", "title": "I Have Graduated", "director": "SHI JIAN AND WANG GUANGLI", "year": "1992", "link": "https://www.screenslate.com/series/structure-wave-youth-cinema-lost-chapter-chinas-new-documentary-movement", "showtimes": ["7:30PM"]}, {"date": "2026-04-13", "theater": "ANTHOLOGY FILM ARCHIVES", "title": "Black Is... Black Ain't", "director": "MARLON RIGGS", "year": "1994", "link": "https://www.screenslate.com/series/black-time-queer-time-part-2", "showtimes": ["6:30PM", "8:45PM"]}, {"date": "2026-04-13", "theater": "ANTHOLOGY FILM ARCHIVES", "title": "God's Gift", "director": "GASTON KABOR\u00c9", "year": "1982", "link": "https://www.screenslate.com/series/black-time-queer-time-part-2", "showtimes": ["8:45PM"]}, {"date": "2026-04-13", "theater": "BAM", "title": "The Travel Companion", "director": "TRAVIS WOOD, ALEX MALLIS", "year": "2026", "link": "https://www.bam.org/events/cinema/fy26/0426/the-travel-companion/", "showtimes": ["7:00PM"]}, {"date": "2026-04-13", "theater": "BAM", "title": "The Pawnbroker", "director": "SIDNEY LUMET", "year": "1965", "link": "https://www.screenslate.com/series/hoyt-schermerhorn-stand-clear-closing-doors", "showtimes": ["7:00PM"]}, {"date": "2026-04-13", "theater": "FILM FORUM", "title": "Reunion", "director": "JERRY SCHATZBERG", "year": "1989", "link": "https://filmforum.org/film/reunion", "showtimes": ["1:00PM", "3:20PM", "5:40PM", "8:00PM"]}, {"date": "2026-04-13", "theater": "IFC CENTER", "title": "Steal This Story, Please!", "director": "CARL DEAL, TIA LESSIN", "year": "2025", "link": "https://www.ifccenter.com/films/steal-this-story-please/", "showtimes": ["10:50AM", "1:30PM", "4:10PM", "6:50PM", "9:30PM", "7:00PM"]}, {"date": "2026-04-13", "theater": "IFC CENTER", "title": "Everyone is Lying to You for Money", "director": "BEN MCKENZIE", "year": "2025", "link": "https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/", "showtimes": ["7:00PM"]}, {"date": "2026-04-13", "theater": "MUSEUM OF MODERN ART", "title": "Maddie's Secret", "director": "JOHN EARLY", "year": "2025", "link": "https://www.screenslate.com/series/new-directorsnew-films-2026", "showtimes": ["6:00PM", "8:30PM"]}, {"date": "2026-04-13", "theater": "NITEHAWK CINEMA PROSPECT PARK", "title": "Gowanus Current", "director": "JAMIE COURVILLE, CHRIS REYNOLDS", "year": "2025", "link": "https://www.screenslate.com/series/local-color-nitehawk-cinema", "showtimes": ["7:00PM"]}, {"date": "2026-04-13", "theater": "NITEHAWK CINEMA WILLIAMSBURG", "title": "Ed Wood", "director": "TIM BURTON", "year": "1994", "link": "https://www.screenslate.com/series/were-making-movie-nitehawk-cinema", "showtimes": ["9:30PM"]}, {"date": "2026-04-13", "theater": "PARIS THEATER", "title": "Like Crazy", "director": "DRAKE DOREMUS", "year": "2011", "link": "https://www.screenslate.com/series/all-rage-films-inspired-lee-sung-jins-beef", "showtimes": ["1:00PM", "3:45PM", "6:45PM", "10:15PM"]}, {"date": "2026-04-13", "theater": "PARIS THEATER", "title": "Revolutionary Road", "director": "SAM MENDES", "year": "2009", "link": "https://www.screenslate.com/series/all-rage-films-inspired-lee-sung-jins-beef", "showtimes": ["3:45PM"]}, {"date": "2026-04-13", "theater": "PARIS THEATER", "title": "Anatomy of a Fall", "director": "JUSTINE TRIET", "year": "2023", "link": "https://www.screenslate.com/series/all-rage-films-inspired-lee-sung-jins-beef", "showtimes": ["6:45PM"]}, {"date": "2026-04-13", "theater": "PARIS THEATER", "title": "Michael Clayton", "director": "TONY GILROY", "year": "2007", "link": "https://www.screenslate.com/series/all-rage-films-inspired-lee-sung-jins-beef", "showtimes": ["10:15PM"]}, {"date": "2026-04-13", "theater": "ROXY CINEMA NEW YORK", "title": "Secrets & Lies", "director": "MIKE LEIGH", "year": "1996", "link": "https://www.screenslate.com/series/jack-harlow-selects", "showtimes": ["6:30PM", "9:15PM"]}, {"date": "2026-04-13", "theater": "ROXY CINEMA NEW YORK", "title": "Sexmission", "director": "JULIUSZ MACHULSKI", "year": "1984", "link": "https://ticketing.uswest.veezi.com/purchase/7290?siteToken=tt17e5ajy3v48kh5b2kremvnz4", "showtimes": ["9:15PM"]}, {"date": "2026-04-13", "theater": "SPECTACLE", "title": "Notes From Beijing", "director": "WANG ZIJUN AND SUN YONGSHENG", "year": "1988 - 1991", "link": "https://www.screenslate.com/series/structure-wave-youth-cinema-lost-chapter-chinas-new-documentary-movement", "showtimes": ["7:00PM", "10:00PM"]}, {"date": "2026-04-13", "theater": "SPECTACLE", "title": "Satan's Bed", "director": "H. TJUT DJALIL", "year": "1986", "link": "https://www.screenslate.com/series/masters-indonesian-exploitation-h-tjut-djalil", "showtimes": ["10:00PM"]}, {"date": "2026-04-14", "theater": "BAM", "title": "The Travel Companion", "director": "TRAVIS WOOD, ALEX MALLIS", "year": "2026", "link": "https://www.bam.org/events/cinema/fy26/0426/the-travel-companion/", "showtimes": ["7:00PM"]}, {"date": "2026-04-14", "theater": "BAM", "title": "Perfect Film", "director": "KEN JACOBS", "year": "1985", "link": "https://www.screenslate.com/series/whole-shebang-celebrating-ken-and-flo-jacobs", "showtimes": ["7:00PM"]}, {"date": "2026-04-14", "theater": "CZECH CENTER", "title": "My Sunny Maad", "director": "MICHAELA PAVL\u00c1TOV\u00c1", "year": "2021", "link": "https://www.screenslate.com/series/weird-and-wonderful-world-czech-animation", "showtimes": ["7:00PM"]}, {"date": "2026-04-14", "theater": "FILM FORUM", "title": "Monte Carlo", "director": "ERNST LUBITSCH", "year": "1930", "link": "https://www.screenslate.com/series/lubitsch-touch-0", "showtimes": ["1:00PM", "6:00PM", "3:20PM", "8:00PM"]}, {"date": "2026-04-14", "theater": "FILM FORUM", "title": "Reunion", "director": "JERRY SCHATZBERG", "year": "1989", "link": "https://filmforum.org/film/reunion", "showtimes": ["3:20PM", "8:00PM"]}, {"date": "2026-04-14", "theater": "IFC CENTER", "title": "Steal This Story, Please!", "director": "CARL DEAL, TIA LESSIN", "year": "2025", "link": "https://www.ifccenter.com/films/steal-this-story-please/", "showtimes": ["10:50AM", "1:30PM", "4:10PM", "6:50PM", "9:30PM", "7:00PM"]}, {"date": "2026-04-14", "theater": "IFC CENTER", "title": "Travis", "director": "RICHARD KOTUK", "year": "1997", "link": "https://www.screenslate.com/series/doc-nyc-selects-spring-2026", "showtimes": ["7:00PM"]}, {"date": "2026-04-14", "theater": "L'ALLIANCE NEW YORK", "title": "Nuits Rouges", "director": "GEORGES FRANJU", "year": "1974", "link": "https://www.screenslate.com/series/fantastic-realism-georges-franju", "showtimes": ["4:00PM", "7:00PM"]}, {"date": "2026-04-14", "theater": "MUSEUM OF MODERN ART", "title": "Next Life", "director": "TENZIN PHUNTSOG", "year": "2025", "link": "https://www.screenslate.com/series/new-directorsnew-films-2026", "showtimes": ["6:00PM", "8:15PM"]}, {"date": "2026-04-14", "theater": "MUSEUM OF MODERN ART", "title": "The River Train", "director": "LORENZO FERRO, LUCAS A. VIGNALE", "year": "2026", "link": "https://www.screenslate.com/series/new-directorsnew-films-2026", "showtimes": ["8:15PM"]}, {"date": "2026-04-14", "theater": "NITEHAWK CINEMA WILLIAMSBURG", "title": "Titan A.E.", "director": "DON BLUTH, GARY GOLDMAN", "year": "2000", "link": "https://www.screenslate.com/series/re-consider-nitehawk-cinema", "showtimes": ["9:15PM"]}, {"date": "2026-04-14", "theater": "PARIS THEATER", "title": "The Handmaiden", "director": "PARK CHAN-WOOK", "year": "2016", "link": "https://www.screenslate.com/series/all-rage-films-inspired-lee-sung-jins-beef", "showtimes": ["12:30PM", "4:15PM", "7:00PM", "9:50PM"]}, {"date": "2026-04-14", "theater": "PARIS THEATER", "title": "Burn After Reading", "director": "JOEL COEN", "year": "2008", "link": "https://www.screenslate.com/series/all-rage-films-inspired-lee-sung-jins-beef", "showtimes": ["4:15PM"]}, {"date": "2026-04-14", "theater": "PARIS THEATER", "title": "Taxi Driver", "director": "MARTIN SCORSESE", "year": "1976", "link": "https://www.screenslate.com/series/academy-museum-branch-selects", "showtimes": ["7:00PM"]}, {"date": "2026-04-14", "theater": "PARIS THEATER", "title": "The Informant!", "director": "STEVEN SODERBERGH", "year": "2009", "link": "https://www.screenslate.com/series/all-rage-films-inspired-lee-sung-jins-beef", "showtimes": ["9:50PM"]}, {"date": "2026-04-20", "theater": "ANTHOLOGY FILM ARCHIVES", "title": "The Virgin's Bed", "director": "PHILIPPE GARREL", "year": "1969", "link": "https://www.screenslate.com/series/la-fille-des-etoiles-tina-aumont", "showtimes": ["6:30PM", "9:00PM"]}, {"date": "2026-04-20", "theater": "ANTHOLOGY FILM ARCHIVES", "title": "Torso", "director": "SERGIO MARTINO", "year": "1973", "link": "https://www.screenslate.com/series/la-fille-des-etoiles-tina-aumont", "showtimes": ["9:00PM"]}, {"date": "2026-04-20", "theater": "BAM", "title": "Robert Wilson and the Civil Wars", "director": "HOWARD BROOKNER", "year": "1985", "link": "https://www.screenslate.com/series/robert-wilson-and-moving-image", "showtimes": ["4:30PM", "7:00PM"]}, {"date": "2026-04-20", "theater": "FILM FORUM", "title": "Mad Bills to Pay (or Destiny, dile que no soy malo)", "director": "JOEL ALFONSO VARGAS", "year": "2025", "link": "https://filmforum.org/film/mad-bills-to-pay", "showtimes": ["12:15PM", "2:25PM", "4:35PM", "6:45PM", "9:00PM"]}, {"date": "2026-04-20", "theater": "NITEHAWK CINEMA PROSPECT PARK", "title": "The Woman Chaser", "director": "ROBINSON DEVOR", "year": "1999", "link": "https://www.screenslate.com/series/were-making-movie-nitehawk-cinema", "showtimes": ["7:15PM", "9:15PM"]}, {"date": "2026-04-20", "theater": "NITEHAWK CINEMA PROSPECT PARK", "title": "The Big Lebowski", "director": "JOEL COEN", "year": "1998", "link": "https://nitehawkcinema.com/prospectpark/movies/the-big-lebowski/", "showtimes": ["9:15PM"]}, {"date": "2026-04-20", "theater": "NITEHAWK CINEMA WILLIAMSBURG", "title": "The Faculty", "director": "ROBERT RODRIGUEZ", "year": "1998", "link": "https://nitehawkcinema.com/williamsburg/movies/the-faculty/", "showtimes": ["9:30PM"]}, {"date": "2026-04-20", "theater": "PARIS THEATER", "title": "The Informant!", "director": "STEVEN SODERBERGH", "year": "2009", "link": "https://www.screenslate.com/series/all-rage-films-inspired-lee-sung-jins-beef", "showtimes": ["12:00PM", "3:00PM", "7:00PM", "10:00PM"]}, {"date": "2026-04-20", "theater": "PARIS THEATER", "title": "The Handmaiden", "director": "PARK CHAN-WOOK", "year": "2016", "link": "https://www.screenslate.com/series/all-rage-films-inspired-lee-sung-jins-beef", "showtimes": ["3:00PM"]}, {"date": "2026-04-20", "theater": "PARIS THEATER", "title": "Michael Clayton", "director": "TONY GILROY", "year": "2007", "link": "https://www.screenslate.com/series/all-rage-films-inspired-lee-sung-jins-beef", "showtimes": ["7:00PM"]}, {"date": "2026-04-20", "theater": "PARIS THEATER", "title": "Burn After Reading", "director": "JOEL COEN", "year": "2008", "link": "https://www.screenslate.com/series/all-rage-films-inspired-lee-sung-jins-beef", "showtimes": ["10:00PM"]}, {"date": "2026-04-20", "theater": "ROXY CINEMA NEW YORK", "title": "Slacker", "director": "RICHARD LINKLATER", "year": "1991", "link": "https://www.screenslate.com/series/jack-harlow-selects", "showtimes": ["7:00PM", "9:00PM"]}, {"date": "2026-04-20", "theater": "ROXY CINEMA NEW YORK", "title": "Freddy Got Fingered", "director": "TOM GREEN", "year": "2001", "link": "https://ticketing.uswest.veezi.com/purchase/7288?siteToken=tt17e5ajy3v48kh5b2kremvnz4", "showtimes": ["9:00PM"]}, {"date": "2026-04-28", "theater": "ANTHOLOGY FILM ARCHIVES", "title": "Cobra Woman", "director": "ROBERT SIODMAK", "year": "1944", "link": "https://www.screenslate.com/series/la-fille-des-etoiles-tina-aumont", "showtimes": ["6:45PM", "8:45PM"]}, {"date": "2026-04-28", "theater": "ANTHOLOGY FILM ARCHIVES", "title": "Torso", "director": "SERGIO MARTINO", "year": "1973", "link": "https://www.screenslate.com/series/la-fille-des-etoiles-tina-aumont", "showtimes": ["8:45PM"]}, {"date": "2026-04-28", "theater": "BAM", "title": "Coming Home", "director": "HAL ASHBY", "year": "1978", "link": "https://www.screenslate.com/series/jane-fonda", "showtimes": ["4:15PM", "7:00PM"]}, {"date": "2026-04-28", "theater": "BAM", "title": "Barbarella", "director": "ROGER VADIM", "year": "1968", "link": "https://www.screenslate.com/series/jane-fonda", "showtimes": ["7:00PM"]}, {"date": "2026-04-28", "theater": "FILM FORUM", "title": "Bernstein's Wall", "director": "DOUGLAS TIROLA", "year": "2021", "link": "https://filmforum.org/film/bernsteins-wall", "showtimes": ["12:15PM", "2:30PM", "4:45PM", "7:00PM", "9:10PM"]}, {"date": "2026-04-28", "theater": "FIREHOUSE: DCTV\u2019S CINEMA FOR DOCUMENTARY FILM", "title": "Conbody vs Everybody", "director": "DEBRA GRANIK", "year": "2026", "link": "https://www.dctvny.org/s/firehouse-film/conbody-vs-everybody-MC6QLZLAMUDVGKHP7X4I32EFYW2U", "showtimes": ["6:30PM"]}, {"date": "2026-04-28", "theater": "IFC CENTER", "title": "Mary Oliver: Saved by the Beauty of the World", "director": "SASHA WATERS", "year": "2026", "link": "https://www.screenslate.com/series/doc-nyc-selects-spring-2026", "showtimes": ["7:00PM"]}, {"date": "2026-04-28", "theater": "L'ALLIANCE NEW YORK", "title": "Voyages en Italie", "director": "SOPHIE LETOURNEUR", "year": "2023", "link": "https://www.screenslate.com/series/films-sophie-letourneur", "showtimes": ["4:00PM", "7:00PM"]}, {"date": "2026-04-28", "theater": "NITEHAWK CINEMA PROSPECT PARK", "title": "Mulholland Drive", "director": "DAVID LYNCH", "year": "2001", "link": "https://www.screenslate.com/series/miss-malice-presents-nitehawk-cinema", "showtimes": ["9:00PM"]}, {"date": "2026-04-28", "theater": "NITEHAWK CINEMA WILLIAMSBURG", "title": "Italo Disco Legacy", "director": "PIETRO ANTON", "year": "2018", "link": "https://www.screenslate.com/series/music-driven-nitehawk-cinema", "showtimes": ["9:30PM"]}, {"date": "2026-04-28", "theater": "PARIS THEATER", "title": "Eternal Sunshine of the Spotless Mind", "director": "MICHEL GONDRY", "year": "2004", "link": "https://www.screenslate.com/series/academy-museum-branch-selects", "showtimes": ["7:00PM"]}, {"date": "2026-04-28", "theater": "SPECTACLE", "title": "Dangerous Seductress", "director": "H. TJUT DJALIL", "year": "1992", "link": "https://www.screenslate.com/series/masters-indonesian-exploitation-h-tjut-djalil", "showtimes": ["7:30PM", "10:00PM"]}, {"date": "2026-04-28", "theater": "SPECTACLE", "title": "Only One Earth", "director": "CHEN JUE AND JIU KE", "year": "1990", "link": "https://www.screenslate.com/series/structure-wave-youth-cinema-lost-chapter-chinas-new-documentary-movement", "showtimes": ["10:00PM"]}, {"date": "2026-04-30", "theater": "ANTHOLOGY FILM ARCHIVES", "title": "Fellini's Casanova", "director": "FEDERICO FELLINI", "year": "1976", "link": "https://www.screenslate.com/series/la-fille-des-etoiles-tina-aumont", "showtimes": ["7:15PM"]}, {"date": "2026-04-30", "theater": "BAM", "title": "Julia", "director": "FRED ZINNEMANN", "year": "1977", "link": "https://www.screenslate.com/series/jane-fonda", "showtimes": ["4:30PM", "7:00PM", "9:20PM"]}, {"date": "2026-04-30", "theater": "BAM", "title": "On Golden Pond", "director": "MARK RYDELL", "year": "1981", "link": "https://www.screenslate.com/series/jane-fonda", "showtimes": ["7:00PM"]}, {"date": "2026-04-30", "theater": "BAM", "title": "The China Syndrome", "director": "JAMES BRIDGES", "year": "1979", "link": "https://www.screenslate.com/series/jane-fonda", "showtimes": ["9:20PM"]}, {"date": "2026-04-30", "theater": "FILM FORUM", "title": "Bernstein's Wall", "director": "DOUGLAS TIROLA", "year": "2021", "link": "https://filmforum.org/film/bernsteins-wall", "showtimes": ["12:15PM", "2:30PM", "4:45PM", "7:00PM", "9:10PM"]}, {"date": "2026-04-30", "theater": "NITEHAWK CINEMA PROSPECT PARK", "title": "The Rookie", "director": "CLINT EASTWOOD", "year": "1990", "link": "https://www.screenslate.com/series/ridiculous-sublime-nitehawk-cinema", "showtimes": ["9:15PM"]}, {"date": "2026-04-30", "theater": "NITEHAWK CINEMA WILLIAMSBURG", "title": "Tetsuo: The Iron Man", "director": "SHINYA TSUKAMOTO", "year": "1989", "link": "https://www.screenslate.com/series/live-sound-cinema-nitehawk-cinema", "showtimes": ["7:00PM"]}, {"date": "2026-04-30", "theater": "SPECTACLE", "title": "The Mansion of Madness", "director": "JUAN L\u00d3PEZ MOCTEZUMA", "year": "1973", "link": "https://www.screenslate.com/series/best-best-spectacle-theater", "showtimes": ["10:00PM"]}, {"date": "2026-05-01", "theater": "BAM", "title": "My Imaginary Country", "director": "PATRICIO GUZM\u00c1N", "year": "2022", "link": "https://www.screenslate.com/series/history-hashtag-revolution-age-social-media", "showtimes": ["5:00PM", "7:30PM"]}, {"date": "2026-05-01", "theater": "BAM", "title": "Gaza Fights for Freedom", "director": "ABBY MARTIN", "year": "2019", "link": "https://www.screenslate.com/series/history-hashtag-revolution-age-social-media", "showtimes": ["7:30PM"]}, {"date": "2026-05-01", "theater": "COLUMBIA UNIVERSITY LENFEST CENTER FOR THE ARTS", "title": "Some Came Running", "director": "VINCENTE MINNELLI", "year": "1958", "link": "https://www.lenfest.arts.columbia.edu/spring-2026-events/lenfest-film-faculty-spotlight-rob-king-presents-some-came-running", "showtimes": ["7:00PM"]}, {"date": "2026-05-01", "theater": "FIREHOUSE: DCTV\u2019S CINEMA FOR DOCUMENTARY FILM", "title": "Conbody vs Everybody", "director": "DEBRA GRANIK", "year": "2026", "link": "https://www.dctvny.org/s/firehouse-film/conbody-vs-everybody-MC6QLZLAMUDVGKHP7X4I32EFYW2U", "showtimes": ["6:30PM"]}, {"date": "2026-05-01", "theater": "ROXY CINEMA NEW YORK", "title": "A Century in Sound", "director": "NICK DWYER, TU NEILL", "year": "2024", "link": "https://ticketing.uswest.veezi.com/purchase/7227?siteToken=tt17e5ajy3v48kh5b2kremvnz4", "showtimes": ["7:00PM"]}, {"date": "2026-05-02", "theater": "BAM", "title": "99%: The Occupy Wall Street Collaborative Film", "director": "AARON AITES, AUDREY EWELL, NINA KRSTIC", "year": "2013", "link": "https://www.screenslate.com/series/history-hashtag-revolution-age-social-media", "showtimes": ["6:00PM", "8:00PM"]}, {"date": "2026-05-02", "theater": "BAM", "title": "The Square", "director": "JEHANE NOUJAIM", "year": "2013", "link": "https://www.screenslate.com/series/history-hashtag-revolution-age-social-media", "showtimes": ["8:00PM"]}, {"date": "2026-05-02", "theater": "NITEHAWK CINEMA PROSPECT PARK", "title": "Puddysticks", "director": "MEGAN SEELY", "year": "2024", "link": "https://www.screenslate.com/series/future-film-female-nitehawk-cinema", "showtimes": ["11:30AM"]}, {"date": "2026-05-02", "theater": "PARIS THEATER", "title": "Star Wars: Episode IV -A New Hope", "director": "GEORGE LUCAS", "year": "1977", "link": "https://www.screenslate.com/series/academy-museum-branch-selects", "showtimes": ["11:00AM"]}, {"date": "2026-05-02", "theater": "ROXY CINEMA NEW YORK", "title": "Tony Foster: Painting at the Edge", "director": "DAVID SCHENDEL", "year": "2025", "link": "https://ticketing.uswest.veezi.com/purchase/7228?siteToken=tt17e5ajy3v48kh5b2kremvnz4", "showtimes": ["3:00PM", "5:00PM"]}, {"date": "2026-05-04", "theater": "BAM", "title": "For Sama", "director": "EDWARD WATTS, WAAD AL-KATEAB", "year": "2019", "link": "https://www.screenslate.com/series/history-hashtag-revolution-age-social-media", "showtimes": ["5:00PM", "7:15PM"]}, {"date": "2026-05-04", "theater": "BAM", "title": "99%: The Occupy Wall Street Collaborative Film", "director": "AARON AITES, AUDREY EWELL, NINA KRSTIC", "year": "2013", "link": "https://www.screenslate.com/series/history-hashtag-revolution-age-social-media", "showtimes": ["7:15PM"]}, {"date": "2026-05-04", "theater": "NITEHAWK CINEMA WILLIAMSBURG", "title": "Felix, dare to dream", "director": "MORGAN BERTACCA, VALERIO BARILETTI", "year": "2025", "link": "https://www.screenslate.com/series/music-driven-nitehawk-cinema", "showtimes": ["7:00PM"]}, {"date": "2026-05-04", "theater": "PARIS THEATER", "title": "Star Wars: Episode IV -A New Hope", "director": "GEORGE LUCAS", "year": "1977", "link": "https://www.screenslate.com/series/academy-museum-branch-selects", "showtimes": ["7:00PM"]}, {"date": "2026-05-05", "theater": "BAM", "title": "My Imaginary Country", "director": "PATRICIO GUZM\u00c1N", "year": "2022", "link": "https://www.screenslate.com/series/history-hashtag-revolution-age-social-media", "showtimes": ["5:00PM", "7:30PM"]}, {"date": "2026-05-05", "theater": "BAM", "title": "For Sama", "director": "EDWARD WATTS, WAAD AL-KATEAB", "year": "2019", "link": "https://www.screenslate.com/series/history-hashtag-revolution-age-social-media", "showtimes": ["7:30PM"]}, {"date": "2026-05-05", "theater": "IFC CENTER", "title": "TheyDream", "director": "WILLIAM D. CABALLERO", "year": "2026", "link": "https://www.screenslate.com/series/doc-nyc-selects-spring-2026", "showtimes": ["7:00PM"]}, {"date": "2026-05-05", "theater": "L'ALLIANCE NEW YORK", "title": "Chicks", "director": "SOPHIE LETOURNEUR", "year": "2009", "link": "https://www.screenslate.com/series/films-sophie-letourneur", "showtimes": ["4:00PM", "7:00PM"]}, {"date": "2026-05-05", "theater": "NITEHAWK CINEMA PROSPECT PARK", "title": "Before It Was Cool: The Brooklyn Beat at Lauterbach\u2019s", "director": "LISA KOMAKHIDZE, MICHAEL WEST", "year": "2026", "link": "https://www.screenslate.com/series/music-driven-nitehawk-cinema", "showtimes": ["7:00PM"]}, {"date": "2026-05-05", "theater": "NITEHAWK CINEMA WILLIAMSBURG", "title": "Rave Culture: A New Era", "director": "EDUARDO CUBILLO BLASCO", "year": "2025", "link": "https://www.screenslate.com/series/music-driven-nitehawk-cinema", "showtimes": ["7:00PM"]}, {"date": "2026-05-05", "theater": "PARIS THEATER", "title": "The Iron Giant", "director": "BRAD BIRD", "year": "1999", "link": "https://www.screenslate.com/series/academy-museum-branch-selects", "showtimes": ["7:00PM"]}];
-        const theaterCoords = {"METROGRAPH": {"lat": 40.7132, "lng": -73.9912}, "FILM FORUM": {"lat": 40.7282, "lng": -74.0039}, "ANTHOLOGY FILM ARCHIVES": {"lat": 40.7271, "lng": -73.9897}, "IFC CENTER": {"lat": 40.7308, "lng": -74.0011}, "MUSEUM OF MODERN ART": {"lat": 40.7614, "lng": -73.9776}, "BAM ROSE CINEMAS": {"lat": 40.6861, "lng": -73.9774}, "NITEHAWK CINEMA WILLIAMSBURG": {"lat": 40.7161, "lng": -73.9575}, "NITEHAWK CINEMA PROSPECT PARK": {"lat": 40.6617, "lng": -73.9765}, "ALAMO DRAFTHOUSE BROOKLYN": {"lat": 40.6908, "lng": -73.9831}, "LINCOLN CENTER": {"lat": 40.7725, "lng": -73.9835}, "ROXY CINEMA": {"lat": 40.7202, "lng": -74.0044}, "FILM AT LINCOLN CENTER": {"lat": 40.7725, "lng": -73.9835}, "VILLAGE EAST CINEMA": {"lat": 40.729, "lng": -73.9866}, "QUAD CINEMA": {"lat": 40.736, "lng": -73.9947}, "PARIS THEATER": {"lat": 40.7634, "lng": -73.9744}, "ANGELIKA FILM CENTER": {"lat": 40.7258, "lng": -73.9977}, "SPECTACLE THEATER": {"lat": 40.7138, "lng": -73.9617}};
-        let selectedDates = new Set();
-        let selectedDaysOfWeek = new Set();
-        let selectedTheaters = new Set();
-        let selectedNeighborhoods = new Set();
-        
-        // Map Variables
-        let map, drawingManager, currentShape;
-        let markers = [];
-        
-        // Theater to neighborhood mapping
-        const theaterNeighborhoods = {"METROGRAPH": "Lower East Side", "FILM FORUM": "West Village", "ANTHOLOGY FILM ARCHIVES": "East Village", "IFC CENTER": "West Village", "MUSEUM OF MODERN ART": "Midtown", "BAM ROSE CINEMAS": "Brooklyn", "NITEHAWK CINEMA WILLIAMSBURG": "Brooklyn", "NITEHAWK CINEMA PROSPECT PARK": "Brooklyn", "ALAMO DRAFTHOUSE BROOKLYN": "Brooklyn", "LINCOLN CENTER": "Upper West Side", "QUAD CINEMA": "West Village", "PARIS THEATER": "Midtown", "VILLAGE EAST CINEMA": "East Village", "CINEMA VILLAGE": "West Village", "LANDMARK SUNSHINE CINEMA": "Lower East Side", "ANGELIKA FILM CENTER": "SoHo", "REGAL ESSEX CROSSING": "Lower East Side", "AMC LINCOLN SQUARE": "Upper West Side", "FILM AT LINCOLN CENTER": "Upper West Side", "ROXY CINEMA": "TriBeCa", "SPECTACLE THEATER": "Brooklyn", "SYNDICATED": "Brooklyn", "VIDEOLOGY": "Brooklyn", "BROOKLYN ACADEMY OF MUSIC": "Brooklyn", "COBBLE HILL CINEMAS": "Brooklyn", "PAVILION THEATER": "Brooklyn", "KENT THEATER": "Brooklyn", "VIDEOLOGY BAR": "Brooklyn", "ALAMO DRAFTHOUSE LOWER MANHATTAN": "Other", "BAM": "Other", "COLUMBIA UNIVERSITY LENFEST CENTER FOR THE ARTS": "Other", "CZECH CENTER": "Other", "FIREHOUSE: DCTV\u2019S CINEMA FOR DOCUMENTARY FILM": "Other", "L'ALLIANCE NEW YORK": "Other", "LOW CINEMA": "Other", "MUSEUM OF THE MOVING IMAGE": "Other", "SPECTACLE": "Other"};
-        
-        // Get unique theaters
-        const allTheaters = ["ALAMO DRAFTHOUSE LOWER MANHATTAN", "ANTHOLOGY FILM ARCHIVES", "BAM", "COLUMBIA UNIVERSITY LENFEST CENTER FOR THE ARTS", "CZECH CENTER", "FILM AT LINCOLN CENTER", "FILM FORUM", "FIREHOUSE: DCTV\u2019S CINEMA FOR DOCUMENTARY FILM", "IFC CENTER", "L'ALLIANCE NEW YORK", "LOW CINEMA", "METROGRAPH", "MUSEUM OF MODERN ART", "MUSEUM OF THE MOVING IMAGE", "NITEHAWK CINEMA PROSPECT PARK", "NITEHAWK CINEMA WILLIAMSBURG", "PARIS THEATER", "QUAD CINEMA", "ROXY CINEMA NEW YORK", "SPECTACLE", "VILLAGE EAST CINEMA"];
-        
-        // Get unique neighborhoods
-        const allNeighborhoods = ["Brooklyn", "East Village", "Lower East Side", "Midtown", "Other", "SoHo", "TriBeCa", "Upper West Side", "West Village"];
-        
-        // Get unique dates and count screenings per date
-        const dateMap = {};
-        allMovies.forEach(m => {
-            if (!dateMap[m.date]) {
-                dateMap[m.date] = 0;
-            }
-            dateMap[m.date]++;
+    <div id="calendar" class="calendar"></div>
+
+    <div id="map-container">
+        <div style="font-weight:bold; margin-bottom:10px; text-transform:uppercase;">Map Filter (Draw to Filter)</div>
+        <div id="map"></div>
+        <button class="btn-clear" onclick="clearSelection()">Clear Map Drawing</button>
+    </div>
+
+    <div class="count" id="resultCount">0 screenings found</div>
+    <div id="movieContainer"></div>
+
+    <div class="footer">
+        Data sourced from <a href="https://www.screenslate.com" target="_blank" style="color:#000;">Screen Slate</a><br>
+        Calendar file available: <a href="./nyc_movies.ics" download style="color:#000;">Download ICS</a>
+    </div>
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA5B9DU1gTNvgJ4rVC5FsEgGneDcEVXfG0&libraries=drawing"></script>
+    <script>
+    /* ── DATA ─────────────────────────────────────────────── */
+    const allMovies = [];
+    const theaterCoords = {};
+    const theaterNeighborhoods = {};
+    const allTheaters = [];
+    const allNeighborhoods = [];
+
+    let selectedDates = new Set();
+    let selectedDaysOfWeek = new Set();
+    let selectedTheaters = new Set();
+    let selectedNeighborhoods = new Set();
+    let map, drawingManager, currentShape;
+    let markers = [];
+
+    const dateMap = {};
+    allMovies.forEach(m => { dateMap[m.date] = (dateMap[m.date] || 0) + 1; });
+    const dates = Object.keys(dateMap).sort();
+
+    /* ── POPULATE DROPDOWNS ───────────────────────────────── */
+    (function init() {
+        const ds = document.getElementById('dateFilter');
+        dates.forEach(d => {
+            const o = document.createElement('option');
+            o.value = d;
+            const dt = new Date(d + 'T00:00:00');
+            o.textContent = dt.toLocaleDateString('en-US', { weekday:'short', month:'short', day:'numeric' });
+            ds.appendChild(o);
         });
-        
-        const dates = Object.keys(dateMap).sort();
-        
-        // Populate date dropdown
-        const dateSelect = document.getElementById('dateFilter');
-        dates.forEach(date => {
-            const option = document.createElement('option');
-            option.value = date;
-            const d = new Date(date + 'T00:00:00');
-            option.textContent = d.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
-            dateSelect.appendChild(option);
+        const ts = document.getElementById('theaterFilter');
+        allTheaters.forEach(t => { const o = document.createElement('option'); o.value = t; o.textContent = t; ts.appendChild(o); });
+        const ns = document.getElementById('neighborhoodFilter');
+        allNeighborhoods.forEach(n => { const o = document.createElement('option'); o.value = n; o.textContent = n; ns.appendChild(o); });
+    })();
+
+    /* ── MAP ───────────────────────────────────────────────── */
+    function initMap() {
+        map = new google.maps.Map(document.getElementById('map'), {
+            center: {lat:40.7128, lng:-74.0060}, zoom: 11,
+            styles: [{ featureType:"poi", stylers:[{ visibility:"off" }] }],
+            mapTypeControl: false, streetViewControl: false
         });
-        
-        // Populate theater dropdown
-        const theaterSelect = document.getElementById('theaterFilter');
-        allTheaters.forEach(theater => {
-            const option = document.createElement('option');
-            option.value = theater;
-            option.textContent = theater;
-            theaterSelect.appendChild(option);
+        drawingManager = new google.maps.drawing.DrawingManager({
+            drawingMode: null, drawingControl: true,
+            drawingControlOptions: { position: google.maps.ControlPosition.TOP_CENTER,
+                                      drawingModes: ['polygon','circle','rectangle'] },
+            circleOptions:    { fillOpacity:0.2, strokeColor:'#d32f2f', fillColor:'#d32f2f' },
+            polygonOptions:   { fillOpacity:0.2, strokeColor:'#d32f2f', fillColor:'#d32f2f' },
+            rectangleOptions: { fillOpacity:0.2, strokeColor:'#d32f2f', fillColor:'#d32f2f' }
         });
-        
-        // Populate neighborhood dropdown
-        const neighborhoodSelect = document.getElementById('neighborhoodFilter');
-        allNeighborhoods.forEach(neighborhood => {
-            const option = document.createElement('option');
-            option.value = neighborhood;
-            option.textContent = neighborhood;
-            neighborhoodSelect.appendChild(option);
-        });
-        
-        // --- MAP FUNCTIONS ---
-        function initMap() {
-            map = new google.maps.Map(document.getElementById('map'), {
-                center: {lat: 40.7128, lng: -74.0060},
-                zoom: 11,
-                styles: [{ "featureType": "poi", "stylers": [{ "visibility": "off" }] }],
-                mapTypeControl: false,
-                streetViewControl: false
-            });
-
-            drawingManager = new google.maps.drawing.DrawingManager({
-                drawingMode: null,
-                drawingControl: true,
-                drawingControlOptions: {
-                    position: google.maps.ControlPosition.TOP_CENTER,
-                    drawingModes: ['polygon', 'circle', 'rectangle']
-                },
-                circleOptions: { fillOpacity: 0.2, strokeColor: '#d32f2f', fillColor: '#d32f2f' },
-                polygonOptions: { fillOpacity: 0.2, strokeColor: '#d32f2f', fillColor: '#d32f2f' },
-                rectangleOptions: { fillOpacity: 0.2, strokeColor: '#d32f2f', fillColor: '#d32f2f' }
-            });
-            drawingManager.setMap(map);
-
-            google.maps.event.addListener(drawingManager, 'overlaycomplete', function(event) {
-                if (currentShape) currentShape.setMap(null);
-                currentShape = event.overlay;
-                filterMovies();
-                
-                // Trigger filter updates if shape is edited
-                if (event.type === 'circle') {
-                    google.maps.event.addListener(currentShape, 'radius_changed', filterMovies);
-                    google.maps.event.addListener(currentShape, 'center_changed', filterMovies);
-                }
-            });
-
-            // Add theater markers
-            Object.keys(theaterCoords).forEach(name => {
-                const marker = new google.maps.Marker({
-                    position: theaterCoords[name],
-                    map: map,
-                    title: name,
-                    icon: {
-                        path: google.maps.SymbolPath.CIRCLE,
-                        scale: 5,
-                        fillColor: "#000",
-                        fillOpacity: 1,
-                        strokeWeight: 0
-                    }
-                });
-                marker.theaterName = name;
-                markers.push(marker);
-            });
-        }
-
-        function clearSelection() {
+        drawingManager.setMap(map);
+        google.maps.event.addListener(drawingManager, 'overlaycomplete', function(e) {
             if (currentShape) currentShape.setMap(null);
-            currentShape = null;
+            currentShape = e.overlay;
             filterMovies();
+            if (e.type === 'circle') {
+                google.maps.event.addListener(currentShape, 'radius_changed', filterMovies);
+                google.maps.event.addListener(currentShape, 'center_changed', filterMovies);
+            }
+        });
+        Object.keys(theaterCoords).forEach(name => {
+            const mk = new google.maps.Marker({
+                position: theaterCoords[name], map, title: name,
+                icon: { path: google.maps.SymbolPath.CIRCLE, scale:5,
+                         fillColor:"#000", fillOpacity:1, strokeWeight:0 }
+            });
+            mk.theaterName = name;
+            markers.push(mk);
+        });
+    }
+    function clearSelection() { if (currentShape) currentShape.setMap(null); currentShape = null; filterMovies(); }
+    function isLocationInShape(lat, lng) {
+        if (!currentShape) return true;
+        const pt = new google.maps.LatLng(lat, lng);
+        if (currentShape.getBounds && !currentShape.getBounds().contains(pt)) return false;
+        if (currentShape instanceof google.maps.Polygon)
+            return google.maps.geometry.poly.containsLocation(pt, currentShape);
+        if (currentShape instanceof google.maps.Circle) {
+            const dist = google.maps.geometry.spherical.computeDistanceBetween(pt, currentShape.getCenter());
+            return dist <= currentShape.getRadius();
         }
+        return true;
+    }
 
-        function isLocationInShape(lat, lng) {
-            if (!currentShape) return true;
-            const pt = new google.maps.LatLng(lat, lng);
-            
-            if (currentShape.getBounds) { 
-                if (!currentShape.getBounds().contains(pt)) return false;
-            }
-            
-            if (currentShape instanceof google.maps.Polygon) {
-                return google.maps.geometry.poly.containsLocation(pt, currentShape);
-            } else if (currentShape instanceof google.maps.Circle) {
-                const dist = google.maps.geometry.spherical.computeDistanceBetween(pt, currentShape.getCenter());
-                return dist <= currentShape.getRadius();
-            }
-            return true;
-        }
-        
-        function handleNeighborhoodChange() {
-            // Get selected neighborhoods
-            const selectedOptions = Array.from(document.getElementById('neighborhoodFilter').selectedOptions);
-            selectedNeighborhoods.clear();
-            selectedOptions.forEach(option => {
-                selectedNeighborhoods.add(option.value);
-            });
-            
-            // Auto-select theaters in those neighborhoods
-            if (selectedNeighborhoods.size > 0) {
-                selectedTheaters.clear();
-                allTheaters.forEach(theater => {
-                    const neighborhood = theaterNeighborhoods[theater];
-                    if (selectedNeighborhoods.has(neighborhood)) {
-                        selectedTheaters.add(theater);
-                    }
-                });
-                
-                // Update theater dropdown
-                Array.from(theaterSelect.options).forEach(option => {
-                    option.selected = selectedTheaters.has(option.value);
-                });
-            } else {
-                // If no neighborhoods selected, clear theater filter
-                selectedTheaters.clear();
-                Array.from(theaterSelect.options).forEach(option => {
-                    option.selected = false;
-                });
-            }
-            
-            filterMovies();
-        }
-        
-        // Build Calendar
-        function buildCalendar() {
-            const calendar = document.getElementById('calendar');
-            const firstDate = new Date(dates[0] + 'T00:00:00');
-            const lastDate = new Date(dates[dates.length - 1] + 'T00:00:00');
-            
-            const dayNames = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
-            dayNames.forEach((day, index) => {
-                const header = document.createElement('div');
-                header.className = 'calendar-header';
-                header.textContent = day;
-                header.onclick = () => toggleDayOfWeek(index);
-                header.dataset.dayIndex = index;
-                calendar.appendChild(header);
-            });
-            
-            const startDate = new Date(firstDate);
-            startDate.setDate(startDate.getDate() - startDate.getDay());
-            
-            const endDate = new Date(lastDate);
-            endDate.setDate(endDate.getDate() + (6 - endDate.getDay()));
-            
-            let currentDate = new Date(startDate);
-            while (currentDate <= endDate) {
-                const dateStr = currentDate.toISOString().split('T')[0];
-                const day = document.createElement('div');
-                day.className = 'calendar-day';
-                day.dataset.date = dateStr;
-                
-                if (dateMap[dateStr]) {
-                    day.classList.add('has-screenings');
-                    day.innerHTML = `
-                        <div class="day-number">${currentDate.getDate()}</div>
-                        <div class="screening-count">${dateMap[dateStr]} films</div>
-                    `;
-                    day.onclick = (e) => toggleDate(dateStr, e);
-                } else {
-                    day.innerHTML = `<div class="day-number">${currentDate.getDate()}</div>`;
-                    day.style.opacity = '0.3';
-                    day.style.cursor = 'default';
-                    day.onclick = null;
-                }
-                
-                calendar.appendChild(day);
-                currentDate.setDate(currentDate.getDate() + 1);
-            }
-        }
-        
-        function toggleDayOfWeek(dayIndex) {
-            if (selectedDaysOfWeek.has(dayIndex)) {
-                selectedDaysOfWeek.delete(dayIndex);
-            } else {
-                selectedDaysOfWeek.add(dayIndex);
-            }
-            
-            selectedDates.clear();
-            updateDateSelectUI();
-            updateDayOfWeekUI();
-            
-            document.querySelectorAll('.calendar-day').forEach(day => {
-                day.classList.remove('selected');
-            });
-            
-            filterMovies();
-        }
-        
-        function handleDayCheckboxChange() {
-            selectedDaysOfWeek.clear();
-            document.querySelectorAll('.day-checkbox input[type="checkbox"]:checked').forEach(checkbox => {
-                selectedDaysOfWeek.add(parseInt(checkbox.value));
-            });
-            
-            selectedDates.clear();
-            updateDateSelectUI();
-            updateDayOfWeekUI();
-            
-            document.querySelectorAll('.day-checkbox').forEach(label => {
-                const checkbox = label.querySelector('input[type="checkbox"]');
-                if (checkbox.checked) {
-                    label.classList.add('checked');
-                } else {
-                    label.classList.remove('checked');
-                }
-            });
-            
-            document.querySelectorAll('.calendar-day').forEach(day => {
-                day.classList.remove('selected');
-            });
-            
-            filterMovies();
-        }
-        
-        function toggleDate(dateStr, event) {
-            if (selectedDates.has(dateStr)) {
-                selectedDates.delete(dateStr);
-            } else {
-                selectedDates.add(dateStr);
-            }
-            
-            if (selectedDates.size > 0) {
-                selectedDaysOfWeek.clear();
-                updateDayOfWeekUI();
-            }
-            
-            updateDateSelectUI();
-            updateCalendarUI();
-            filterMovies();
-        }
-        
-        function handleDateFilterChange() {
-            const selectedOptions = Array.from(document.getElementById('dateFilter').selectedOptions);
-            selectedDates.clear();
-            selectedOptions.forEach(option => {
-                selectedDates.add(option.value);
-            });
-            
-            if (selectedDates.size > 0) {
-                selectedDaysOfWeek.clear();
-                updateDayOfWeekUI();
-            }
-            
-            updateCalendarUI();
-            filterMovies();
-        }
-        
-        function updateDateSelectUI() {
-            const dateSelect = document.getElementById('dateFilter');
-            Array.from(dateSelect.options).forEach(option => {
-                option.selected = selectedDates.has(option.value);
-            });
-        }
-        
-        function updateDayOfWeekUI() {
-            document.querySelectorAll('.day-checkbox input[type="checkbox"]').forEach(checkbox => {
-                const checkboxDay = parseInt(checkbox.value);
-                checkbox.checked = selectedDaysOfWeek.has(checkboxDay);
-            });
-            document.querySelectorAll('.day-checkbox').forEach(label => {
-                const checkbox = label.querySelector('input[type="checkbox"]');
-                if (checkbox.checked) {
-                    label.classList.add('checked');
-                } else {
-                    label.classList.remove('checked');
-                }
-            });
-            
-            document.querySelectorAll('.calendar-header').forEach(header => {
-                const headerDay = parseInt(header.dataset.dayIndex);
-                if (selectedDaysOfWeek.has(headerDay)) {
-                    header.classList.add('selected');
-                } else {
-                    header.classList.remove('selected');
-                }
-            });
-        }
-        
-        function updateCalendarUI() {
-            document.querySelectorAll('.calendar-day').forEach(day => {
-                if (selectedDates.has(day.dataset.date)) {
-                    day.classList.add('selected');
-                } else {
-                    day.classList.remove('selected');
-                }
-            });
-        }
-        
-        function parseTime(timeStr) {
-            const match = timeStr.match(/(\d(1, 2)):(\d2)\s*([AP]M)/i);
-            if (!match) return null;
-            
-            let hour = parseInt(match[1]);
-            const minute = parseInt(match[2]);
-            const meridiem = match[3].toUpperCase();
-            
-            if (meridiem === 'PM' && hour !== 12) hour += 12;
-            if (meridiem === 'AM' && hour === 12) hour = 0;
-            
-            return hour * 60 + minute;
-        }
-        
-        function timeStringToMinutes(timeStr) {
-            const [hours, minutes] = timeStr.split(':').map(Number);
-            return hours * 60 + minutes;
-        }
-        
-        function matchesTimeRange(showtimes, startMinutes, endMinutes) {
-            if (showtimes[0] === 'Check website') return true;
-            
-            return showtimes.some(time => {
-                const minutes = parseTime(time);
-                if (minutes === null) return true;
-                
-                if (endMinutes < startMinutes) {
-                    endMinutes = 24 * 60 - 1;
-                }
-                
-                return minutes >= startMinutes && minutes <= endMinutes;
-            });
-        }
-        
-        function matchesSearch(movie, query) {
-            if (!query) return true;
-            
-            const searchText = query.toLowerCase();
-            const searchableContent = [
-                movie.title,
-                movie.director,
-                movie.theater,
-                movie.year
-            ].join(' ').toLowerCase();
-            
-            return searchableContent.includes(searchText);
-        }
-        
-        function filterMovies() {
-            const searchQuery = document.getElementById('searchBar').value;
-            const startTime = document.getElementById('startTime').value;
-            const endTime = document.getElementById('endTime').value;
-            
-            // Get selected theaters
-            const theaterOptions = Array.from(document.getElementById('theaterFilter').selectedOptions);
+    /* ── NEIGHBORHOOD FILTER ──────────────────────────────── */
+    function handleNeighborhoodChange() {
+        selectedNeighborhoods = new Set(Array.from(document.getElementById('neighborhoodFilter').selectedOptions).map(o=>o.value));
+        if (selectedNeighborhoods.size > 0) {
             selectedTheaters.clear();
-            theaterOptions.forEach(option => {
-                selectedTheaters.add(option.value);
-            });
-            
-            // Time range conversion
-            const startMinutes = timeStringToMinutes(startTime);
-            const endMinutes = timeStringToMinutes(endTime);
-            
-            const filtered = allMovies.filter(m => {
-                // 1. Search Filter
-                if (!matchesSearch(m, searchQuery)) return false;
-                
-                // 2. Map Filter (Geospatial)
-                const coords = theaterCoords[m.theater];
-                // If the theater has coords, check if it's in the shape. 
-                // If it doesn't have coords (uncommon), or no shape is drawn, return true.
-                const inArea = coords ? isLocationInShape(coords.lat, coords.lng) : (!currentShape);
-                if (!inArea) return false;
-                
-                // 3. Theater Filter
-                if (selectedTheaters.size > 0 && !selectedTheaters.has(m.theater)) return false;
-                
-                // 4. Date Filter (Specific Dates)
-                if (selectedDates.size > 0 && !selectedDates.has(m.date)) return false;
-                
-                // 5. Day of Week Filter
-                if (selectedDaysOfWeek.size > 0) {
-                    const dateObj = new Date(m.date + 'T00:00:00');
-                    if (!selectedDaysOfWeek.has(dateObj.getDay())) return false;
-                }
-                
-                // 6. Time Filter
-                if (!matchesTimeRange(m.showtimes, startMinutes, endMinutes)) return false;
-                
-                return true;
-            });
-            
-            renderMovies(filtered);
+            allTheaters.forEach(t => { if (selectedNeighborhoods.has(theaterNeighborhoods[t])) selectedTheaters.add(t); });
+            Array.from(document.getElementById('theaterFilter').options).forEach(o => { o.selected = selectedTheaters.has(o.value); });
+        } else {
+            selectedTheaters.clear();
+            Array.from(document.getElementById('theaterFilter').options).forEach(o => { o.selected = false; });
         }
+        filterMovies();
+    }
 
-        function renderMovies(movies) {
-            const container = document.getElementById('movieContainer');
-            const resultCount = document.getElementById('resultCount');
-            
-            resultCount.textContent = `${movies.length} screenings found`;
-            
-            if (movies.length === 0) {
-                container.innerHTML = '<div style="text-align:center; padding:40px; color:#666;">No screenings match your filters.</div>';
-                return;
+    /* ── CALENDAR ─────────────────────────────────────────── */
+    function buildCalendar() {
+        const cal = document.getElementById('calendar');
+        const first = new Date(dates[0] + 'T00:00:00');
+        const last  = new Date(dates[dates.length-1] + 'T00:00:00');
+        ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'].forEach((d,i) => {
+            const h = document.createElement('div'); h.className = 'calendar-header';
+            h.textContent = d; h.onclick = () => toggleDayOfWeek(i); h.dataset.dayIndex = i;
+            cal.appendChild(h);
+        });
+        const s = new Date(first); s.setDate(s.getDate() - s.getDay());
+        const e = new Date(last);  e.setDate(e.getDate() + (6 - e.getDay()));
+        let cur = new Date(s);
+        while (cur <= e) {
+            const ds = cur.toISOString().split('T')[0];
+            const day = document.createElement('div');
+            day.className = 'calendar-day'; day.dataset.date = ds;
+            if (dateMap[ds]) {
+                day.classList.add('has-screenings');
+                day.innerHTML = `<div class="day-number">${cur.getDate()}</div><div class="screening-count">${dateMap[ds]} films</div>`;
+                day.onclick = () => toggleDate(ds);
+            } else {
+                day.innerHTML = `<div class="day-number">${cur.getDate()}</div>`;
+                day.style.opacity = '0.3'; day.style.cursor = 'default';
             }
-            
-            container.innerHTML = movies.map(m => {
-                const showtimesHtml = m.showtimes.map(t => 
-                    `<span class="showtime">${t}</span>`
-                ).join('');
-                
-                const d = new Date(m.date + 'T00:00:00');
-                const dateStr = d.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
-                
-                return `
-                    <div class="movie-card">
-                        <div class="date-badge">${dateStr}</div>
-                        <div class="movie-title">${m.title} <span style="font-weight:normal; font-size:0.8em;">(${m.year})</span></div>
-                        <div class="movie-meta">Dir: ${m.director}</div>
-                        <div class="theater">${m.theater}</div>
-                        <div class="showtimes">${showtimesHtml}</div>
-                        <a href="${m.link}" target="_blank" class="link">Tickets & Info</a>
-                    </div>
-                `;
-            }).join('');
+            cal.appendChild(day);
+            cur.setDate(cur.getDate() + 1);
         }
-        
-        window.onload = function() {
-            buildCalendar();
-            initMap();
-            renderMovies(allMovies);
-        };
-        </script>
-    </body>
-    </html>
-    
+    }
+    function toggleDayOfWeek(i) {
+        selectedDaysOfWeek.has(i) ? selectedDaysOfWeek.delete(i) : selectedDaysOfWeek.add(i);
+        selectedDates.clear(); syncUI(); filterMovies();
+    }
+    function handleDayCheckboxChange() {
+        selectedDaysOfWeek.clear();
+        document.querySelectorAll('.day-checkbox input:checked').forEach(cb => selectedDaysOfWeek.add(+cb.value));
+        selectedDates.clear(); syncUI(); filterMovies();
+    }
+    function toggleDate(ds) {
+        selectedDates.has(ds) ? selectedDates.delete(ds) : selectedDates.add(ds);
+        if (selectedDates.size) { selectedDaysOfWeek.clear(); }
+        syncUI(); filterMovies();
+    }
+    function handleDateFilterChange() {
+        selectedDates = new Set(Array.from(document.getElementById('dateFilter').selectedOptions).map(o=>o.value));
+        if (selectedDates.size) selectedDaysOfWeek.clear();
+        syncUI(); filterMovies();
+    }
+    function syncUI() {
+        // date select
+        Array.from(document.getElementById('dateFilter').options).forEach(o => { o.selected = selectedDates.has(o.value); });
+        // day-of-week checkboxes
+        document.querySelectorAll('.day-checkbox').forEach(lbl => {
+            const cb = lbl.querySelector('input');
+            cb.checked = selectedDaysOfWeek.has(+cb.value);
+            lbl.classList.toggle('checked', cb.checked);
+        });
+        // calendar headers
+        document.querySelectorAll('.calendar-header').forEach(h => {
+            h.classList.toggle('selected', selectedDaysOfWeek.has(+h.dataset.dayIndex));
+        });
+        // calendar days
+        document.querySelectorAll('.calendar-day').forEach(d => {
+            d.classList.toggle('selected', selectedDates.has(d.dataset.date));
+        });
+    }
+
+    /* ── TIME PARSING (FIXED REGEX) ───────────────────────── */
+    function parseTime(str) {
+        const m = str.match(/(\d{1,2}):(\d{2})\s*([AP]M)/i);
+        if (!m) return null;
+        let h = parseInt(m[1]), min = parseInt(m[2]);
+        const ap = m[3].toUpperCase();
+        if (ap === 'PM' && h !== 12) h += 12;
+        if (ap === 'AM' && h === 12) h = 0;
+        return h * 60 + min;
+    }
+    function toMin(t) { const [h,m] = t.split(':').map(Number); return h*60+m; }
+    function matchesTimeRange(times, lo, hi) {
+        if (times[0] === 'Check website') return true;
+        if (hi < lo) hi = 24*60-1;
+        return times.some(t => { const m = parseTime(t); return m === null || (m >= lo && m <= hi); });
+    }
+
+    /* ── FILTER ────────────────────────────────────────────── */
+    function filterMovies() {
+        const q = document.getElementById('searchBar').value.toLowerCase();
+        const lo = toMin(document.getElementById('startTime').value);
+        const hi = toMin(document.getElementById('endTime').value);
+        selectedTheaters = new Set(Array.from(document.getElementById('theaterFilter').selectedOptions).map(o=>o.value));
+
+        const filtered = allMovies.filter(m => {
+            if (q && ![m.title,m.director,m.theater,m.year].join(' ').toLowerCase().includes(q)) return false;
+            const c = theaterCoords[m.theater];
+            if (c && !isLocationInShape(c.lat, c.lng)) return false;
+            if (!c && currentShape) return false;
+            if (selectedTheaters.size && !selectedTheaters.has(m.theater)) return false;
+            if (selectedDates.size && !selectedDates.has(m.date)) return false;
+            if (selectedDaysOfWeek.size) {
+                const dow = new Date(m.date + 'T00:00:00').getDay();
+                if (!selectedDaysOfWeek.has(dow)) return false;
+            }
+            if (!matchesTimeRange(m.showtimes, lo, hi)) return false;
+            return true;
+        });
+        renderMovies(filtered);
+    }
+
+    /* ── RENDER ────────────────────────────────────────────── */
+    function renderMovies(movies) {
+        document.getElementById('resultCount').textContent = movies.length + ' screenings found';
+        const c = document.getElementById('movieContainer');
+        if (!movies.length) { c.innerHTML = '<div style="text-align:center;padding:40px;color:#666;">No screenings match your filters.</div>'; return; }
+        c.innerHTML = movies.map(m => {
+            const d = new Date(m.date+'T00:00:00');
+            const ds = d.toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric'});
+            const st = m.showtimes.map(t=>`<span class="showtime">${t}</span>`).join('');
+            return `<div class="movie-card">
+                <div class="date-badge">${ds}</div>
+                <div class="movie-title">${m.title} <span style="font-weight:normal;font-size:0.8em">(${m.year})</span></div>
+                <div class="movie-meta">Dir: ${m.director}</div>
+                <div class="theater">${m.theater}</div>
+                <div class="showtimes">${st}</div>
+                <a href="${m.link}" target="_blank" class="link">Tickets &amp; Info</a>
+            </div>`;
+        }).join('');
+    }
+
+    /* ── BOOT ──────────────────────────────────────────────── */
+    window.onload = function() { buildCalendar(); initMap(); renderMovies(allMovies); };
+    </script>
+</body>
+</html>
