@@ -36,25 +36,33 @@ def extract_showtimes(element):
     """Extract all showtimes from a listing element"""
     showtimes = []
     try:
+        # Look for showtime containers
         showtime_divs = element.find_elements(By.CSS_SELECTOR, '.showtimes, [class*="showtime"], div:has(span)')
+        
         for div in showtime_divs:
+            # Find all span elements that might contain times
             time_spans = div.find_elements(By.TAG_NAME, 'span')
             for span in time_spans:
                 text = span.text.strip()
+                # Use findall to capture ALL times in the text
                 times = re.findall(r'\d{1,2}:\d{2}\s*[AP]M', text, re.IGNORECASE)
                 for t in times:
                     clean_time = t.rstrip(',').strip()
-                    if clean_time and clean_time not in showtimes:
+                    if clean_time and clean_time not in showtimes:  # Avoid duplicates
                         showtimes.append(clean_time)
+        
+        # If no showtimes found in structured elements, search parent text
         if not showtimes:
             parent_text = element.text
             times = re.findall(r'\d{1,2}:\d{2}\s*[AP]M', parent_text, re.IGNORECASE)
             for t in times:
                 clean_time = t.rstrip(',').strip()
-                if clean_time and clean_time not in showtimes:
+                if clean_time and clean_time not in showtimes:  # Avoid duplicates
                     showtimes.append(clean_time)
+    
     except Exception as e:
         pass
+    
     return showtimes if showtimes else ['Check website']
 
 def scroll_full_page(driver):
@@ -68,6 +76,7 @@ def scroll_full_page(driver):
         if current_pos >= new_height or new_height == last_height:
             break
         last_height = new_height
+    # Scroll back to top
     driver.execute_script("window.scrollTo(0, 0);")
     time.sleep(0.5)
 
@@ -92,32 +101,42 @@ def scrape_single_day(driver, date_str):
     """Scrape one day of listings. Returns list of screening dicts."""
     url = f"https://www.screenslate.com/listings/{date_str}"
     driver.get(url)
+
     try:
         WebDriverWait(driver, 15).until(
             EC.presence_of_element_located((By.ID, "listings"))
         )
     except Exception:
-        print(f"  No #listings container found")
+        print(f"  ⚠ No #listings container found")
         return []
+
+    # Full-page scroll to trigger lazy loading
     scroll_full_page(driver)
     time.sleep(1.5)
+
     daily_data = []
     current_theater = "Unknown Venue"
+
     listings_container = driver.find_element(By.ID, "listings")
     elements = listings_container.find_elements(By.CSS_SELECTOR, "*")
+
     for element in elements:
         if element.tag_name == 'h3':
             current_theater = element.text.strip()
+
         cls = element.get_attribute('class') or ''
         if 'listing' in cls:
             try:
                 title_el = element.find_element(By.CSS_SELECTOR, 'a span')
                 title = title_el.text.strip()
                 link = element.find_element(By.TAG_NAME, 'a').get_attribute('href')
+
                 spans = element.find_elements(By.TAG_NAME, 'span')
                 director = spans[1].text.replace(' ,', '').strip() if len(spans) > 1 else "N/A"
                 year = spans[2].text.replace(',', '').strip() if len(spans) > 2 else "N/A"
+
                 showtimes = extract_showtimes(element)
+
                 daily_data.append({
                     'date': date_str,
                     'theater': current_theater,
@@ -129,6 +148,7 @@ def scrape_single_day(driver, date_str):
                 })
             except Exception:
                 continue
+
     return daily_data
 
 def master_scrape(num_days=30):
@@ -136,17 +156,21 @@ def master_scrape(num_days=30):
     driver = make_driver()
     all_data = []
     failed_days = []
+    
     start_date = datetime.now()
-    print(f"Scraping {num_days} days starting from {start_date.strftime('%Y-%m-%d')}\n")
+    print(f"📅 Scraping {num_days} days starting from {start_date.strftime('%Y-%m-%d')}\n")
+    
     try:
         for i in range(num_days):
             date_obj = datetime.now() + timedelta(days=i)
             date_str = date_obj.strftime('%Y-%m-%d')
+            
             day_data = []
             for attempt in range(1, MAX_RETRIES + 1):
                 try:
                     print(f"Scraping: {date_str} (attempt {attempt})...", end=" ", flush=True)
                     day_data = scrape_single_day(driver, date_str)
+                    
                     if day_data:
                         print(f"Found {len(day_data)}")
                         break
@@ -156,6 +180,7 @@ def master_scrape(num_days=30):
                             delay = RETRY_DELAY * attempt
                             print(f", retrying in {delay}s...")
                             time.sleep(delay)
+                            # Restart driver on last retry attempt
                             if attempt == MAX_RETRIES - 1:
                                 try:
                                     driver.quit()
@@ -163,7 +188,8 @@ def master_scrape(num_days=30):
                                     pass
                                 driver = make_driver()
                         else:
-                            print(f" -- giving up")
+                            print(f" — giving up")
+                
                 except Exception as e:
                     print(f"Error: {e}")
                     if attempt < MAX_RETRIES:
@@ -173,50 +199,63 @@ def master_scrape(num_days=30):
                         except Exception:
                             pass
                         driver = make_driver()
+            
             if day_data:
                 all_data.extend(day_data)
             else:
                 failed_days.append(date_str)
+    
     finally:
         try:
             driver.quit()
         except Exception:
             pass
+    
     if failed_days:
-        print(f"\nFailed days: {', '.join(failed_days)}")
+        print(f"\n⚠ Failed days: {', '.join(failed_days)}")
+    
     return all_data
 
 def save_json(data):
     """Save raw data as JSON"""
     timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
     filepath = os.path.join(DATA_FOLDER, f'screenings_{timestamp}.json')
+    
     with open(filepath, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
+    
+    # Also save as "latest" for easy access
     latest_path = os.path.join(DATA_FOLDER, 'screenings_latest.json')
     with open(latest_path, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
-    print(f"Data saved: {filepath}")
-    print(f"Latest data: {latest_path}")
+    
+    print(f"✓ Data saved: {filepath}")
+    print(f"✓ Latest data: {latest_path}")
     return latest_path
 
 # --- EXECUTE ---
 if __name__ == "__main__":
     print("=" * 60)
-    print("NYC MOVIE SCREENINGS SCRAPER")
+    print("🎬 NYC MOVIE SCREENINGS SCRAPER")
     print("=" * 60)
-    print(f"\nData folder: {DATA_FOLDER}\n")
+    print(f"\n📂 Data folder: {DATA_FOLDER}\n")
+    
+    # Always scrape next 30 days
     NUM_DAYS = 30
     screenings = master_scrape(NUM_DAYS)
+    
     if screenings:
         print(f"\n{'='*60}")
-        print(f"Found {len(screenings)} total screenings")
+        print(f"✓ Found {len(screenings)} total screenings")
         print(f"{'='*60}\n")
+        
         latest_path = save_json(screenings)
+        
         print(f"\n{'='*60}")
-        print("SCRAPING COMPLETE!")
+        print("🎉 SCRAPING COMPLETE!")
         print(f"{'='*60}")
-        print(f"\nLatest data: {latest_path}")
+        print(f"\n📄 Latest data: {latest_path}")
         print(f"\nRun 'python build_website.py' to generate the website.")
         print(f"\n{'='*60}\n")
     else:
-        print("\nNo screenings found. Check your internet connection or Screen Slate availability.")
+        print("\n❌ No screenings found. Check your internet connection or Screen Slate availability.")
