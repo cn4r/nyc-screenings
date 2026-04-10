@@ -2,1178 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:God's Gift @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260409T183000
-DTEND:20260409T203000
-DESCRIPTION:Dir: GASTON KABORÉ (1982)\nhttps://www.screenslate.com/series
- /black-time-queer-time-part-2
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/black-time-queer-time-part-2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:God's Gift @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260409T184500
-DTEND:20260409T204500
-DESCRIPTION:Dir: GASTON KABORÉ (1982)\nhttps://www.screenslate.com/series
- /black-time-queer-time-part-2
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/black-time-queer-time-part-2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:God's Gift @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260409T203000
-DTEND:20260409T223000
-DESCRIPTION:Dir: GASTON KABORÉ (1982)\nhttps://www.screenslate.com/series
- /black-time-queer-time-part-2
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/black-time-queer-time-part-2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:God's Gift @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260409T204500
-DTEND:20260409T224500
-DESCRIPTION:Dir: GASTON KABORÉ (1982)\nhttps://www.screenslate.com/series
- /black-time-queer-time-part-2
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/black-time-queer-time-part-2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vintage: Families of Value @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260409T203000
-DTEND:20260409T223000
-DESCRIPTION:Dir: THOMAS ALLEN HARRIS (1995)\nhttps://www.screenslate.com/s
- eries/black-time-queer-time-part-2
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/black-time-queer-time-part-2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solomon Northup's Odyssey @ BAM
-DTSTART:20260409T163000
-DTEND:20260409T183000
-DESCRIPTION:Dir: GORDON PARKS (1984)\nhttps://www.bam.org/film/2026/solomo
- n-northups-odyssey
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/solomon-northups-odyssey
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solomon Northup's Odyssey @ BAM
-DTSTART:20260409T190000
-DTEND:20260409T210000
-DESCRIPTION:Dir: GORDON PARKS (1984)\nhttps://www.bam.org/film/2026/solomo
- n-northups-odyssey
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/solomon-northups-odyssey
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Coming to America @ BAM
-DTSTART:20260409T190000
-DTEND:20260409T210000
-DESCRIPTION:Dir: JOHN LANDIS (1988)\nhttps://www.screenslate.com/series/ho
- yt-schermerhorn-stand-clear-closing-doors
-LOCATION:BAM
-URL:https://www.screenslate.com/series/hoyt-schermerhorn-stand-clear-closi
- ng-doors
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Living the Land @ FILM FORUM
-DTSTART:20260409T121500
-DTEND:20260409T141500
-DESCRIPTION:Dir: HUO MENG (2025)\nhttps://filmforum.org/film/living-the-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/living-the-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Living the Land @ FILM FORUM
-DTSTART:20260409T150000
-DTEND:20260409T170000
-DESCRIPTION:Dir: HUO MENG (2025)\nhttps://filmforum.org/film/living-the-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/living-the-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Living the Land @ FILM FORUM
-DTSTART:20260409T174500
-DTEND:20260409T194500
-DESCRIPTION:Dir: HUO MENG (2025)\nhttps://filmforum.org/film/living-the-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/living-the-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Living the Land @ FILM FORUM
-DTSTART:20260409T203000
-DTEND:20260409T223000
-DESCRIPTION:Dir: HUO MENG (2025)\nhttps://filmforum.org/film/living-the-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/living-the-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Living the Land @ FILM FORUM
-DTSTART:20260409T122500
-DTEND:20260409T142500
-DESCRIPTION:Dir: HUO MENG (2025)\nhttps://filmforum.org/film/living-the-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/living-the-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Living the Land @ FILM FORUM
-DTSTART:20260409T172000
-DTEND:20260409T192000
-DESCRIPTION:Dir: HUO MENG (2025)\nhttps://filmforum.org/film/living-the-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/living-the-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Living the Land @ FILM FORUM
-DTSTART:20260409T195000
-DTEND:20260409T215000
-DESCRIPTION:Dir: HUO MENG (2025)\nhttps://filmforum.org/film/living-the-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/living-the-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Living the Land @ FILM FORUM
-DTSTART:20260409T124500
-DTEND:20260409T144500
-DESCRIPTION:Dir: HUO MENG (2025)\nhttps://filmforum.org/film/living-the-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/living-the-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Living the Land @ FILM FORUM
-DTSTART:20260409T151500
-DTEND:20260409T171500
-DESCRIPTION:Dir: HUO MENG (2025)\nhttps://filmforum.org/film/living-the-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/living-the-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Living the Land @ FILM FORUM
-DTSTART:20260409T202000
-DTEND:20260409T222000
-DESCRIPTION:Dir: HUO MENG (2025)\nhttps://filmforum.org/film/living-the-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/living-the-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Living the Land @ FILM FORUM
-DTSTART:20260409T130000
-DTEND:20260409T150000
-DESCRIPTION:Dir: HUO MENG (2025)\nhttps://filmforum.org/film/living-the-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/living-the-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Living the Land @ FILM FORUM
-DTSTART:20260409T152000
-DTEND:20260409T172000
-DESCRIPTION:Dir: HUO MENG (2025)\nhttps://filmforum.org/film/living-the-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/living-the-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Living the Land @ FILM FORUM
-DTSTART:20260409T145000
-DTEND:20260409T165000
-DESCRIPTION:Dir: HUO MENG (2025)\nhttps://filmforum.org/film/living-the-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/living-the-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Living the Land @ FILM FORUM
-DTSTART:20260409T180000
-DTEND:20260409T200000
-DESCRIPTION:Dir: HUO MENG (2025)\nhttps://filmforum.org/film/living-the-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/living-the-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Two Prosecutors @ FILM FORUM
-DTSTART:20260409T122500
-DTEND:20260409T142500
-DESCRIPTION:Dir: SERGEI LOZNITSA (2025)\nhttps://filmforum.org/film/two-pr
- osecutors
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/two-prosecutors
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Two Prosecutors @ FILM FORUM
-DTSTART:20260409T172000
-DTEND:20260409T192000
-DESCRIPTION:Dir: SERGEI LOZNITSA (2025)\nhttps://filmforum.org/film/two-pr
- osecutors
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/two-prosecutors
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Two Prosecutors @ FILM FORUM
-DTSTART:20260409T195000
-DTEND:20260409T215000
-DESCRIPTION:Dir: SERGEI LOZNITSA (2025)\nhttps://filmforum.org/film/two-pr
- osecutors
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/two-prosecutors
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kontinental ‘25 @ FILM FORUM
-DTSTART:20260409T124500
-DTEND:20260409T144500
-DESCRIPTION:Dir: RADU JUDE (2025)\nhttps://filmforum.org/film/kontinental-
- 25
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/kontinental-25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kontinental ‘25 @ FILM FORUM
-DTSTART:20260409T151500
-DTEND:20260409T171500
-DESCRIPTION:Dir: RADU JUDE (2025)\nhttps://filmforum.org/film/kontinental-
- 25
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/kontinental-25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kontinental ‘25 @ FILM FORUM
-DTSTART:20260409T174500
-DTEND:20260409T194500
-DESCRIPTION:Dir: RADU JUDE (2025)\nhttps://filmforum.org/film/kontinental-
- 25
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/kontinental-25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kontinental ‘25 @ FILM FORUM
-DTSTART:20260409T202000
-DTEND:20260409T222000
-DESCRIPTION:Dir: RADU JUDE (2025)\nhttps://filmforum.org/film/kontinental-
- 25
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/kontinental-25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reunion @ FILM FORUM
-DTSTART:20260409T130000
-DTEND:20260409T150000
-DESCRIPTION:Dir: JERRY SCHATZBERG (1989)\nhttps://filmforum.org/film/reuni
- on
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/reunion
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reunion @ FILM FORUM
-DTSTART:20260409T152000
-DTEND:20260409T172000
-DESCRIPTION:Dir: JERRY SCHATZBERG (1989)\nhttps://filmforum.org/film/reuni
- on
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/reunion
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reunion @ FILM FORUM
-DTSTART:20260409T202000
-DTEND:20260409T222000
-DESCRIPTION:Dir: JERRY SCHATZBERG (1989)\nhttps://filmforum.org/film/reuni
- on
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/reunion
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260409T145000
-DTEND:20260409T165000
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:È Piccerella @ FILM FORUM
-DTSTART:20260409T180000
-DTEND:20260409T200000
-DESCRIPTION:Dir: ELVIRA NOTARI (1922)\nhttps://filmforum.org/film/epiccere
- lla
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/epiccerella
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
-DTSTART:20260409T123000
-DTEND:20260409T143000
-DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
- miroirs-no-3/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/miroirs-no-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
-DTSTART:20260409T143000
-DTEND:20260409T163000
-DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
- miroirs-no-3/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/miroirs-no-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
-DTSTART:20260409T163000
-DTEND:20260409T183000
-DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
- miroirs-no-3/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/miroirs-no-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
-DTSTART:20260409T183000
-DTEND:20260409T203000
-DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
- miroirs-no-3/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/miroirs-no-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
-DTSTART:20260409T203000
-DTEND:20260409T223000
-DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
- miroirs-no-3/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/miroirs-no-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
-DTSTART:20260409T131500
-DTEND:20260409T151500
-DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
- miroirs-no-3/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/miroirs-no-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
-DTSTART:20260409T154500
-DTEND:20260409T174500
-DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
- miroirs-no-3/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/miroirs-no-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
-DTSTART:20260409T181500
-DTEND:20260409T201500
-DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
- miroirs-no-3/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/miroirs-no-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
-DTSTART:20260409T204500
-DTEND:20260409T224500
-DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
- miroirs-no-3/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/miroirs-no-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
-DTSTART:20260409T180000
-DTEND:20260409T200000
-DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
- miroirs-no-3/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/miroirs-no-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Stranger @ FILM AT LINCOLN CENTER
-DTSTART:20260409T131500
-DTEND:20260409T151500
-DESCRIPTION:Dir: FRANÇOIS OZON (2025)\nhttps://www.filmlinc.org/films/the
- -stranger/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-stranger/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Stranger @ FILM AT LINCOLN CENTER
-DTSTART:20260409T154500
-DTEND:20260409T174500
-DESCRIPTION:Dir: FRANÇOIS OZON (2025)\nhttps://www.filmlinc.org/films/the
- -stranger/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-stranger/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Stranger @ FILM AT LINCOLN CENTER
-DTSTART:20260409T181500
-DTEND:20260409T201500
-DESCRIPTION:Dir: FRANÇOIS OZON (2025)\nhttps://www.filmlinc.org/films/the
- -stranger/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-stranger/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Stranger @ FILM AT LINCOLN CENTER
-DTSTART:20260409T204500
-DTEND:20260409T224500
-DESCRIPTION:Dir: FRANÇOIS OZON (2025)\nhttps://www.filmlinc.org/films/the
- -stranger/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-stranger/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leviticus @ FILM AT LINCOLN CENTER
-DTSTART:20260409T180000
-DTEND:20260409T200000
-DESCRIPTION:Dir: ADRIAN CHIARELLA (2026)\nhttps://www.screenslate.com/seri
- es/new-directorsnew-films-2026
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.screenslate.com/series/new-directorsnew-films-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Prophet @ FILM AT LINCOLN CENTER
-DTSTART:20260409T203000
-DTEND:20260409T223000
-DESCRIPTION:Dir: IQUE LANGA (2026)\nhttps://www.screenslate.com/series/new
- -directorsnew-films-2026
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.screenslate.com/series/new-directorsnew-films-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:John Lilly and the Earth Coincidence Control Office @ FIREHOUSE: D
- CTV’S CINEMA FOR DOCUMENTARY FILM
-DTSTART:20260409T190000
-DTEND:20260409T210000
-DESCRIPTION:Dir: MICHAEL ALMEREYDA\, COURTNEY STEPHENS (2025)\nhttps://www
- .dctvny.org/s/firehouse-film/ohn-lilly-and-the-earth-coincidence-control-o
- ffice-MCW2DJG6WTAFA7HPC3YHGZX3SN24
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/ohn-lilly-and-the-earth-coinci
- dence-control-office-MCW2DJG6WTAFA7HPC3YHGZX3SN24
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Serpent's Path @ IFC CENTER
-DTSTART:20260409T103500
-DTEND:20260409T123500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (1998)\nhttps://www.ifccenter.com/films/
- serpents-path-and-chime/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/serpents-path-and-chime/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Serpent's Path @ IFC CENTER
-DTSTART:20260409T153500
-DTEND:20260409T173500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (1998)\nhttps://www.ifccenter.com/films/
- serpents-path-and-chime/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/serpents-path-and-chime/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Serpent's Path @ IFC CENTER
-DTSTART:20260409T214500
-DTEND:20260409T234500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (1998)\nhttps://www.ifccenter.com/films/
- serpents-path-and-chime/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/serpents-path-and-chime/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Serpent's Path @ IFC CENTER
-DTSTART:20260409T145000
-DTEND:20260409T165000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (1998)\nhttps://www.ifccenter.com/films/
- serpents-path-and-chime/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/serpents-path-and-chime/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Serpent's Path @ IFC CENTER
-DTSTART:20260409T193000
-DTEND:20260409T213000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (1998)\nhttps://www.ifccenter.com/films/
- serpents-path-and-chime/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/serpents-path-and-chime/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Serpent's Path @ IFC CENTER
-DTSTART:20260409T105000
-DTEND:20260409T125000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (1998)\nhttps://www.ifccenter.com/films/
- serpents-path-and-chime/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/serpents-path-and-chime/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Serpent's Path @ IFC CENTER
-DTSTART:20260409T173000
-DTEND:20260409T193000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (1998)\nhttps://www.ifccenter.com/films/
- serpents-path-and-chime/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/serpents-path-and-chime/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Serpent's Path @ IFC CENTER
-DTSTART:20260409T110500
-DTEND:20260409T130500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (1998)\nhttps://www.ifccenter.com/films/
- serpents-path-and-chime/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/serpents-path-and-chime/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Serpent's Path @ IFC CENTER
-DTSTART:20260409T124000
-DTEND:20260409T144000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (1998)\nhttps://www.ifccenter.com/films/
- serpents-path-and-chime/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/serpents-path-and-chime/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Serpent's Path @ IFC CENTER
-DTSTART:20260409T125000
-DTEND:20260409T145000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (1998)\nhttps://www.ifccenter.com/films/
- serpents-path-and-chime/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/serpents-path-and-chime/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Serpent's Path @ IFC CENTER
-DTSTART:20260409T130500
-DTEND:20260409T150500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (1998)\nhttps://www.ifccenter.com/films/
- serpents-path-and-chime/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/serpents-path-and-chime/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Serpent's Path @ IFC CENTER
-DTSTART:20260409T192500
-DTEND:20260409T212500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (1998)\nhttps://www.ifccenter.com/films/
- serpents-path-and-chime/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/serpents-path-and-chime/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Serpent's Path @ IFC CENTER
-DTSTART:20260409T131500
-DTEND:20260409T151500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (1998)\nhttps://www.ifccenter.com/films/
- serpents-path-and-chime/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/serpents-path-and-chime/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Serpent's Path @ IFC CENTER
-DTSTART:20260409T160000
-DTEND:20260409T180000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (1998)\nhttps://www.ifccenter.com/films/
- serpents-path-and-chime/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/serpents-path-and-chime/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Serpent's Path @ IFC CENTER
-DTSTART:20260409T184500
-DTEND:20260409T204500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (1998)\nhttps://www.ifccenter.com/films/
- serpents-path-and-chime/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/serpents-path-and-chime/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Serpent's Path @ IFC CENTER
-DTSTART:20260409T213000
-DTEND:20260409T233000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (1998)\nhttps://www.ifccenter.com/films/
- serpents-path-and-chime/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/serpents-path-and-chime/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Serpent's Path @ IFC CENTER
-DTSTART:20260409T150000
-DTEND:20260409T170000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (1998)\nhttps://www.ifccenter.com/films/
- serpents-path-and-chime/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/serpents-path-and-chime/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Serpent's Path @ IFC CENTER
-DTSTART:20260409T170500
-DTEND:20260409T190500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (1998)\nhttps://www.ifccenter.com/films/
- serpents-path-and-chime/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/serpents-path-and-chime/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Serpent's Path @ IFC CENTER
-DTSTART:20260409T183000
-DTEND:20260409T203000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (1998)\nhttps://www.ifccenter.com/films/
- serpents-path-and-chime/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/serpents-path-and-chime/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Serpent's Path @ IFC CENTER
-DTSTART:20260409T190000
-DTEND:20260409T210000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (1998)\nhttps://www.ifccenter.com/films/
- serpents-path-and-chime/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/serpents-path-and-chime/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Serpent's Path @ IFC CENTER
-DTSTART:20260409T211000
-DTEND:20260409T231000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (1998)\nhttps://www.ifccenter.com/films/
- serpents-path-and-chime/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/serpents-path-and-chime/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Serpent's Path @ IFC CENTER
-DTSTART:20260409T212500
-DTEND:20260409T232500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (1998)\nhttps://www.ifccenter.com/films/
- serpents-path-and-chime/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/serpents-path-and-chime/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DJ Ahmet @ IFC CENTER
-DTSTART:20260409T103500
-DTEND:20260409T123500
-DESCRIPTION:Dir: GEORGI M. UNKOVSKI (2026)\nhttps://www.ifccenter.com/film
- s/dj-ahmet/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/dj-ahmet/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DJ Ahmet @ IFC CENTER
-DTSTART:20260409T145000
-DTEND:20260409T165000
-DESCRIPTION:Dir: GEORGI M. UNKOVSKI (2026)\nhttps://www.ifccenter.com/film
- s/dj-ahmet/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/dj-ahmet/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DJ Ahmet @ IFC CENTER
-DTSTART:20260409T193000
-DTEND:20260409T213000
-DESCRIPTION:Dir: GEORGI M. UNKOVSKI (2026)\nhttps://www.ifccenter.com/film
- s/dj-ahmet/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/dj-ahmet/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Animated Oscar-Nominated Shorts 2026 @ IFC CENTER
-DTSTART:20260409T105000
-DTEND:20260409T125000
-DESCRIPTION:Dir: 2026 (83M)\nhttps://www.screenslate.com/series/2026-oscar
- r-nominated-shorts
-LOCATION:IFC CENTER
-URL:https://www.screenslate.com/series/2026-oscarr-nominated-shorts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Animated Oscar-Nominated Shorts 2026 @ IFC CENTER
-DTSTART:20260409T173000
-DTEND:20260409T193000
-DESCRIPTION:Dir: 2026 (83M)\nhttps://www.screenslate.com/series/2026-oscar
- r-nominated-shorts
-LOCATION:IFC CENTER
-URL:https://www.screenslate.com/series/2026-oscarr-nominated-shorts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:After Hours @ IFC CENTER
-DTSTART:20260409T110500
-DTEND:20260409T130500
-DESCRIPTION:Dir: MARTIN SCORSESE (1985)\nhttps://www.screenslate.com/serie
- s/best-show-films-catherine-ohara
-LOCATION:IFC CENTER
-URL:https://www.screenslate.com/series/best-show-films-catherine-ohara
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alpha @ IFC CENTER
-DTSTART:20260409T124000
-DTEND:20260409T144000
-DESCRIPTION:Dir: JULIA DUCOURNAU (2026)\nhttps://www.ifccenter.com/films/a
- lpha/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/alpha/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nirvanna: the Band the Show the Movie @ IFC CENTER
-DTSTART:20260409T125000
-DTEND:20260409T145000
-DESCRIPTION:Dir: MATT JOHNSON (2026)\nhttps://www.ifccenter.com/films/nirv
- anna-the-band-the-show-the-movie/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/nirvanna-the-band-the-show-the-movie/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3 @ IFC CENTER
-DTSTART:20260409T130500
-DTEND:20260409T150500
-DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.ifccenter.com/films
- /miroirs-no-3/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/miroirs-no-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3 @ IFC CENTER
-DTSTART:20260409T192500
-DTEND:20260409T212500
-DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.ifccenter.com/films
- /miroirs-no-3/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/miroirs-no-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Velvet @ IFC CENTER
-DTSTART:20260409T131500
-DTEND:20260409T151500
-DESCRIPTION:Dir: DAVID LYNCH (1986)\nhttps://www.ifccenter.com/films/blue-
- velvet/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-velvet/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Velvet @ IFC CENTER
-DTSTART:20260409T160000
-DTEND:20260409T180000
-DESCRIPTION:Dir: DAVID LYNCH (1986)\nhttps://www.ifccenter.com/films/blue-
- velvet/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-velvet/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Velvet @ IFC CENTER
-DTSTART:20260409T184500
-DTEND:20260409T204500
-DESCRIPTION:Dir: DAVID LYNCH (1986)\nhttps://www.ifccenter.com/films/blue-
- velvet/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-velvet/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Velvet @ IFC CENTER
-DTSTART:20260409T213000
-DTEND:20260409T233000
-DESCRIPTION:Dir: DAVID LYNCH (1986)\nhttps://www.ifccenter.com/films/blue-
- velvet/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-velvet/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live-Action Oscar-Nominated Shorts 2026 @ IFC CENTER
-DTSTART:20260409T150000
-DTEND:20260409T170000
-DESCRIPTION:Dir: 2026 (119M)\nhttps://www.screenslate.com/series/2026-osca
- rr-nominated-shorts
-LOCATION:IFC CENTER
-URL:https://www.screenslate.com/series/2026-oscarr-nominated-shorts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sirāt @ IFC CENTER
-DTSTART:20260409T170500
-DTEND:20260409T190500
-DESCRIPTION:Dir: OLIVER LAXE (2025)\nhttps://www.ifccenter.com/films/sirat
- /
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/sirat/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260409T183000
-DTEND:20260409T203000
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Christophers @ IFC CENTER
-DTSTART:20260409T190000
-DTEND:20260409T210000
-DESCRIPTION:Dir: STEVEN SODERBERGH (2026)\nhttps://www.ifccenter.com/films
- /the-christophers/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-christophers/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Cook\, The Thief\, His Wife\, and Her Lover @ IFC CENTER
-DTSTART:20260409T211000
-DTEND:20260409T231000
-DESCRIPTION:Dir: PETER GREENAWAY (1990)\nhttps://www.ifccenter.com/films/t
- he-cook-the-thief-his-wife-her-lover/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-cook-the-thief-his-wife-her-lover/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dead Lover @ IFC CENTER
-DTSTART:20260409T212500
-DTEND:20260409T232500
-DESCRIPTION:Dir: GRACE GLOWICKI (2026)\nhttps://www.ifccenter.com/films/de
- ad-lover/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/dead-lover/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spawn @ LOW CINEMA
-DTSTART:20260409T180000
-DTEND:20260409T200000
-DESCRIPTION:Dir: MARK A.Z. DIPPÉ (1997)\nhttps://lowcinema.com/movie/spaw
- n/
-LOCATION:LOW CINEMA
-URL:https://lowcinema.com/movie/spawn/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spawn @ LOW CINEMA
-DTSTART:20260409T201500
-DTEND:20260409T221500
-DESCRIPTION:Dir: MARK A.Z. DIPPÉ (1997)\nhttps://lowcinema.com/movie/spaw
- n/
-LOCATION:LOW CINEMA
-URL:https://lowcinema.com/movie/spawn/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Queen of the Damned @ LOW CINEMA
-DTSTART:20260409T201500
-DTEND:20260409T221500
-DESCRIPTION:Dir: MICHAEL RYMER (2002)\nhttps://www.screenslate.com/series/
- nu-metal-cinema
-LOCATION:LOW CINEMA
-URL:https://www.screenslate.com/series/nu-metal-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Seventh Seal @ METROGRAPH
-DTSTART:20260409T141500
-DTEND:20260409T161500
-DESCRIPTION:Dir: INGMAR BERGMAN (1957)\nhttps://www.screenslate.com/series
- /holy-trips
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/holy-trips
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Seventh Seal @ METROGRAPH
-DTSTART:20260409T143000
-DTEND:20260409T163000
-DESCRIPTION:Dir: INGMAR BERGMAN (1957)\nhttps://www.screenslate.com/series
- /holy-trips
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/holy-trips
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Seventh Seal @ METROGRAPH
-DTSTART:20260409T161500
-DTEND:20260409T181500
-DESCRIPTION:Dir: INGMAR BERGMAN (1957)\nhttps://www.screenslate.com/series
- /holy-trips
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/holy-trips
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Seventh Seal @ METROGRAPH
-DTSTART:20260409T162000
-DTEND:20260409T182000
-DESCRIPTION:Dir: INGMAR BERGMAN (1957)\nhttps://www.screenslate.com/series
- /holy-trips
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/holy-trips
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Seventh Seal @ METROGRAPH
-DTSTART:20260409T181500
-DTEND:20260409T201500
-DESCRIPTION:Dir: INGMAR BERGMAN (1957)\nhttps://www.screenslate.com/series
- /holy-trips
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/holy-trips
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Seventh Seal @ METROGRAPH
-DTSTART:20260409T184000
-DTEND:20260409T204000
-DESCRIPTION:Dir: INGMAR BERGMAN (1957)\nhttps://www.screenslate.com/series
- /holy-trips
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/holy-trips
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Seventh Seal @ METROGRAPH
-DTSTART:20260409T201500
-DTEND:20260409T221500
-DESCRIPTION:Dir: INGMAR BERGMAN (1957)\nhttps://www.screenslate.com/series
- /holy-trips
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/holy-trips
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Seventh Seal @ METROGRAPH
-DTSTART:20260409T213000
-DTEND:20260409T233000
-DESCRIPTION:Dir: INGMAR BERGMAN (1957)\nhttps://www.screenslate.com/series
- /holy-trips
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/holy-trips
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Seventh Seal @ METROGRAPH
-DTSTART:20260409T221500
-DTEND:20260410T001500
-DESCRIPTION:Dir: INGMAR BERGMAN (1957)\nhttps://www.screenslate.com/series
- /holy-trips
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/holy-trips
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Red Turtle @ METROGRAPH
-DTSTART:20260409T143000
-DTEND:20260409T163000
-DESCRIPTION:Dir: MICHAEL DUDOK DE WIT (2016)\nhttps://www.screenslate.com/
- series/fables-fragile-earth
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/fables-fragile-earth
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Silence @ METROGRAPH
-DTSTART:20260409T161500
-DTEND:20260409T181500
-DESCRIPTION:Dir: INGMAR BERGMAN (1963)\nhttps://www.screenslate.com/series
- /year-begins-silence
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/year-begins-silence
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Three Colors: Blue @ METROGRAPH
-DTSTART:20260409T162000
-DTEND:20260409T182000
-DESCRIPTION:Dir: KRZYSZTOF KIEŚLOWSKI (1993)\nhttps://www.screenslate.co
- m/series/moral-mazes-krzysztof-kieslowski
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/moral-mazes-krzysztof-kieslowski
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Three Colors: White @ METROGRAPH
-DTSTART:20260409T181500
-DTEND:20260409T201500
-DESCRIPTION:Dir: KRZYSZTOF KIEŚLOWSKI (1994)\nhttps://www.screenslate.co
- m/series/moral-mazes-krzysztof-kieslowski
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/moral-mazes-krzysztof-kieslowski
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Gospel According to St. Matthew @ METROGRAPH
-DTSTART:20260409T184000
-DTEND:20260409T204000
-DESCRIPTION:Dir: PIER PAOLO PASOLINI (1964)\nhttps://www.screenslate.com/s
- eries/holy-trips
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/holy-trips
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ju Dou @ METROGRAPH
-DTSTART:20260409T201500
-DTEND:20260409T221500
-DESCRIPTION:Dir: ZHANG YIMOU AND YANG FENGLIANG (1990)\nhttps://www.screen
- slate.com/series/empress-li
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/empress-li
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inherent Vice @ METROGRAPH
-DTSTART:20260409T213000
-DTEND:20260409T233000
-DESCRIPTION:Dir: PAUL THOMAS ANDERSON (2014)\nhttps://www.screenslate.com/
- series/after-case
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/after-case
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:High Life @ METROGRAPH
-DTSTART:20260409T221500
-DTEND:20260410T001500
-DESCRIPTION:Dir: CLAIRE DENIS (2018)\nhttps://www.screenslate.com/series/j
- uliette-binoche-emotion-motion
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/juliette-binoche-emotion-motion
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fantasy @ MUSEUM OF MODERN ART
-DTSTART:20260409T180000
-DTEND:20260409T200000
-DESCRIPTION:Dir: ISABEL PAGLIAI (2026)\nhttps://www.screenslate.com/series
- /new-directorsnew-films-2026
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.screenslate.com/series/new-directorsnew-films-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fantasy @ MUSEUM OF MODERN ART
-DTSTART:20260409T201500
-DTEND:20260409T221500
-DESCRIPTION:Dir: ISABEL PAGLIAI (2026)\nhttps://www.screenslate.com/series
- /new-directorsnew-films-2026
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.screenslate.com/series/new-directorsnew-films-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aro Berria @ MUSEUM OF MODERN ART
-DTSTART:20260409T201500
-DTEND:20260409T221500
-DESCRIPTION:Dir: IRATI GOROSTIDI AGIRRETXE (2025)\nhttps://www.screenslate
- .com/series/new-directorsnew-films-2026
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.screenslate.com/series/new-directorsnew-films-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dead Lover @ NITEHAWK CINEMA PROSPECT PARK
-DTSTART:20260409T211500
-DTEND:20260409T231500
-DESCRIPTION:Dir: GRACE GLOWICKI (2026)\nhttps://nitehawkcinema.com/prospec
- tpark/movies/dead-lover/
-LOCATION:NITEHAWK CINEMA PROSPECT PARK
-URL:https://nitehawkcinema.com/prospectpark/movies/dead-lover/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clue @ PARIS THEATER
-DTSTART:20260409T124500
-DTEND:20260409T144500
-DESCRIPTION:Dir: JONATHAN LYNN (1985)\nhttps://www.screenslate.com/series/
- disorganized-crime-big-mistakes-and-dan-levys-cinematic-accomplices
-LOCATION:PARIS THEATER
-URL:https://www.screenslate.com/series/disorganized-crime-big-mistakes-and
- -dan-levys-cinematic-accomplices
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clue @ PARIS THEATER
-DTSTART:20260409T153000
-DTEND:20260409T173000
-DESCRIPTION:Dir: JONATHAN LYNN (1985)\nhttps://www.screenslate.com/series/
- disorganized-crime-big-mistakes-and-dan-levys-cinematic-accomplices
-LOCATION:PARIS THEATER
-URL:https://www.screenslate.com/series/disorganized-crime-big-mistakes-and
- -dan-levys-cinematic-accomplices
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clue @ PARIS THEATER
-DTSTART:20260409T190000
-DTEND:20260409T210000
-DESCRIPTION:Dir: JONATHAN LYNN (1985)\nhttps://www.screenslate.com/series/
- disorganized-crime-big-mistakes-and-dan-levys-cinematic-accomplices
-LOCATION:PARIS THEATER
-URL:https://www.screenslate.com/series/disorganized-crime-big-mistakes-and
- -dan-levys-cinematic-accomplices
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clue @ PARIS THEATER
-DTSTART:20260409T214500
-DTEND:20260409T234500
-DESCRIPTION:Dir: JONATHAN LYNN (1985)\nhttps://www.screenslate.com/series/
- disorganized-crime-big-mistakes-and-dan-levys-cinematic-accomplices
-LOCATION:PARIS THEATER
-URL:https://www.screenslate.com/series/disorganized-crime-big-mistakes-and
- -dan-levys-cinematic-accomplices
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fargo @ PARIS THEATER
-DTSTART:20260409T153000
-DTEND:20260409T173000
-DESCRIPTION:Dir: JOEL COEN\, ETHAN COEN (1996)\nhttps://www.screenslate.co
- m/series/disorganized-crime-big-mistakes-and-dan-levys-cinematic-accomplic
- es
-LOCATION:PARIS THEATER
-URL:https://www.screenslate.com/series/disorganized-crime-big-mistakes-and
- -dan-levys-cinematic-accomplices
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Midnight Run @ PARIS THEATER
-DTSTART:20260409T214500
-DTEND:20260409T234500
-DESCRIPTION:Dir: MARTIN BREST (1988)\nhttps://www.screenslate.com/series/d
- isorganized-crime-big-mistakes-and-dan-levys-cinematic-accomplices
-LOCATION:PARIS THEATER
-URL:https://www.screenslate.com/series/disorganized-crime-big-mistakes-and
- -dan-levys-cinematic-accomplices
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The 400 Blows @ QUAD CINEMA
-DTSTART:20260409T201500
-DTEND:20260409T221500
-DESCRIPTION:Dir: FRANÇOIS TRUFFAUT (1959)\nhttps://www.screenslate.com/se
- ries/little-rascals
-LOCATION:QUAD CINEMA
-URL:https://www.screenslate.com/series/little-rascals
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Secrets & Lies @ ROXY CINEMA NEW YORK
-DTSTART:20260409T190000
-DTEND:20260409T210000
-DESCRIPTION:Dir: FEDERICO FELLINI (1963)\nhttps://www.screenslate.com/seri
- es/jack-harlow-selects
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.screenslate.com/series/jack-harlow-selects
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Secrets & Lies @ ROXY CINEMA NEW YORK
-DTSTART:20260409T214500
-DTEND:20260409T234500
-DESCRIPTION:Dir: FEDERICO FELLINI (1963)\nhttps://www.screenslate.com/seri
- es/jack-harlow-selects
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.screenslate.com/series/jack-harlow-selects
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:End of History @ SPECTACLE
-DTSTART:20260409T193000
-DTEND:20260409T213000
-DESCRIPTION:Dir: JACOB GREGOR (2025)\nhttps://www.spectacletheater.com/end
- -of-history/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/end-of-history/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:End of History @ SPECTACLE
-DTSTART:20260409T220000
-DTEND:20260410T000000
-DESCRIPTION:Dir: JACOB GREGOR (2025)\nhttps://www.spectacletheater.com/end
- -of-history/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/end-of-history/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unsolved Love Hotel Murder Case Incident @ SPECTACLE
-DTSTART:20260409T220000
-DTEND:20260410T000000
-DESCRIPTION:Dir: DAVE JACKSON\, GUY (71)\nhttps://www.screenslate.com/seri
- es/sculpting-fragments-three-films
-LOCATION:SPECTACLE
-URL:https://www.screenslate.com/series/sculpting-fragments-three-films
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Outcome @ ALAMO DRAFTHOUSE LOWER MANHATTAN
 DTSTART:20260410T172000
 DTEND:20260410T192000
@@ -2563,6 +1391,15 @@ URL:https://www.screenslate.com/series/all-rage-films-inspired-lee-sung-ji
  ns-beef
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bunnylovr @ QUAD CINEMA
+DTSTART:20260410T190000
+DTEND:20260410T210000
+DESCRIPTION:Dir: KATARINA ZHU (2025)\nhttps://quadcinema.com/film/bunnylov
+ r/
+LOCATION:QUAD CINEMA
+URL:https://quadcinema.com/film/bunnylovr/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Secrets & Lies @ ROXY CINEMA NEW YORK
 DTSTART:20260410T170000
 DTEND:20260410T190000
@@ -3190,15 +2027,6 @@ LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.screenslate.com/series/new-directorsnew-films-2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Do You Love Me @ FILM AT LINCOLN CENTER
-DTSTART:20260411T151500
-DTEND:20260411T171500
-DESCRIPTION:Dir: LANA DAHER (2025)\nhttps://www.screenslate.com/series/new
- -directorsnew-films-2026
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.screenslate.com/series/new-directorsnew-films-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Stranger @ FILM AT LINCOLN CENTER
 DTSTART:20260411T131500
 DTEND:20260411T151500
@@ -3233,6 +2061,15 @@ DESCRIPTION:Dir: FRANÇOIS OZON (2025)\nhttps://www.filmlinc.org/films/the
  -stranger/
 LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/films/the-stranger/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fantasy @ FILM AT LINCOLN CENTER
+DTSTART:20260411T151500
+DTEND:20260411T171500
+DESCRIPTION:Dir: ISABEL PAGLIAI (2026)\nhttps://www.screenslate.com/series
+ /new-directorsnew-films-2026
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.screenslate.com/series/new-directorsnew-films-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trial of Hein @ FILM AT LINCOLN CENTER
@@ -4170,6 +3007,15 @@ DESCRIPTION:Dir: PARK CHAN-WOOK (2016)\nhttps://www.screenslate.com/series
 LOCATION:PARIS THEATER
 URL:https://www.screenslate.com/series/all-rage-films-inspired-lee-sung-ji
  ns-beef
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bunnylovr @ QUAD CINEMA
+DTSTART:20260411T190000
+DTEND:20260411T210000
+DESCRIPTION:Dir: KATARINA ZHU (2025)\nhttps://quadcinema.com/film/bunnylov
+ r/
+LOCATION:QUAD CINEMA
+URL:https://quadcinema.com/film/bunnylovr/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Secrets & Lies @ ROXY CINEMA NEW YORK
@@ -5656,6 +4502,15 @@ URL:https://www.screenslate.com/series/all-rage-films-inspired-lee-sung-ji
  ns-beef
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bunnylovr @ QUAD CINEMA
+DTSTART:20260412T131000
+DTEND:20260412T151000
+DESCRIPTION:Dir: KATARINA ZHU (2025)\nhttps://quadcinema.com/film/bunnylov
+ r/
+LOCATION:QUAD CINEMA
+URL:https://quadcinema.com/film/bunnylovr/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Magellan @ ROXY CINEMA NEW YORK
 DTSTART:20260412T143000
 DTEND:20260412T163000
@@ -6683,6 +5538,15 @@ URL:https://www.screenslate.com/series/all-rage-films-inspired-lee-sung-ji
  ns-beef
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bunnylovr @ QUAD CINEMA
+DTSTART:20260413T190000
+DTEND:20260413T210000
+DESCRIPTION:Dir: KATARINA ZHU (2025)\nhttps://quadcinema.com/film/bunnylov
+ r/
+LOCATION:QUAD CINEMA
+URL:https://quadcinema.com/film/bunnylovr/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sexmission @ ROXY CINEMA NEW YORK
 DTSTART:20260413T211500
 DTEND:20260413T231500
@@ -7541,6 +6405,24 @@ DESCRIPTION:Dir: STEVEN SODERBERGH (2009)\nhttps://www.screenslate.com/ser
 LOCATION:PARIS THEATER
 URL:https://www.screenslate.com/series/all-rage-films-inspired-lee-sung-ji
  ns-beef
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bunnylovr @ QUAD CINEMA
+DTSTART:20260414T192000
+DTEND:20260414T212000
+DESCRIPTION:Dir: KATARINA ZHU (2025)\nhttps://quadcinema.com/film/bunnylov
+ r/
+LOCATION:QUAD CINEMA
+URL:https://quadcinema.com/film/bunnylovr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bunnylovr @ QUAD CINEMA
+DTSTART:20260414T201500
+DTEND:20260414T221500
+DESCRIPTION:Dir: KATARINA ZHU (2025)\nhttps://quadcinema.com/film/bunnylov
+ r/
+LOCATION:QUAD CINEMA
+URL:https://quadcinema.com/film/bunnylovr/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Where Is the Friend's House? @ QUAD CINEMA
@@ -8409,6 +7291,24 @@ DESCRIPTION:Dir: SAM MENDES (2009)\nhttps://www.screenslate.com/series/all
 LOCATION:PARIS THEATER
 URL:https://www.screenslate.com/series/all-rage-films-inspired-lee-sung-ji
  ns-beef
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bunnylovr @ QUAD CINEMA
+DTSTART:20260415T192000
+DTEND:20260415T212000
+DESCRIPTION:Dir: KATARINA ZHU (2025)\nhttps://quadcinema.com/film/bunnylov
+ r/
+LOCATION:QUAD CINEMA
+URL:https://quadcinema.com/film/bunnylovr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bunnylovr @ QUAD CINEMA
+DTSTART:20260415T201500
+DTEND:20260415T221500
+DESCRIPTION:Dir: KATARINA ZHU (2025)\nhttps://quadcinema.com/film/bunnylov
+ r/
+LOCATION:QUAD CINEMA
+URL:https://quadcinema.com/film/bunnylovr/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Where Is the Friend's House? @ QUAD CINEMA
@@ -9314,6 +8214,24 @@ DESCRIPTION:Dir: RICK MORANIS\, DAVE THOMAS (1983)\nhttps://www.screenslat
  e.com/series/deuce-nitehawk-cinema
 LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://www.screenslate.com/series/deuce-nitehawk-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bunnylovr @ QUAD CINEMA
+DTSTART:20260416T192000
+DTEND:20260416T212000
+DESCRIPTION:Dir: KATARINA ZHU (2025)\nhttps://quadcinema.com/film/bunnylov
+ r/
+LOCATION:QUAD CINEMA
+URL:https://quadcinema.com/film/bunnylovr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bunnylovr @ QUAD CINEMA
+DTSTART:20260416T201500
+DTEND:20260416T221500
+DESCRIPTION:Dir: KATARINA ZHU (2025)\nhttps://quadcinema.com/film/bunnylov
+ r/
+LOCATION:QUAD CINEMA
+URL:https://quadcinema.com/film/bunnylovr/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Where Is the Friend's House? @ QUAD CINEMA
@@ -14109,5 +13027,141 @@ DESCRIPTION:Dir: FREDERICK WISEMAN (2013)\nhttps://lallianceny.org/event/a
  -tribute-to-frederick-wiseman/
 LOCATION:L'ALLIANCE NEW YORK
 URL:https://lallianceny.org/event/a-tribute-to-frederick-wiseman/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Who Framed Roger Rabbit @ BAM
+DTSTART:20260509T130000
+DTEND:20260509T150000
+DESCRIPTION:Dir: ROBERT ZEMECKIS (1988)\nhttps://www.screenslate.com/serie
+ s/pynchonesque
+LOCATION:BAM
+URL:https://www.screenslate.com/series/pynchonesque
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Who Framed Roger Rabbit @ BAM
+DTSTART:20260509T151500
+DTEND:20260509T171500
+DESCRIPTION:Dir: ROBERT ZEMECKIS (1988)\nhttps://www.screenslate.com/serie
+ s/pynchonesque
+LOCATION:BAM
+URL:https://www.screenslate.com/series/pynchonesque
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Who Framed Roger Rabbit @ BAM
+DTSTART:20260509T183500
+DTEND:20260509T203500
+DESCRIPTION:Dir: ROBERT ZEMECKIS (1988)\nhttps://www.screenslate.com/serie
+ s/pynchonesque
+LOCATION:BAM
+URL:https://www.screenslate.com/series/pynchonesque
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Who Framed Roger Rabbit @ BAM
+DTSTART:20260509T210500
+DTEND:20260509T230500
+DESCRIPTION:Dir: ROBERT ZEMECKIS (1988)\nhttps://www.screenslate.com/serie
+ s/pynchonesque
+LOCATION:BAM
+URL:https://www.screenslate.com/series/pynchonesque
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Angeles Plays Itself @ BAM
+DTSTART:20260509T151500
+DTEND:20260509T171500
+DESCRIPTION:Dir: THOM ANDERSEN (2003)\nhttps://www.screenslate.com/series/
+ pynchonesque
+LOCATION:BAM
+URL:https://www.screenslate.com/series/pynchonesque
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Big Lebowski @ BAM
+DTSTART:20260509T183500
+DTEND:20260509T203500
+DESCRIPTION:Dir: JOEL COEN (1998)\nhttps://www.screenslate.com/series/pync
+ honesque
+LOCATION:BAM
+URL:https://www.screenslate.com/series/pynchonesque
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Repo Man @ BAM
+DTSTART:20260509T210500
+DTEND:20260509T230500
+DESCRIPTION:Dir: ALEX COX (1984)\nhttps://www.screenslate.com/series/pynch
+ onesque
+LOCATION:BAM
+URL:https://www.screenslate.com/series/pynchonesque
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow @ COLUMBIA UNIVERSITY LENFEST CENTER FOR THE ARTS
+DTSTART:20260509T120000
+DTEND:20260509T140000
+DESCRIPTION:Dir: GINTS ZILBALODIS (2024)\nhttps://www.lenfest.arts.columbi
+ a.edu/spring-2026-events/lenfest-kids-flow
+LOCATION:COLUMBIA UNIVERSITY LENFEST CENTER FOR THE ARTS
+URL:https://www.lenfest.arts.columbia.edu/spring-2026-events/lenfest-kids-
+ flow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Retreat Through the Wet Wasteland @ JAPAN SOCIETY
+DTSTART:20260509T150000
+DTEND:20260509T170000
+DESCRIPTION:Dir: YUKIHIRO SAWADA (1973)\nhttps://www.screenslate.com/serie
+ s/kazuhiko-hasegawas-anarchic-ethos
+LOCATION:JAPAN SOCIETY
+URL:https://www.screenslate.com/series/kazuhiko-hasegawas-anarchic-ethos
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Retreat Through the Wet Wasteland @ JAPAN SOCIETY
+DTSTART:20260509T170000
+DTEND:20260509T190000
+DESCRIPTION:Dir: YUKIHIRO SAWADA (1973)\nhttps://www.screenslate.com/serie
+ s/kazuhiko-hasegawas-anarchic-ethos
+LOCATION:JAPAN SOCIETY
+URL:https://www.screenslate.com/series/kazuhiko-hasegawas-anarchic-ethos
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Retreat Through the Wet Wasteland @ JAPAN SOCIETY
+DTSTART:20260509T193000
+DTEND:20260509T213000
+DESCRIPTION:Dir: YUKIHIRO SAWADA (1973)\nhttps://www.screenslate.com/serie
+ s/kazuhiko-hasegawas-anarchic-ethos
+LOCATION:JAPAN SOCIETY
+URL:https://www.screenslate.com/series/kazuhiko-hasegawas-anarchic-ethos
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening Primrose @ JAPAN SOCIETY
+DTSTART:20260509T170000
+DTEND:20260509T190000
+DESCRIPTION:Dir: TATSUMI KUMASHIRO (1974)\nhttps://www.screenslate.com/ser
+ ies/kazuhiko-hasegawas-anarchic-ethos
+LOCATION:JAPAN SOCIETY
+URL:https://www.screenslate.com/series/kazuhiko-hasegawas-anarchic-ethos
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Youth Killer @ JAPAN SOCIETY
+DTSTART:20260509T193000
+DTEND:20260509T213000
+DESCRIPTION:Dir: KAZUHIKO HASEGAWA (1976)\nhttps://www.screenslate.com/ser
+ ies/kazuhiko-hasegawas-anarchic-ethos
+LOCATION:JAPAN SOCIETY
+URL:https://www.screenslate.com/series/kazuhiko-hasegawas-anarchic-ethos
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winged Migration @ L'ALLIANCE NEW YORK
+DTSTART:20260509T113000
+DTEND:20260509T133000
+DESCRIPTION:Dir: MICHEL DEBATS\, JACQUES CLUZAUD\, JACQUES PERRIN (2001)\n
+ https://lallianceny.org/event/winged-migration/
+LOCATION:L'ALLIANCE NEW YORK
+URL:https://lallianceny.org/event/winged-migration/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghost @ PARIS THEATER
+DTSTART:20260509T110000
+DTEND:20260509T130000
+DESCRIPTION:Dir: JERRY ZUCKER (1990)\nhttps://www.screenslate.com/series/a
+ cademy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
 END:VEVENT
 END:VCALENDAR
