@@ -2,1005 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:Partner @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260427T193000
-DTEND:20260427T213000
-DESCRIPTION:Dir: BERNARDO BERTOLUCCI (1968)\nhttps://www.screenslate.com/s
- eries/la-fille-des-etoiles-tina-aumont
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/la-fille-des-etoiles-tina-aumont
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Julia @ BAM
-DTSTART:20260427T190000
-DTEND:20260427T210000
-DESCRIPTION:Dir: FRED ZINNEMANN (1977)\nhttps://www.screenslate.com/series
- /jane-fonda
-LOCATION:BAM
-URL:https://www.screenslate.com/series/jane-fonda
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Julia @ BAM
-DTSTART:20260427T213000
-DTEND:20260427T233000
-DESCRIPTION:Dir: FRED ZINNEMANN (1977)\nhttps://www.screenslate.com/series
- /jane-fonda
-LOCATION:BAM
-URL:https://www.screenslate.com/series/jane-fonda
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:9 to 5 @ BAM
-DTSTART:20260427T213000
-DTEND:20260427T233000
-DESCRIPTION:Dir: COLIN HIGGINS (1980)\nhttps://www.screenslate.com/series/
- jane-fonda
-LOCATION:BAM
-URL:https://www.screenslate.com/series/jane-fonda
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mad Bills to Pay (or Destiny\, dile que no soy malo) @ FILM FORUM
-DTSTART:20260427T121500
-DTEND:20260427T141500
-DESCRIPTION:Dir: JOEL ALFONSO VARGAS (2025)\nhttps://filmforum.org/film/ma
- d-bills-to-pay
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/mad-bills-to-pay
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mad Bills to Pay (or Destiny\, dile que no soy malo) @ FILM FORUM
-DTSTART:20260427T142500
-DTEND:20260427T162500
-DESCRIPTION:Dir: JOEL ALFONSO VARGAS (2025)\nhttps://filmforum.org/film/ma
- d-bills-to-pay
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/mad-bills-to-pay
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mad Bills to Pay (or Destiny\, dile que no soy malo) @ FILM FORUM
-DTSTART:20260427T163500
-DTEND:20260427T183500
-DESCRIPTION:Dir: JOEL ALFONSO VARGAS (2025)\nhttps://filmforum.org/film/ma
- d-bills-to-pay
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/mad-bills-to-pay
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mad Bills to Pay (or Destiny\, dile que no soy malo) @ FILM FORUM
-DTSTART:20260427T184500
-DTEND:20260427T204500
-DESCRIPTION:Dir: JOEL ALFONSO VARGAS (2025)\nhttps://filmforum.org/film/ma
- d-bills-to-pay
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/mad-bills-to-pay
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mad Bills to Pay (or Destiny\, dile que no soy malo) @ FILM FORUM
-DTSTART:20260427T210000
-DTEND:20260427T230000
-DESCRIPTION:Dir: JOEL ALFONSO VARGAS (2025)\nhttps://filmforum.org/film/ma
- d-bills-to-pay
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/mad-bills-to-pay
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mad Bills to Pay (or Destiny\, dile que no soy malo) @ FILM FORUM
-DTSTART:20260427T143000
-DTEND:20260427T163000
-DESCRIPTION:Dir: JOEL ALFONSO VARGAS (2025)\nhttps://filmforum.org/film/ma
- d-bills-to-pay
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/mad-bills-to-pay
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mad Bills to Pay (or Destiny\, dile que no soy malo) @ FILM FORUM
-DTSTART:20260427T164500
-DTEND:20260427T184500
-DESCRIPTION:Dir: JOEL ALFONSO VARGAS (2025)\nhttps://filmforum.org/film/ma
- d-bills-to-pay
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/mad-bills-to-pay
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mad Bills to Pay (or Destiny\, dile que no soy malo) @ FILM FORUM
-DTSTART:20260427T190000
-DTEND:20260427T210000
-DESCRIPTION:Dir: JOEL ALFONSO VARGAS (2025)\nhttps://filmforum.org/film/ma
- d-bills-to-pay
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/mad-bills-to-pay
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mad Bills to Pay (or Destiny\, dile que no soy malo) @ FILM FORUM
-DTSTART:20260427T211000
-DTEND:20260427T231000
-DESCRIPTION:Dir: JOEL ALFONSO VARGAS (2025)\nhttps://filmforum.org/film/ma
- d-bills-to-pay
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/mad-bills-to-pay
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mad Bills to Pay (or Destiny\, dile que no soy malo) @ FILM FORUM
-DTSTART:20260427T123000
-DTEND:20260427T143000
-DESCRIPTION:Dir: JOEL ALFONSO VARGAS (2025)\nhttps://filmforum.org/film/ma
- d-bills-to-pay
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/mad-bills-to-pay
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mad Bills to Pay (or Destiny\, dile que no soy malo) @ FILM FORUM
-DTSTART:20260427T150000
-DTEND:20260427T170000
-DESCRIPTION:Dir: JOEL ALFONSO VARGAS (2025)\nhttps://filmforum.org/film/ma
- d-bills-to-pay
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/mad-bills-to-pay
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mad Bills to Pay (or Destiny\, dile que no soy malo) @ FILM FORUM
-DTSTART:20260427T173000
-DTEND:20260427T193000
-DESCRIPTION:Dir: JOEL ALFONSO VARGAS (2025)\nhttps://filmforum.org/film/ma
- d-bills-to-pay
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/mad-bills-to-pay
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mad Bills to Pay (or Destiny\, dile que no soy malo) @ FILM FORUM
-DTSTART:20260427T195500
-DTEND:20260427T215500
-DESCRIPTION:Dir: JOEL ALFONSO VARGAS (2025)\nhttps://filmforum.org/film/ma
- d-bills-to-pay
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/mad-bills-to-pay
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bernstein's Wall @ FILM FORUM
-DTSTART:20260427T121500
-DTEND:20260427T141500
-DESCRIPTION:Dir: DOUGLAS TIROLA (2021)\nhttps://filmforum.org/film/bernste
- ins-wall
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/bernsteins-wall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bernstein's Wall @ FILM FORUM
-DTSTART:20260427T143000
-DTEND:20260427T163000
-DESCRIPTION:Dir: DOUGLAS TIROLA (2021)\nhttps://filmforum.org/film/bernste
- ins-wall
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/bernsteins-wall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bernstein's Wall @ FILM FORUM
-DTSTART:20260427T164500
-DTEND:20260427T184500
-DESCRIPTION:Dir: DOUGLAS TIROLA (2021)\nhttps://filmforum.org/film/bernste
- ins-wall
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/bernsteins-wall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bernstein's Wall @ FILM FORUM
-DTSTART:20260427T190000
-DTEND:20260427T210000
-DESCRIPTION:Dir: DOUGLAS TIROLA (2021)\nhttps://filmforum.org/film/bernste
- ins-wall
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/bernsteins-wall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bernstein's Wall @ FILM FORUM
-DTSTART:20260427T211000
-DTEND:20260427T231000
-DESCRIPTION:Dir: DOUGLAS TIROLA (2021)\nhttps://filmforum.org/film/bernste
- ins-wall
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/bernsteins-wall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Seduction of Mimi @ FILM FORUM
-DTSTART:20260427T123000
-DTEND:20260427T143000
-DESCRIPTION:Dir: LINA WERTMÜLLER (1972)\nhttps://filmforum.org/film/the-s
- eduction-of-mimi
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-seduction-of-mimi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Seduction of Mimi @ FILM FORUM
-DTSTART:20260427T150000
-DTEND:20260427T170000
-DESCRIPTION:Dir: LINA WERTMÜLLER (1972)\nhttps://filmforum.org/film/the-s
- eduction-of-mimi
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-seduction-of-mimi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Seduction of Mimi @ FILM FORUM
-DTSTART:20260427T173000
-DTEND:20260427T193000
-DESCRIPTION:Dir: LINA WERTMÜLLER (1972)\nhttps://filmforum.org/film/the-s
- eduction-of-mimi
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-seduction-of-mimi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Seduction of Mimi @ FILM FORUM
-DTSTART:20260427T195500
-DTEND:20260427T215500
-DESCRIPTION:Dir: LINA WERTMÜLLER (1972)\nhttps://filmforum.org/film/the-s
- eduction-of-mimi
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-seduction-of-mimi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
-DTSTART:20260427T123000
-DTEND:20260427T143000
-DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
- miroirs-no-3/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/miroirs-no-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
-DTSTART:20260427T143000
-DTEND:20260427T163000
-DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
- miroirs-no-3/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/miroirs-no-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
-DTSTART:20260427T163000
-DTEND:20260427T183000
-DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
- miroirs-no-3/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/miroirs-no-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
-DTSTART:20260427T183000
-DTEND:20260427T203000
-DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
- miroirs-no-3/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/miroirs-no-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
-DTSTART:20260427T203000
-DTEND:20260427T223000
-DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
- miroirs-no-3/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/miroirs-no-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
-DTSTART:20260427T131500
-DTEND:20260427T151500
-DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
- miroirs-no-3/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/miroirs-no-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
-DTSTART:20260427T154500
-DTEND:20260427T174500
-DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
- miroirs-no-3/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/miroirs-no-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
-DTSTART:20260427T181500
-DTEND:20260427T201500
-DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
- miroirs-no-3/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/miroirs-no-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
-DTSTART:20260427T204500
-DTEND:20260427T224500
-DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
- miroirs-no-3/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/miroirs-no-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
-DTSTART:20260427T133000
-DTEND:20260427T153000
-DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
- miroirs-no-3/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/miroirs-no-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
-DTSTART:20260427T153000
-DTEND:20260427T173000
-DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
- miroirs-no-3/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/miroirs-no-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
-DTSTART:20260427T210000
-DTEND:20260427T230000
-DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
- miroirs-no-3/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/miroirs-no-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
-DTSTART:20260427T180000
-DTEND:20260427T200000
-DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
- miroirs-no-3/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/miroirs-no-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Stranger @ FILM AT LINCOLN CENTER
-DTSTART:20260427T131500
-DTEND:20260427T151500
-DESCRIPTION:Dir: FRANÇOIS OZON (2025)\nhttps://www.filmlinc.org/films/the
- -stranger/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-stranger/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Stranger @ FILM AT LINCOLN CENTER
-DTSTART:20260427T154500
-DTEND:20260427T174500
-DESCRIPTION:Dir: FRANÇOIS OZON (2025)\nhttps://www.filmlinc.org/films/the
- -stranger/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-stranger/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Stranger @ FILM AT LINCOLN CENTER
-DTSTART:20260427T181500
-DTEND:20260427T201500
-DESCRIPTION:Dir: FRANÇOIS OZON (2025)\nhttps://www.filmlinc.org/films/the
- -stranger/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-stranger/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Stranger @ FILM AT LINCOLN CENTER
-DTSTART:20260427T204500
-DTEND:20260427T224500
-DESCRIPTION:Dir: FRANÇOIS OZON (2025)\nhttps://www.filmlinc.org/films/the
- -stranger/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-stranger/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'enfance Nue @ FILM AT LINCOLN CENTER
-DTSTART:20260427T133000
-DTEND:20260427T153000
-DESCRIPTION:Dir: MAURICE PIALAT (1968)\nhttps://www.screenslate.com/series
- /la-maison-des-bois-and-three-maurice-pialat
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.screenslate.com/series/la-maison-des-bois-and-three-mauric
- e-pialat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:À nos amours @ FILM AT LINCOLN CENTER
-DTSTART:20260427T153000
-DTEND:20260427T173000
-DESCRIPTION:Dir: MAURICE PIALAT (1983)\nhttps://www.screenslate.com/series
- /la-maison-des-bois-and-three-maurice-pialat
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.screenslate.com/series/la-maison-des-bois-and-three-mauric
- e-pialat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:À nos amours @ FILM AT LINCOLN CENTER
-DTSTART:20260427T210000
-DTEND:20260427T230000
-DESCRIPTION:Dir: MAURICE PIALAT (1983)\nhttps://www.screenslate.com/series
- /la-maison-des-bois-and-three-maurice-pialat
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.screenslate.com/series/la-maison-des-bois-and-three-mauric
- e-pialat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La maison des bois\, Eps. 1–3 @ FILM AT LINCOLN CENTER
-DTSTART:20260427T180000
-DTEND:20260427T200000
-DESCRIPTION:Dir: MAURICE PIALAT (1971)\nhttps://www.screenslate.com/series
- /la-maison-des-bois-and-three-maurice-pialat
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.screenslate.com/series/la-maison-des-bois-and-three-mauric
- e-pialat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260427T103500
-DTEND:20260427T123500
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260427T144500
-DTEND:20260427T164500
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260427T170500
-DTEND:20260427T190500
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260427T192500
-DTEND:20260427T212500
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260427T123000
-DTEND:20260427T143000
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260427T144000
-DTEND:20260427T164000
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260427T164000
-DTEND:20260427T184000
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260427T194500
-DTEND:20260427T214500
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260427T215500
-DTEND:20260427T235500
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260427T104000
-DTEND:20260427T124000
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260427T124000
-DTEND:20260427T144000
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260427T150500
-DTEND:20260427T170500
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260427T172500
-DTEND:20260427T192500
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260427T104500
-DTEND:20260427T124500
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260427T151500
-DTEND:20260427T171500
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260427T194000
-DTEND:20260427T214000
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260427T123500
-DTEND:20260427T143500
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260427T130500
-DTEND:20260427T150500
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260427T145500
-DTEND:20260427T165500
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260427T171500
-DTEND:20260427T191500
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260427T193000
-DTEND:20260427T213000
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260427T214500
-DTEND:20260427T234500
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260427T173000
-DTEND:20260427T193000
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260427T190000
-DTEND:20260427T210000
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260427T214000
-DTEND:20260427T234000
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260427T215000
-DTEND:20260427T235000
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Heron @ IFC CENTER
-DTSTART:20260427T103500
-DTEND:20260427T123500
-DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://www.ifccenter.com/films/blu
- e-heron/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-heron/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Heron @ IFC CENTER
-DTSTART:20260427T123000
-DTEND:20260427T143000
-DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://www.ifccenter.com/films/blu
- e-heron/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-heron/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Heron @ IFC CENTER
-DTSTART:20260427T144000
-DTEND:20260427T164000
-DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://www.ifccenter.com/films/blu
- e-heron/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-heron/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Heron @ IFC CENTER
-DTSTART:20260427T164000
-DTEND:20260427T184000
-DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://www.ifccenter.com/films/blu
- e-heron/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-heron/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Heron @ IFC CENTER
-DTSTART:20260427T194500
-DTEND:20260427T214500
-DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://www.ifccenter.com/films/blu
- e-heron/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-heron/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Heron @ IFC CENTER
-DTSTART:20260427T215500
-DTEND:20260427T235500
-DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://www.ifccenter.com/films/blu
- e-heron/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-heron/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Christophers @ IFC CENTER
-DTSTART:20260427T104000
-DTEND:20260427T124000
-DESCRIPTION:Dir: STEVEN SODERBERGH (2026)\nhttps://www.ifccenter.com/films
- /the-christophers/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-christophers/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Christophers @ IFC CENTER
-DTSTART:20260427T124000
-DTEND:20260427T144000
-DESCRIPTION:Dir: STEVEN SODERBERGH (2026)\nhttps://www.ifccenter.com/films
- /the-christophers/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-christophers/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Christophers @ IFC CENTER
-DTSTART:20260427T150500
-DTEND:20260427T170500
-DESCRIPTION:Dir: STEVEN SODERBERGH (2026)\nhttps://www.ifccenter.com/films
- /the-christophers/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-christophers/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Christophers @ IFC CENTER
-DTSTART:20260427T172500
-DTEND:20260427T192500
-DESCRIPTION:Dir: STEVEN SODERBERGH (2026)\nhttps://www.ifccenter.com/films
- /the-christophers/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-christophers/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maintenance Artist @ IFC CENTER
-DTSTART:20260427T104500
-DTEND:20260427T124500
-DESCRIPTION:Dir: TOBY PERL FREILICH (2025)\nhttps://www.ifccenter.com/film
- s/maintenance-artist/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maintenance-artist/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maintenance Artist @ IFC CENTER
-DTSTART:20260427T151500
-DTEND:20260427T171500
-DESCRIPTION:Dir: TOBY PERL FREILICH (2025)\nhttps://www.ifccenter.com/film
- s/maintenance-artist/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maintenance-artist/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maintenance Artist @ IFC CENTER
-DTSTART:20260427T194000
-DTEND:20260427T214000
-DESCRIPTION:Dir: TOBY PERL FREILICH (2025)\nhttps://www.ifccenter.com/film
- s/maintenance-artist/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maintenance-artist/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260427T123500
-DTEND:20260427T143500
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Omaha @ IFC CENTER
-DTSTART:20260427T130500
-DTEND:20260427T150500
-DESCRIPTION:Dir: COLE WEBLEY (2026)\nhttps://www.ifccenter.com/films/omaha
- /
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/omaha/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Omaha @ IFC CENTER
-DTSTART:20260427T145500
-DTEND:20260427T165500
-DESCRIPTION:Dir: COLE WEBLEY (2026)\nhttps://www.ifccenter.com/films/omaha
- /
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/omaha/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Omaha @ IFC CENTER
-DTSTART:20260427T171500
-DTEND:20260427T191500
-DESCRIPTION:Dir: COLE WEBLEY (2026)\nhttps://www.ifccenter.com/films/omaha
- /
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/omaha/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Omaha @ IFC CENTER
-DTSTART:20260427T193000
-DTEND:20260427T213000
-DESCRIPTION:Dir: COLE WEBLEY (2026)\nhttps://www.ifccenter.com/films/omaha
- /
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/omaha/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Omaha @ IFC CENTER
-DTSTART:20260427T214500
-DTEND:20260427T234500
-DESCRIPTION:Dir: COLE WEBLEY (2026)\nhttps://www.ifccenter.com/films/omaha
- /
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/omaha/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marama @ IFC CENTER
-DTSTART:20260427T173000
-DTEND:20260427T193000
-DESCRIPTION:Dir: TARATOA STAPPARD (2026)\nhttps://www.ifccenter.com/films/
- marama/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/marama/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marama @ IFC CENTER
-DTSTART:20260427T215500
-DTEND:20260427T235500
-DESCRIPTION:Dir: TARATOA STAPPARD (2026)\nhttps://www.ifccenter.com/films/
- marama/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/marama/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sneakers @ IFC CENTER
-DTSTART:20260427T190000
-DTEND:20260427T210000
-DESCRIPTION:Dir: PHIL ALDEN ROBINSON (1992)\nhttps://www.ifccenter.com/fil
- ms/the-vergecast-presents-sneakers/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-vergecast-presents-sneakers/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sirāt @ IFC CENTER
-DTSTART:20260427T214000
-DTEND:20260427T234000
-DESCRIPTION:Dir: OLIVER LAXE (2025)\nhttps://www.ifccenter.com/films/sirat
- /
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/sirat/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Velvet @ IFC CENTER
-DTSTART:20260427T215000
-DTEND:20260427T235000
-DESCRIPTION:Dir: DAVID LYNCH (1986)\nhttps://www.ifccenter.com/films/blue-
- velvet/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-velvet/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dear Jassi @ MUSEUM OF MODERN ART
-DTSTART:20260427T190000
-DTEND:20260427T210000
-DESCRIPTION:Dir: 7:00PM* (Dear Jassi)\nhttps://www.screenslate.com/series/
- modern-mondays
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.screenslate.com/series/modern-mondays
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heavy Healing @ NITEHAWK CINEMA PROSPECT PARK
-DTSTART:20260427T190000
-DTEND:20260427T210000
-DESCRIPTION:Dir: HOWIE ABRAMS (2026)\nhttps://www.screenslate.com/series/m
- usic-driven-nitehawk-cinema
-LOCATION:NITEHAWK CINEMA PROSPECT PARK
-URL:https://www.screenslate.com/series/music-driven-nitehawk-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Velvet @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260427T211500
-DTEND:20260427T231500
-DESCRIPTION:Dir: DAVID LYNCH (1986)\nhttps://www.screenslate.com/series/an
- niversary-party-nitehawk-cinema
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://www.screenslate.com/series/anniversary-party-nitehawk-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Revenant @ PARIS THEATER
-DTSTART:20260427T121500
-DTEND:20260427T141500
-DESCRIPTION:Dir: ALEJANDRO IÑÁRRITU (2015)\nhttps://www.screenslate.com/
- series/dangerous-games-apex-and-cinema-survival
-LOCATION:PARIS THEATER
-URL:https://www.screenslate.com/series/dangerous-games-apex-and-cinema-sur
- vival
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Revenant @ PARIS THEATER
-DTSTART:20260427T160000
-DTEND:20260427T180000
-DESCRIPTION:Dir: ALEJANDRO IÑÁRRITU (2015)\nhttps://www.screenslate.com/
- series/dangerous-games-apex-and-cinema-survival
-LOCATION:PARIS THEATER
-URL:https://www.screenslate.com/series/dangerous-games-apex-and-cinema-sur
- vival
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Revenant @ PARIS THEATER
-DTSTART:20260427T190000
-DTEND:20260427T210000
-DESCRIPTION:Dir: ALEJANDRO IÑÁRRITU (2015)\nhttps://www.screenslate.com/
- series/dangerous-games-apex-and-cinema-survival
-LOCATION:PARIS THEATER
-URL:https://www.screenslate.com/series/dangerous-games-apex-and-cinema-sur
- vival
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deliverance @ PARIS THEATER
-DTSTART:20260427T160000
-DTEND:20260427T180000
-DESCRIPTION:Dir: JOHN BOORMAN (1972)\nhttps://www.screenslate.com/series/d
- angerous-games-apex-and-cinema-survival
-LOCATION:PARIS THEATER
-URL:https://www.screenslate.com/series/dangerous-games-apex-and-cinema-sur
- vival
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rocco and His Brothers @ PARIS THEATER
-DTSTART:20260427T190000
-DTEND:20260427T210000
-DESCRIPTION:Dir: LUCHINO VISCONTI (1960)\nhttps://www.screenslate.com/seri
- es/academy-museum-branch-selects
-LOCATION:PARIS THEATER
-URL:https://www.screenslate.com/series/academy-museum-branch-selects
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Casablanca @ ROXY CINEMA NEW YORK
-DTSTART:20260427T190000
-DTEND:20260427T210000
-DESCRIPTION:Dir: MICHAEL CURTIZ (1942)\nhttps://www.screenslate.com/series
- /jack-harlow-selects
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.screenslate.com/series/jack-harlow-selects
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Casablanca @ ROXY CINEMA NEW YORK
-DTSTART:20260427T211500
-DTEND:20260427T231500
-DESCRIPTION:Dir: MICHAEL CURTIZ (1942)\nhttps://www.screenslate.com/series
- /jack-harlow-selects
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.screenslate.com/series/jack-harlow-selects
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pretty Ugly: The Story of the Lunachicks @ ROXY CINEMA NEW YORK
-DTSTART:20260427T211500
-DTEND:20260427T231500
-DESCRIPTION:Dir: ILYA CHAIKEN (2026)\nhttps://www.roxycinemanewyork.com/sc
- reenings/pretty-ugly-the-story-of-the-lunachicks-qa/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/screenings/pretty-ugly-the-story-of-
- the-lunachicks-qa/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stray Cat Rock: Sex Hunter @ SPECTACLE
-DTSTART:20260427T193000
-DTEND:20260427T213000
-DESCRIPTION:Dir: GUY (2017)\nhttps://www.screenslate.com/series/sculpting-
- fragments-three-films
-LOCATION:SPECTACLE
-URL:https://www.screenslate.com/series/sculpting-fragments-three-films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stray Cat Rock: Sex Hunter @ SPECTACLE
-DTSTART:20260427T220000
-DTEND:20260428T000000
-DESCRIPTION:Dir: GUY (2017)\nhttps://www.screenslate.com/series/sculpting-
- fragments-three-films
-LOCATION:SPECTACLE
-URL:https://www.screenslate.com/series/sculpting-fragments-three-films
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cobra Woman @ ANTHOLOGY FILM ARCHIVES
 DTSTART:20260428T184500
 DTEND:20260428T204500
@@ -1297,8 +298,18 @@ URL:https://www.screenslate.com/series/la-maison-des-bois-and-three-mauric
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Graduate First @ FILM AT LINCOLN CENTER
-DTSTART:20260428T150000
-DTEND:20260428T170000
+DTSTART:20260428T131500
+DTEND:20260428T151500
+DESCRIPTION:Dir: MAURICE PIALAT (1978)\nhttps://www.screenslate.com/series
+ /la-maison-des-bois-and-three-maurice-pialat
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.screenslate.com/series/la-maison-des-bois-and-three-mauric
+ e-pialat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graduate First @ FILM AT LINCOLN CENTER
+DTSTART:20260428T154500
+DTEND:20260428T174500
 DESCRIPTION:Dir: MAURICE PIALAT (1978)\nhttps://www.screenslate.com/series
  /la-maison-des-bois-and-three-maurice-pialat
 LOCATION:FILM AT LINCOLN CENTER
@@ -1314,6 +325,138 @@ DESCRIPTION:Dir: MAURICE PIALAT (1978)\nhttps://www.screenslate.com/series
 LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.screenslate.com/series/la-maison-des-bois-and-three-mauric
  e-pialat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graduate First @ FILM AT LINCOLN CENTER
+DTSTART:20260428T204500
+DTEND:20260428T224500
+DESCRIPTION:Dir: MAURICE PIALAT (1978)\nhttps://www.screenslate.com/series
+ /la-maison-des-bois-and-three-maurice-pialat
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.screenslate.com/series/la-maison-des-bois-and-three-mauric
+ e-pialat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graduate First @ FILM AT LINCOLN CENTER
+DTSTART:20260428T143000
+DTEND:20260428T163000
+DESCRIPTION:Dir: MAURICE PIALAT (1978)\nhttps://www.screenslate.com/series
+ /la-maison-des-bois-and-three-maurice-pialat
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.screenslate.com/series/la-maison-des-bois-and-three-mauric
+ e-pialat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graduate First @ FILM AT LINCOLN CENTER
+DTSTART:20260428T163000
+DTEND:20260428T183000
+DESCRIPTION:Dir: MAURICE PIALAT (1978)\nhttps://www.screenslate.com/series
+ /la-maison-des-bois-and-three-maurice-pialat
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.screenslate.com/series/la-maison-des-bois-and-three-mauric
+ e-pialat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graduate First @ FILM AT LINCOLN CENTER
+DTSTART:20260428T183000
+DTEND:20260428T203000
+DESCRIPTION:Dir: MAURICE PIALAT (1978)\nhttps://www.screenslate.com/series
+ /la-maison-des-bois-and-three-maurice-pialat
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.screenslate.com/series/la-maison-des-bois-and-three-mauric
+ e-pialat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graduate First @ FILM AT LINCOLN CENTER
+DTSTART:20260428T203000
+DTEND:20260428T223000
+DESCRIPTION:Dir: MAURICE PIALAT (1978)\nhttps://www.screenslate.com/series
+ /la-maison-des-bois-and-three-maurice-pialat
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.screenslate.com/series/la-maison-des-bois-and-three-mauric
+ e-pialat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Graduate First @ FILM AT LINCOLN CENTER
+DTSTART:20260428T150000
+DTEND:20260428T170000
+DESCRIPTION:Dir: MAURICE PIALAT (1978)\nhttps://www.screenslate.com/series
+ /la-maison-des-bois-and-three-maurice-pialat
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.screenslate.com/series/la-maison-des-bois-and-three-mauric
+ e-pialat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Stranger @ FILM AT LINCOLN CENTER
+DTSTART:20260428T131500
+DTEND:20260428T151500
+DESCRIPTION:Dir: FRANÇOIS OZON (2025)\nhttps://www.filmlinc.org/films/the
+ -stranger/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-stranger/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Stranger @ FILM AT LINCOLN CENTER
+DTSTART:20260428T154500
+DTEND:20260428T174500
+DESCRIPTION:Dir: FRANÇOIS OZON (2025)\nhttps://www.filmlinc.org/films/the
+ -stranger/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-stranger/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Stranger @ FILM AT LINCOLN CENTER
+DTSTART:20260428T181500
+DTEND:20260428T201500
+DESCRIPTION:Dir: FRANÇOIS OZON (2025)\nhttps://www.filmlinc.org/films/the
+ -stranger/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-stranger/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Stranger @ FILM AT LINCOLN CENTER
+DTSTART:20260428T204500
+DTEND:20260428T224500
+DESCRIPTION:Dir: FRANÇOIS OZON (2025)\nhttps://www.filmlinc.org/films/the
+ -stranger/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-stranger/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
+DTSTART:20260428T143000
+DTEND:20260428T163000
+DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
+ miroirs-no-3/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/miroirs-no-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
+DTSTART:20260428T163000
+DTEND:20260428T183000
+DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
+ miroirs-no-3/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/miroirs-no-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
+DTSTART:20260428T183000
+DTEND:20260428T203000
+DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
+ miroirs-no-3/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/miroirs-no-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
+DTSTART:20260428T203000
+DTEND:20260428T223000
+DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
+ miroirs-no-3/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/miroirs-no-3/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La maison des bois\, Eps. 1–3 @ FILM AT LINCOLN CENTER
@@ -4144,8 +3287,62 @@ URL:https://www.screenslate.com/series/after-case
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Decision to Leave @ METROGRAPH
+DTSTART:20260501T141500
+DTEND:20260501T161500
+DESCRIPTION:Dir: PARK CHAN-WOOK (2022)\nhttps://www.screenslate.com/series
+ /after-case
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/after-case
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decision to Leave @ METROGRAPH
+DTSTART:20260501T162000
+DTEND:20260501T182000
+DESCRIPTION:Dir: PARK CHAN-WOOK (2022)\nhttps://www.screenslate.com/series
+ /after-case
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/after-case
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decision to Leave @ METROGRAPH
+DTSTART:20260501T162500
+DTEND:20260501T182500
+DESCRIPTION:Dir: PARK CHAN-WOOK (2022)\nhttps://www.screenslate.com/series
+ /after-case
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/after-case
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decision to Leave @ METROGRAPH
 DTSTART:20260501T184500
 DTEND:20260501T204500
+DESCRIPTION:Dir: PARK CHAN-WOOK (2022)\nhttps://www.screenslate.com/series
+ /after-case
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/after-case
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decision to Leave @ METROGRAPH
+DTSTART:20260501T190000
+DTEND:20260501T210000
+DESCRIPTION:Dir: PARK CHAN-WOOK (2022)\nhttps://www.screenslate.com/series
+ /after-case
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/after-case
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decision to Leave @ METROGRAPH
+DTSTART:20260501T211000
+DTEND:20260501T231000
+DESCRIPTION:Dir: PARK CHAN-WOOK (2022)\nhttps://www.screenslate.com/series
+ /after-case
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/after-case
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decision to Leave @ METROGRAPH
+DTSTART:20260501T211500
+DTEND:20260501T231500
 DESCRIPTION:Dir: PARK CHAN-WOOK (2022)\nhttps://www.screenslate.com/series
  /after-case
 LOCATION:METROGRAPH
@@ -4161,6 +3358,33 @@ LOCATION:METROGRAPH
 URL:https://www.screenslate.com/series/after-case
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:John Wick @ METROGRAPH
+DTSTART:20260501T141500
+DTEND:20260501T161500
+DESCRIPTION:Dir: CHAD STAHELSKI (2014)\nhttps://www.screenslate.com/series
+ /dog-dies
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/dog-dies
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vive l'amour @ METROGRAPH
+DTSTART:20260501T162000
+DTEND:20260501T182000
+DESCRIPTION:Dir: TSAI MING LIANG (1994)\nhttps://www.screenslate.com/serie
+ s/last-dreamers
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/last-dreamers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peppermint Candy @ METROGRAPH
+DTSTART:20260501T162500
+DTEND:20260501T182500
+DESCRIPTION:Dir: LEE CHANG-DONG (1999)\nhttps://www.screenslate.com/series
+ /actress-auteur-spotlight-moon-so-ri
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/actress-auteur-spotlight-moon-so-ri
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Long Goodbye @ METROGRAPH
 DTSTART:20260501T184500
 DTEND:20260501T204500
@@ -4168,6 +3392,33 @@ DESCRIPTION:Dir: ROBERT ALTMAN (1973)\nhttps://www.screenslate.com/series/
  after-case
 LOCATION:METROGRAPH
 URL:https://www.screenslate.com/series/after-case
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Camera Buff @ METROGRAPH
+DTSTART:20260501T190000
+DTEND:20260501T210000
+DESCRIPTION:Dir: KRZYSZTOF KIEŚLOWSKI (1979)\nhttps://www.screenslate.co
+ m/series/moral-mazes-krzysztof-kieslowski
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/moral-mazes-krzysztof-kieslowski
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suzhou River @ METROGRAPH
+DTSTART:20260501T211000
+DTEND:20260501T231000
+DESCRIPTION:Dir: YE LOU (2000)\nhttps://www.screenslate.com/series/last-dr
+ eamers
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/last-dreamers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goodbye\, Dragon Inn @ METROGRAPH
+DTSTART:20260501T211500
+DTEND:20260501T231500
+DESCRIPTION:Dir: TSAI MING LIANG (2003)\nhttps://metrograph.com/film/?vist
+ a_film_id=9999000006
+LOCATION:METROGRAPH
+URL:https://metrograph.com/film/?vista_film_id=9999000006
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Big Lebowski @ METROGRAPH
@@ -4250,11 +3501,71 @@ LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://nitehawkcinema.com/williamsburg/movies/the-wicker-man-1973/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gorillas in the Mist @ PARIS THEATER
+DTSTART:20260501T124500
+DTEND:20260501T144500
+DESCRIPTION:Dir: MICHAEL APTED (1988)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gorillas in the Mist @ PARIS THEATER
+DTSTART:20260501T154500
+DTEND:20260501T174500
+DESCRIPTION:Dir: MICHAEL APTED (1988)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gorillas in the Mist @ PARIS THEATER
+DTSTART:20260501T184500
+DTEND:20260501T204500
+DESCRIPTION:Dir: MICHAEL APTED (1988)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gorillas in the Mist @ PARIS THEATER
+DTSTART:20260501T211000
+DTEND:20260501T231000
+DESCRIPTION:Dir: MICHAEL APTED (1988)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kes @ PARIS THEATER
+DTSTART:20260501T154500
+DTEND:20260501T174500
+DESCRIPTION:Dir: KEN LOACH (1969)\nhttps://www.screenslate.com/series/wild
+ -tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:EO @ PARIS THEATER
 DTSTART:20260501T184500
 DTEND:20260501T204500
 DESCRIPTION:Dir: JERZY SKOLIMOWSKI (2022)\nhttps://www.screenslate.com/ser
  ies/wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harry and Tonto @ PARIS THEATER
+DTSTART:20260501T211000
+DTEND:20260501T231000
+DESCRIPTION:Dir: PAUL MAZURSKY (1974)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
 LOCATION:PARIS THEATER
 URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
  res-other-unlikely-friendships
@@ -4552,6 +3863,159 @@ LOCATION:IFC CENTER
 URL:https://www.ifccenter.com/films/american-dream/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Farewell My Concubine @ METROGRAPH
+DTSTART:20260502T110000
+DTEND:20260502T130000
+DESCRIPTION:Dir: CHEN KAIGE (1993)\nhttps://www.screenslate.com/series/emp
+ ress-li
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/empress-li
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farewell My Concubine @ METROGRAPH
+DTSTART:20260502T112000
+DTEND:20260502T132000
+DESCRIPTION:Dir: CHEN KAIGE (1993)\nhttps://www.screenslate.com/series/emp
+ ress-li
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/empress-li
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farewell My Concubine @ METROGRAPH
+DTSTART:20260502T133000
+DTEND:20260502T153000
+DESCRIPTION:Dir: CHEN KAIGE (1993)\nhttps://www.screenslate.com/series/emp
+ ress-li
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/empress-li
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farewell My Concubine @ METROGRAPH
+DTSTART:20260502T142000
+DTEND:20260502T162000
+DESCRIPTION:Dir: CHEN KAIGE (1993)\nhttps://www.screenslate.com/series/emp
+ ress-li
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/empress-li
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farewell My Concubine @ METROGRAPH
+DTSTART:20260502T152500
+DTEND:20260502T172500
+DESCRIPTION:Dir: CHEN KAIGE (1993)\nhttps://www.screenslate.com/series/emp
+ ress-li
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/empress-li
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farewell My Concubine @ METROGRAPH
+DTSTART:20260502T170000
+DTEND:20260502T190000
+DESCRIPTION:Dir: CHEN KAIGE (1993)\nhttps://www.screenslate.com/series/emp
+ ress-li
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/empress-li
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farewell My Concubine @ METROGRAPH
+DTSTART:20260502T191000
+DTEND:20260502T211000
+DESCRIPTION:Dir: CHEN KAIGE (1993)\nhttps://www.screenslate.com/series/emp
+ ress-li
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/empress-li
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farewell My Concubine @ METROGRAPH
+DTSTART:20260502T213000
+DTEND:20260502T233000
+DESCRIPTION:Dir: CHEN KAIGE (1993)\nhttps://www.screenslate.com/series/emp
+ ress-li
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/empress-li
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bringing up Baby @ METROGRAPH
+DTSTART:20260502T112000
+DTEND:20260502T132000
+DESCRIPTION:Dir: HOWARD HAWKS (1938)\nhttps://www.screenslate.com/series/s
+ creen-time-metrograph
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/screen-time-metrograph
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All Dogs Go to Heaven @ METROGRAPH
+DTSTART:20260502T133000
+DTEND:20260502T153000
+DESCRIPTION:Dir: DON BLUTH (1989)\nhttps://www.screenslate.com/series/dog-
+ dies
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/dog-dies
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Landscape in the Mist @ METROGRAPH
+DTSTART:20260502T142000
+DTEND:20260502T162000
+DESCRIPTION:Dir: THEO ANGELOPOULOS (1988)\nhttps://www.screenslate.com/ser
+ ies/holy-trips
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/holy-trips
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Mystery of Picasso @ METROGRAPH
+DTSTART:20260502T152500
+DTEND:20260502T172500
+DESCRIPTION:Dir: HENRI-GEORGES CLOUZOT (1956)\nhttps://www.screenslate.com
+ /series/lives-most-excellent-painters
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/lives-most-excellent-painters
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queen of Diamonds @ METROGRAPH
+DTSTART:20260502T170000
+DTEND:20260502T190000
+DESCRIPTION:Dir: NINA MENKES (1991)\nhttps://www.screenslate.com/series/ni
+ na-menkes-x2
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/nina-menkes-x2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bloody Child @ METROGRAPH
+DTSTART:20260502T191000
+DTEND:20260502T211000
+DESCRIPTION:Dir: NINA MENKES (1996)\nhttps://www.screenslate.com/series/ni
+ na-menkes-x2
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/nina-menkes-x2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bill Plympton Grilled (by Signe Baumane) @ METROGRAPH
+DTSTART:20260502T191000
+DTEND:20260502T211000
+DESCRIPTION:Dir: BILL PLYMPTON (1994)\nhttps://metrograph.com/film/?vista_
+ film_id=9999004810
+LOCATION:METROGRAPH
+URL:https://metrograph.com/film/?vista_film_id=9999004810
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:John Wick @ METROGRAPH
+DTSTART:20260502T213000
+DTEND:20260502T233000
+DESCRIPTION:Dir: CHAD STAHELSKI (2014)\nhttps://www.screenslate.com/series
+ /dog-dies
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/dog-dies
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portrait of a Lady on Fire @ METROGRAPH
+DTSTART:20260502T213000
+DTEND:20260502T233000
+DESCRIPTION:Dir: CÉLINE SCIAMMA (2019)\nhttps://www.screenslate.com/serie
+ s/lives-most-excellent-painters
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/lives-most-excellent-painters
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Fall @ MUSEUM OF MODERN ART
 DTSTART:20260502T160000
 DTEND:20260502T180000
@@ -4707,6 +4171,81 @@ LOCATION:PARIS THEATER
 URL:https://www.screenslate.com/series/academy-museum-branch-selects
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Star Wars: Episode IV -A New Hope @ PARIS THEATER
+DTSTART:20260502T140000
+DTEND:20260502T160000
+DESCRIPTION:Dir: GEORGE LUCAS (1977)\nhttps://www.screenslate.com/series/a
+ cademy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Star Wars: Episode IV -A New Hope @ PARIS THEATER
+DTSTART:20260502T163000
+DTEND:20260502T183000
+DESCRIPTION:Dir: GEORGE LUCAS (1977)\nhttps://www.screenslate.com/series/a
+ cademy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Star Wars: Episode IV -A New Hope @ PARIS THEATER
+DTSTART:20260502T184500
+DTEND:20260502T204500
+DESCRIPTION:Dir: GEORGE LUCAS (1977)\nhttps://www.screenslate.com/series/a
+ cademy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Star Wars: Episode IV -A New Hope @ PARIS THEATER
+DTSTART:20260502T214000
+DTEND:20260502T234000
+DESCRIPTION:Dir: GEORGE LUCAS (1977)\nhttps://www.screenslate.com/series/a
+ cademy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swapped @ PARIS THEATER
+DTSTART:20260502T140000
+DTEND:20260502T160000
+DESCRIPTION:Dir: NATHAN GRENO (2026)\nhttps://www.paristheaternyc.com/film
+ /swapped-paris
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/film/swapped-paris
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wendy and Lucy @ PARIS THEATER
+DTSTART:20260502T163000
+DTEND:20260502T183000
+DESCRIPTION:Dir: KELLY REICHARDT (2008)\nhttps://www.screenslate.com/serie
+ s/wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Black Stallion @ PARIS THEATER
+DTSTART:20260502T184500
+DTEND:20260502T204500
+DESCRIPTION:Dir: CARROLL BALLARD (1979)\nhttps://www.screenslate.com/serie
+ s/wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Rider @ PARIS THEATER
+DTSTART:20260502T214000
+DTEND:20260502T234000
+DESCRIPTION:Dir: CHLOE ZHAO (2018)\nhttps://www.screenslate.com/series/wil
+ d-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tony Foster: Painting at the Edge @ ROXY CINEMA NEW YORK
 DTSTART:20260502T150000
 DTEND:20260502T170000
@@ -4744,6 +4283,15 @@ DESCRIPTION:Dir: ERIC ROHMER (1983)\nhttps://www.screenslate.com/series/ja
  ck-harlow-selects
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://www.screenslate.com/series/jack-harlow-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Ark @ VILLAGE EAST CINEMA
+DTSTART:20260502T173000
+DTEND:20260502T193000
+DESCRIPTION:Dir: JEREMY CHILNICK\, VIACHESLAV RAKOVSKYI (2026)\nhttps://ww
+ w.lesfilmfestival.com/program/stay-indie-2026-the-ark
+LOCATION:VILLAGE EAST CINEMA
+URL:https://www.lesfilmfestival.com/program/stay-indie-2026-the-ark
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Daughters of the Forest @ AMERICAN MUSEUM OF NATURAL HISTORY
@@ -5023,6 +4571,87 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/bellissima
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WALL-E @ METROGRAPH
+DTSTART:20260503T104000
+DTEND:20260503T124000
+DESCRIPTION:Dir: ANDREW STANTON (2008)\nhttps://www.screenslate.com/series
+ /fables-fragile-earth
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/fables-fragile-earth
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WALL-E @ METROGRAPH
+DTSTART:20260503T110000
+DTEND:20260503T130000
+DESCRIPTION:Dir: ANDREW STANTON (2008)\nhttps://www.screenslate.com/series
+ /fables-fragile-earth
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/fables-fragile-earth
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WALL-E @ METROGRAPH
+DTSTART:20260503T124500
+DTEND:20260503T144500
+DESCRIPTION:Dir: ANDREW STANTON (2008)\nhttps://www.screenslate.com/series
+ /fables-fragile-earth
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/fables-fragile-earth
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WALL-E @ METROGRAPH
+DTSTART:20260503T130000
+DTEND:20260503T150000
+DESCRIPTION:Dir: ANDREW STANTON (2008)\nhttps://www.screenslate.com/series
+ /fables-fragile-earth
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/fables-fragile-earth
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WALL-E @ METROGRAPH
+DTSTART:20260503T143000
+DTEND:20260503T163000
+DESCRIPTION:Dir: ANDREW STANTON (2008)\nhttps://www.screenslate.com/series
+ /fables-fragile-earth
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/fables-fragile-earth
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WALL-E @ METROGRAPH
+DTSTART:20260503T171000
+DTEND:20260503T191000
+DESCRIPTION:Dir: ANDREW STANTON (2008)\nhttps://www.screenslate.com/series
+ /fables-fragile-earth
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/fables-fragile-earth
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WALL-E @ METROGRAPH
+DTSTART:20260503T190000
+DTEND:20260503T210000
+DESCRIPTION:Dir: ANDREW STANTON (2008)\nhttps://www.screenslate.com/series
+ /fables-fragile-earth
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/fables-fragile-earth
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WALL-E @ METROGRAPH
+DTSTART:20260503T191000
+DTEND:20260503T211000
+DESCRIPTION:Dir: ANDREW STANTON (2008)\nhttps://www.screenslate.com/series
+ /fables-fragile-earth
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/fables-fragile-earth
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WALL-E @ METROGRAPH
+DTSTART:20260503T210000
+DTEND:20260503T230000
+DESCRIPTION:Dir: ANDREW STANTON (2008)\nhttps://www.screenslate.com/series
+ /fables-fragile-earth
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/fables-fragile-earth
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FernGully: The Last Rainforest @ METROGRAPH
 DTSTART:20260503T110000
 DTEND:20260503T130000
@@ -5032,13 +4661,14 @@ LOCATION:METROGRAPH
 URL:https://www.screenslate.com/series/fables-fragile-earth
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FernGully: The Last Rainforest @ METROGRAPH
-DTSTART:20260503T130000
-DTEND:20260503T150000
-DESCRIPTION:Dir: BILL KROYER (1992)\nhttps://www.screenslate.com/series/fa
- bles-fragile-earth
+SUMMARY:Fantastic Planet @ METROGRAPH
+DTSTART:20260503T124500
+DTEND:20260503T144500
+DESCRIPTION:Dir: RENÉ LALOUX (1973)\nhttps://www.screenslate.com/series/n
+ ew-museum-presents-new-humans-museum-screen
 LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/fables-fragile-earth
+URL:https://www.screenslate.com/series/new-museum-presents-new-humans-muse
+ um-screen
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Hour of Liberation Has Arrived @ METROGRAPH
@@ -5049,6 +4679,69 @@ DESCRIPTION:Dir: HEINY SROUR (1974)\nhttps://www.screenslate.com/series/ta
 LOCATION:METROGRAPH
 URL:https://www.screenslate.com/series/tahar-cheriaa-chronicles-pan-africa
  n-pioneer
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Belle Noiseuse @ METROGRAPH
+DTSTART:20260503T143000
+DTEND:20260503T163000
+DESCRIPTION:Dir: JACQUES RIVETTE (1991)\nhttps://www.screenslate.com/serie
+ s/lives-most-excellent-painters
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/lives-most-excellent-painters
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peppermint Candy @ METROGRAPH
+DTSTART:20260503T143000
+DTEND:20260503T163000
+DESCRIPTION:Dir: LEE CHANG-DONG (1999)\nhttps://www.screenslate.com/series
+ /actress-auteur-spotlight-moon-so-ri
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/actress-auteur-spotlight-moon-so-ri
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Headless Woman @ METROGRAPH
+DTSTART:20260503T171000
+DTEND:20260503T191000
+DESCRIPTION:Dir: LUCRECIA MARTEL (2008)\nhttps://metrograph.com/film/?vist
+ a_film_id=9999000634
+LOCATION:METROGRAPH
+URL:https://metrograph.com/film/?vista_film_id=9999000634
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utamaro and His Five Women @ METROGRAPH
+DTSTART:20260503T190000
+DTEND:20260503T210000
+DESCRIPTION:Dir: KENJI MIZOGUCHI (1945)\nhttps://www.screenslate.com/serie
+ s/lives-most-excellent-painters
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/lives-most-excellent-painters
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suzhou River @ METROGRAPH
+DTSTART:20260503T191000
+DTEND:20260503T211000
+DESCRIPTION:Dir: YE LOU (2000)\nhttps://www.screenslate.com/series/last-dr
+ eamers
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/last-dreamers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vive l'amour @ METROGRAPH
+DTSTART:20260503T210000
+DTEND:20260503T230000
+DESCRIPTION:Dir: TSAI MING LIANG (1994)\nhttps://www.screenslate.com/serie
+ s/last-dreamers
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/last-dreamers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gangsterism @ METROGRAPH
+DTSTART:20260503T210000
+DTEND:20260503T230000
+DESCRIPTION:Dir: ISIAH MEDINA (2025)\nhttps://metrograph.com/film/?vista_f
+ ilm_id=9999004803
+LOCATION:METROGRAPH
+URL:https://metrograph.com/film/?vista_film_id=9999004803
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Cell @ MUSEUM OF MODERN ART
@@ -5161,12 +4854,39 @@ URL:https://www.screenslate.com/series/academy-museum-branch-selects
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nine to Five @ PARIS THEATER
+DTSTART:20260503T140000
+DTEND:20260503T160000
+DESCRIPTION:Dir: COLIN HIGGINS (1980)\nhttps://www.screenslate.com/series/
+ academy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nine to Five @ PARIS THEATER
 DTSTART:20260503T170000
 DTEND:20260503T190000
 DESCRIPTION:Dir: COLIN HIGGINS (1980)\nhttps://www.screenslate.com/series/
  academy-museum-branch-selects
 LOCATION:PARIS THEATER
 URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nine to Five @ PARIS THEATER
+DTSTART:20260503T201500
+DTEND:20260503T221500
+DESCRIPTION:Dir: COLIN HIGGINS (1980)\nhttps://www.screenslate.com/series/
+ academy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swapped @ PARIS THEATER
+DTSTART:20260503T140000
+DTEND:20260503T160000
+DESCRIPTION:Dir: NATHAN GRENO (2026)\nhttps://www.paristheaternyc.com/film
+ /swapped-paris
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/film/swapped-paris
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Last Summer @ PARIS THEATER
@@ -5176,6 +4896,16 @@ DESCRIPTION:Dir: FRANK PERRY (1969)\nhttps://www.paristheaternyc.com/film/
  last-summer-paris
 LOCATION:PARIS THEATER
 URL:https://www.paristheaternyc.com/film/last-summer-paris
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:War Horse @ PARIS THEATER
+DTSTART:20260503T201500
+DTEND:20260503T221500
+DESCRIPTION:Dir: STEVEN SPIELBERG (2011)\nhttps://www.screenslate.com/seri
+ es/wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Big Mama Thornton: I Can't Be Anyone But Me @ ROXY CINEMA NEW YORK
@@ -5337,6 +5067,106 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/bellissima
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Castle in the Sky @ METROGRAPH
+DTSTART:20260504T163000
+DTEND:20260504T183000
+DESCRIPTION:Dir: HAYAO MIYAZAKI (1986)\nhttps://www.screenslate.com/series
+ /fables-fragile-earth
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/fables-fragile-earth
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Castle in the Sky @ METROGRAPH
+DTSTART:20260504T164500
+DTEND:20260504T184500
+DESCRIPTION:Dir: HAYAO MIYAZAKI (1986)\nhttps://www.screenslate.com/series
+ /fables-fragile-earth
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/fables-fragile-earth
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Castle in the Sky @ METROGRAPH
+DTSTART:20260504T190000
+DTEND:20260504T210000
+DESCRIPTION:Dir: HAYAO MIYAZAKI (1986)\nhttps://www.screenslate.com/series
+ /fables-fragile-earth
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/fables-fragile-earth
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Castle in the Sky @ METROGRAPH
+DTSTART:20260504T191000
+DTEND:20260504T211000
+DESCRIPTION:Dir: HAYAO MIYAZAKI (1986)\nhttps://www.screenslate.com/series
+ /fables-fragile-earth
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/fables-fragile-earth
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Castle in the Sky @ METROGRAPH
+DTSTART:20260504T210000
+DTEND:20260504T230000
+DESCRIPTION:Dir: HAYAO MIYAZAKI (1986)\nhttps://www.screenslate.com/series
+ /fables-fragile-earth
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/fables-fragile-earth
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Castle in the Sky @ METROGRAPH
+DTSTART:20260504T211500
+DTEND:20260504T231500
+DESCRIPTION:Dir: HAYAO MIYAZAKI (1986)\nhttps://www.screenslate.com/series
+ /fables-fragile-earth
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/fables-fragile-earth
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Camera Buff @ METROGRAPH
+DTSTART:20260504T164500
+DTEND:20260504T184500
+DESCRIPTION:Dir: KRZYSZTOF KIEŚLOWSKI (1979)\nhttps://www.screenslate.co
+ m/series/moral-mazes-krzysztof-kieslowski
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/moral-mazes-krzysztof-kieslowski
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Two Seasons\, Two Strangers @ METROGRAPH
+DTSTART:20260504T190000
+DTEND:20260504T210000
+DESCRIPTION:Dir: SHO MIYAKE (2025)\nhttps://metrograph.com/film/?vista_fil
+ m_id=9999004792
+LOCATION:METROGRAPH
+URL:https://metrograph.com/film/?vista_film_id=9999004792
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Touki Bouki @ METROGRAPH
+DTSTART:20260504T191000
+DTEND:20260504T211000
+DESCRIPTION:Dir: DJIBRIL DIOP MAMBETY (1973)\nhttps://www.screenslate.com/
+ series/tahar-cheriaa-chronicles-pan-african-pioneer
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/tahar-cheriaa-chronicles-pan-africa
+ n-pioneer
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Decision to Leave @ METROGRAPH
+DTSTART:20260504T210000
+DTEND:20260504T230000
+DESCRIPTION:Dir: PARK CHAN-WOOK (2022)\nhttps://www.screenslate.com/series
+ /after-case
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/after-case
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In a Year of 13 Moons @ METROGRAPH
+DTSTART:20260504T211500
+DTEND:20260504T231500
+DESCRIPTION:Dir: RAINER WERNER FASSBINDER (1978)\nhttps://www.screenslate.
+ com/series/holy-trips
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/holy-trips
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Lost Boys @ NITEHAWK CINEMA PROSPECT PARK
 DTSTART:20260504T190000
 DTEND:20260504T210000
@@ -5374,19 +5204,49 @@ LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://www.screenslate.com/series/music-driven-nitehawk-cinema
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EO @ PARIS THEATER
+SUMMARY:Harry and Tonto @ PARIS THEATER
+DTSTART:20260504T133000
+DTEND:20260504T153000
+DESCRIPTION:Dir: PAUL MAZURSKY (1974)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harry and Tonto @ PARIS THEATER
 DTSTART:20260504T163000
 DTEND:20260504T183000
-DESCRIPTION:Dir: JERZY SKOLIMOWSKI (2022)\nhttps://www.screenslate.com/ser
- ies/wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+DESCRIPTION:Dir: PAUL MAZURSKY (1974)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harry and Tonto @ PARIS THEATER
+DTSTART:20260504T190000
+DTEND:20260504T210000
+DESCRIPTION:Dir: PAUL MAZURSKY (1974)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harry and Tonto @ PARIS THEATER
+DTSTART:20260504T220000
+DTEND:20260505T000000
+DESCRIPTION:Dir: PAUL MAZURSKY (1974)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
 LOCATION:PARIS THEATER
 URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
  res-other-unlikely-friendships
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EO @ PARIS THEATER
-DTSTART:20260504T190000
-DTEND:20260504T210000
+DTSTART:20260504T163000
+DTEND:20260504T183000
 DESCRIPTION:Dir: JERZY SKOLIMOWSKI (2022)\nhttps://www.screenslate.com/ser
  ies/wild-tales-remarkably-bright-creatures-other-unlikely-friendships
 LOCATION:PARIS THEATER
@@ -5401,6 +5261,16 @@ DESCRIPTION:Dir: GEORGE LUCAS (1977)\nhttps://www.screenslate.com/series/a
  cademy-museum-branch-selects
 LOCATION:PARIS THEATER
 URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wendy and Lucy @ PARIS THEATER
+DTSTART:20260504T220000
+DTEND:20260505T000000
+DESCRIPTION:Dir: KELLY REICHARDT (2008)\nhttps://www.screenslate.com/serie
+ s/wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pretty Ugly: The Story of the Lunachicks @ ROXY CINEMA NEW YORK
@@ -5542,6 +5412,15 @@ LOCATION:IFC CENTER
 URL:https://www.screenslate.com/series/doc-nyc-selects-spring-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WTO/99 @ INTERFERENCE ARCHIVE
+DTSTART:20260505T190000
+DTEND:20260505T210000
+DESCRIPTION:Dir: IAN BELL (2025)\nhttps://interferencearchive.org/event/sc
+ reening-wto-99/
+LOCATION:INTERFERENCE ARCHIVE
+URL:https://interferencearchive.org/event/screening-wto-99/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chicks @ L'ALLIANCE NEW YORK
 DTSTART:20260505T160000
 DTEND:20260505T180000
@@ -5558,6 +5437,87 @@ DESCRIPTION:Dir: SOPHIE LETOURNEUR (2009)\nhttps://www.screenslate.com/ser
  ies/films-sophie-letourneur
 LOCATION:L'ALLIANCE NEW YORK
 URL:https://www.screenslate.com/series/films-sophie-letourneur
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nausicaä of the Valley of the Wind @ METROGRAPH
+DTSTART:20260505T160000
+DTEND:20260505T180000
+DESCRIPTION:Dir: HAYAO MIYAZAKI (1984)\nhttps://www.screenslate.com/series
+ /fables-fragile-earth
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/fables-fragile-earth
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nausicaä of the Valley of the Wind @ METROGRAPH
+DTSTART:20260505T161500
+DTEND:20260505T181500
+DESCRIPTION:Dir: HAYAO MIYAZAKI (1984)\nhttps://www.screenslate.com/series
+ /fables-fragile-earth
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/fables-fragile-earth
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nausicaä of the Valley of the Wind @ METROGRAPH
+DTSTART:20260505T183500
+DTEND:20260505T203500
+DESCRIPTION:Dir: HAYAO MIYAZAKI (1984)\nhttps://www.screenslate.com/series
+ /fables-fragile-earth
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/fables-fragile-earth
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nausicaä of the Valley of the Wind @ METROGRAPH
+DTSTART:20260505T191500
+DTEND:20260505T211500
+DESCRIPTION:Dir: HAYAO MIYAZAKI (1984)\nhttps://www.screenslate.com/series
+ /fables-fragile-earth
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/fables-fragile-earth
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nausicaä of the Valley of the Wind @ METROGRAPH
+DTSTART:20260505T213500
+DTEND:20260505T233500
+DESCRIPTION:Dir: HAYAO MIYAZAKI (1984)\nhttps://www.screenslate.com/series
+ /fables-fragile-earth
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/fables-fragile-earth
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hot Rock @ METROGRAPH
+DTSTART:20260505T161500
+DTEND:20260505T181500
+DESCRIPTION:Dir: PETER YATES (1972)\nhttps://www.screenslate.com/series/we
+ stlake-files
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/westlake-files
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zodiac @ METROGRAPH
+DTSTART:20260505T183500
+DTEND:20260505T203500
+DESCRIPTION:Dir: DAVID FINCHER (2007)\nhttps://www.screenslate.com/series/
+ after-case
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/after-case
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Long Goodbye @ METROGRAPH
+DTSTART:20260505T191500
+DTEND:20260505T211500
+DESCRIPTION:Dir: ROBERT ALTMAN (1973)\nhttps://www.screenslate.com/series/
+ after-case
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/after-case
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peppermint Candy @ METROGRAPH
+DTSTART:20260505T213500
+DTEND:20260505T233500
+DESCRIPTION:Dir: LEE CHANG-DONG (1999)\nhttps://www.screenslate.com/series
+ /actress-auteur-spotlight-moon-so-ri
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/actress-auteur-spotlight-moon-so-ri
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Before It Was Cool: The Brooklyn Beat at Lauterbach’s @ NITEHAWK
@@ -5579,6 +5539,56 @@ LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://www.screenslate.com/series/music-driven-nitehawk-cinema
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Rider @ PARIS THEATER
+DTSTART:20260505T130000
+DTEND:20260505T150000
+DESCRIPTION:Dir: CHLOE ZHAO (2018)\nhttps://www.screenslate.com/series/wil
+ d-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Rider @ PARIS THEATER
+DTSTART:20260505T154500
+DTEND:20260505T174500
+DESCRIPTION:Dir: CHLOE ZHAO (2018)\nhttps://www.screenslate.com/series/wil
+ d-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Rider @ PARIS THEATER
+DTSTART:20260505T190000
+DTEND:20260505T210000
+DESCRIPTION:Dir: CHLOE ZHAO (2018)\nhttps://www.screenslate.com/series/wil
+ d-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Rider @ PARIS THEATER
+DTSTART:20260505T212000
+DTEND:20260505T232000
+DESCRIPTION:Dir: CHLOE ZHAO (2018)\nhttps://www.screenslate.com/series/wil
+ d-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gorillas in the Mist @ PARIS THEATER
+DTSTART:20260505T154500
+DTEND:20260505T174500
+DESCRIPTION:Dir: MICHAEL APTED (1988)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Iron Giant @ PARIS THEATER
 DTSTART:20260505T190000
 DTEND:20260505T210000
@@ -5586,6 +5596,16 @@ DESCRIPTION:Dir: BRAD BIRD (1999)\nhttps://www.screenslate.com/series/acad
  emy-museum-branch-selects
 LOCATION:PARIS THEATER
 URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kes @ PARIS THEATER
+DTSTART:20260505T212000
+DTEND:20260505T232000
+DESCRIPTION:Dir: KEN LOACH (1969)\nhttps://www.screenslate.com/series/wild
+ -tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Plagiarists @ ANTHOLOGY FILM ARCHIVES
@@ -5779,6 +5799,54 @@ LOCATION:IFC CENTER
 URL:https://www.ifccenter.com/films/blue-film/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fantastic Planet @ METROGRAPH
+DTSTART:20260506T172000
+DTEND:20260506T192000
+DESCRIPTION:Dir: RENÉ LALOUX (1973)\nhttps://www.screenslate.com/series/n
+ ew-museum-presents-new-humans-museum-screen
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/new-museum-presents-new-humans-muse
+ um-screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fantastic Planet @ METROGRAPH
+DTSTART:20260506T184000
+DTEND:20260506T204000
+DESCRIPTION:Dir: RENÉ LALOUX (1973)\nhttps://www.screenslate.com/series/n
+ ew-museum-presents-new-humans-museum-screen
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/new-museum-presents-new-humans-muse
+ um-screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fantastic Planet @ METROGRAPH
+DTSTART:20260506T190000
+DTEND:20260506T210000
+DESCRIPTION:Dir: RENÉ LALOUX (1973)\nhttps://www.screenslate.com/series/n
+ ew-museum-presents-new-humans-museum-screen
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/new-museum-presents-new-humans-muse
+ um-screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Two Seasons\, Two Strangers @ METROGRAPH
+DTSTART:20260506T184000
+DTEND:20260506T204000
+DESCRIPTION:Dir: SHO MIYAKE (2025)\nhttps://metrograph.com/film/?vista_fil
+ m_id=9999004792
+LOCATION:METROGRAPH
+URL:https://metrograph.com/film/?vista_film_id=9999004792
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farewell My Concubine @ METROGRAPH
+DTSTART:20260506T190000
+DTEND:20260506T210000
+DESCRIPTION:Dir: CHEN KAIGE (1993)\nhttps://www.screenslate.com/series/emp
+ ress-li
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/empress-li
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rockers Don’t Stop: The Revival of Rockers Revenge @ NITEHAWK CI
  NEMA PROSPECT PARK
 DTSTART:20260506T190000
@@ -5798,18 +5866,63 @@ LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://www.screenslate.com/series/booze-books
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nine to Five @ PARIS THEATER
+SUMMARY:My Octopus Teacher @ PARIS THEATER
+DTSTART:20260506T133000
+DTEND:20260506T153000
+DESCRIPTION:Dir: PIPPA EHRLICH\, JAMES REED (2020)\nhttps://www.screenslat
+ e.com/series/wild-tales-remarkably-bright-creatures-other-unlikely-friends
+ hips
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Octopus Teacher @ PARIS THEATER
+DTSTART:20260506T160000
+DTEND:20260506T180000
+DESCRIPTION:Dir: PIPPA EHRLICH\, JAMES REED (2020)\nhttps://www.screenslat
+ e.com/series/wild-tales-remarkably-bright-creatures-other-unlikely-friends
+ hips
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Octopus Teacher @ PARIS THEATER
 DTSTART:20260506T190000
 DTEND:20260506T210000
-DESCRIPTION:Dir: COLIN HIGGINS (1980)\nhttps://www.screenslate.com/series/
- academy-museum-branch-selects
+DESCRIPTION:Dir: PIPPA EHRLICH\, JAMES REED (2020)\nhttps://www.screenslat
+ e.com/series/wild-tales-remarkably-bright-creatures-other-unlikely-friends
+ hips
 LOCATION:PARIS THEATER
-URL:https://www.screenslate.com/series/academy-museum-branch-selects
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Octopus Teacher @ PARIS THEATER
+DTSTART:20260506T214500
+DTEND:20260506T234500
+DESCRIPTION:Dir: PIPPA EHRLICH\, JAMES REED (2020)\nhttps://www.screenslat
+ e.com/series/wild-tales-remarkably-bright-creatures-other-unlikely-friends
+ hips
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harry and Tonto @ PARIS THEATER
+DTSTART:20260506T160000
+DTEND:20260506T180000
+DESCRIPTION:Dir: PAUL MAZURSKY (1974)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nine to Five @ PARIS THEATER
-DTSTART:20260506T214500
-DTEND:20260506T234500
+DTSTART:20260506T190000
+DTEND:20260506T210000
 DESCRIPTION:Dir: COLIN HIGGINS (1980)\nhttps://www.screenslate.com/series/
  academy-museum-branch-selects
 LOCATION:PARIS THEATER
@@ -5993,6 +6106,69 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/bellissima
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Stalker @ METROGRAPH
+DTSTART:20260507T160000
+DTEND:20260507T180000
+DESCRIPTION:Dir: ANDREI TARKOVSKY (1979)\nhttps://www.screenslate.com/seri
+ es/holy-trips
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/holy-trips
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stalker @ METROGRAPH
+DTSTART:20260507T192000
+DTEND:20260507T212000
+DESCRIPTION:Dir: ANDREI TARKOVSKY (1979)\nhttps://www.screenslate.com/seri
+ es/holy-trips
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/holy-trips
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stalker @ METROGRAPH
+DTSTART:20260507T213500
+DTEND:20260507T233500
+DESCRIPTION:Dir: ANDREI TARKOVSKY (1979)\nhttps://www.screenslate.com/seri
+ es/holy-trips
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/holy-trips
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Emperor and the Assassin @ METROGRAPH
+DTSTART:20260507T160000
+DTEND:20260507T180000
+DESCRIPTION:Dir: CHEN KAIGE (1998)\nhttps://www.screenslate.com/series/emp
+ ress-li
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/empress-li
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Scar @ METROGRAPH
+DTSTART:20260507T192000
+DTEND:20260507T212000
+DESCRIPTION:Dir: KRZYSZTOF KIEŚLOWSKI (1976)\nhttps://www.screenslate.co
+ m/series/moral-mazes-krzysztof-kieslowski
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/moral-mazes-krzysztof-kieslowski
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miami Vice @ METROGRAPH
+DTSTART:20260507T213500
+DTEND:20260507T233500
+DESCRIPTION:Dir: MICHAEL MANN (2006)\nhttps://www.screenslate.com/series/e
+ mpress-li
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/empress-li
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Choice @ METROGRAPH
+DTSTART:20260507T213500
+DTEND:20260507T233500
+DESCRIPTION:Dir: PARK CHAN-WOOK (2025)\nhttps://www.screenslate.com/series
+ /westlake-files
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/westlake-files
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sound of a Dream: Lee Burridge @ NITEHAWK CINEMA PROSPECT PARK
 DTSTART:20260507T190000
 DTEND:20260507T210000
@@ -6010,6 +6186,76 @@ DESCRIPTION:Dir: WES ANDERSON (2001)\nhttps://www.screenslate.com/series/p
 LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://www.screenslate.com/series/pop-star-vehicles-vol-3-nitehawk-ci
  nema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wendy and Lucy @ PARIS THEATER
+DTSTART:20260507T130000
+DTEND:20260507T150000
+DESCRIPTION:Dir: KELLY REICHARDT (2008)\nhttps://www.screenslate.com/serie
+ s/wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wendy and Lucy @ PARIS THEATER
+DTSTART:20260507T153000
+DTEND:20260507T173000
+DESCRIPTION:Dir: KELLY REICHARDT (2008)\nhttps://www.screenslate.com/serie
+ s/wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wendy and Lucy @ PARIS THEATER
+DTSTART:20260507T190000
+DTEND:20260507T210000
+DESCRIPTION:Dir: KELLY REICHARDT (2008)\nhttps://www.screenslate.com/serie
+ s/wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wendy and Lucy @ PARIS THEATER
+DTSTART:20260507T220000
+DTEND:20260508T000000
+DESCRIPTION:Dir: KELLY REICHARDT (2008)\nhttps://www.screenslate.com/serie
+ s/wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:War Horse @ PARIS THEATER
+DTSTART:20260507T153000
+DTEND:20260507T173000
+DESCRIPTION:Dir: STEVEN SPIELBERG (2011)\nhttps://www.screenslate.com/seri
+ es/wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gorillas in the Mist @ PARIS THEATER
+DTSTART:20260507T190000
+DTEND:20260507T210000
+DESCRIPTION:Dir: MICHAEL APTED (1988)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Rider @ PARIS THEATER
+DTSTART:20260507T220000
+DTEND:20260508T000000
+DESCRIPTION:Dir: CHLOE ZHAO (2018)\nhttps://www.screenslate.com/series/wil
+ d-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New Kingston @ UNIONDOCS
@@ -6124,6 +6370,46 @@ DESCRIPTION:Dir: JENNIFER KENT (2014)\nhttps://nitehawkcinema.com/williams
  burg/movies/the-babadook/
 LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://nitehawkcinema.com/williamsburg/movies/the-babadook/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remarkably Bright Creatures @ PARIS THEATER
+DTSTART:20260508T130000
+DTEND:20260508T150000
+DESCRIPTION:Dir: OLIVIA NEWMAN (2026)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remarkably Bright Creatures @ PARIS THEATER
+DTSTART:20260508T160000
+DTEND:20260508T180000
+DESCRIPTION:Dir: OLIVIA NEWMAN (2026)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remarkably Bright Creatures @ PARIS THEATER
+DTSTART:20260508T190000
+DTEND:20260508T210000
+DESCRIPTION:Dir: OLIVIA NEWMAN (2026)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remarkably Bright Creatures @ PARIS THEATER
+DTSTART:20260508T214500
+DTEND:20260508T234500
+DESCRIPTION:Dir: OLIVIA NEWMAN (2026)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maidstone @ ANTHOLOGY FILM ARCHIVES
@@ -6341,6 +6627,15 @@ LOCATION:L'ALLIANCE NEW YORK
 URL:https://lallianceny.org/event/winged-migration/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vive l'amour @ METROGRAPH
+DTSTART:20260509T230000
+DTEND:20260510T010000
+DESCRIPTION:Dir: TSAI MING LIANG (1994)\nhttps://www.screenslate.com/serie
+ s/last-dreamers
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/last-dreamers
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bugsy Malone @ NITEHAWK CINEMA PROSPECT PARK
 DTSTART:20260509T113000
 DTEND:20260509T133000
@@ -6406,6 +6701,92 @@ DESCRIPTION:Dir: JERRY ZUCKER (1990)\nhttps://www.screenslate.com/series/a
  cademy-museum-branch-selects
 LOCATION:PARIS THEATER
 URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghost @ PARIS THEATER
+DTSTART:20260509T140000
+DTEND:20260509T160000
+DESCRIPTION:Dir: JERRY ZUCKER (1990)\nhttps://www.screenslate.com/series/a
+ cademy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghost @ PARIS THEATER
+DTSTART:20260509T165000
+DTEND:20260509T185000
+DESCRIPTION:Dir: JERRY ZUCKER (1990)\nhttps://www.screenslate.com/series/a
+ cademy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghost @ PARIS THEATER
+DTSTART:20260509T191500
+DTEND:20260509T211500
+DESCRIPTION:Dir: JERRY ZUCKER (1990)\nhttps://www.screenslate.com/series/a
+ cademy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghost @ PARIS THEATER
+DTSTART:20260509T220000
+DTEND:20260510T000000
+DESCRIPTION:Dir: JERRY ZUCKER (1990)\nhttps://www.screenslate.com/series/a
+ cademy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Willy @ PARIS THEATER
+DTSTART:20260509T140000
+DTEND:20260509T160000
+DESCRIPTION:Dir: SIMON WINCER (1993)\nhttps://www.screenslate.com/series/w
+ ild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Octopus Teacher @ PARIS THEATER
+DTSTART:20260509T165000
+DTEND:20260509T185000
+DESCRIPTION:Dir: PIPPA EHRLICH\, JAMES REED (2020)\nhttps://www.screenslat
+ e.com/series/wild-tales-remarkably-bright-creatures-other-unlikely-friends
+ hips
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remarkably Bright Creatures @ PARIS THEATER
+DTSTART:20260509T191500
+DTEND:20260509T211500
+DESCRIPTION:Dir: OLIVIA NEWMAN (2026)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remarkably Bright Creatures @ PARIS THEATER
+DTSTART:20260509T220000
+DTEND:20260510T000000
+DESCRIPTION:Dir: OLIVIA NEWMAN (2026)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skinner's Dress Suit @ SYMPHONY SPACE
+DTSTART:20260509T143000
+DTEND:20260509T163000
+DESCRIPTION:Dir: WILLIAM A. SEITER (1926)\nhttps://www.screenslate.com/ser
+ ies/silent-clowns-film-series
+LOCATION:SYMPHONY SPACE
+URL:https://www.screenslate.com/series/silent-clowns-film-series
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Plagiarists @ ANTHOLOGY FILM ARCHIVES
@@ -6568,6 +6949,15 @@ LOCATION:FILM FORUM
 URL:https://www.screenslate.com/series/film-forum-jr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Portrait of a Lady on Fire @ METROGRAPH
+DTSTART:20260510T184500
+DTEND:20260510T204500
+DESCRIPTION:Dir: CÉLINE SCIAMMA (2019)\nhttps://www.screenslate.com/serie
+ s/lives-most-excellent-painters
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/lives-most-excellent-painters
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bugsy Malone @ NITEHAWK CINEMA PROSPECT PARK
 DTSTART:20260510T113000
 DTEND:20260510T133000
@@ -6633,6 +7023,63 @@ DESCRIPTION:Dir: GEORGE CUKOR (1944)\nhttps://www.screenslate.com/series/a
  cademy-museum-branch-selects
 LOCATION:PARIS THEATER
 URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gaslight @ PARIS THEATER
+DTSTART:20260510T142000
+DTEND:20260510T162000
+DESCRIPTION:Dir: GEORGE CUKOR (1944)\nhttps://www.screenslate.com/series/a
+ cademy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gaslight @ PARIS THEATER
+DTSTART:20260510T173000
+DTEND:20260510T193000
+DESCRIPTION:Dir: GEORGE CUKOR (1944)\nhttps://www.screenslate.com/series/a
+ cademy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gaslight @ PARIS THEATER
+DTSTART:20260510T201500
+DTEND:20260510T221500
+DESCRIPTION:Dir: GEORGE CUKOR (1944)\nhttps://www.screenslate.com/series/a
+ cademy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steel Magnolias @ PARIS THEATER
+DTSTART:20260510T142000
+DTEND:20260510T162000
+DESCRIPTION:Dir: HERBERT ROSS (1989)\nhttps://www.screenslate.com/series/w
+ ild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remarkably Bright Creatures @ PARIS THEATER
+DTSTART:20260510T173000
+DTEND:20260510T193000
+DESCRIPTION:Dir: OLIVIA NEWMAN (2026)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remarkably Bright Creatures @ PARIS THEATER
+DTSTART:20260510T201500
+DTEND:20260510T221500
+DESCRIPTION:Dir: OLIVIA NEWMAN (2026)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Misconceived @ ANTHOLOGY FILM ARCHIVES
@@ -6702,6 +7149,46 @@ DESCRIPTION:Dir: BARRY SONNENFELD (1997)\nhttps://www.screenslate.com/seri
  es/masc-movies-nitehawk-cinema
 LOCATION:NITEHAWK CINEMA PROSPECT PARK
 URL:https://www.screenslate.com/series/masc-movies-nitehawk-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remarkably Bright Creatures @ PARIS THEATER
+DTSTART:20260511T130000
+DTEND:20260511T150000
+DESCRIPTION:Dir: OLIVIA NEWMAN (2026)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remarkably Bright Creatures @ PARIS THEATER
+DTSTART:20260511T160000
+DTEND:20260511T180000
+DESCRIPTION:Dir: OLIVIA NEWMAN (2026)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remarkably Bright Creatures @ PARIS THEATER
+DTSTART:20260511T213000
+DTEND:20260511T233000
+DESCRIPTION:Dir: OLIVIA NEWMAN (2026)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remarkably Bright Creatures @ PARIS THEATER
+DTSTART:20260511T190000
+DTEND:20260511T210000
+DESCRIPTION:Dir: OLIVIA NEWMAN (2026)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fruitvale Station @ PARIS THEATER
@@ -6818,6 +7305,46 @@ LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://www.screenslate.com/series/future-film-female-nitehawk-cinema
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Remarkably Bright Creatures @ PARIS THEATER
+DTSTART:20260512T130000
+DTEND:20260512T150000
+DESCRIPTION:Dir: OLIVIA NEWMAN (2026)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remarkably Bright Creatures @ PARIS THEATER
+DTSTART:20260512T160000
+DTEND:20260512T180000
+DESCRIPTION:Dir: OLIVIA NEWMAN (2026)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remarkably Bright Creatures @ PARIS THEATER
+DTSTART:20260512T215000
+DTEND:20260512T235000
+DESCRIPTION:Dir: OLIVIA NEWMAN (2026)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remarkably Bright Creatures @ PARIS THEATER
+DTSTART:20260512T190000
+DTEND:20260512T210000
+DESCRIPTION:Dir: OLIVIA NEWMAN (2026)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ghost @ PARIS THEATER
 DTSTART:20260512T190000
 DTEND:20260512T210000
@@ -6929,6 +7456,46 @@ DESCRIPTION:Dir: MICHAEL MANN (1981)\nhttps://www.screenslate.com/series/p
 LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://www.screenslate.com/series/pop-star-vehicles-vol-3-nitehawk-ci
  nema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remarkably Bright Creatures @ PARIS THEATER
+DTSTART:20260513T130000
+DTEND:20260513T150000
+DESCRIPTION:Dir: OLIVIA NEWMAN (2026)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remarkably Bright Creatures @ PARIS THEATER
+DTSTART:20260513T160000
+DTEND:20260513T180000
+DESCRIPTION:Dir: OLIVIA NEWMAN (2026)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remarkably Bright Creatures @ PARIS THEATER
+DTSTART:20260513T215000
+DTEND:20260513T235000
+DESCRIPTION:Dir: OLIVIA NEWMAN (2026)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remarkably Bright Creatures @ PARIS THEATER
+DTSTART:20260513T190000
+DTEND:20260513T210000
+DESCRIPTION:Dir: OLIVIA NEWMAN (2026)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gaslight @ PARIS THEATER
@@ -7086,6 +7653,46 @@ LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://www.screenslate.com/series/deuce-nitehawk-cinema
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Remarkably Bright Creatures @ PARIS THEATER
+DTSTART:20260514T130000
+DTEND:20260514T150000
+DESCRIPTION:Dir: OLIVIA NEWMAN (2026)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remarkably Bright Creatures @ PARIS THEATER
+DTSTART:20260514T160000
+DTEND:20260514T180000
+DESCRIPTION:Dir: OLIVIA NEWMAN (2026)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remarkably Bright Creatures @ PARIS THEATER
+DTSTART:20260514T190000
+DTEND:20260514T210000
+DESCRIPTION:Dir: OLIVIA NEWMAN (2026)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Remarkably Bright Creatures @ PARIS THEATER
+DTSTART:20260514T214500
+DTEND:20260514T234500
+DESCRIPTION:Dir: OLIVIA NEWMAN (2026)\nhttps://www.screenslate.com/series/
+ wild-tales-remarkably-bright-creatures-other-unlikely-friendships
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
+ res-other-unlikely-friendships
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Third Body @ ANTHOLOGY FILM ARCHIVES
 DTSTART:20260515T190000
 DTEND:20260515T210000
@@ -7202,6 +7809,16 @@ DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
  almanac
 LOCATION:FILM FORUM
 URL:https://filmforum.org/film/agathas-almanac
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:95 and 6 to Go @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260515T190000
+DTEND:20260515T210000
+DESCRIPTION:Dir: KIMI TAKESUE (2016)\nhttps://www.dctvny.org/s/firehouse-f
+ ilm/95-and-6-to-go-MCXFFOSC5XFZGB7IKCB53YWDBSIY
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/95-and-6-to-go-MCXFFOSC5XFZGB7
+ IKCB53YWDBSIY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Man Who Stole the Sun @ JAPAN SOCIETY
@@ -7439,6 +8056,33 @@ DESCRIPTION:Dir: TATSUMI KUMASHIRO (1974)\nhttps://www.screenslate.com/ser
  ies/kazuhiko-hasegawas-anarchic-ethos
 LOCATION:JAPAN SOCIETY
 URL:https://www.screenslate.com/series/kazuhiko-hasegawas-anarchic-ethos
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All Dogs Go to Heaven @ METROGRAPH
+DTSTART:20260516T110000
+DTEND:20260516T130000
+DESCRIPTION:Dir: DON BLUTH (1989)\nhttps://www.screenslate.com/series/dog-
+ dies
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/dog-dies
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All Dogs Go to Heaven @ METROGRAPH
+DTSTART:20260516T130000
+DTEND:20260516T150000
+DESCRIPTION:Dir: DON BLUTH (1989)\nhttps://www.screenslate.com/series/dog-
+ dies
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/dog-dies
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portrait of a Lady on Fire @ METROGRAPH
+DTSTART:20260516T130000
+DTEND:20260516T150000
+DESCRIPTION:Dir: CÉLINE SCIAMMA (2019)\nhttps://www.screenslate.com/serie
+ s/lives-most-excellent-painters
+LOCATION:METROGRAPH
+URL:https://www.screenslate.com/series/lives-most-excellent-painters
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Redline @ MUSEUM OF THE MOVING IMAGE
@@ -7760,6 +8404,15 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/agathas-almanac
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Headless Woman @ METROGRAPH
+DTSTART:20260517T201000
+DTEND:20260517T221000
+DESCRIPTION:Dir: LUCRECIA MARTEL (2008)\nhttps://metrograph.com/film/?vist
+ a_film_id=9999000634
+LOCATION:METROGRAPH
+URL:https://metrograph.com/film/?vista_film_id=9999000634
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Wiz @ NITEHAWK CINEMA PROSPECT PARK
 DTSTART:20260517T113000
 DTEND:20260517T133000
@@ -7970,6 +8623,15 @@ LOCATION:BAM
 URL:https://www.screenslate.com/series/pynchonesque
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Touching the Skin of Eeriness @ CENTER FOR THEATRE RESEARCH
+DTSTART:20260519T213000
+DTEND:20260519T233000
+DESCRIPTION:Dir: RYUSUKE HAMAGUCHI (2013)\nhttps://www.screenslate.com/ser
+ ies/amnesiascope
+LOCATION:CENTER FOR THEATRE RESEARCH
+URL:https://www.screenslate.com/series/amnesiascope
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Agatha's Almanac @ FILM FORUM
 DTSTART:20260519T124000
 DTEND:20260519T144000
@@ -8049,6 +8711,15 @@ DESCRIPTION:Dir: CLAUDE LANZMANN (1985)\nhttps://lallianceny.org/event/arn
  aud-desplechin-presents-shoah/
 LOCATION:L'ALLIANCE NEW YORK
 URL:https://lallianceny.org/event/arnaud-desplechin-presents-shoah/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jason and Shirley Revisited @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260519T184500
+DTEND:20260519T204500
+DESCRIPTION:Dir: STEPHEN WINTER (2025)\nhttps://www.screenslate.com/series
+ /additional-dialogue-nitehawk-cinema
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://www.screenslate.com/series/additional-dialogue-nitehawk-cinema
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Thief @ NITEHAWK CINEMA WILLIAMSBURG
@@ -8309,6 +8980,15 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/agathas-almanac
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Amreeka @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260521T190000
+DTEND:20260521T210000
+DESCRIPTION:Dir: CHERIEN DABIS (2009)\nhttps://www.screenslate.com/series/
+ cinema-arabiyya-nitehawk-cinema
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://www.screenslate.com/series/cinema-arabiyya-nitehawk-cinema
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Urban Flesh @ NITEHAWK CINEMA WILLIAMSBURG
 DTSTART:20260521T213000
 DTEND:20260521T233000
@@ -8408,6 +9088,15 @@ DESCRIPTION:Dir: MARIANNA BRENNAND (2024)\nhttps://filmforum.org/film/mana
  s
 LOCATION:FILM FORUM
 URL:https://filmforum.org/film/manas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shivers @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260522T235500
+DTEND:20260523T015500
+DESCRIPTION:Dir: DAVID CRONENBERG (1975)\nhttps://nitehawkcinema.com/willi
+ amsburg/movies/shivers/
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://nitehawkcinema.com/williamsburg/movies/shivers/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nass River Indians @ ANTHOLOGY FILM ARCHIVES
@@ -8622,6 +9311,25 @@ DESCRIPTION:Dir: DAVID FINCHER (2011)\nhttps://www.screenslate.com/series/
 LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://www.screenslate.com/series/pop-star-vehicles-vol-3-nitehawk-ci
  nema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Girl with the Dragon Tattoo @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260523T111500
+DTEND:20260523T131500
+DESCRIPTION:Dir: DAVID FINCHER (2011)\nhttps://www.screenslate.com/series/
+ pop-star-vehicles-vol-3-nitehawk-cinema
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://www.screenslate.com/series/pop-star-vehicles-vol-3-nitehawk-ci
+ nema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Family Plot @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260523T111500
+DTEND:20260523T131500
+DESCRIPTION:Dir: ALFRED HITCHCOCK (1976)\nhttps://www.screenslate.com/seri
+ es/anniversary-party-nitehawk-cinema
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://www.screenslate.com/series/anniversary-party-nitehawk-cinema
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monument @ ANTHOLOGY FILM ARCHIVES
@@ -8887,6 +9595,25 @@ DESCRIPTION:Dir: DAVID FINCHER (2011)\nhttps://www.screenslate.com/series/
 LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://www.screenslate.com/series/pop-star-vehicles-vol-3-nitehawk-ci
  nema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Girl with the Dragon Tattoo @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260524T111500
+DTEND:20260524T131500
+DESCRIPTION:Dir: DAVID FINCHER (2011)\nhttps://www.screenslate.com/series/
+ pop-star-vehicles-vol-3-nitehawk-cinema
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://www.screenslate.com/series/pop-star-vehicles-vol-3-nitehawk-ci
+ nema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Family Plot @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260524T111500
+DTEND:20260524T131500
+DESCRIPTION:Dir: ALFRED HITCHCOCK (1976)\nhttps://www.screenslate.com/seri
+ es/anniversary-party-nitehawk-cinema
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://www.screenslate.com/series/anniversary-party-nitehawk-cinema
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dont Look Back @ PARIS THEATER
@@ -9195,5 +9922,136 @@ DESCRIPTION:Dir: SHINICHIRŌ WATANABE (2001)\nhttps://www.screenslate.com/
  series/anime-after-dark-nitehawk-cinema
 LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://www.screenslate.com/series/anime-after-dark-nitehawk-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monument @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260527T190000
+DTEND:20260527T210000
+DESCRIPTION:Dir: TIM GERAGHTY\, SARAH HALPERN (2026)\nhttps://www.antholog
+ yfilmarchives.org/film_screenings/calendar?view=list&amp\;month=05&amp\;ye
+ ar=2026#showing-61194
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=05&amp;year=2026#showing-61194
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monument @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260527T193000
+DTEND:20260527T213000
+DESCRIPTION:Dir: TIM GERAGHTY\, SARAH HALPERN (2026)\nhttps://www.antholog
+ yfilmarchives.org/film_screenings/calendar?view=list&amp\;month=05&amp\;ye
+ ar=2026#showing-61194
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=05&amp;year=2026#showing-61194
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Man Died @ BAM
+DTSTART:20260527T174500
+DTEND:20260527T194500
+DESCRIPTION:Dir: AWAM AMKPA (2024)\nhttps://www.screenslate.com/series/fil
+ mafrica-2026
+LOCATION:BAM
+URL:https://www.screenslate.com/series/filmafrica-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Man Died @ BAM
+DTSTART:20260527T203000
+DTEND:20260527T223000
+DESCRIPTION:Dir: AWAM AMKPA (2024)\nhttps://www.screenslate.com/series/fil
+ mafrica-2026
+LOCATION:BAM
+URL:https://www.screenslate.com/series/filmafrica-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Woman Who Poked The Leopard @ BAM
+DTSTART:20260527T203000
+DTEND:20260527T223000
+DESCRIPTION:Dir: PATIENCE NITUMWESIGA (2025)\nhttps://www.screenslate.com/
+ series/filmafrica-2026
+LOCATION:BAM
+URL:https://www.screenslate.com/series/filmafrica-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manas @ FILM FORUM
+DTSTART:20260527T130000
+DTEND:20260527T150000
+DESCRIPTION:Dir: MARIANNA BRENNAND (2024)\nhttps://filmforum.org/film/mana
+ s
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/manas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manas @ FILM FORUM
+DTSTART:20260527T152000
+DTEND:20260527T172000
+DESCRIPTION:Dir: MARIANNA BRENNAND (2024)\nhttps://filmforum.org/film/mana
+ s
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/manas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manas @ FILM FORUM
+DTSTART:20260527T174000
+DTEND:20260527T194000
+DESCRIPTION:Dir: MARIANNA BRENNAND (2024)\nhttps://filmforum.org/film/mana
+ s
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/manas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manas @ FILM FORUM
+DTSTART:20260527T200000
+DTEND:20260527T220000
+DESCRIPTION:Dir: MARIANNA BRENNAND (2024)\nhttps://filmforum.org/film/mana
+ s
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/manas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manas @ FILM FORUM
+DTSTART:20260527T180000
+DTEND:20260527T200000
+DESCRIPTION:Dir: MARIANNA BRENNAND (2024)\nhttps://filmforum.org/film/mana
+ s
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/manas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sinners in the Sun @ FILM FORUM
+DTSTART:20260527T180000
+DTEND:20260527T200000
+DESCRIPTION:Dir: ALEXANDER HALL (1932)\nhttps://www.screenslate.com/series
+ /lubitsch-touch-0
+LOCATION:FILM FORUM
+URL:https://www.screenslate.com/series/lubitsch-touch-0
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hangin' With the Homeboys @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260527T203000
+DTEND:20260527T223000
+DESCRIPTION:Dir: JOSEPH B. VAZQUEZ (1991)\nhttps://www.screenslate.com/ser
+ ies/hubba-hubba-nitehawk-cinema
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://www.screenslate.com/series/hubba-hubba-nitehawk-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Requiem for a Dream @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260527T213000
+DTEND:20260527T233000
+DESCRIPTION:Dir: DARREN ARONOFSKY (2000)\nhttps://www.screenslate.com/seri
+ es/pop-star-vehicles-vol-3-nitehawk-cinema
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://www.screenslate.com/series/pop-star-vehicles-vol-3-nitehawk-ci
+ nema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dont Look Back @ PARIS THEATER
+DTSTART:20260527T190000
+DTEND:20260527T210000
+DESCRIPTION:Dir: D.A. PENNEBAKER (1967)\nhttps://www.screenslate.com/serie
+ s/academy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
 END:VEVENT
 END:VCALENDAR
