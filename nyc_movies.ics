@@ -2,1255 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:Under the Flags\, the Sun @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260507T190000
-DTEND:20260507T210000
-DESCRIPTION:Dir: JUANJO PEREIRA (2025)\nhttps://www.screenslate.com/series
- /lost-found-cinemas-latinoamericanos-re-unidos
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/lost-found-cinemas-latinoamericanos
- -re-unidos
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Under the Flags\, the Sun @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260507T193000
-DTEND:20260507T213000
-DESCRIPTION:Dir: JUANJO PEREIRA (2025)\nhttps://www.screenslate.com/series
- /lost-found-cinemas-latinoamericanos-re-unidos
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/lost-found-cinemas-latinoamericanos
- -re-unidos
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tenderness of the Wolves @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260507T193000
-DTEND:20260507T213000
-DESCRIPTION:Dir: ULLI LOMMEL (1973)\nhttps://www.screenslate.com/series/na
- rrow-rooms
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/narrow-rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Suddenly TV @ BAM
-DTSTART:20260507T170000
-DTEND:20260507T190000
-DESCRIPTION:Dir: ROOPA GOGINENI (2023)\nhttps://www.screenslate.com/series
- /history-hashtag-revolution-age-social-media
-LOCATION:BAM
-URL:https://www.screenslate.com/series/history-hashtag-revolution-age-soci
- al-media
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Suddenly TV @ BAM
-DTSTART:20260507T190000
-DTEND:20260507T210000
-DESCRIPTION:Dir: ROOPA GOGINENI (2023)\nhttps://www.screenslate.com/series
- /history-hashtag-revolution-age-social-media
-LOCATION:BAM
-URL:https://www.screenslate.com/series/history-hashtag-revolution-age-soci
- al-media
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Square @ BAM
-DTSTART:20260507T190000
-DTEND:20260507T210000
-DESCRIPTION:Dir: JEHANE NOUJAIM (2013)\nhttps://www.screenslate.com/series
- /history-hashtag-revolution-age-social-media
-LOCATION:BAM
-URL:https://www.screenslate.com/series/history-hashtag-revolution-age-soci
- al-media
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wishing on a Star @ CZECH CENTER
-DTSTART:20260507T190000
-DTEND:20260507T210000
-DESCRIPTION:Dir: PETER KEREKES (2024)\nhttps://new-york.czechcentres.cz/en
- /program/wishing-on-a-star
-LOCATION:CZECH CENTER
-URL:https://new-york.czechcentres.cz/en/program/wishing-on-a-star
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Our Land (Nuestra Tierra) @ FILM FORUM
-DTSTART:20260507T121500
-DTEND:20260507T141500
-DESCRIPTION:Dir: LUCRECIA MARTEL (2025)\nhttps://filmforum.org/film/our-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/our-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Our Land (Nuestra Tierra) @ FILM FORUM
-DTSTART:20260507T145000
-DTEND:20260507T165000
-DESCRIPTION:Dir: LUCRECIA MARTEL (2025)\nhttps://filmforum.org/film/our-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/our-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Our Land (Nuestra Tierra) @ FILM FORUM
-DTSTART:20260507T173000
-DTEND:20260507T193000
-DESCRIPTION:Dir: LUCRECIA MARTEL (2025)\nhttps://filmforum.org/film/our-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/our-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Our Land (Nuestra Tierra) @ FILM FORUM
-DTSTART:20260507T201000
-DTEND:20260507T221000
-DESCRIPTION:Dir: LUCRECIA MARTEL (2025)\nhttps://filmforum.org/film/our-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/our-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Our Land (Nuestra Tierra) @ FILM FORUM
-DTSTART:20260507T123000
-DTEND:20260507T143000
-DESCRIPTION:Dir: LUCRECIA MARTEL (2025)\nhttps://filmforum.org/film/our-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/our-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Our Land (Nuestra Tierra) @ FILM FORUM
-DTSTART:20260507T150000
-DTEND:20260507T170000
-DESCRIPTION:Dir: LUCRECIA MARTEL (2025)\nhttps://filmforum.org/film/our-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/our-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Our Land (Nuestra Tierra) @ FILM FORUM
-DTSTART:20260507T200000
-DTEND:20260507T220000
-DESCRIPTION:Dir: LUCRECIA MARTEL (2025)\nhttps://filmforum.org/film/our-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/our-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Our Land (Nuestra Tierra) @ FILM FORUM
-DTSTART:20260507T124500
-DTEND:20260507T144500
-DESCRIPTION:Dir: LUCRECIA MARTEL (2025)\nhttps://filmforum.org/film/our-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/our-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Our Land (Nuestra Tierra) @ FILM FORUM
-DTSTART:20260507T194500
-DTEND:20260507T214500
-DESCRIPTION:Dir: LUCRECIA MARTEL (2025)\nhttps://filmforum.org/film/our-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/our-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Our Land (Nuestra Tierra) @ FILM FORUM
-DTSTART:20260507T130000
-DTEND:20260507T150000
-DESCRIPTION:Dir: LUCRECIA MARTEL (2025)\nhttps://filmforum.org/film/our-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/our-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Our Land (Nuestra Tierra) @ FILM FORUM
-DTSTART:20260507T180000
-DTEND:20260507T200000
-DESCRIPTION:Dir: LUCRECIA MARTEL (2025)\nhttps://filmforum.org/film/our-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/our-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Our Land (Nuestra Tierra) @ FILM FORUM
-DTSTART:20260507T154500
-DTEND:20260507T174500
-DESCRIPTION:Dir: LUCRECIA MARTEL (2025)\nhttps://filmforum.org/film/our-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/our-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Our Land (Nuestra Tierra) @ FILM FORUM
-DTSTART:20260507T203000
-DTEND:20260507T223000
-DESCRIPTION:Dir: LUCRECIA MARTEL (2025)\nhttps://filmforum.org/film/our-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/our-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Our Land (Nuestra Tierra) @ FILM FORUM
-DTSTART:20260507T172000
-DTEND:20260507T192000
-DESCRIPTION:Dir: LUCRECIA MARTEL (2025)\nhttps://filmforum.org/film/our-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/our-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bellissima @ FILM FORUM
-DTSTART:20260507T123000
-DTEND:20260507T143000
-DESCRIPTION:Dir: LUCHINO VISCONTI (1951)\nhttps://filmforum.org/film/belli
- ssima
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/bellissima
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bellissima @ FILM FORUM
-DTSTART:20260507T150000
-DTEND:20260507T170000
-DESCRIPTION:Dir: LUCHINO VISCONTI (1951)\nhttps://filmforum.org/film/belli
- ssima
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/bellissima
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bellissima @ FILM FORUM
-DTSTART:20260507T173000
-DTEND:20260507T193000
-DESCRIPTION:Dir: LUCHINO VISCONTI (1951)\nhttps://filmforum.org/film/belli
- ssima
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/bellissima
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bellissima @ FILM FORUM
-DTSTART:20260507T200000
-DTEND:20260507T220000
-DESCRIPTION:Dir: LUCHINO VISCONTI (1951)\nhttps://filmforum.org/film/belli
- ssima
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/bellissima
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bernstein's Wall @ FILM FORUM
-DTSTART:20260507T124500
-DTEND:20260507T144500
-DESCRIPTION:Dir: DOUGLAS TIROLA (2021)\nhttps://filmforum.org/film/bernste
- ins-wall
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/bernsteins-wall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bernstein's Wall @ FILM FORUM
-DTSTART:20260507T150000
-DTEND:20260507T170000
-DESCRIPTION:Dir: DOUGLAS TIROLA (2021)\nhttps://filmforum.org/film/bernste
- ins-wall
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/bernsteins-wall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bernstein's Wall @ FILM FORUM
-DTSTART:20260507T194500
-DTEND:20260507T214500
-DESCRIPTION:Dir: DOUGLAS TIROLA (2021)\nhttps://filmforum.org/film/bernste
- ins-wall
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/bernsteins-wall
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mad Bills to Pay (or Destiny\, dile que no soy malo) @ FILM FORUM
-DTSTART:20260507T130000
-DTEND:20260507T150000
-DESCRIPTION:Dir: JOEL ALFONSO VARGAS (2025)\nhttps://filmforum.org/film/ma
- d-bills-to-pay
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/mad-bills-to-pay
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mad Bills to Pay (or Destiny\, dile que no soy malo) @ FILM FORUM
-DTSTART:20260507T180000
-DTEND:20260507T200000
-DESCRIPTION:Dir: JOEL ALFONSO VARGAS (2025)\nhttps://filmforum.org/film/ma
- d-bills-to-pay
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/mad-bills-to-pay
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Picnic @ FILM FORUM
-DTSTART:20260507T154500
-DTEND:20260507T174500
-DESCRIPTION:Dir: PHILIP HARTMAN (1986)\nhttps://filmforum.org/film/no-picn
- ic
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/no-picnic
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Picnic @ FILM FORUM
-DTSTART:20260507T203000
-DTEND:20260507T223000
-DESCRIPTION:Dir: PHILIP HARTMAN (1986)\nhttps://filmforum.org/film/no-picn
- ic
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/no-picnic
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Seduction of Mimi @ FILM FORUM
-DTSTART:20260507T172000
-DTEND:20260507T192000
-DESCRIPTION:Dir: LINA WERTMÜLLER (1972)\nhttps://filmforum.org/film/the-s
- eduction-of-mimi
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-seduction-of-mimi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ FILM AT LINCOLN CENTER
-DTSTART:20260507T121500
-DTEND:20260507T141500
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://www.screenslate.com/series/g
- randmaster-tony-leung
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.screenslate.com/series/grandmaster-tony-leung
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ FILM AT LINCOLN CENTER
-DTSTART:20260507T131500
-DTEND:20260507T151500
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://www.screenslate.com/series/g
- randmaster-tony-leung
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.screenslate.com/series/grandmaster-tony-leung
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ FILM AT LINCOLN CENTER
-DTSTART:20260507T154500
-DTEND:20260507T174500
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://www.screenslate.com/series/g
- randmaster-tony-leung
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.screenslate.com/series/grandmaster-tony-leung
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ FILM AT LINCOLN CENTER
-DTSTART:20260507T181500
-DTEND:20260507T201500
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://www.screenslate.com/series/g
- randmaster-tony-leung
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.screenslate.com/series/grandmaster-tony-leung
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ FILM AT LINCOLN CENTER
-DTSTART:20260507T204500
-DTEND:20260507T224500
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://www.screenslate.com/series/g
- randmaster-tony-leung
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.screenslate.com/series/grandmaster-tony-leung
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ FILM AT LINCOLN CENTER
-DTSTART:20260507T140000
-DTEND:20260507T160000
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://www.screenslate.com/series/g
- randmaster-tony-leung
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.screenslate.com/series/grandmaster-tony-leung
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ FILM AT LINCOLN CENTER
-DTSTART:20260507T143000
-DTEND:20260507T163000
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://www.screenslate.com/series/g
- randmaster-tony-leung
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.screenslate.com/series/grandmaster-tony-leung
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ FILM AT LINCOLN CENTER
-DTSTART:20260507T173000
-DTEND:20260507T193000
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://www.screenslate.com/series/g
- randmaster-tony-leung
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.screenslate.com/series/grandmaster-tony-leung
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ FILM AT LINCOLN CENTER
-DTSTART:20260507T203000
-DTEND:20260507T223000
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://www.screenslate.com/series/g
- randmaster-tony-leung
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.screenslate.com/series/grandmaster-tony-leung
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ FILM AT LINCOLN CENTER
-DTSTART:20260507T210000
-DTEND:20260507T230000
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://www.screenslate.com/series/g
- randmaster-tony-leung
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.screenslate.com/series/grandmaster-tony-leung
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last One for the Road @ FILM AT LINCOLN CENTER
-DTSTART:20260507T131500
-DTEND:20260507T151500
-DESCRIPTION:Dir: FRANCESCO SOSSAI (2026)\nhttps://www.filmlinc.org/films/t
- he-last-one-for-the-road/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-last-one-for-the-road/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last One for the Road @ FILM AT LINCOLN CENTER
-DTSTART:20260507T154500
-DTEND:20260507T174500
-DESCRIPTION:Dir: FRANCESCO SOSSAI (2026)\nhttps://www.filmlinc.org/films/t
- he-last-one-for-the-road/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-last-one-for-the-road/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last One for the Road @ FILM AT LINCOLN CENTER
-DTSTART:20260507T181500
-DTEND:20260507T201500
-DESCRIPTION:Dir: FRANCESCO SOSSAI (2026)\nhttps://www.filmlinc.org/films/t
- he-last-one-for-the-road/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-last-one-for-the-road/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last One for the Road @ FILM AT LINCOLN CENTER
-DTSTART:20260507T204500
-DTEND:20260507T224500
-DESCRIPTION:Dir: FRANCESCO SOSSAI (2026)\nhttps://www.filmlinc.org/films/t
- he-last-one-for-the-road/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-last-one-for-the-road/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Promised Sky @ FILM AT LINCOLN CENTER
-DTSTART:20260507T140000
-DTEND:20260507T160000
-DESCRIPTION:Dir: ERIGE SEHIRI (2025)\nhttps://www.screenslate.com/series/2
- 026-new-york-african-film-festival
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.screenslate.com/series/2026-new-york-african-film-festival
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Grandmaster (Hong Kong Cut) @ FILM AT LINCOLN CENTER
-DTSTART:20260507T143000
-DTEND:20260507T163000
-DESCRIPTION:Dir: WONG KAR WAI (2013)\nhttps://www.screenslate.com/series/g
- randmaster-tony-leung
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.screenslate.com/series/grandmaster-tony-leung
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Friend @ FILM AT LINCOLN CENTER
-DTSTART:20260507T173000
-DTEND:20260507T193000
-DESCRIPTION:Dir: ILDIKÓ ENYEDI (2025)\nhttps://www.filmlinc.org/films/sil
- ent-friend/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/silent-friend/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:My Father and Qaddafi @ FILM AT LINCOLN CENTER
-DTSTART:20260507T173000
-DTEND:20260507T193000
-DESCRIPTION:Dir: JIHAN (2025)\nhttps://www.screenslate.com/series/2026-new
- -york-african-film-festival
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.screenslate.com/series/2026-new-york-african-film-festival
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In the Mood for Love @ FILM AT LINCOLN CENTER
-DTSTART:20260507T210000
-DTEND:20260507T230000
-DESCRIPTION:Dir: WONG KAR-WAI (2000)\nhttps://www.screenslate.com/series/g
- randmaster-tony-leung
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.screenslate.com/series/grandmaster-tony-leung
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260507T104500
-DTEND:20260507T124500
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260507T105000
-DTEND:20260507T125000
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260507T125500
-DTEND:20260507T145500
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260507T192000
-DTEND:20260507T212000
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260507T110000
-DTEND:20260507T130000
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260507T111500
-DTEND:20260507T131500
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260507T122000
-DTEND:20260507T142000
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260507T171500
-DTEND:20260507T191500
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260507T214500
-DTEND:20260507T234500
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260507T124000
-DTEND:20260507T144000
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260507T145500
-DTEND:20260507T165500
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260507T164500
-DTEND:20260507T184500
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260507T194000
-DTEND:20260507T214000
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260507T215500
-DTEND:20260507T235500
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260507T130500
-DTEND:20260507T150500
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260507T172000
-DTEND:20260507T192000
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260507T210000
-DTEND:20260507T230000
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260507T132500
-DTEND:20260507T152500
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260507T183000
-DTEND:20260507T203000
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260507T143000
-DTEND:20260507T163000
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260507T173000
-DTEND:20260507T193000
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260507T213000
-DTEND:20260507T233000
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260507T151000
-DTEND:20260507T171000
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260507T190000
-DTEND:20260507T210000
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260507T152000
-DTEND:20260507T172000
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260507T194500
-DTEND:20260507T214500
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260507T155500
-DTEND:20260507T175500
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everyone is Lying to You for Money @ IFC CENTER
-DTSTART:20260507T211000
-DTEND:20260507T231000
-DESCRIPTION:Dir: BEN MCKENZIE (2025)\nhttps://www.ifccenter.com/films/ever
- yone-is-lying-to-you-for-money/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/everyone-is-lying-to-you-for-money/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Swapped @ IFC CENTER
-DTSTART:20260507T105000
-DTEND:20260507T125000
-DESCRIPTION:Dir: NATHAN GRENO (2026)\nhttps://www.ifccenter.com/films/swap
- ped/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/swapped/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Swapped @ IFC CENTER
-DTSTART:20260507T125500
-DTEND:20260507T145500
-DESCRIPTION:Dir: NATHAN GRENO (2026)\nhttps://www.ifccenter.com/films/swap
- ped/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/swapped/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Swapped @ IFC CENTER
-DTSTART:20260507T192000
-DTEND:20260507T212000
-DESCRIPTION:Dir: NATHAN GRENO (2026)\nhttps://www.ifccenter.com/films/swap
- ped/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/swapped/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
-DTSTART:20260507T110000
-DTEND:20260507T130000
-DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
- e-of-forgotten-dreams-3d/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maintenance Artist @ IFC CENTER
-DTSTART:20260507T111500
-DTEND:20260507T131500
-DESCRIPTION:Dir: TOBY PERL FREILICH (2025)\nhttps://www.ifccenter.com/film
- s/maintenance-artist/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maintenance-artist/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Heron @ IFC CENTER
-DTSTART:20260507T122000
-DTEND:20260507T142000
-DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://www.ifccenter.com/films/blu
- e-heron/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-heron/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Heron @ IFC CENTER
-DTSTART:20260507T171500
-DTEND:20260507T191500
-DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://www.ifccenter.com/films/blu
- e-heron/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-heron/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Heron @ IFC CENTER
-DTSTART:20260507T214500
-DTEND:20260507T234500
-DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://www.ifccenter.com/films/blu
- e-heron/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-heron/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last One for the Road @ IFC CENTER
-DTSTART:20260507T124000
-DTEND:20260507T144000
-DESCRIPTION:Dir: FRANCESCO SOSSAI (2026)\nhttps://www.ifccenter.com/films/
- the-last-one-for-the-road/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-last-one-for-the-road/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last One for the Road @ IFC CENTER
-DTSTART:20260507T145500
-DTEND:20260507T165500
-DESCRIPTION:Dir: FRANCESCO SOSSAI (2026)\nhttps://www.ifccenter.com/films/
- the-last-one-for-the-road/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-last-one-for-the-road/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last One for the Road @ IFC CENTER
-DTSTART:20260507T164500
-DTEND:20260507T184500
-DESCRIPTION:Dir: FRANCESCO SOSSAI (2026)\nhttps://www.ifccenter.com/films/
- the-last-one-for-the-road/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-last-one-for-the-road/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last One for the Road @ IFC CENTER
-DTSTART:20260507T194000
-DTEND:20260507T214000
-DESCRIPTION:Dir: FRANCESCO SOSSAI (2026)\nhttps://www.ifccenter.com/films/
- the-last-one-for-the-road/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-last-one-for-the-road/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last One for the Road @ IFC CENTER
-DTSTART:20260507T215500
-DTEND:20260507T235500
-DESCRIPTION:Dir: FRANCESCO SOSSAI (2026)\nhttps://www.ifccenter.com/films/
- the-last-one-for-the-road/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-last-one-for-the-road/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Christophers @ IFC CENTER
-DTSTART:20260507T130500
-DTEND:20260507T150500
-DESCRIPTION:Dir: STEVEN SODERBERGH (2026)\nhttps://www.ifccenter.com/films
- /the-christophers/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-christophers/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Christophers @ IFC CENTER
-DTSTART:20260507T172000
-DTEND:20260507T192000
-DESCRIPTION:Dir: STEVEN SODERBERGH (2026)\nhttps://www.ifccenter.com/films
- /the-christophers/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-christophers/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Christophers @ IFC CENTER
-DTSTART:20260507T210000
-DTEND:20260507T230000
-DESCRIPTION:Dir: STEVEN SODERBERGH (2026)\nhttps://www.ifccenter.com/films
- /the-christophers/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-christophers/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Dream @ IFC CENTER
-DTSTART:20260507T132500
-DTEND:20260507T152500
-DESCRIPTION:Dir: BARBARA KOPPLE (1990)\nhttps://www.ifccenter.com/films/am
- erican-dream/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/american-dream/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Dream @ IFC CENTER
-DTSTART:20260507T183000
-DTEND:20260507T203000
-DESCRIPTION:Dir: BARBARA KOPPLE (1990)\nhttps://www.ifccenter.com/films/am
- erican-dream/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/american-dream/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260507T143000
-DTEND:20260507T163000
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260507T173000
-DTEND:20260507T193000
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260507T213000
-DTEND:20260507T233000
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Omaha @ IFC CENTER
-DTSTART:20260507T151000
-DTEND:20260507T171000
-DESCRIPTION:Dir: COLE WEBLEY (2026)\nhttps://www.ifccenter.com/films/omaha
- /
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/omaha/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Omaha @ IFC CENTER
-DTSTART:20260507T190000
-DTEND:20260507T210000
-DESCRIPTION:Dir: COLE WEBLEY (2026)\nhttps://www.ifccenter.com/films/omaha
- /
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/omaha/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Departures @ IFC CENTER
-DTSTART:20260507T152000
-DTEND:20260507T172000
-DESCRIPTION:Dir: NEIL ELY\, LLOYD EYRE-MORGAN (2026)\nhttps://www.ifccente
- r.com/films/departures/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/departures/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Departures @ IFC CENTER
-DTSTART:20260507T194500
-DTEND:20260507T214500
-DESCRIPTION:Dir: NEIL ELY\, LLOYD EYRE-MORGAN (2026)\nhttps://www.ifccente
- r.com/films/departures/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/departures/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Harlan County USA @ IFC CENTER
-DTSTART:20260507T155500
-DTEND:20260507T175500
-DESCRIPTION:Dir: BARBARA KOPPLE (1976)\nhttps://www.ifccenter.com/films/ha
- rlan-county-usa-2/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/harlan-county-usa-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Harlan County USA @ IFC CENTER
-DTSTART:20260507T211000
-DTEND:20260507T231000
-DESCRIPTION:Dir: BARBARA KOPPLE (1976)\nhttps://www.ifccenter.com/films/ha
- rlan-county-usa-2/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/harlan-county-usa-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Film @ IFC CENTER
-DTSTART:20260507T190000
-DTEND:20260507T210000
-DESCRIPTION:Dir: ELLIOT TUTTLE (2026)\nhttps://www.ifccenter.com/films/blu
- e-film/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-film/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Gods of Times Square @ LOW CINEMA
-DTSTART:20260507T180000
-DTEND:20260507T200000
-DESCRIPTION:Dir: RICHARD SANDLER (1999)\nhttps://lowcinema.com/movie/gods-
- of-times-square/
-LOCATION:LOW CINEMA
-URL:https://lowcinema.com/movie/gods-of-times-square/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Gods of Times Square @ LOW CINEMA
-DTSTART:20260507T201500
-DTEND:20260507T221500
-DESCRIPTION:Dir: RICHARD SANDLER (1999)\nhttps://lowcinema.com/movie/gods-
- of-times-square/
-LOCATION:LOW CINEMA
-URL:https://lowcinema.com/movie/gods-of-times-square/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stalker @ METROGRAPH
-DTSTART:20260507T160000
-DTEND:20260507T180000
-DESCRIPTION:Dir: ANDREI TARKOVSKY (1979)\nhttps://www.screenslate.com/seri
- es/holy-trips
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/holy-trips
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stalker @ METROGRAPH
-DTSTART:20260507T191500
-DTEND:20260507T211500
-DESCRIPTION:Dir: ANDREI TARKOVSKY (1979)\nhttps://www.screenslate.com/seri
- es/holy-trips
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/holy-trips
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stalker @ METROGRAPH
-DTSTART:20260507T192000
-DTEND:20260507T212000
-DESCRIPTION:Dir: ANDREI TARKOVSKY (1979)\nhttps://www.screenslate.com/seri
- es/holy-trips
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/holy-trips
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stalker @ METROGRAPH
-DTSTART:20260507T213500
-DTEND:20260507T233500
-DESCRIPTION:Dir: ANDREI TARKOVSKY (1979)\nhttps://www.screenslate.com/seri
- es/holy-trips
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/holy-trips
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Emperor and the Assassin @ METROGRAPH
-DTSTART:20260507T160000
-DTEND:20260507T180000
-DESCRIPTION:Dir: CHEN KAIGE (1998)\nhttps://www.screenslate.com/series/emp
- ress-li
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/empress-li
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Long Goodbye @ METROGRAPH
-DTSTART:20260507T191500
-DTEND:20260507T211500
-DESCRIPTION:Dir: ROBERT ALTMAN (1973)\nhttps://www.screenslate.com/series/
- after-case
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/after-case
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Scar @ METROGRAPH
-DTSTART:20260507T192000
-DTEND:20260507T212000
-DESCRIPTION:Dir: KRZYSZTOF KIEŚLOWSKI (1976)\nhttps://www.screenslate.co
- m/series/moral-mazes-krzysztof-kieslowski
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/moral-mazes-krzysztof-kieslowski
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miami Vice @ METROGRAPH
-DTSTART:20260507T213500
-DTEND:20260507T233500
-DESCRIPTION:Dir: MICHAEL MANN (2006)\nhttps://www.screenslate.com/series/e
- mpress-li
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/empress-li
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Other Choice @ METROGRAPH
-DTSTART:20260507T213500
-DTEND:20260507T233500
-DESCRIPTION:Dir: PARK CHAN-WOOK (2025)\nhttps://www.screenslate.com/series
- /westlake-files
-LOCATION:METROGRAPH
-URL:https://www.screenslate.com/series/westlake-files
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Silent Treatment @ MUSEUM OF MODERN ART
-DTSTART:20260507T190000
-DTEND:20260507T210000
-DESCRIPTION:Dir: CAROLINE STRUBBE (2025)\nhttps://www.screenslate.com/seri
- es/trying-forget-remember-three-films-caroline-strubbe
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.screenslate.com/series/trying-forget-remember-three-films-
- caroline-strubbe
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sound of a Dream: Lee Burridge @ NITEHAWK CINEMA PROSPECT PARK
-DTSTART:20260507T190000
-DTEND:20260507T210000
-DESCRIPTION:Dir: HOJ JOMEHRI (2025)\nhttps://www.screenslate.com/series/mu
- sic-driven-nitehawk-cinema
-LOCATION:NITEHAWK CINEMA PROSPECT PARK
-URL:https://www.screenslate.com/series/music-driven-nitehawk-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Royal Tenenbaums @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260507T213000
-DTEND:20260507T233000
-DESCRIPTION:Dir: WES ANDERSON (2001)\nhttps://www.screenslate.com/series/p
- op-star-vehicles-vol-3-nitehawk-cinema
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://www.screenslate.com/series/pop-star-vehicles-vol-3-nitehawk-ci
- nema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wendy and Lucy @ PARIS THEATER
-DTSTART:20260507T130000
-DTEND:20260507T150000
-DESCRIPTION:Dir: KELLY REICHARDT (2008)\nhttps://www.screenslate.com/serie
- s/wild-tales-remarkably-bright-creatures-other-unlikely-friendships
-LOCATION:PARIS THEATER
-URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
- res-other-unlikely-friendships
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wendy and Lucy @ PARIS THEATER
-DTSTART:20260507T153000
-DTEND:20260507T173000
-DESCRIPTION:Dir: KELLY REICHARDT (2008)\nhttps://www.screenslate.com/serie
- s/wild-tales-remarkably-bright-creatures-other-unlikely-friendships
-LOCATION:PARIS THEATER
-URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
- res-other-unlikely-friendships
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wendy and Lucy @ PARIS THEATER
-DTSTART:20260507T190000
-DTEND:20260507T210000
-DESCRIPTION:Dir: KELLY REICHARDT (2008)\nhttps://www.screenslate.com/serie
- s/wild-tales-remarkably-bright-creatures-other-unlikely-friendships
-LOCATION:PARIS THEATER
-URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
- res-other-unlikely-friendships
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wendy and Lucy @ PARIS THEATER
-DTSTART:20260507T220000
-DTEND:20260508T000000
-DESCRIPTION:Dir: KELLY REICHARDT (2008)\nhttps://www.screenslate.com/serie
- s/wild-tales-remarkably-bright-creatures-other-unlikely-friendships
-LOCATION:PARIS THEATER
-URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
- res-other-unlikely-friendships
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:War Horse @ PARIS THEATER
-DTSTART:20260507T153000
-DTEND:20260507T173000
-DESCRIPTION:Dir: STEVEN SPIELBERG (2011)\nhttps://www.screenslate.com/seri
- es/wild-tales-remarkably-bright-creatures-other-unlikely-friendships
-LOCATION:PARIS THEATER
-URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
- res-other-unlikely-friendships
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gorillas in the Mist @ PARIS THEATER
-DTSTART:20260507T190000
-DTEND:20260507T210000
-DESCRIPTION:Dir: MICHAEL APTED (1988)\nhttps://www.screenslate.com/series/
- wild-tales-remarkably-bright-creatures-other-unlikely-friendships
-LOCATION:PARIS THEATER
-URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
- res-other-unlikely-friendships
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Rider @ PARIS THEATER
-DTSTART:20260507T220000
-DTEND:20260508T000000
-DESCRIPTION:Dir: CHLOE ZHAO (2018)\nhttps://www.screenslate.com/series/wil
- d-tales-remarkably-bright-creatures-other-unlikely-friendships
-LOCATION:PARIS THEATER
-URL:https://www.screenslate.com/series/wild-tales-remarkably-bright-creatu
- res-other-unlikely-friendships
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wanda @ QUAD CINEMA
-DTSTART:20260507T203000
-DTEND:20260507T223000
-DESCRIPTION:Dir: BARBARA LODEN (1973)\nhttps://www.screenslate.com/series/
- american-elsewhere
-LOCATION:QUAD CINEMA
-URL:https://www.screenslate.com/series/american-elsewhere
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Q: The Winged Serpent @ ROXY CINEMA NEW YORK
-DTSTART:20260507T193000
-DTEND:20260507T213000
-DESCRIPTION:Dir: LARRY COHEN (1982)\nhttps://www.screenslate.com/series/na
- rrow-margin-presents-three-cohen
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.screenslate.com/series/narrow-margin-presents-three-cohen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Q: The Winged Serpent @ ROXY CINEMA NEW YORK
-DTSTART:20260507T213000
-DTEND:20260507T233000
-DESCRIPTION:Dir: LARRY COHEN (1982)\nhttps://www.screenslate.com/series/na
- rrow-margin-presents-three-cohen
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.screenslate.com/series/narrow-margin-presents-three-cohen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Star Wars: Episode II - Attack of the Clones @ ROXY CINEMA NEW YOR
- K
-DTSTART:20260507T213000
-DTEND:20260507T233000
-DESCRIPTION:Dir: GEORGE LUCAS (2002)\nhttps://ticketing.uswest.veezi.com/p
- urchase/7391?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7391?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tish @ SPECTACLE
-DTSTART:20260507T193000
-DTEND:20260507T213000
-DESCRIPTION:Dir: PAUL SNG (2023)\nhttps://www.screenslate.com/series/tales
- -tyne
-LOCATION:SPECTACLE
-URL:https://www.screenslate.com/series/tales-tyne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tish @ SPECTACLE
-DTSTART:20260507T220000
-DTEND:20260508T000000
-DESCRIPTION:Dir: PAUL SNG (2023)\nhttps://www.screenslate.com/series/tales
- -tyne
-LOCATION:SPECTACLE
-URL:https://www.screenslate.com/series/tales-tyne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stormy Monday @ SPECTACLE
-DTSTART:20260507T220000
-DTEND:20260508T000000
-DESCRIPTION:Dir: MIKE FIGGIS (1988)\nhttps://www.screenslate.com/series/ta
- les-tyne
-LOCATION:SPECTACLE
-URL:https://www.screenslate.com/series/tales-tyne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:New Kingston @ UNIONDOCS
-DTSTART:20260507T193000
-DTEND:20260507T213000
-DESCRIPTION:Dir: KEVIN BEWERSDORF (2025)\nhttps://uniondocs.org/event/new-
- kingston-2026-05-07/
-LOCATION:UNIONDOCS
-URL:https://uniondocs.org/event/new-kingston-2026-05-07/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El Signo Vacío @ ANTHOLOGY FILM ARCHIVES
 DTSTART:20260508T190000
 DTEND:20260508T210000
@@ -3092,6 +1843,15 @@ URL:https://www.filmlinc.org/films/silent-friend/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silent Friend @ FILM AT LINCOLN CENTER
+DTSTART:20260509T144500
+DTEND:20260509T164500
+DESCRIPTION:Dir: ILDIKÓ ENYEDI (2025)\nhttps://www.filmlinc.org/films/sil
+ ent-friend/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/silent-friend/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silent Friend @ FILM AT LINCOLN CENTER
 DTSTART:20260509T151500
 DTEND:20260509T171500
 DESCRIPTION:Dir: ILDIKÓ ENYEDI (2025)\nhttps://www.filmlinc.org/films/sil
@@ -3103,6 +1863,15 @@ BEGIN:VEVENT
 SUMMARY:Silent Friend @ FILM AT LINCOLN CENTER
 DTSTART:20260509T181500
 DTEND:20260509T201500
+DESCRIPTION:Dir: ILDIKÓ ENYEDI (2025)\nhttps://www.filmlinc.org/films/sil
+ ent-friend/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/silent-friend/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silent Friend @ FILM AT LINCOLN CENTER
+DTSTART:20260509T203000
+DTEND:20260509T223000
 DESCRIPTION:Dir: ILDIKÓ ENYEDI (2025)\nhttps://www.filmlinc.org/films/sil
  ent-friend/
 LOCATION:FILM AT LINCOLN CENTER
@@ -3118,6 +1887,15 @@ LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/films/silent-friend/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Caméra d'Afrique @ FILM AT LINCOLN CENTER
+DTSTART:20260509T120000
+DTEND:20260509T140000
+DESCRIPTION:Dir: FÉRID BOUGHEDIR (1983)\nhttps://www.screenslate.com/seri
+ es/2026-new-york-african-film-festival
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.screenslate.com/series/2026-new-york-african-film-festival
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
 DTSTART:20260509T131500
 DTEND:20260509T151500
@@ -3125,6 +1903,15 @@ DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
  miroirs-no-3/
 LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/films/miroirs-no-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afrotōpia @ FILM AT LINCOLN CENTER
+DTSTART:20260509T144500
+DTEND:20260509T164500
+DESCRIPTION:Dir: DAVID MBOUSSOU (2025)\nhttps://www.screenslate.com/series
+ /2026-new-york-african-film-festival
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.screenslate.com/series/2026-new-york-african-film-festival
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Last One for the Road @ FILM AT LINCOLN CENTER
@@ -3143,6 +1930,24 @@ DESCRIPTION:Dir: FRANCESCO SOSSAI (2026)\nhttps://www.filmlinc.org/films/t
  he-last-one-for-the-road/
 LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/films/the-last-one-for-the-road/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barni @ FILM AT LINCOLN CENTER
+DTSTART:20260509T180000
+DTEND:20260509T200000
+DESCRIPTION:Dir: MOHAMMED SHEIKH (2024)\nhttps://www.screenslate.com/serie
+ s/2026-new-york-african-film-festival
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.screenslate.com/series/2026-new-york-african-film-festival
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Akosua @ FILM AT LINCOLN CENTER
+DTSTART:20260509T203000
+DTEND:20260509T223000
+DESCRIPTION:Dir: CHRISTIAN SAINT\, MÉLISSA ROUILLÉ (2023)\nhttps://www.s
+ creenslate.com/series/2026-new-york-african-film-festival
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.screenslate.com/series/2026-new-york-african-film-festival
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Stranger @ FILM AT LINCOLN CENTER
@@ -4731,6 +3536,15 @@ URL:https://www.filmlinc.org/films/silent-friend/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silent Friend @ FILM AT LINCOLN CENTER
+DTSTART:20260510T124500
+DTEND:20260510T144500
+DESCRIPTION:Dir: ILDIKÓ ENYEDI (2025)\nhttps://www.filmlinc.org/films/sil
+ ent-friend/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/silent-friend/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silent Friend @ FILM AT LINCOLN CENTER
 DTSTART:20260510T131500
 DTEND:20260510T151500
 DESCRIPTION:Dir: ILDIKÓ ENYEDI (2025)\nhttps://www.filmlinc.org/films/sil
@@ -4758,12 +3572,39 @@ URL:https://www.filmlinc.org/films/silent-friend/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silent Friend @ FILM AT LINCOLN CENTER
+DTSTART:20260510T153000
+DTEND:20260510T173000
+DESCRIPTION:Dir: ILDIKÓ ENYEDI (2025)\nhttps://www.filmlinc.org/films/sil
+ ent-friend/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/silent-friend/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silent Friend @ FILM AT LINCOLN CENTER
 DTSTART:20260510T203000
 DTEND:20260510T223000
 DESCRIPTION:Dir: ILDIKÓ ENYEDI (2025)\nhttps://www.filmlinc.org/films/sil
  ent-friend/
 LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/films/silent-friend/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silent Friend @ FILM AT LINCOLN CENTER
+DTSTART:20260510T204500
+DTEND:20260510T224500
+DESCRIPTION:Dir: ILDIKÓ ENYEDI (2025)\nhttps://www.filmlinc.org/films/sil
+ ent-friend/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/silent-friend/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Eyes of Ghana @ FILM AT LINCOLN CENTER
+DTSTART:20260510T124500
+DTEND:20260510T144500
+DESCRIPTION:Dir: BEN PROUDFOOT (2025)\nhttps://www.screenslate.com/series/
+ 2026-new-york-african-film-festival
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.screenslate.com/series/2026-new-york-african-film-festival
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
@@ -4791,6 +3632,25 @@ DESCRIPTION:Dir: FRANCESCO SOSSAI (2026)\nhttps://www.filmlinc.org/films/t
  he-last-one-for-the-road/
 LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/films/the-last-one-for-the-road/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lace Relations @ FILM AT LINCOLN CENTER
+DTSTART:20260510T153000
+DTEND:20260510T173000
+DESCRIPTION:Dir: ANETTE BALDAUF\, CHIOMA ONYENWE\, JOANA ADESUWA REITERER\
+ , KATHARINA WEINGARTNER (2025)\nhttps://www.screenslate.com/series/2026-ne
+ w-york-african-film-festival
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.screenslate.com/series/2026-new-york-african-film-festival
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rumba Royale @ FILM AT LINCOLN CENTER
+DTSTART:20260510T180000
+DTEND:20260510T200000
+DESCRIPTION:Dir: HAMED MOBASSER\, YOHANE DEAN LENGOL (2025)\nhttps://www.s
+ creenslate.com/series/2026-new-york-african-film-festival
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.screenslate.com/series/2026-new-york-african-film-festival
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Stranger @ FILM AT LINCOLN CENTER
@@ -6078,6 +4938,24 @@ URL:https://www.filmlinc.org/films/silent-friend/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silent Friend @ FILM AT LINCOLN CENTER
+DTSTART:20260511T174500
+DTEND:20260511T194500
+DESCRIPTION:Dir: ILDIKÓ ENYEDI (2025)\nhttps://www.filmlinc.org/films/sil
+ ent-friend/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/silent-friend/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silent Friend @ FILM AT LINCOLN CENTER
+DTSTART:20260511T201500
+DTEND:20260511T221500
+DESCRIPTION:Dir: ILDIKÓ ENYEDI (2025)\nhttps://www.filmlinc.org/films/sil
+ ent-friend/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/silent-friend/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silent Friend @ FILM AT LINCOLN CENTER
 DTSTART:20260511T203000
 DTEND:20260511T223000
 DESCRIPTION:Dir: ILDIKÓ ENYEDI (2025)\nhttps://www.filmlinc.org/films/sil
@@ -6111,6 +4989,24 @@ DESCRIPTION:Dir: FRANCESCO SOSSAI (2026)\nhttps://www.filmlinc.org/films/t
  he-last-one-for-the-road/
 LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/films/the-last-one-for-the-road/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Heart Is a Muscle @ FILM AT LINCOLN CENTER
+DTSTART:20260511T174500
+DTEND:20260511T194500
+DESCRIPTION:Dir: IMRAN HAMDULAY (2025)\nhttps://www.screenslate.com/series
+ /2026-new-york-african-film-festival
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.screenslate.com/series/2026-new-york-african-film-festival
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N'Dobine @ FILM AT LINCOLN CENTER
+DTSTART:20260511T201500
+DTEND:20260511T221500
+DESCRIPTION:Dir: AHMAD CISSÉ (2026)\nhttps://www.screenslate.com/series/2
+ 026-new-york-african-film-festival
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.screenslate.com/series/2026-new-york-african-film-festival
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Stranger @ FILM AT LINCOLN CENTER
@@ -10511,6 +9407,76 @@ URL:https://nitehawkcinema.com/williamsburg/movies/the-texas-chainsaw-mass
  acre-part-2/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cocoon @ PARIS THEATER
+DTSTART:20260515T130000
+DTEND:20260515T150000
+DESCRIPTION:Dir: RON HOWARD (1985)\nhttps://www.screenslate.com/series/nev
+ er-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cocoon @ PARIS THEATER
+DTSTART:20260515T160000
+DTEND:20260515T180000
+DESCRIPTION:Dir: RON HOWARD (1985)\nhttps://www.screenslate.com/series/nev
+ er-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cocoon @ PARIS THEATER
+DTSTART:20260515T190000
+DTEND:20260515T210000
+DESCRIPTION:Dir: RON HOWARD (1985)\nhttps://www.screenslate.com/series/nev
+ er-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cocoon @ PARIS THEATER
+DTSTART:20260515T215000
+DTEND:20260515T235000
+DESCRIPTION:Dir: RON HOWARD (1985)\nhttps://www.screenslate.com/series/nev
+ er-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Signs @ PARIS THEATER
+DTSTART:20260515T160000
+DTEND:20260515T180000
+DESCRIPTION:Dir: M. NIGHT SHYAMALAN (2002)\nhttps://www.screenslate.com/se
+ ries/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ocean's Eleven @ PARIS THEATER
+DTSTART:20260515T190000
+DTEND:20260515T210000
+DESCRIPTION:Dir: STEVEN SODERBERGH (2001)\nhttps://www.screenslate.com/ser
+ ies/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poltergeist @ PARIS THEATER
+DTSTART:20260515T215000
+DTEND:20260515T235000
+DESCRIPTION:Dir: TOBE HOOPER (1982)\nhttps://www.screenslate.com/series/ne
+ ver-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gamer @ ROXY CINEMA NEW YORK
 DTSTART:20260515T190000
 DTEND:20260515T210000
@@ -11141,6 +10107,82 @@ DESCRIPTION:Dir: RYAN COOGLER (2013)\nhttps://www.screenslate.com/series/a
  cademy-museum-branch-selects
 LOCATION:PARIS THEATER
 URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fruitvale Station @ PARIS THEATER
+DTSTART:20260516T133000
+DTEND:20260516T153000
+DESCRIPTION:Dir: RYAN COOGLER (2013)\nhttps://www.screenslate.com/series/a
+ cademy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fruitvale Station @ PARIS THEATER
+DTSTART:20260516T161500
+DTEND:20260516T181500
+DESCRIPTION:Dir: RYAN COOGLER (2013)\nhttps://www.screenslate.com/series/a
+ cademy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fruitvale Station @ PARIS THEATER
+DTSTART:20260516T190000
+DTEND:20260516T210000
+DESCRIPTION:Dir: RYAN COOGLER (2013)\nhttps://www.screenslate.com/series/a
+ cademy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fruitvale Station @ PARIS THEATER
+DTSTART:20260516T220000
+DTEND:20260517T000000
+DESCRIPTION:Dir: RYAN COOGLER (2013)\nhttps://www.screenslate.com/series/a
+ cademy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Dark Crystal @ PARIS THEATER
+DTSTART:20260516T133000
+DTEND:20260516T153000
+DESCRIPTION:Dir: FRANK OZ\, JIM HENSON (1982)\nhttps://www.screenslate.com
+ /series/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Super 8 @ PARIS THEATER
+DTSTART:20260516T161500
+DTEND:20260516T181500
+DESCRIPTION:Dir: J.J. ABRAMS (2011)\nhttps://www.screenslate.com/series/ne
+ ver-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma and Louise @ PARIS THEATER
+DTSTART:20260516T190000
+DTEND:20260516T210000
+DESCRIPTION:Dir: RIDLEY SCOTT (1990)\nhttps://www.screenslate.com/series/n
+ ever-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ocean's Eleven @ PARIS THEATER
+DTSTART:20260516T220000
+DTEND:20260517T000000
+DESCRIPTION:Dir: STEVEN SODERBERGH (2001)\nhttps://www.screenslate.com/ser
+ ies/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gamer @ ROXY CINEMA NEW YORK
@@ -11776,6 +10818,63 @@ DESCRIPTION:Dir: JONATHAN DEMME (1986)\nhttps://www.screenslate.com/series
  /academy-museum-branch-selects
 LOCATION:PARIS THEATER
 URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Something Wild @ PARIS THEATER
+DTSTART:20260517T143000
+DTEND:20260517T163000
+DESCRIPTION:Dir: JONATHAN DEMME (1986)\nhttps://www.screenslate.com/series
+ /academy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Something Wild @ PARIS THEATER
+DTSTART:20260517T173000
+DTEND:20260517T193000
+DESCRIPTION:Dir: JONATHAN DEMME (1986)\nhttps://www.screenslate.com/series
+ /academy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Something Wild @ PARIS THEATER
+DTSTART:20260517T203000
+DTEND:20260517T223000
+DESCRIPTION:Dir: JONATHAN DEMME (1986)\nhttps://www.screenslate.com/series
+ /academy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E.T. the Extra-Terrestrial @ PARIS THEATER
+DTSTART:20260517T143000
+DTEND:20260517T163000
+DESCRIPTION:Dir: STEVEN SPIELBERG (1982)\nhttps://www.screenslate.com/seri
+ es/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cocoon @ PARIS THEATER
+DTSTART:20260517T173000
+DTEND:20260517T193000
+DESCRIPTION:Dir: RON HOWARD (1985)\nhttps://www.screenslate.com/series/nev
+ er-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Lost Boys @ PARIS THEATER
+DTSTART:20260517T203000
+DTEND:20260517T223000
+DESCRIPTION:Dir: JOEL SCHUMACHER (1987)\nhttps://www.screenslate.com/serie
+ s/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:eXistenZ @ ROXY CINEMA NEW YORK
@@ -12615,6 +11714,75 @@ URL:https://www.screenslate.com/series/pop-star-vehicles-vol-3-nitehawk-ci
  nema
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Thelma and Louise @ PARIS THEATER
+DTSTART:20260519T124500
+DTEND:20260519T144500
+DESCRIPTION:Dir: RIDLEY SCOTT (1990)\nhttps://www.screenslate.com/series/n
+ ever-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma and Louise @ PARIS THEATER
+DTSTART:20260519T160000
+DTEND:20260519T180000
+DESCRIPTION:Dir: RIDLEY SCOTT (1990)\nhttps://www.screenslate.com/series/n
+ ever-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma and Louise @ PARIS THEATER
+DTSTART:20260519T190000
+DTEND:20260519T210000
+DESCRIPTION:Dir: RIDLEY SCOTT (1990)\nhttps://www.screenslate.com/series/n
+ ever-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma and Louise @ PARIS THEATER
+DTSTART:20260519T223000
+DTEND:20260520T003000
+DESCRIPTION:Dir: RIDLEY SCOTT (1990)\nhttps://www.screenslate.com/series/n
+ ever-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fright Night @ PARIS THEATER
+DTSTART:20260519T160000
+DTEND:20260519T180000
+DESCRIPTION:Dir: TOM HOLLAND (1985)\nhttps://www.screenslate.com/series/ne
+ ver-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eternal Sunshine of the Spotless Mind @ PARIS THEATER
+DTSTART:20260519T190000
+DTEND:20260519T210000
+DESCRIPTION:Dir: MICHEL GONDRY (2004)\nhttps://www.screenslate.com/series/
+ academy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ocean's Eleven @ PARIS THEATER
+DTSTART:20260519T223000
+DTEND:20260520T003000
+DESCRIPTION:Dir: STEVEN SODERBERGH (2001)\nhttps://www.screenslate.com/ser
+ ies/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A History of Violence @ QUAD CINEMA
 DTSTART:20260519T201000
 DTEND:20260519T221000
@@ -13008,6 +12176,56 @@ LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://www.screenslate.com/series/music-driven-nitehawk-cinema
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Poltergeist @ PARIS THEATER
+DTSTART:20260520T130000
+DTEND:20260520T150000
+DESCRIPTION:Dir: TOBE HOOPER (1982)\nhttps://www.screenslate.com/series/ne
+ ver-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poltergeist @ PARIS THEATER
+DTSTART:20260520T160000
+DTEND:20260520T180000
+DESCRIPTION:Dir: TOBE HOOPER (1982)\nhttps://www.screenslate.com/series/ne
+ ver-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poltergeist @ PARIS THEATER
+DTSTART:20260520T190000
+DTEND:20260520T210000
+DESCRIPTION:Dir: TOBE HOOPER (1982)\nhttps://www.screenslate.com/series/ne
+ ver-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poltergeist @ PARIS THEATER
+DTSTART:20260520T215000
+DTEND:20260520T235000
+DESCRIPTION:Dir: TOBE HOOPER (1982)\nhttps://www.screenslate.com/series/ne
+ ver-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goonies @ PARIS THEATER
+DTSTART:20260520T160000
+DTEND:20260520T180000
+DESCRIPTION:Dir: RICHARD DONNER (1985)\nhttps://www.screenslate.com/series
+ /never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Something Wild @ PARIS THEATER
 DTSTART:20260520T190000
 DTEND:20260520T210000
@@ -13015,6 +12233,16 @@ DESCRIPTION:Dir: JONATHAN DEMME (1986)\nhttps://www.screenslate.com/series
  /academy-museum-branch-selects
 LOCATION:PARIS THEATER
 URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Lost Boys @ PARIS THEATER
+DTSTART:20260520T215000
+DTEND:20260520T235000
+DESCRIPTION:Dir: JOEL SCHUMACHER (1987)\nhttps://www.screenslate.com/serie
+ s/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A History of Violence @ QUAD CINEMA
@@ -13440,6 +12668,76 @@ LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://www.screenslate.com/series/visual-vengeance-nitehawk-cinema
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ocean's Eleven @ PARIS THEATER
+DTSTART:20260521T133000
+DTEND:20260521T153000
+DESCRIPTION:Dir: STEVEN SODERBERGH (2001)\nhttps://www.screenslate.com/ser
+ ies/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ocean's Eleven @ PARIS THEATER
+DTSTART:20260521T163000
+DTEND:20260521T183000
+DESCRIPTION:Dir: STEVEN SODERBERGH (2001)\nhttps://www.screenslate.com/ser
+ ies/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ocean's Eleven @ PARIS THEATER
+DTSTART:20260521T190000
+DTEND:20260521T210000
+DESCRIPTION:Dir: STEVEN SODERBERGH (2001)\nhttps://www.screenslate.com/ser
+ ies/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ocean's Eleven @ PARIS THEATER
+DTSTART:20260521T215000
+DTEND:20260521T235000
+DESCRIPTION:Dir: STEVEN SODERBERGH (2001)\nhttps://www.screenslate.com/ser
+ ies/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Some Kind of Heaven @ PARIS THEATER
+DTSTART:20260521T163000
+DTEND:20260521T183000
+DESCRIPTION:Dir: LANCE OPPENHEIM (2019)\nhttps://www.screenslate.com/serie
+ s/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cocoon @ PARIS THEATER
+DTSTART:20260521T190000
+DTEND:20260521T210000
+DESCRIPTION:Dir: RON HOWARD (1985)\nhttps://www.screenslate.com/series/nev
+ er-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Signs @ PARIS THEATER
+DTSTART:20260521T215000
+DTEND:20260521T235000
+DESCRIPTION:Dir: M. NIGHT SHYAMALAN (2002)\nhttps://www.screenslate.com/se
+ ries/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A History of Violence @ QUAD CINEMA
 DTSTART:20260521T201000
 DTEND:20260521T221000
@@ -13722,6 +13020,76 @@ DESCRIPTION:Dir: DAVID CRONENBERG (1975)\nhttps://nitehawkcinema.com/willi
  amsburg/movies/shivers/
 LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://nitehawkcinema.com/williamsburg/movies/shivers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Super 8 @ PARIS THEATER
+DTSTART:20260522T130000
+DTEND:20260522T150000
+DESCRIPTION:Dir: J.J. ABRAMS (2011)\nhttps://www.screenslate.com/series/ne
+ ver-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Super 8 @ PARIS THEATER
+DTSTART:20260522T160000
+DTEND:20260522T180000
+DESCRIPTION:Dir: J.J. ABRAMS (2011)\nhttps://www.screenslate.com/series/ne
+ ver-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Super 8 @ PARIS THEATER
+DTSTART:20260522T190000
+DTEND:20260522T210000
+DESCRIPTION:Dir: J.J. ABRAMS (2011)\nhttps://www.screenslate.com/series/ne
+ ver-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Super 8 @ PARIS THEATER
+DTSTART:20260522T220500
+DTEND:20260523T000500
+DESCRIPTION:Dir: J.J. ABRAMS (2011)\nhttps://www.screenslate.com/series/ne
+ ver-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E.T. the Extra-Terrestrial @ PARIS THEATER
+DTSTART:20260522T160000
+DTEND:20260522T180000
+DESCRIPTION:Dir: STEVEN SPIELBERG (1982)\nhttps://www.screenslate.com/seri
+ es/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma and Louise @ PARIS THEATER
+DTSTART:20260522T190000
+DTEND:20260522T210000
+DESCRIPTION:Dir: RIDLEY SCOTT (1990)\nhttps://www.screenslate.com/series/n
+ ever-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fright Night @ PARIS THEATER
+DTSTART:20260522T220500
+DTEND:20260523T000500
+DESCRIPTION:Dir: TOM HOLLAND (1985)\nhttps://www.screenslate.com/series/ne
+ ver-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Matador Bolero @ ROXY CINEMA NEW YORK
@@ -14116,6 +13484,81 @@ DESCRIPTION:Dir: ALFRED HITCHCOCK (1976)\nhttps://www.screenslate.com/seri
  es/anniversary-party-nitehawk-cinema
 LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://www.screenslate.com/series/anniversary-party-nitehawk-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goonies @ PARIS THEATER
+DTSTART:20260523T110000
+DTEND:20260523T130000
+DESCRIPTION:Dir: JAY HOLBEN (2000)\nhttps://www.screenslate.com/series/aca
+ demy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goonies @ PARIS THEATER
+DTSTART:20260523T140500
+DTEND:20260523T160500
+DESCRIPTION:Dir: JAY HOLBEN (2000)\nhttps://www.screenslate.com/series/aca
+ demy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goonies @ PARIS THEATER
+DTSTART:20260523T165500
+DTEND:20260523T185500
+DESCRIPTION:Dir: JAY HOLBEN (2000)\nhttps://www.screenslate.com/series/aca
+ demy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goonies @ PARIS THEATER
+DTSTART:20260523T193500
+DTEND:20260523T213500
+DESCRIPTION:Dir: JAY HOLBEN (2000)\nhttps://www.screenslate.com/series/aca
+ demy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goonies @ PARIS THEATER
+DTSTART:20260523T222000
+DTEND:20260524T002000
+DESCRIPTION:Dir: JAY HOLBEN (2000)\nhttps://www.screenslate.com/series/aca
+ demy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Signs @ PARIS THEATER
+DTSTART:20260523T165500
+DTEND:20260523T185500
+DESCRIPTION:Dir: M. NIGHT SHYAMALAN (2002)\nhttps://www.screenslate.com/se
+ ries/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poltergeist @ PARIS THEATER
+DTSTART:20260523T193500
+DTEND:20260523T213500
+DESCRIPTION:Dir: TOBE HOOPER (1982)\nhttps://www.screenslate.com/series/ne
+ ver-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Lost Boys @ PARIS THEATER
+DTSTART:20260523T222000
+DTEND:20260524T002000
+DESCRIPTION:Dir: JOEL SCHUMACHER (1987)\nhttps://www.screenslate.com/serie
+ s/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sucker Punch @ ROXY CINEMA NEW YORK
@@ -14567,6 +14010,62 @@ LOCATION:PARIS THEATER
 URL:https://www.screenslate.com/series/academy-museum-branch-selects
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dont Look Back @ PARIS THEATER
+DTSTART:20260524T133000
+DTEND:20260524T153000
+DESCRIPTION:Dir: D.A. PENNEBAKER (1967)\nhttps://www.screenslate.com/serie
+ s/academy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dont Look Back @ PARIS THEATER
+DTSTART:20260524T160000
+DTEND:20260524T180000
+DESCRIPTION:Dir: D.A. PENNEBAKER (1967)\nhttps://www.screenslate.com/serie
+ s/academy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dont Look Back @ PARIS THEATER
+DTSTART:20260524T203000
+DTEND:20260524T223000
+DESCRIPTION:Dir: D.A. PENNEBAKER (1967)\nhttps://www.screenslate.com/serie
+ s/academy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Some Kind of Heaven @ PARIS THEATER
+DTSTART:20260524T133000
+DTEND:20260524T153000
+DESCRIPTION:Dir: LANCE OPPENHEIM (2019)\nhttps://www.screenslate.com/serie
+ s/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Best Years of Our Lives @ PARIS THEATER
+DTSTART:20260524T160000
+DTEND:20260524T180000
+DESCRIPTION:Dir: WILLIAM WYLER (1946)\nhttps://www.screenslate.com/series/
+ new-york-film-critics-circle-paris
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/new-york-film-critics-circle-paris
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fright Night @ PARIS THEATER
+DTSTART:20260524T203000
+DTEND:20260524T223000
+DESCRIPTION:Dir: TOM HOLLAND (1985)\nhttps://www.screenslate.com/series/ne
+ ver-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Shin Godzilla @ ROXY CINEMA NEW YORK
 DTSTART:20260524T150000
 DTEND:20260524T170000
@@ -14855,6 +14354,76 @@ DESCRIPTION:Dir: STEVE BARRON (1990)\nhttps://nitehawkcinema.com/williamsb
 LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://nitehawkcinema.com/williamsburg/movies/teenage-mutant-ninja-tu
  rtles/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Dark Crystal @ PARIS THEATER
+DTSTART:20260525T120000
+DTEND:20260525T140000
+DESCRIPTION:Dir: FRANK OZ\, JIM HENSON (1982)\nhttps://www.screenslate.com
+ /series/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Dark Crystal @ PARIS THEATER
+DTSTART:20260525T143000
+DTEND:20260525T163000
+DESCRIPTION:Dir: FRANK OZ\, JIM HENSON (1982)\nhttps://www.screenslate.com
+ /series/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Dark Crystal @ PARIS THEATER
+DTSTART:20260525T173000
+DTEND:20260525T193000
+DESCRIPTION:Dir: FRANK OZ\, JIM HENSON (1982)\nhttps://www.screenslate.com
+ /series/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Dark Crystal @ PARIS THEATER
+DTSTART:20260525T203000
+DTEND:20260525T223000
+DESCRIPTION:Dir: FRANK OZ\, JIM HENSON (1982)\nhttps://www.screenslate.com
+ /series/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E.T. the Extra-Terrestrial @ PARIS THEATER
+DTSTART:20260525T143000
+DTEND:20260525T163000
+DESCRIPTION:Dir: STEVEN SPIELBERG (1982)\nhttps://www.screenslate.com/seri
+ es/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Goonies @ PARIS THEATER
+DTSTART:20260525T173000
+DTEND:20260525T193000
+DESCRIPTION:Dir: RICHARD DONNER (1985)\nhttps://www.screenslate.com/series
+ /never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Super 8 @ PARIS THEATER
+DTSTART:20260525T203000
+DTEND:20260525T223000
+DESCRIPTION:Dir: J.J. ABRAMS (2011)\nhttps://www.screenslate.com/series/ne
+ ver-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shin Godzilla @ ROXY CINEMA NEW YORK
@@ -15150,6 +14719,66 @@ LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://www.screenslate.com/series/anime-after-dark-nitehawk-cinema
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Signs @ PARIS THEATER
+DTSTART:20260526T130000
+DTEND:20260526T150000
+DESCRIPTION:Dir: M. NIGHT SHYAMALAN (2002)\nhttps://www.screenslate.com/se
+ ries/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Signs @ PARIS THEATER
+DTSTART:20260526T160000
+DTEND:20260526T180000
+DESCRIPTION:Dir: M. NIGHT SHYAMALAN (2002)\nhttps://www.screenslate.com/se
+ ries/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Signs @ PARIS THEATER
+DTSTART:20260526T190000
+DTEND:20260526T210000
+DESCRIPTION:Dir: M. NIGHT SHYAMALAN (2002)\nhttps://www.screenslate.com/se
+ ries/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Signs @ PARIS THEATER
+DTSTART:20260526T213000
+DTEND:20260526T233000
+DESCRIPTION:Dir: M. NIGHT SHYAMALAN (2002)\nhttps://www.screenslate.com/se
+ ries/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cocoon @ PARIS THEATER
+DTSTART:20260526T160000
+DTEND:20260526T180000
+DESCRIPTION:Dir: RON HOWARD (1985)\nhttps://www.screenslate.com/series/nev
+ er-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma and Louise @ PARIS THEATER
+DTSTART:20260526T213000
+DTEND:20260526T233000
+DESCRIPTION:Dir: RIDLEY SCOTT (1990)\nhttps://www.screenslate.com/series/n
+ ever-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Napoleon Dynamite @ QUAD CINEMA
 DTSTART:20260526T201000
 DTEND:20260526T221000
@@ -15363,6 +14992,56 @@ URL:https://www.screenslate.com/series/pop-star-vehicles-vol-3-nitehawk-ci
  nema
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Lost Boys @ PARIS THEATER
+DTSTART:20260527T131500
+DTEND:20260527T151500
+DESCRIPTION:Dir: JOEL SCHUMACHER (1987)\nhttps://www.screenslate.com/serie
+ s/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Lost Boys @ PARIS THEATER
+DTSTART:20260527T160000
+DTEND:20260527T180000
+DESCRIPTION:Dir: JOEL SCHUMACHER (1987)\nhttps://www.screenslate.com/serie
+ s/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Lost Boys @ PARIS THEATER
+DTSTART:20260527T190000
+DTEND:20260527T210000
+DESCRIPTION:Dir: JOEL SCHUMACHER (1987)\nhttps://www.screenslate.com/serie
+ s/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Lost Boys @ PARIS THEATER
+DTSTART:20260527T220500
+DTEND:20260528T000500
+DESCRIPTION:Dir: JOEL SCHUMACHER (1987)\nhttps://www.screenslate.com/serie
+ s/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poltergeist @ PARIS THEATER
+DTSTART:20260527T160000
+DTEND:20260527T180000
+DESCRIPTION:Dir: TOBE HOOPER (1982)\nhttps://www.screenslate.com/series/ne
+ ver-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dont Look Back @ PARIS THEATER
 DTSTART:20260527T190000
 DTEND:20260527T210000
@@ -15370,6 +15049,16 @@ DESCRIPTION:Dir: D.A. PENNEBAKER (1967)\nhttps://www.screenslate.com/serie
  s/academy-museum-branch-selects
 LOCATION:PARIS THEATER
 URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cocoon @ PARIS THEATER
+DTSTART:20260527T220500
+DTEND:20260528T000500
+DESCRIPTION:Dir: RON HOWARD (1985)\nhttps://www.screenslate.com/series/nev
+ er-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Napoleon Dynamite @ QUAD CINEMA
@@ -15664,6 +15353,66 @@ DESCRIPTION:Dir: JAUME COLLET-SERRA (2005)\nhttps://www.screenslate.com/se
  ries/lets-watch-movie-nitehawk-cinema
 LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://www.screenslate.com/series/lets-watch-movie-nitehawk-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E.T. the Extra-Terrestrial @ PARIS THEATER
+DTSTART:20260528T123000
+DTEND:20260528T143000
+DESCRIPTION:Dir: STEVEN SPIELBERG (1982)\nhttps://www.screenslate.com/seri
+ es/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E.T. the Extra-Terrestrial @ PARIS THEATER
+DTSTART:20260528T151500
+DTEND:20260528T171500
+DESCRIPTION:Dir: STEVEN SPIELBERG (1982)\nhttps://www.screenslate.com/seri
+ es/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E.T. the Extra-Terrestrial @ PARIS THEATER
+DTSTART:20260528T190000
+DTEND:20260528T210000
+DESCRIPTION:Dir: STEVEN SPIELBERG (1982)\nhttps://www.screenslate.com/seri
+ es/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E.T. the Extra-Terrestrial @ PARIS THEATER
+DTSTART:20260528T220000
+DTEND:20260529T000000
+DESCRIPTION:Dir: STEVEN SPIELBERG (1982)\nhttps://www.screenslate.com/seri
+ es/never-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thelma and Louise @ PARIS THEATER
+DTSTART:20260528T151500
+DTEND:20260528T171500
+DESCRIPTION:Dir: RIDLEY SCOTT (1990)\nhttps://www.screenslate.com/series/n
+ ever-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fright Night @ PARIS THEATER
+DTSTART:20260528T220000
+DTEND:20260529T000000
+DESCRIPTION:Dir: TOM HOLLAND (1985)\nhttps://www.screenslate.com/series/ne
+ ver-say-die-ageless-adventures-built-boroughs
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
+ ilt-boroughs
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Napoleon Dynamite @ QUAD CINEMA
@@ -16010,6 +15759,15 @@ DESCRIPTION:Dir: CLYDE GERONIMI\, WILFRED JACKSON\, HAMILTON LUSKE (1951)\
  nhttps://www.screenslate.com/series/anniversary-party-nitehawk-cinema
 LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://www.screenslate.com/series/anniversary-party-nitehawk-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Do the Right Thing @ PARIS THEATER
+DTSTART:20260530T110000
+DTEND:20260530T130000
+DESCRIPTION:Dir: SPIKE LEE (1989)\nhttps://www.screenslate.com/series/acad
+ emy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Glowing @ ROXY CINEMA NEW YORK
@@ -16607,6 +16365,15 @@ LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://www.screenslate.com/series/additional-dialogue-nitehawk-cinema
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Do the Right Thing @ PARIS THEATER
+DTSTART:20260602T190000
+DTEND:20260602T210000
+DESCRIPTION:Dir: SPIKE LEE (1989)\nhttps://www.screenslate.com/series/acad
+ emy-museum-branch-selects
+LOCATION:PARIS THEATER
+URL:https://www.screenslate.com/series/academy-museum-branch-selects
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Castro Street @ ANTHOLOGY FILM ARCHIVES
 DTSTART:20260603T183000
 DTEND:20260603T203000
@@ -16877,5 +16644,99 @@ DESCRIPTION:Dir: KELLY ANDERSON\, JAY ARTHUR STERRENBERG (2024)\nhttps://u
 LOCATION:UNIONDOCS
 URL:https://uniondocs.org/event/documentary-fundamentals-how-it-started-20
  26-06-05/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New News from Another Home @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260606T160000
+DTEND:20260606T180000
+DESCRIPTION:Dir: BORJANA VENTZISLAVOVA (2024)\nhttps://www.anthologyfilmar
+ chives.org/film_screenings/calendar?view=list&amp\;month=6&amp\;year=2026#
+ showing-61395
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=6&amp;year=2026#showing-61395
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New News from Another Home @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260606T203000
+DTEND:20260606T223000
+DESCRIPTION:Dir: BORJANA VENTZISLAVOVA (2024)\nhttps://www.anthologyfilmar
+ chives.org/film_screenings/calendar?view=list&amp\;month=6&amp\;year=2026#
+ showing-61395
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=6&amp;year=2026#showing-61395
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New News from Another Home @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260606T173000
+DTEND:20260606T193000
+DESCRIPTION:Dir: BORJANA VENTZISLAVOVA (2024)\nhttps://www.anthologyfilmar
+ chives.org/film_screenings/calendar?view=list&amp\;month=6&amp\;year=2026#
+ showing-61395
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=6&amp;year=2026#showing-61395
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New News from Another Home @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260606T181500
+DTEND:20260606T201500
+DESCRIPTION:Dir: BORJANA VENTZISLAVOVA (2024)\nhttps://www.anthologyfilmar
+ chives.org/film_screenings/calendar?view=list&amp\;month=6&amp\;year=2026#
+ showing-61395
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=6&amp;year=2026#showing-61395
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New News from Another Home @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260606T200000
+DTEND:20260606T220000
+DESCRIPTION:Dir: BORJANA VENTZISLAVOVA (2024)\nhttps://www.anthologyfilmar
+ chives.org/film_screenings/calendar?view=list&amp\;month=6&amp\;year=2026#
+ showing-61395
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=6&amp;year=2026#showing-61395
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pull My Daisy @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260606T173000
+DTEND:20260606T193000
+DESCRIPTION:Dir: ROBERT FRANK (1959)\nhttps://www.screenslate.com/series/a
+ llen-ginsberg-centennial
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/allen-ginsberg-centennial
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:News From Home @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260606T181500
+DTEND:20260606T201500
+DESCRIPTION:Dir: CHANTAL AKERMAN (1977)\nhttps://www.anthologyfilmarchives
+ .org/film_screenings/calendar?view=list&amp\;month=6&amp\;year=2026#showin
+ g-61405
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=6&amp;year=2026#showing-61405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wholly Communion @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260606T200000
+DTEND:20260606T220000
+DESCRIPTION:Dir: PETER WHITEHEAD (1965)\nhttps://www.screenslate.com/serie
+ s/allen-ginsberg-centennial
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/allen-ginsberg-centennial
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Isle of Dogs @ COLUMBIA UNIVERSITY LENFEST CENTER FOR THE ARTS
+DTSTART:20260606T140000
+DTEND:20260606T160000
+DESCRIPTION:Dir: WES ANDERSON (2018)\nhttps://www.lenfest.arts.columbia.ed
+ u/spring-2026-events/lenfest-teens-isle-of-dogs
+LOCATION:COLUMBIA UNIVERSITY LENFEST CENTER FOR THE ARTS
+URL:https://www.lenfest.arts.columbia.edu/spring-2026-events/lenfest-teens
+ -isle-of-dogs
 END:VEVENT
 END:VCALENDAR
