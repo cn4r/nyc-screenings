@@ -2,1113 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:Gay Men’s Book Club @ THE 8TH FLOOR
-DTSTART:20260528T180000
-DTEND:20260528T200000
-DESCRIPTION:Dir: MATTHEW LAX (2025)\nhttps://www.the8thfloor.org/newevents
- /lax
-LOCATION:THE 8TH FLOOR
-URL:https://www.the8thfloor.org/newevents/lax
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monument @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260528T190000
-DTEND:20260528T210000
-DESCRIPTION:Dir: TIM GERAGHTY\, SARAH HALPERN (2026)\nhttps://www.antholog
- yfilmarchives.org/film_screenings/calendar?view=list&amp\;month=05&amp\;ye
- ar=2026#showing-61194
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
- st&amp;month=05&amp;year=2026#showing-61194
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ndar\, Saga Waalo @ BAM
-DTSTART:20260528T160000
-DTEND:20260528T180000
-DESCRIPTION:Dir: OUSMANE WILLIAM MBAYE (2024)\nhttps://www.screenslate.com
- /series/filmafrica-2026
-LOCATION:BAM
-URL:https://www.screenslate.com/series/filmafrica-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ndar\, Saga Waalo @ BAM
-DTSTART:20260528T180000
-DTEND:20260528T200000
-DESCRIPTION:Dir: OUSMANE WILLIAM MBAYE (2024)\nhttps://www.screenslate.com
- /series/filmafrica-2026
-LOCATION:BAM
-URL:https://www.screenslate.com/series/filmafrica-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ndar\, Saga Waalo @ BAM
-DTSTART:20260528T200000
-DTEND:20260528T220000
-DESCRIPTION:Dir: OUSMANE WILLIAM MBAYE (2024)\nhttps://www.screenslate.com
- /series/filmafrica-2026
-LOCATION:BAM
-URL:https://www.screenslate.com/series/filmafrica-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freedom Way @ BAM
-DTSTART:20260528T180000
-DTEND:20260528T200000
-DESCRIPTION:Dir: AFOLABI OLALEKAN (2024)\nhttps://www.screenslate.com/seri
- es/filmafrica-2026
-LOCATION:BAM
-URL:https://www.screenslate.com/series/filmafrica-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260528T121500
-DTEND:20260528T141500
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260528T141500
-DTEND:20260528T161500
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260528T190000
-DTEND:20260528T210000
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260528T210000
-DTEND:20260528T230000
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260528T122000
-DTEND:20260528T142000
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260528T130000
-DTEND:20260528T150000
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260528T180000
-DTEND:20260528T200000
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260528T152000
-DTEND:20260528T172000
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260528T174000
-DTEND:20260528T194000
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260528T200000
-DTEND:20260528T220000
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260528T144500
-DTEND:20260528T164500
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260528T154500
-DTEND:20260528T174500
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260528T203000
-DTEND:20260528T223000
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260528T161500
-DTEND:20260528T181500
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260528T171000
-DTEND:20260528T191000
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260528T204000
-DTEND:20260528T224000
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Boston Strangler @ FILM FORUM
-DTSTART:20260528T122000
-DTEND:20260528T142000
-DESCRIPTION:Dir: RICHARD FLEISCHER (1968)\nhttps://www.screenslate.com/ser
- ies/fleischer-pere-et-fils
-LOCATION:FILM FORUM
-URL:https://www.screenslate.com/series/fleischer-pere-et-fils
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bellissima @ FILM FORUM
-DTSTART:20260528T130000
-DTEND:20260528T150000
-DESCRIPTION:Dir: LUCHINO VISCONTI (1951)\nhttps://filmforum.org/film/belli
- ssima
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/bellissima
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bellissima @ FILM FORUM
-DTSTART:20260528T180000
-DTEND:20260528T200000
-DESCRIPTION:Dir: LUCHINO VISCONTI (1951)\nhttps://filmforum.org/film/belli
- ssima
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/bellissima
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manas @ FILM FORUM
-DTSTART:20260528T130000
-DTEND:20260528T150000
-DESCRIPTION:Dir: MARIANNA BRENNAND (2024)\nhttps://filmforum.org/film/mana
- s
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/manas
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manas @ FILM FORUM
-DTSTART:20260528T152000
-DTEND:20260528T172000
-DESCRIPTION:Dir: MARIANNA BRENNAND (2024)\nhttps://filmforum.org/film/mana
- s
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/manas
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manas @ FILM FORUM
-DTSTART:20260528T174000
-DTEND:20260528T194000
-DESCRIPTION:Dir: MARIANNA BRENNAND (2024)\nhttps://filmforum.org/film/mana
- s
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/manas
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manas @ FILM FORUM
-DTSTART:20260528T200000
-DTEND:20260528T220000
-DESCRIPTION:Dir: MARIANNA BRENNAND (2024)\nhttps://filmforum.org/film/mana
- s
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/manas
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:10 Rillington Place @ FILM FORUM
-DTSTART:20260528T144500
-DTEND:20260528T164500
-DESCRIPTION:Dir: RICHARD FLEISCHER (1971)\nhttps://www.screenslate.com/ser
- ies/fleischer-pere-et-fils
-LOCATION:FILM FORUM
-URL:https://www.screenslate.com/series/fleischer-pere-et-fils
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Picnic @ FILM FORUM
-DTSTART:20260528T154500
-DTEND:20260528T174500
-DESCRIPTION:Dir: PHILIP HARTMAN (1986)\nhttps://filmforum.org/film/no-picn
- ic
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/no-picnic
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Picnic @ FILM FORUM
-DTSTART:20260528T203000
-DTEND:20260528T223000
-DESCRIPTION:Dir: PHILIP HARTMAN (1986)\nhttps://filmforum.org/film/no-picn
- ic
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/no-picnic
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Our Land (Nuestra Tierra) @ FILM FORUM
-DTSTART:20260528T161500
-DTEND:20260528T181500
-DESCRIPTION:Dir: LUCRECIA MARTEL (2025)\nhttps://filmforum.org/film/our-la
- nd
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/our-land
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Evolution of Betty Boop @ FILM FORUM
-DTSTART:20260528T171000
-DTEND:20260528T191000
-DESCRIPTION:Dir: DAVE FLEISCHER (DCP)\nhttps://www.screenslate.com/series/
- fleischer-pere-et-fils
-LOCATION:FILM FORUM
-URL:https://www.screenslate.com/series/fleischer-pere-et-fils
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Narrow Margin @ FILM FORUM
-DTSTART:20260528T190000
-DTEND:20260528T210000
-DESCRIPTION:Dir: RICHARD FLEISCHER (1952)\nhttps://www.screenslate.com/ser
- ies/fleischer-pere-et-fils
-LOCATION:FILM FORUM
-URL:https://www.screenslate.com/series/fleischer-pere-et-fils
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Compulsion @ FILM FORUM
-DTSTART:20260528T204000
-DTEND:20260528T224000
-DESCRIPTION:Dir: RICHARD FLEISCHER (1959)\nhttps://www.screenslate.com/ser
- ies/fleischer-pere-et-fils
-LOCATION:FILM FORUM
-URL:https://www.screenslate.com/series/fleischer-pere-et-fils
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Friend @ FILM AT LINCOLN CENTER
-DTSTART:20260528T120000
-DTEND:20260528T140000
-DESCRIPTION:Dir: ILDIKÓ ENYEDI (2025)\nhttps://www.filmlinc.org/films/sil
- ent-friend/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/silent-friend/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Friend @ FILM AT LINCOLN CENTER
-DTSTART:20260528T150000
-DTEND:20260528T170000
-DESCRIPTION:Dir: ILDIKÓ ENYEDI (2025)\nhttps://www.filmlinc.org/films/sil
- ent-friend/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/silent-friend/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Friend @ FILM AT LINCOLN CENTER
-DTSTART:20260528T180000
-DTEND:20260528T200000
-DESCRIPTION:Dir: ILDIKÓ ENYEDI (2025)\nhttps://www.filmlinc.org/films/sil
- ent-friend/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/silent-friend/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Friend @ FILM AT LINCOLN CENTER
-DTSTART:20260528T210000
-DTEND:20260528T230000
-DESCRIPTION:Dir: ILDIKÓ ENYEDI (2025)\nhttps://www.filmlinc.org/films/sil
- ent-friend/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/silent-friend/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Friend @ FILM AT LINCOLN CENTER
-DTSTART:20260528T131500
-DTEND:20260528T151500
-DESCRIPTION:Dir: ILDIKÓ ENYEDI (2025)\nhttps://www.filmlinc.org/films/sil
- ent-friend/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/silent-friend/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Friend @ FILM AT LINCOLN CENTER
-DTSTART:20260528T151500
-DTEND:20260528T171500
-DESCRIPTION:Dir: ILDIKÓ ENYEDI (2025)\nhttps://www.filmlinc.org/films/sil
- ent-friend/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/silent-friend/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Friend @ FILM AT LINCOLN CENTER
-DTSTART:20260528T203000
-DTEND:20260528T223000
-DESCRIPTION:Dir: ILDIKÓ ENYEDI (2025)\nhttps://www.filmlinc.org/films/sil
- ent-friend/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/silent-friend/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Friend @ FILM AT LINCOLN CENTER
-DTSTART:20260528T181500
-DTEND:20260528T201500
-DESCRIPTION:Dir: ILDIKÓ ENYEDI (2025)\nhttps://www.filmlinc.org/films/sil
- ent-friend/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/silent-friend/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Friend @ FILM AT LINCOLN CENTER
-DTSTART:20260528T213000
-DTEND:20260528T233000
-DESCRIPTION:Dir: ILDIKÓ ENYEDI (2025)\nhttps://www.filmlinc.org/films/sil
- ent-friend/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/silent-friend/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miroirs No. 3 @ FILM AT LINCOLN CENTER
-DTSTART:20260528T131500
-DTEND:20260528T151500
-DESCRIPTION:Dir: CHRISTIAN PETZOLD (2026)\nhttps://www.filmlinc.org/films/
- miroirs-no-3/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/miroirs-no-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Stranger @ FILM AT LINCOLN CENTER
-DTSTART:20260528T151500
-DTEND:20260528T171500
-DESCRIPTION:Dir: FRANÇOIS OZON (2025)\nhttps://www.filmlinc.org/films/the
- -stranger/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-stranger/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Stranger @ FILM AT LINCOLN CENTER
-DTSTART:20260528T203000
-DTEND:20260528T223000
-DESCRIPTION:Dir: FRANÇOIS OZON (2025)\nhttps://www.filmlinc.org/films/the
- -stranger/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-stranger/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last One for the Road @ FILM AT LINCOLN CENTER
-DTSTART:20260528T181500
-DTEND:20260528T201500
-DESCRIPTION:Dir: FRANCESCO SOSSAI (2026)\nhttps://www.filmlinc.org/films/t
- he-last-one-for-the-road/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-last-one-for-the-road/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nine Little Indians @ FILM AT LINCOLN CENTER
-DTSTART:20260528T213000
-DTEND:20260528T233000
-DESCRIPTION:Dir: SHANNON KRING (2026)\nhttps://www.filmlinc.org/films/nine
- -little-indians/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/nine-little-indians/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everybody to Kenmure Street @ FIREHOUSE: DCTV’S CINEMA FOR DOCUM
- ENTARY FILM
-DTSTART:20260528T133000
-DTEND:20260528T153000
-DESCRIPTION:Dir: FELIPE BUSTOS SIERRA (2026)\nhttps://www.dctvny.org/s/fir
- ehouse-film/everybody-to-kenmure-street-MCYQF2IJTPSRGVXDJZUCKR6PYHVI
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/everybody-to-kenmure-street-MC
- YQF2IJTPSRGVXDJZUCKR6PYHVI
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everybody to Kenmure Street @ FIREHOUSE: DCTV’S CINEMA FOR DOCUM
- ENTARY FILM
-DTSTART:20260528T160000
-DTEND:20260528T180000
-DESCRIPTION:Dir: FELIPE BUSTOS SIERRA (2026)\nhttps://www.dctvny.org/s/fir
- ehouse-film/everybody-to-kenmure-street-MCYQF2IJTPSRGVXDJZUCKR6PYHVI
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/everybody-to-kenmure-street-MC
- YQF2IJTPSRGVXDJZUCKR6PYHVI
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Everybody to Kenmure Street @ FIREHOUSE: DCTV’S CINEMA FOR DOCUM
- ENTARY FILM
-DTSTART:20260528T213000
-DTEND:20260528T233000
-DESCRIPTION:Dir: FELIPE BUSTOS SIERRA (2026)\nhttps://www.dctvny.org/s/fir
- ehouse-film/everybody-to-kenmure-street-MCYQF2IJTPSRGVXDJZUCKR6PYHVI
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/everybody-to-kenmure-street-MC
- YQF2IJTPSRGVXDJZUCKR6PYHVI
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
-DTSTART:20260528T103500
-DTEND:20260528T123500
-DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
- e-of-forgotten-dreams-3d/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
-DTSTART:20260528T105000
-DTEND:20260528T125000
-DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
- e-of-forgotten-dreams-3d/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
-DTSTART:20260528T171500
-DTEND:20260528T191500
-DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
- e-of-forgotten-dreams-3d/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
-DTSTART:20260528T151500
-DTEND:20260528T171500
-DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
- e-of-forgotten-dreams-3d/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
-DTSTART:20260528T104000
-DTEND:20260528T124000
-DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
- e-of-forgotten-dreams-3d/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
-DTSTART:20260528T152500
-DTEND:20260528T172500
-DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
- e-of-forgotten-dreams-3d/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
-DTSTART:20260528T214000
-DTEND:20260528T234000
-DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
- e-of-forgotten-dreams-3d/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
-DTSTART:20260528T131000
-DTEND:20260528T151000
-DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
- e-of-forgotten-dreams-3d/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
-DTSTART:20260528T194500
-DTEND:20260528T214500
-DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
- e-of-forgotten-dreams-3d/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
-DTSTART:20260528T105500
-DTEND:20260528T125500
-DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
- e-of-forgotten-dreams-3d/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
-DTSTART:20260528T173000
-DTEND:20260528T193000
-DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
- e-of-forgotten-dreams-3d/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
-DTSTART:20260528T121000
-DTEND:20260528T141000
-DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
- e-of-forgotten-dreams-3d/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
-DTSTART:20260528T123000
-DTEND:20260528T143000
-DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
- e-of-forgotten-dreams-3d/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
-DTSTART:20260528T153000
-DTEND:20260528T173000
-DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
- e-of-forgotten-dreams-3d/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
-DTSTART:20260528T183000
-DTEND:20260528T203000
-DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
- e-of-forgotten-dreams-3d/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
-DTSTART:20260528T213000
-DTEND:20260528T233000
-DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
- e-of-forgotten-dreams-3d/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
-DTSTART:20260528T145000
-DTEND:20260528T165000
-DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
- e-of-forgotten-dreams-3d/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
-DTSTART:20260528T192000
-DTEND:20260528T212000
-DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
- e-of-forgotten-dreams-3d/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
-DTSTART:20260528T213500
-DTEND:20260528T233500
-DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
- e-of-forgotten-dreams-3d/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
-DTSTART:20260528T130500
-DTEND:20260528T150500
-DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
- e-of-forgotten-dreams-3d/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
-DTSTART:20260528T201500
-DTEND:20260528T221500
-DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
- e-of-forgotten-dreams-3d/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
-DTSTART:20260528T215500
-DTEND:20260528T235500
-DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
- e-of-forgotten-dreams-3d/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
-DTSTART:20260528T141500
-DTEND:20260528T161500
-DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
- e-of-forgotten-dreams-3d/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
-DTSTART:20260528T163500
-DTEND:20260528T183500
-DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
- e-of-forgotten-dreams-3d/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
-DTSTART:20260528T190000
-DTEND:20260528T210000
-DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
- e-of-forgotten-dreams-3d/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
-DTSTART:20260528T212500
-DTEND:20260528T232500
-DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
- e-of-forgotten-dreams-3d/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Magic Hour @ IFC CENTER
-DTSTART:20260528T103500
-DTEND:20260528T123500
-DESCRIPTION:Dir: KATIE ASELTON (2026)\nhttps://www.ifccenter.com/films/mag
- ic-hour/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/magic-hour/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Magic Hour @ IFC CENTER
-DTSTART:20260528T151500
-DTEND:20260528T171500
-DESCRIPTION:Dir: KATIE ASELTON (2026)\nhttps://www.ifccenter.com/films/mag
- ic-hour/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/magic-hour/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Heron @ IFC CENTER
-DTSTART:20260528T104000
-DTEND:20260528T124000
-DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://www.ifccenter.com/films/blu
- e-heron/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-heron/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Heron @ IFC CENTER
-DTSTART:20260528T152500
-DTEND:20260528T172500
-DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://www.ifccenter.com/films/blu
- e-heron/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-heron/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Heron @ IFC CENTER
-DTSTART:20260528T214000
-DTEND:20260528T234000
-DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://www.ifccenter.com/films/blu
- e-heron/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-heron/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Christophers @ IFC CENTER
-DTSTART:20260528T105000
-DTEND:20260528T125000
-DESCRIPTION:Dir: STEVEN SODERBERGH (2026)\nhttps://www.ifccenter.com/films
- /the-christophers/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-christophers/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Christophers @ IFC CENTER
-DTSTART:20260528T131000
-DTEND:20260528T151000
-DESCRIPTION:Dir: STEVEN SODERBERGH (2026)\nhttps://www.ifccenter.com/films
- /the-christophers/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-christophers/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Christophers @ IFC CENTER
-DTSTART:20260528T194500
-DTEND:20260528T214500
-DESCRIPTION:Dir: STEVEN SODERBERGH (2026)\nhttps://www.ifccenter.com/films
- /the-christophers/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-christophers/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260528T105500
-DTEND:20260528T125500
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260528T173000
-DTEND:20260528T193000
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Decorado @ IFC CENTER
-DTSTART:20260528T121000
-DTEND:20260528T141000
-DESCRIPTION:Dir: ALBERTO VÁZQUEZ (2025)\nhttps://www.ifccenter.com/films/
- decorado/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/decorado/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260528T123000
-DTEND:20260528T143000
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260528T153000
-DTEND:20260528T173000
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260528T183000
-DTEND:20260528T203000
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260528T213000
-DTEND:20260528T233000
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A New Leaf @ IFC CENTER
-DTSTART:20260528T123000
-DTEND:20260528T143000
-DESCRIPTION:Dir: ELAINE MAY (1971)\nhttps://www.ifccenter.com/films/a-new-
- leaf/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/a-new-leaf/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A New Leaf @ IFC CENTER
-DTSTART:20260528T145000
-DTEND:20260528T165000
-DESCRIPTION:Dir: ELAINE MAY (1971)\nhttps://www.ifccenter.com/films/a-new-
- leaf/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/a-new-leaf/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A New Leaf @ IFC CENTER
-DTSTART:20260528T192000
-DTEND:20260528T212000
-DESCRIPTION:Dir: ELAINE MAY (1971)\nhttps://www.ifccenter.com/films/a-new-
- leaf/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/a-new-leaf/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A New Leaf @ IFC CENTER
-DTSTART:20260528T213500
-DTEND:20260528T233500
-DESCRIPTION:Dir: ELAINE MAY (1971)\nhttps://www.ifccenter.com/films/a-new-
- leaf/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/a-new-leaf/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Film @ IFC CENTER
-DTSTART:20260528T130500
-DTEND:20260528T150500
-DESCRIPTION:Dir: ELLIOT TUTTLE (2026)\nhttps://www.ifccenter.com/films/blu
- e-film/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-film/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Film @ IFC CENTER
-DTSTART:20260528T201500
-DTEND:20260528T221500
-DESCRIPTION:Dir: ELLIOT TUTTLE (2026)\nhttps://www.ifccenter.com/films/blu
- e-film/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-film/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Film @ IFC CENTER
-DTSTART:20260528T215500
-DTEND:20260528T235500
-DESCRIPTION:Dir: ELLIOT TUTTLE (2026)\nhttps://www.ifccenter.com/films/blu
- e-film/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-film/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask E. Jean @ IFC CENTER
-DTSTART:20260528T141500
-DTEND:20260528T161500
-DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
- e-jean/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/ask-e-jean/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask E. Jean @ IFC CENTER
-DTSTART:20260528T163500
-DTEND:20260528T183500
-DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
- e-jean/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/ask-e-jean/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask E. Jean @ IFC CENTER
-DTSTART:20260528T190000
-DTEND:20260528T210000
-DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
- e-jean/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/ask-e-jean/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask E. Jean @ IFC CENTER
-DTSTART:20260528T212500
-DTEND:20260528T232500
-DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
- e-jean/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/ask-e-jean/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Personal Velocity: Three Portraits @ MUSEUM OF MODERN ART
-DTSTART:20260528T163000
-DTEND:20260528T183000
-DESCRIPTION:Dir: REBECCA MILLER (2002)\nhttps://www.screenslate.com/series
- /moma-presents-rebecca-millers-mr-scorsese
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.screenslate.com/series/moma-presents-rebecca-millers-mr-sc
- orsese
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Personal Velocity: Three Portraits @ MUSEUM OF MODERN ART
-DTSTART:20260528T190000
-DTEND:20260528T210000
-DESCRIPTION:Dir: REBECCA MILLER (2002)\nhttps://www.screenslate.com/series
- /moma-presents-rebecca-millers-mr-scorsese
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.screenslate.com/series/moma-presents-rebecca-millers-mr-sc
- orsese
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mr. Scorsese (Episodes 3 & 4) @ MUSEUM OF MODERN ART
-DTSTART:20260528T190000
-DTEND:20260528T210000
-DESCRIPTION:Dir: REBECCA MILLER (2025)\nhttps://www.screenslate.com/series
- /moma-presents-rebecca-millers-mr-scorsese
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.screenslate.com/series/moma-presents-rebecca-millers-mr-sc
- orsese
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Communion @ NITEHAWK CINEMA PROSPECT PARK
-DTSTART:20260528T211500
-DTEND:20260528T231500
-DESCRIPTION:Dir: PHILIPPE MORA (1989)\nhttps://www.screenslate.com/series/
- ridiculous-sublime-nitehawk-cinema
-LOCATION:NITEHAWK CINEMA PROSPECT PARK
-URL:https://www.screenslate.com/series/ridiculous-sublime-nitehawk-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:House of Wax @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260528T211500
-DTEND:20260528T231500
-DESCRIPTION:Dir: JAUME COLLET-SERRA (2005)\nhttps://www.screenslate.com/se
- ries/lets-watch-movie-nitehawk-cinema
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://www.screenslate.com/series/lets-watch-movie-nitehawk-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:E.T. the Extra-Terrestrial @ PARIS THEATER
-DTSTART:20260528T123000
-DTEND:20260528T143000
-DESCRIPTION:Dir: STEVEN SPIELBERG (1982)\nhttps://www.screenslate.com/seri
- es/never-say-die-ageless-adventures-built-boroughs
-LOCATION:PARIS THEATER
-URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
- ilt-boroughs
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:E.T. the Extra-Terrestrial @ PARIS THEATER
-DTSTART:20260528T151500
-DTEND:20260528T171500
-DESCRIPTION:Dir: STEVEN SPIELBERG (1982)\nhttps://www.screenslate.com/seri
- es/never-say-die-ageless-adventures-built-boroughs
-LOCATION:PARIS THEATER
-URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
- ilt-boroughs
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:E.T. the Extra-Terrestrial @ PARIS THEATER
-DTSTART:20260528T190000
-DTEND:20260528T210000
-DESCRIPTION:Dir: STEVEN SPIELBERG (1982)\nhttps://www.screenslate.com/seri
- es/never-say-die-ageless-adventures-built-boroughs
-LOCATION:PARIS THEATER
-URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
- ilt-boroughs
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:E.T. the Extra-Terrestrial @ PARIS THEATER
-DTSTART:20260528T220000
-DTEND:20260529T000000
-DESCRIPTION:Dir: STEVEN SPIELBERG (1982)\nhttps://www.screenslate.com/seri
- es/never-say-die-ageless-adventures-built-boroughs
-LOCATION:PARIS THEATER
-URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
- ilt-boroughs
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thelma and Louise @ PARIS THEATER
-DTSTART:20260528T151500
-DTEND:20260528T171500
-DESCRIPTION:Dir: RIDLEY SCOTT (1990)\nhttps://www.screenslate.com/series/n
- ever-say-die-ageless-adventures-built-boroughs
-LOCATION:PARIS THEATER
-URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
- ilt-boroughs
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fright Night @ PARIS THEATER
-DTSTART:20260528T220000
-DTEND:20260529T000000
-DESCRIPTION:Dir: TOM HOLLAND (1985)\nhttps://www.screenslate.com/series/ne
- ver-say-die-ageless-adventures-built-boroughs
-LOCATION:PARIS THEATER
-URL:https://www.screenslate.com/series/never-say-die-ageless-adventures-bu
- ilt-boroughs
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Napoleon Dynamite @ QUAD CINEMA
-DTSTART:20260528T180000
-DTEND:20260528T200000
-DESCRIPTION:Dir: JARED HESS (2004)\nhttps://www.screenslate.com/series/ame
- rican-elsewhere
-LOCATION:QUAD CINEMA
-URL:https://www.screenslate.com/series/american-elsewhere
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shaolin Soccer @ ROOFTOP FILMS
-DTSTART:20260528T190000
-DTEND:20260528T210000
-DESCRIPTION:Dir: STEPHEN CHOW (2001)\nhttps://www.screenslate.com/series/r
- ooftop-films-summer-series-2026
-LOCATION:ROOFTOP FILMS
-URL:https://www.screenslate.com/series/rooftop-films-summer-series-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sucker Punch @ ROXY CINEMA NEW YORK
-DTSTART:20260528T214500
-DTEND:20260528T234500
-DESCRIPTION:Dir: ZACK SNYDER (2011)\nhttps://www.screenslate.com/series/i-
- paused-my-game-be-here
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.screenslate.com/series/i-paused-my-game-be-here
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lightning Over Braddock: A Rust Bowl Fantasy @ SPECTACLE
-DTSTART:20260528T220000
-DTEND:20260529T000000
-DESCRIPTION:Dir: TONY BUBA (1988)\nhttps://www.screenslate.com/series/brad
- dock-dadetown-2-rust-bowl-fantasies
-LOCATION:SPECTACLE
-URL:https://www.screenslate.com/series/braddock-dadetown-2-rust-bowl-fanta
- sies
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:STOP! THAT! TRAIN! @ SVA THEATRE
-DTSTART:20260528T190000
-DTEND:20260528T210000
-DESCRIPTION:Dir: ADAM SHANKMAN (2026)\nhttps://www.screenslate.com/series/
- newfest-pride-2026
-LOCATION:SVA THEATRE
-URL:https://www.screenslate.com/series/newfest-pride-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Einstein on the Beach: The Changing Image of Opera @ ANTHOLOGY FIL
  M ARCHIVES
 DTSTART:20260529T184500
@@ -1536,6 +429,384 @@ LOCATION:GOETHE-INSTITUT NEW YORK
 URL:https://www.screenslate.com/series/german-movie-nights
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260529T103500
+DTEND:20260529T123500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260529T143500
+DTEND:20260529T163500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260529T191000
+DTEND:20260529T211000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260529T104000
+DTEND:20260529T124000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260529T153500
+DTEND:20260529T173500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260529T183000
+DTEND:20260529T203000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260529T212500
+DTEND:20260529T232500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260529T110000
+DTEND:20260529T130000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260529T214000
+DTEND:20260529T234000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260529T113000
+DTEND:20260529T133000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260529T144500
+DTEND:20260529T164500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260529T180000
+DTEND:20260529T200000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260529T211500
+DTEND:20260529T231500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260529T123000
+DTEND:20260529T143000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260529T130500
+DTEND:20260529T150500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260529T131500
+DTEND:20260529T151500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260529T160000
+DTEND:20260529T180000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260529T184500
+DTEND:20260529T204500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260529T132000
+DTEND:20260529T152000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260529T173000
+DTEND:20260529T193000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260529T152000
+DTEND:20260529T172000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260529T194500
+DTEND:20260529T214500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260529T164000
+DTEND:20260529T184000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260529T212000
+DTEND:20260529T232000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260529T232500
+DTEND:20260530T012500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260529T233000
+DTEND:20260530T013000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260529T235000
+DTEND:20260530T015000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260529T235900
+DTEND:20260530T015900
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260529T104000
+DTEND:20260529T124000
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260529T153500
+DTEND:20260529T173500
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260529T183000
+DTEND:20260529T203000
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260529T212500
+DTEND:20260529T232500
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Heron @ IFC CENTER
+DTSTART:20260529T110000
+DTEND:20260529T130000
+DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://www.ifccenter.com/films/blu
+ e-heron/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-heron/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Heron @ IFC CENTER
+DTSTART:20260529T214000
+DTEND:20260529T234000
+DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://www.ifccenter.com/films/blu
+ e-heron/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-heron/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mulholland Dr. @ IFC CENTER
+DTSTART:20260529T113000
+DTEND:20260529T133000
+DESCRIPTION:Dir: DAVID LYNCH (2001)\nhttps://www.ifccenter.com/films/mulho
+ lland-dr/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mulholland-dr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mulholland Dr. @ IFC CENTER
+DTSTART:20260529T144500
+DTEND:20260529T164500
+DESCRIPTION:Dir: DAVID LYNCH (2001)\nhttps://www.ifccenter.com/films/mulho
+ lland-dr/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mulholland-dr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mulholland Dr. @ IFC CENTER
+DTSTART:20260529T180000
+DTEND:20260529T200000
+DESCRIPTION:Dir: DAVID LYNCH (2001)\nhttps://www.ifccenter.com/films/mulho
+ lland-dr/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mulholland-dr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mulholland Dr. @ IFC CENTER
+DTSTART:20260529T211500
+DTEND:20260529T231500
+DESCRIPTION:Dir: DAVID LYNCH (2001)\nhttps://www.ifccenter.com/films/mulho
+ lland-dr/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mulholland-dr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
+DTSTART:20260529T123000
+DTEND:20260529T143000
+DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
+ e-of-forgotten-dreams-3d/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steal This Story\, Please! @ IFC CENTER
+DTSTART:20260529T130500
+DTEND:20260529T150500
+DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
+ films/steal-this-story-please/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/steal-this-story-please/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renoir @ IFC CENTER
+DTSTART:20260529T131500
+DTEND:20260529T151500
+DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
+ oir/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/renoir/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renoir @ IFC CENTER
+DTSTART:20260529T160000
+DTEND:20260529T180000
+DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
+ oir/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/renoir/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Renoir @ IFC CENTER
 DTSTART:20260529T184500
 DTEND:20260529T204500
@@ -1543,6 +814,105 @@ DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
  oir/
 LOCATION:IFC CENTER
 URL:https://www.ifccenter.com/films/renoir/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renoir @ IFC CENTER
+DTSTART:20260529T214000
+DTEND:20260529T234000
+DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
+ oir/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/renoir/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers @ IFC CENTER
+DTSTART:20260529T132000
+DTEND:20260529T152000
+DESCRIPTION:Dir: STEVEN SODERBERGH (2026)\nhttps://www.ifccenter.com/films
+ /the-christophers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-christophers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers @ IFC CENTER
+DTSTART:20260529T173000
+DTEND:20260529T193000
+DESCRIPTION:Dir: STEVEN SODERBERGH (2026)\nhttps://www.ifccenter.com/films
+ /the-christophers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-christophers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Film @ IFC CENTER
+DTSTART:20260529T152000
+DTEND:20260529T172000
+DESCRIPTION:Dir: ELLIOT TUTTLE (2026)\nhttps://www.ifccenter.com/films/blu
+ e-film/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-film/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Film @ IFC CENTER
+DTSTART:20260529T194500
+DTEND:20260529T214500
+DESCRIPTION:Dir: ELLIOT TUTTLE (2026)\nhttps://www.ifccenter.com/films/blu
+ e-film/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-film/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A New Leaf @ IFC CENTER
+DTSTART:20260529T164000
+DTEND:20260529T184000
+DESCRIPTION:Dir: ELAINE MAY (1971)\nhttps://www.ifccenter.com/films/a-new-
+ leaf/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/a-new-leaf/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A New Leaf @ IFC CENTER
+DTSTART:20260529T212000
+DTEND:20260529T232000
+DESCRIPTION:Dir: ELAINE MAY (1971)\nhttps://www.ifccenter.com/films/a-new-
+ leaf/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/a-new-leaf/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:True Lies @ IFC CENTER
+DTSTART:20260529T232500
+DTEND:20260530T012500
+DESCRIPTION:Dir: JAMES CAMERON (1994)\nhttps://www.ifccenter.com/films/tru
+ e-lies/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/true-lies/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aliens @ IFC CENTER
+DTSTART:20260529T233000
+DTEND:20260530T013000
+DESCRIPTION:Dir: JAMES CAMERON (1986)\nhttps://www.ifccenter.com/films/ali
+ ens/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/aliens/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pusher @ IFC CENTER
+DTSTART:20260529T235000
+DTEND:20260530T015000
+DESCRIPTION:Dir: NICOLAS WINDING REFN (1996)\nhttps://www.screenslate.com/
+ series/pusher-trilogy
+LOCATION:IFC CENTER
+URL:https://www.screenslate.com/series/pusher-trilogy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Blair Witch Project @ IFC CENTER
+DTSTART:20260529T235900
+DTEND:20260530T015900
+DESCRIPTION:Dir: DANIEL MYRICK\, EDUARDO SÁNCHEZ (1999)\nhttps://www.scre
+ enslate.com/series/late-night-favorites-spring-2026
+LOCATION:IFC CENTER
+URL:https://www.screenslate.com/series/late-night-favorites-spring-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Four Adventures of Reinette and Mirabelle @ METROGRAPH
@@ -2328,6 +1698,465 @@ LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/films/the-stranger/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:We Are Pat @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260530T140000
+DTEND:20260530T160000
+DESCRIPTION:Dir: ROWAN HABER (2025)\nhttps://firehousecinema.dctvny.org/we
+ arepat
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://firehousecinema.dctvny.org/wearepat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:We Are Pat @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260530T163000
+DTEND:20260530T183000
+DESCRIPTION:Dir: ROWAN HABER (2025)\nhttps://firehousecinema.dctvny.org/we
+ arepat
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://firehousecinema.dctvny.org/wearepat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:We Are Pat @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260530T190000
+DTEND:20260530T210000
+DESCRIPTION:Dir: ROWAN HABER (2025)\nhttps://firehousecinema.dctvny.org/we
+ arepat
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://firehousecinema.dctvny.org/wearepat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T103500
+DTEND:20260530T123500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T143500
+DTEND:20260530T163500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T191000
+DTEND:20260530T211000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T104000
+DTEND:20260530T124000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T153500
+DTEND:20260530T173500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T183000
+DTEND:20260530T203000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T212500
+DTEND:20260530T232500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T110000
+DTEND:20260530T130000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T214000
+DTEND:20260530T234000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T111500
+DTEND:20260530T131500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T152000
+DTEND:20260530T172000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T194500
+DTEND:20260530T214500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T113000
+DTEND:20260530T133000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T203000
+DTEND:20260530T223000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T123000
+DTEND:20260530T143000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T130500
+DTEND:20260530T150500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T131500
+DTEND:20260530T151500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T160000
+DTEND:20260530T180000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T184500
+DTEND:20260530T204500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T132000
+DTEND:20260530T152000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T173000
+DTEND:20260530T193000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T153000
+DTEND:20260530T173000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T180500
+DTEND:20260530T200500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T164000
+DTEND:20260530T184000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T212000
+DTEND:20260530T232000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T232500
+DTEND:20260531T012500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T233000
+DTEND:20260531T013000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T235000
+DTEND:20260531T015000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260530T235900
+DTEND:20260531T015900
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260530T104000
+DTEND:20260530T124000
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260530T153500
+DTEND:20260530T173500
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260530T183000
+DTEND:20260530T203000
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260530T212500
+DTEND:20260530T232500
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Heron @ IFC CENTER
+DTSTART:20260530T110000
+DTEND:20260530T130000
+DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://www.ifccenter.com/films/blu
+ e-heron/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-heron/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Heron @ IFC CENTER
+DTSTART:20260530T214000
+DTEND:20260530T234000
+DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://www.ifccenter.com/films/blu
+ e-heron/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-heron/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Film @ IFC CENTER
+DTSTART:20260530T111500
+DTEND:20260530T131500
+DESCRIPTION:Dir: ELLIOT TUTTLE (2026)\nhttps://www.ifccenter.com/films/blu
+ e-film/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-film/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Film @ IFC CENTER
+DTSTART:20260530T152000
+DTEND:20260530T172000
+DESCRIPTION:Dir: ELLIOT TUTTLE (2026)\nhttps://www.ifccenter.com/films/blu
+ e-film/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-film/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Film @ IFC CENTER
+DTSTART:20260530T194500
+DTEND:20260530T214500
+DESCRIPTION:Dir: ELLIOT TUTTLE (2026)\nhttps://www.ifccenter.com/films/blu
+ e-film/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-film/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mulholland Dr. @ IFC CENTER
+DTSTART:20260530T113000
+DTEND:20260530T133000
+DESCRIPTION:Dir: DAVID LYNCH (2001)\nhttps://www.ifccenter.com/films/mulho
+ lland-dr/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mulholland-dr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mulholland Dr. @ IFC CENTER
+DTSTART:20260530T203000
+DTEND:20260530T223000
+DESCRIPTION:Dir: DAVID LYNCH (2001)\nhttps://www.ifccenter.com/films/mulho
+ lland-dr/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mulholland-dr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
+DTSTART:20260530T123000
+DTEND:20260530T143000
+DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
+ e-of-forgotten-dreams-3d/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steal This Story\, Please! @ IFC CENTER
+DTSTART:20260530T130500
+DTEND:20260530T150500
+DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
+ films/steal-this-story-please/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/steal-this-story-please/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renoir @ IFC CENTER
+DTSTART:20260530T131500
+DTEND:20260530T151500
+DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
+ oir/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/renoir/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renoir @ IFC CENTER
+DTSTART:20260530T160000
+DTEND:20260530T180000
+DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
+ oir/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/renoir/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renoir @ IFC CENTER
+DTSTART:20260530T184500
+DTEND:20260530T204500
+DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
+ oir/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/renoir/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renoir @ IFC CENTER
+DTSTART:20260530T214000
+DTEND:20260530T234000
+DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
+ oir/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/renoir/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers @ IFC CENTER
+DTSTART:20260530T132000
+DTEND:20260530T152000
+DESCRIPTION:Dir: STEVEN SODERBERGH (2026)\nhttps://www.ifccenter.com/films
+ /the-christophers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-christophers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers @ IFC CENTER
+DTSTART:20260530T173000
+DTEND:20260530T193000
+DESCRIPTION:Dir: STEVEN SODERBERGH (2026)\nhttps://www.ifccenter.com/films
+ /the-christophers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-christophers/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mysterious Skin @ IFC CENTER
 DTSTART:20260530T153000
 DTEND:20260530T173000
@@ -2346,22 +2175,58 @@ LOCATION:IFC CENTER
 URL:https://www.ifccenter.com/films/mysterious-skin/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mysterious Skin @ IFC CENTER
-DTSTART:20260530T184500
-DTEND:20260530T204500
-DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
- rious-skin/
+SUMMARY:A New Leaf @ IFC CENTER
+DTSTART:20260530T164000
+DTEND:20260530T184000
+DESCRIPTION:Dir: ELAINE MAY (1971)\nhttps://www.ifccenter.com/films/a-new-
+ leaf/
 LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mysterious-skin/
+URL:https://www.ifccenter.com/films/a-new-leaf/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Renoir @ IFC CENTER
-DTSTART:20260530T184500
-DTEND:20260530T204500
-DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
- oir/
+SUMMARY:A New Leaf @ IFC CENTER
+DTSTART:20260530T212000
+DTEND:20260530T232000
+DESCRIPTION:Dir: ELAINE MAY (1971)\nhttps://www.ifccenter.com/films/a-new-
+ leaf/
 LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/renoir/
+URL:https://www.ifccenter.com/films/a-new-leaf/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:True Lies @ IFC CENTER
+DTSTART:20260530T232500
+DTEND:20260531T012500
+DESCRIPTION:Dir: JAMES CAMERON (1994)\nhttps://www.ifccenter.com/films/tru
+ e-lies/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/true-lies/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aliens @ IFC CENTER
+DTSTART:20260530T233000
+DTEND:20260531T013000
+DESCRIPTION:Dir: JAMES CAMERON (1986)\nhttps://www.ifccenter.com/films/ali
+ ens/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/aliens/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pusher @ IFC CENTER
+DTSTART:20260530T235000
+DTEND:20260531T015000
+DESCRIPTION:Dir: NICOLAS WINDING REFN (1996)\nhttps://www.screenslate.com/
+ series/pusher-trilogy
+LOCATION:IFC CENTER
+URL:https://www.screenslate.com/series/pusher-trilogy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Blair Witch Project @ IFC CENTER
+DTSTART:20260530T235900
+DTEND:20260531T015900
+DESCRIPTION:Dir: DANIEL MYRICK\, EDUARDO SÁNCHEZ (1999)\nhttps://www.scre
+ enslate.com/series/late-night-favorites-spring-2026
+LOCATION:IFC CENTER
+URL:https://www.screenslate.com/series/late-night-favorites-spring-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dream of Light @ METROGRAPH
@@ -2483,11 +2348,11 @@ URL:https://www.screenslate.com/series/maybe-if-you-smile-they-will-one-da
  y-all-return
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pirosmani @ METROGRAPH
+SUMMARY:Arabesques on the Pirosmani Theme @ METROGRAPH
 DTSTART:20260530T181500
 DTEND:20260530T201500
-DESCRIPTION:Dir: SERGEI PARAJANOV\, GIORGI SHENGELAIA (1969)\nhttps://www.
- screenslate.com/series/lives-most-excellent-painters
+DESCRIPTION:Dir: SERGEI PARAJANOV (1985)\nhttps://www.screenslate.com/seri
+ es/lives-most-excellent-painters
 LOCATION:METROGRAPH
 URL:https://www.screenslate.com/series/lives-most-excellent-painters
 END:VEVENT
@@ -3428,6 +3293,429 @@ DESCRIPTION:Dir: FRANÇOIS OZON (2025)\nhttps://www.filmlinc.org/films/the
  -stranger/
 LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/films/the-stranger/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:We Are Pat @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260531T130000
+DTEND:20260531T150000
+DESCRIPTION:Dir: ROWAN HABER (2025)\nhttps://firehousecinema.dctvny.org/we
+ arepat
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://firehousecinema.dctvny.org/wearepat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:We Are Pat @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260531T160000
+DTEND:20260531T180000
+DESCRIPTION:Dir: ROWAN HABER (2025)\nhttps://firehousecinema.dctvny.org/we
+ arepat
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://firehousecinema.dctvny.org/wearepat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:We Are Pat @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260531T180000
+DTEND:20260531T200000
+DESCRIPTION:Dir: ROWAN HABER (2025)\nhttps://firehousecinema.dctvny.org/we
+ arepat
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://firehousecinema.dctvny.org/wearepat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260531T103500
+DTEND:20260531T123500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260531T143500
+DTEND:20260531T163500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260531T191000
+DTEND:20260531T211000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260531T104000
+DTEND:20260531T124000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260531T153500
+DTEND:20260531T173500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260531T183000
+DTEND:20260531T203000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260531T213000
+DTEND:20260531T233000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260531T110000
+DTEND:20260531T130000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260531T214000
+DTEND:20260531T234000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260531T111500
+DTEND:20260531T131500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260531T152000
+DTEND:20260531T172000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260531T194500
+DTEND:20260531T214500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260531T113000
+DTEND:20260531T133000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260531T144500
+DTEND:20260531T164500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260531T180000
+DTEND:20260531T200000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260531T211500
+DTEND:20260531T231500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260531T123000
+DTEND:20260531T143000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260531T131500
+DTEND:20260531T151500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260531T160000
+DTEND:20260531T180000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260531T184500
+DTEND:20260531T204500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260531T163000
+DTEND:20260531T183000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260531T173000
+DTEND:20260531T193000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260531T212000
+DTEND:20260531T232000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260531T104000
+DTEND:20260531T124000
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260531T153500
+DTEND:20260531T173500
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260531T183000
+DTEND:20260531T203000
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260531T213000
+DTEND:20260531T233000
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Heron @ IFC CENTER
+DTSTART:20260531T110000
+DTEND:20260531T130000
+DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://www.ifccenter.com/films/blu
+ e-heron/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-heron/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Heron @ IFC CENTER
+DTSTART:20260531T214000
+DTEND:20260531T234000
+DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://www.ifccenter.com/films/blu
+ e-heron/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-heron/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Film @ IFC CENTER
+DTSTART:20260531T111500
+DTEND:20260531T131500
+DESCRIPTION:Dir: ELLIOT TUTTLE (2026)\nhttps://www.ifccenter.com/films/blu
+ e-film/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-film/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Film @ IFC CENTER
+DTSTART:20260531T152000
+DTEND:20260531T172000
+DESCRIPTION:Dir: ELLIOT TUTTLE (2026)\nhttps://www.ifccenter.com/films/blu
+ e-film/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-film/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Film @ IFC CENTER
+DTSTART:20260531T194500
+DTEND:20260531T214500
+DESCRIPTION:Dir: ELLIOT TUTTLE (2026)\nhttps://www.ifccenter.com/films/blu
+ e-film/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-film/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mulholland Dr. @ IFC CENTER
+DTSTART:20260531T113000
+DTEND:20260531T133000
+DESCRIPTION:Dir: DAVID LYNCH (2001)\nhttps://www.ifccenter.com/films/mulho
+ lland-dr/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mulholland-dr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mulholland Dr. @ IFC CENTER
+DTSTART:20260531T144500
+DTEND:20260531T164500
+DESCRIPTION:Dir: DAVID LYNCH (2001)\nhttps://www.ifccenter.com/films/mulho
+ lland-dr/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mulholland-dr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mulholland Dr. @ IFC CENTER
+DTSTART:20260531T180000
+DTEND:20260531T200000
+DESCRIPTION:Dir: DAVID LYNCH (2001)\nhttps://www.ifccenter.com/films/mulho
+ lland-dr/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mulholland-dr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mulholland Dr. @ IFC CENTER
+DTSTART:20260531T211500
+DTEND:20260531T231500
+DESCRIPTION:Dir: DAVID LYNCH (2001)\nhttps://www.ifccenter.com/films/mulho
+ lland-dr/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mulholland-dr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
+DTSTART:20260531T123000
+DTEND:20260531T143000
+DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
+ e-of-forgotten-dreams-3d/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renoir @ IFC CENTER
+DTSTART:20260531T131500
+DTEND:20260531T151500
+DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
+ oir/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/renoir/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renoir @ IFC CENTER
+DTSTART:20260531T160000
+DTEND:20260531T180000
+DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
+ oir/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/renoir/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renoir @ IFC CENTER
+DTSTART:20260531T184500
+DTEND:20260531T204500
+DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
+ oir/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/renoir/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renoir @ IFC CENTER
+DTSTART:20260531T213000
+DTEND:20260531T233000
+DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
+ oir/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/renoir/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steal This Story\, Please! @ IFC CENTER
+DTSTART:20260531T163000
+DTEND:20260531T183000
+DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
+ films/steal-this-story-please/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/steal-this-story-please/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers @ IFC CENTER
+DTSTART:20260531T173000
+DTEND:20260531T193000
+DESCRIPTION:Dir: STEVEN SODERBERGH (2026)\nhttps://www.ifccenter.com/films
+ /the-christophers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-christophers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A New Leaf @ IFC CENTER
+DTSTART:20260531T212000
+DTEND:20260531T232000
+DESCRIPTION:Dir: ELAINE MAY (1971)\nhttps://www.ifccenter.com/films/a-new-
+ leaf/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/a-new-leaf/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Fish Called Wanda @ METROGRAPH
@@ -4375,6 +4663,438 @@ LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/films/the-stranger/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:We Are Pat @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260601T133000
+DTEND:20260601T153000
+DESCRIPTION:Dir: ROWAN HABER (2025)\nhttps://firehousecinema.dctvny.org/we
+ arepat
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://firehousecinema.dctvny.org/wearepat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:We Are Pat @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260601T153000
+DTEND:20260601T173000
+DESCRIPTION:Dir: ROWAN HABER (2025)\nhttps://firehousecinema.dctvny.org/we
+ arepat
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://firehousecinema.dctvny.org/wearepat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:We Are Pat @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260601T180000
+DTEND:20260601T200000
+DESCRIPTION:Dir: ROWAN HABER (2025)\nhttps://firehousecinema.dctvny.org/we
+ arepat
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://firehousecinema.dctvny.org/wearepat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260601T103500
+DTEND:20260601T123500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260601T143500
+DTEND:20260601T163500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260601T191000
+DTEND:20260601T211000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260601T104000
+DTEND:20260601T124000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260601T151500
+DTEND:20260601T171500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260601T212500
+DTEND:20260601T232500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260601T110000
+DTEND:20260601T130000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260601T214000
+DTEND:20260601T234000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260601T111500
+DTEND:20260601T131500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260601T152000
+DTEND:20260601T172000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260601T113000
+DTEND:20260601T133000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260601T144500
+DTEND:20260601T164500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260601T180000
+DTEND:20260601T200000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260601T211500
+DTEND:20260601T231500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260601T123000
+DTEND:20260601T143000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260601T130500
+DTEND:20260601T150500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260601T131500
+DTEND:20260601T151500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260601T160000
+DTEND:20260601T180000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260601T184500
+DTEND:20260601T204500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260601T213000
+DTEND:20260601T233000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260601T132000
+DTEND:20260601T152000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260601T173000
+DTEND:20260601T193000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260601T164000
+DTEND:20260601T184000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260601T212000
+DTEND:20260601T232000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260601T104000
+DTEND:20260601T124000
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260601T151500
+DTEND:20260601T171500
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260601T212500
+DTEND:20260601T232500
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Heron @ IFC CENTER
+DTSTART:20260601T110000
+DTEND:20260601T130000
+DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://www.ifccenter.com/films/blu
+ e-heron/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-heron/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Heron @ IFC CENTER
+DTSTART:20260601T214000
+DTEND:20260601T234000
+DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://www.ifccenter.com/films/blu
+ e-heron/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-heron/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Film @ IFC CENTER
+DTSTART:20260601T111500
+DTEND:20260601T131500
+DESCRIPTION:Dir: ELLIOT TUTTLE (2026)\nhttps://www.ifccenter.com/films/blu
+ e-film/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-film/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Film @ IFC CENTER
+DTSTART:20260601T152000
+DTEND:20260601T172000
+DESCRIPTION:Dir: ELLIOT TUTTLE (2026)\nhttps://www.ifccenter.com/films/blu
+ e-film/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-film/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mulholland Dr. @ IFC CENTER
+DTSTART:20260601T113000
+DTEND:20260601T133000
+DESCRIPTION:Dir: DAVID LYNCH (2001)\nhttps://www.ifccenter.com/films/mulho
+ lland-dr/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mulholland-dr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mulholland Dr. @ IFC CENTER
+DTSTART:20260601T144500
+DTEND:20260601T164500
+DESCRIPTION:Dir: DAVID LYNCH (2001)\nhttps://www.ifccenter.com/films/mulho
+ lland-dr/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mulholland-dr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mulholland Dr. @ IFC CENTER
+DTSTART:20260601T180000
+DTEND:20260601T200000
+DESCRIPTION:Dir: DAVID LYNCH (2001)\nhttps://www.ifccenter.com/films/mulho
+ lland-dr/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mulholland-dr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mulholland Dr. @ IFC CENTER
+DTSTART:20260601T211500
+DTEND:20260601T231500
+DESCRIPTION:Dir: DAVID LYNCH (2001)\nhttps://www.ifccenter.com/films/mulho
+ lland-dr/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mulholland-dr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
+DTSTART:20260601T123000
+DTEND:20260601T143000
+DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
+ e-of-forgotten-dreams-3d/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steal This Story\, Please! @ IFC CENTER
+DTSTART:20260601T130500
+DTEND:20260601T150500
+DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
+ films/steal-this-story-please/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/steal-this-story-please/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renoir @ IFC CENTER
+DTSTART:20260601T131500
+DTEND:20260601T151500
+DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
+ oir/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/renoir/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renoir @ IFC CENTER
+DTSTART:20260601T160000
+DTEND:20260601T180000
+DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
+ oir/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/renoir/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renoir @ IFC CENTER
+DTSTART:20260601T184500
+DTEND:20260601T204500
+DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
+ oir/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/renoir/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renoir @ IFC CENTER
+DTSTART:20260601T213000
+DTEND:20260601T233000
+DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
+ oir/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/renoir/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers @ IFC CENTER
+DTSTART:20260601T132000
+DTEND:20260601T152000
+DESCRIPTION:Dir: STEVEN SODERBERGH (2026)\nhttps://www.ifccenter.com/films
+ /the-christophers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-christophers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers @ IFC CENTER
+DTSTART:20260601T173000
+DTEND:20260601T193000
+DESCRIPTION:Dir: STEVEN SODERBERGH (2026)\nhttps://www.ifccenter.com/films
+ /the-christophers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-christophers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A New Leaf @ IFC CENTER
+DTSTART:20260601T164000
+DTEND:20260601T184000
+DESCRIPTION:Dir: ELAINE MAY (1971)\nhttps://www.ifccenter.com/films/a-new-
+ leaf/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/a-new-leaf/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A New Leaf @ IFC CENTER
+DTSTART:20260601T212000
+DTEND:20260601T232000
+DESCRIPTION:Dir: ELAINE MAY (1971)\nhttps://www.ifccenter.com/films/a-new-
+ leaf/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/a-new-leaf/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Handmaiden @ METROGRAPH
 DTSTART:20260601T163000
 DTEND:20260601T183000
@@ -4926,6 +5646,465 @@ DESCRIPTION:Dir: FRITZ LANG (1952)\nhttps://www.screenslate.com/series/mar
  ilyn-100
 LOCATION:FILM FORUM
 URL:https://www.screenslate.com/series/marilyn-100
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:We Are Pat @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260602T133000
+DTEND:20260602T153000
+DESCRIPTION:Dir: ROWAN HABER (2025)\nhttps://firehousecinema.dctvny.org/we
+ arepat
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://firehousecinema.dctvny.org/wearepat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:We Are Pat @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260602T153000
+DTEND:20260602T173000
+DESCRIPTION:Dir: ROWAN HABER (2025)\nhttps://firehousecinema.dctvny.org/we
+ arepat
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://firehousecinema.dctvny.org/wearepat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:We Are Pat @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260602T180000
+DTEND:20260602T200000
+DESCRIPTION:Dir: ROWAN HABER (2025)\nhttps://firehousecinema.dctvny.org/we
+ arepat
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://firehousecinema.dctvny.org/wearepat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260602T103500
+DTEND:20260602T123500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260602T143500
+DTEND:20260602T163500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260602T104000
+DTEND:20260602T124000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260602T153500
+DTEND:20260602T173500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260602T183000
+DTEND:20260602T203000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260602T212500
+DTEND:20260602T232500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260602T110000
+DTEND:20260602T130000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260602T214000
+DTEND:20260602T234000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260602T113000
+DTEND:20260602T133000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260602T144500
+DTEND:20260602T164500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260602T180000
+DTEND:20260602T200000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260602T211500
+DTEND:20260602T231500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260602T113500
+DTEND:20260602T133500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260602T152500
+DTEND:20260602T172500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260602T194500
+DTEND:20260602T214500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260602T123000
+DTEND:20260602T143000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260602T130500
+DTEND:20260602T150500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260602T131500
+DTEND:20260602T151500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260602T152000
+DTEND:20260602T172000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260602T184500
+DTEND:20260602T204500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260602T213000
+DTEND:20260602T233000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260602T132000
+DTEND:20260602T152000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260602T173000
+DTEND:20260602T193000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260602T164000
+DTEND:20260602T184000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260602T204500
+DTEND:20260602T224500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260602T104000
+DTEND:20260602T124000
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260602T153500
+DTEND:20260602T173500
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260602T183000
+DTEND:20260602T203000
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260602T212500
+DTEND:20260602T232500
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Heron @ IFC CENTER
+DTSTART:20260602T110000
+DTEND:20260602T130000
+DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://www.ifccenter.com/films/blu
+ e-heron/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-heron/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Heron @ IFC CENTER
+DTSTART:20260602T214000
+DTEND:20260602T234000
+DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://www.ifccenter.com/films/blu
+ e-heron/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-heron/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mulholland Dr. @ IFC CENTER
+DTSTART:20260602T113000
+DTEND:20260602T133000
+DESCRIPTION:Dir: DAVID LYNCH (2001)\nhttps://www.ifccenter.com/films/mulho
+ lland-dr/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mulholland-dr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mulholland Dr. @ IFC CENTER
+DTSTART:20260602T144500
+DTEND:20260602T164500
+DESCRIPTION:Dir: DAVID LYNCH (2001)\nhttps://www.ifccenter.com/films/mulho
+ lland-dr/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mulholland-dr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mulholland Dr. @ IFC CENTER
+DTSTART:20260602T180000
+DTEND:20260602T200000
+DESCRIPTION:Dir: DAVID LYNCH (2001)\nhttps://www.ifccenter.com/films/mulho
+ lland-dr/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mulholland-dr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mulholland Dr. @ IFC CENTER
+DTSTART:20260602T211500
+DTEND:20260602T231500
+DESCRIPTION:Dir: DAVID LYNCH (2001)\nhttps://www.ifccenter.com/films/mulho
+ lland-dr/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mulholland-dr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Film @ IFC CENTER
+DTSTART:20260602T113500
+DTEND:20260602T133500
+DESCRIPTION:Dir: ELLIOT TUTTLE (2026)\nhttps://www.ifccenter.com/films/blu
+ e-film/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-film/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Film @ IFC CENTER
+DTSTART:20260602T152500
+DTEND:20260602T172500
+DESCRIPTION:Dir: ELLIOT TUTTLE (2026)\nhttps://www.ifccenter.com/films/blu
+ e-film/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-film/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Film @ IFC CENTER
+DTSTART:20260602T194500
+DTEND:20260602T214500
+DESCRIPTION:Dir: ELLIOT TUTTLE (2026)\nhttps://www.ifccenter.com/films/blu
+ e-film/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-film/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
+DTSTART:20260602T123000
+DTEND:20260602T143000
+DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
+ e-of-forgotten-dreams-3d/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steal This Story\, Please! @ IFC CENTER
+DTSTART:20260602T130500
+DTEND:20260602T150500
+DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
+ films/steal-this-story-please/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/steal-this-story-please/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renoir @ IFC CENTER
+DTSTART:20260602T131500
+DTEND:20260602T151500
+DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
+ oir/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/renoir/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renoir @ IFC CENTER
+DTSTART:20260602T152000
+DTEND:20260602T172000
+DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
+ oir/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/renoir/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renoir @ IFC CENTER
+DTSTART:20260602T184500
+DTEND:20260602T204500
+DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
+ oir/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/renoir/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renoir @ IFC CENTER
+DTSTART:20260602T213000
+DTEND:20260602T233000
+DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
+ oir/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/renoir/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers @ IFC CENTER
+DTSTART:20260602T132000
+DTEND:20260602T152000
+DESCRIPTION:Dir: STEVEN SODERBERGH (2026)\nhttps://www.ifccenter.com/films
+ /the-christophers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-christophers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers @ IFC CENTER
+DTSTART:20260602T173000
+DTEND:20260602T193000
+DESCRIPTION:Dir: STEVEN SODERBERGH (2026)\nhttps://www.ifccenter.com/films
+ /the-christophers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-christophers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A New Leaf @ IFC CENTER
+DTSTART:20260602T164000
+DTEND:20260602T184000
+DESCRIPTION:Dir: ELAINE MAY (1971)\nhttps://www.ifccenter.com/films/a-new-
+ leaf/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/a-new-leaf/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A New Leaf @ IFC CENTER
+DTSTART:20260602T204500
+DTEND:20260602T224500
+DESCRIPTION:Dir: ELAINE MAY (1971)\nhttps://www.ifccenter.com/films/a-new-
+ leaf/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/a-new-leaf/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Toni @ L'ALLIANCE NEW YORK
@@ -5532,6 +6711,339 @@ LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.screenslate.com/series/2026-open-roads-new-italian-cinema
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:We Are Pat @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260603T140000
+DTEND:20260603T160000
+DESCRIPTION:Dir: ROWAN HABER (2025)\nhttps://firehousecinema.dctvny.org/we
+ arepat
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://firehousecinema.dctvny.org/wearepat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:We Are Pat @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260603T160000
+DTEND:20260603T180000
+DESCRIPTION:Dir: ROWAN HABER (2025)\nhttps://firehousecinema.dctvny.org/we
+ arepat
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://firehousecinema.dctvny.org/wearepat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:We Are Pat @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260603T183000
+DTEND:20260603T203000
+DESCRIPTION:Dir: ROWAN HABER (2025)\nhttps://firehousecinema.dctvny.org/we
+ arepat
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://firehousecinema.dctvny.org/wearepat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260603T103500
+DTEND:20260603T123500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260603T143500
+DTEND:20260603T163500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260603T104000
+DTEND:20260603T124000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260603T184000
+DTEND:20260603T204000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260603T214000
+DTEND:20260603T234000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260603T110000
+DTEND:20260603T130000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260603T111500
+DTEND:20260603T131500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260603T152000
+DTEND:20260603T172000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260603T195500
+DTEND:20260603T215500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260603T112000
+DTEND:20260603T132000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260603T212500
+DTEND:20260603T232500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260603T123000
+DTEND:20260603T143000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260603T130000
+DTEND:20260603T150000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260603T130500
+DTEND:20260603T150500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260603T131500
+DTEND:20260603T151500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260603T160000
+DTEND:20260603T180000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260603T184500
+DTEND:20260603T204500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260603T213000
+DTEND:20260603T233000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260603T141000
+DTEND:20260603T161000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260603T163500
+DTEND:20260603T183500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260603T190000
+DTEND:20260603T210000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260603T164000
+DTEND:20260603T184000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260603T173000
+DTEND:20260603T193000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260603T104000
+DTEND:20260603T124000
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260603T184000
+DTEND:20260603T204000
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260603T214000
+DTEND:20260603T234000
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Heron @ IFC CENTER
+DTSTART:20260603T110000
+DTEND:20260603T130000
+DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://www.ifccenter.com/films/blu
+ e-heron/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-heron/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Heron @ IFC CENTER
+DTSTART:20260603T214000
+DTEND:20260603T234000
+DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://www.ifccenter.com/films/blu
+ e-heron/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-heron/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Film @ IFC CENTER
+DTSTART:20260603T111500
+DTEND:20260603T131500
+DESCRIPTION:Dir: ELLIOT TUTTLE (2026)\nhttps://www.ifccenter.com/films/blu
+ e-film/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-film/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Film @ IFC CENTER
+DTSTART:20260603T152000
+DTEND:20260603T172000
+DESCRIPTION:Dir: ELLIOT TUTTLE (2026)\nhttps://www.ifccenter.com/films/blu
+ e-film/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-film/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Film @ IFC CENTER
+DTSTART:20260603T195500
+DTEND:20260603T215500
+DESCRIPTION:Dir: ELLIOT TUTTLE (2026)\nhttps://www.ifccenter.com/films/blu
+ e-film/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-film/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mulholland Dr. @ IFC CENTER
+DTSTART:20260603T112000
+DTEND:20260603T132000
+DESCRIPTION:Dir: DAVID LYNCH (2001)\nhttps://www.ifccenter.com/films/mulho
+ lland-dr/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mulholland-dr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mulholland Dr. @ IFC CENTER
+DTSTART:20260603T212500
+DTEND:20260603T232500
+DESCRIPTION:Dir: DAVID LYNCH (2001)\nhttps://www.ifccenter.com/films/mulho
+ lland-dr/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mulholland-dr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
+DTSTART:20260603T123000
+DTEND:20260603T143000
+DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
+ e-of-forgotten-dreams-3d/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cleopatra @ IFC CENTER
 DTSTART:20260603T130000
 DTEND:20260603T150000
@@ -5541,45 +7053,54 @@ LOCATION:IFC CENTER
 URL:https://www.ifccenter.com/films/hb-studio-presents-cleopatra/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cleopatra @ IFC CENTER
+SUMMARY:Steal This Story\, Please! @ IFC CENTER
+DTSTART:20260603T130500
+DTEND:20260603T150500
+DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
+ films/steal-this-story-please/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/steal-this-story-please/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renoir @ IFC CENTER
+DTSTART:20260603T131500
+DTEND:20260603T151500
+DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
+ oir/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/renoir/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renoir @ IFC CENTER
+DTSTART:20260603T160000
+DTEND:20260603T180000
+DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
+ oir/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/renoir/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renoir @ IFC CENTER
+DTSTART:20260603T184500
+DTEND:20260603T204500
+DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
+ oir/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/renoir/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renoir @ IFC CENTER
+DTSTART:20260603T213000
+DTEND:20260603T233000
+DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
+ oir/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/renoir/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Easy Kind @ IFC CENTER
 DTSTART:20260603T141000
 DTEND:20260603T161000
-DESCRIPTION:Dir: JOSEPH L. MANKIEWICZ (1963)\nhttps://www.ifccenter.com/fi
- lms/hb-studio-presents-cleopatra/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/hb-studio-presents-cleopatra/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cleopatra @ IFC CENTER
-DTSTART:20260603T163500
-DTEND:20260603T183500
-DESCRIPTION:Dir: JOSEPH L. MANKIEWICZ (1963)\nhttps://www.ifccenter.com/fi
- lms/hb-studio-presents-cleopatra/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/hb-studio-presents-cleopatra/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cleopatra @ IFC CENTER
-DTSTART:20260603T190000
-DTEND:20260603T210000
-DESCRIPTION:Dir: JOSEPH L. MANKIEWICZ (1963)\nhttps://www.ifccenter.com/fi
- lms/hb-studio-presents-cleopatra/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/hb-studio-presents-cleopatra/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cleopatra @ IFC CENTER
-DTSTART:20260603T212500
-DTEND:20260603T232500
-DESCRIPTION:Dir: JOSEPH L. MANKIEWICZ (1963)\nhttps://www.ifccenter.com/fi
- lms/hb-studio-presents-cleopatra/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/hb-studio-presents-cleopatra/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Easy Kind @ IFC CENTER
-DTSTART:20260603T141000
-DTEND:20260603T161000
 DESCRIPTION:Dir: KATY CHEVIGNY (2026)\nhttps://www.ifccenter.com/films/the
  -easy-kind/
 LOCATION:IFC CENTER
@@ -5611,6 +7132,24 @@ DESCRIPTION:Dir: KATY CHEVIGNY (2026)\nhttps://www.ifccenter.com/films/the
  -easy-kind/
 LOCATION:IFC CENTER
 URL:https://www.ifccenter.com/films/the-easy-kind/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A New Leaf @ IFC CENTER
+DTSTART:20260603T164000
+DTEND:20260603T184000
+DESCRIPTION:Dir: ELAINE MAY (1971)\nhttps://www.ifccenter.com/films/a-new-
+ leaf/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/a-new-leaf/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers @ IFC CENTER
+DTSTART:20260603T173000
+DTEND:20260603T193000
+DESCRIPTION:Dir: STEVEN SODERBERGH (2026)\nhttps://www.ifccenter.com/films
+ /the-christophers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-christophers/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ladies and Gentlemen\, The Fabulous Stains @ NITEHAWK CINEMA PROSP
@@ -6056,6 +7595,384 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/phantom-beirut
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:We Are Pat @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260604T130000
+DTEND:20260604T150000
+DESCRIPTION:Dir: ROWAN HABER (2025)\nhttps://firehousecinema.dctvny.org/we
+ arepat
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://firehousecinema.dctvny.org/wearepat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:We Are Pat @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260604T153000
+DTEND:20260604T173000
+DESCRIPTION:Dir: ROWAN HABER (2025)\nhttps://firehousecinema.dctvny.org/we
+ arepat
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://firehousecinema.dctvny.org/wearepat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:We Are Pat @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260604T213000
+DTEND:20260604T233000
+DESCRIPTION:Dir: ROWAN HABER (2025)\nhttps://firehousecinema.dctvny.org/we
+ arepat
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://firehousecinema.dctvny.org/wearepat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260604T104000
+DTEND:20260604T124000
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260604T153500
+DTEND:20260604T173500
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260604T183000
+DTEND:20260604T203000
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260604T212500
+DTEND:20260604T232500
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260604T110000
+DTEND:20260604T130000
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260604T111500
+DTEND:20260604T131500
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260604T152000
+DTEND:20260604T172000
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260604T194500
+DTEND:20260604T214500
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260604T112000
+DTEND:20260604T132000
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260604T211500
+DTEND:20260604T231500
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260604T123000
+DTEND:20260604T143000
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260604T130500
+DTEND:20260604T150500
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260604T131500
+DTEND:20260604T151500
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260604T160000
+DTEND:20260604T180000
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260604T184500
+DTEND:20260604T204500
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260604T213000
+DTEND:20260604T233000
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260604T132000
+DTEND:20260604T152000
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260604T173000
+DTEND:20260604T193000
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260604T141000
+DTEND:20260604T161000
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260604T163500
+DTEND:20260604T183500
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260604T190000
+DTEND:20260604T210000
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260604T143500
+DTEND:20260604T163500
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260604T191000
+DTEND:20260604T211000
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260604T164000
+DTEND:20260604T184000
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
+DTSTART:20260604T212000
+DTEND:20260604T232000
+DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
+ minator-2-judgment-day/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Heron @ IFC CENTER
+DTSTART:20260604T110000
+DTEND:20260604T130000
+DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://www.ifccenter.com/films/blu
+ e-heron/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-heron/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Film @ IFC CENTER
+DTSTART:20260604T111500
+DTEND:20260604T131500
+DESCRIPTION:Dir: ELLIOT TUTTLE (2026)\nhttps://www.ifccenter.com/films/blu
+ e-film/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-film/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Film @ IFC CENTER
+DTSTART:20260604T152000
+DTEND:20260604T172000
+DESCRIPTION:Dir: ELLIOT TUTTLE (2026)\nhttps://www.ifccenter.com/films/blu
+ e-film/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-film/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Film @ IFC CENTER
+DTSTART:20260604T194500
+DTEND:20260604T214500
+DESCRIPTION:Dir: ELLIOT TUTTLE (2026)\nhttps://www.ifccenter.com/films/blu
+ e-film/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/blue-film/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mulholland Dr. @ IFC CENTER
+DTSTART:20260604T112000
+DTEND:20260604T132000
+DESCRIPTION:Dir: DAVID LYNCH (2001)\nhttps://www.ifccenter.com/films/mulho
+ lland-dr/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mulholland-dr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mulholland Dr. @ IFC CENTER
+DTSTART:20260604T211500
+DTEND:20260604T231500
+DESCRIPTION:Dir: DAVID LYNCH (2001)\nhttps://www.ifccenter.com/films/mulho
+ lland-dr/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mulholland-dr/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
+DTSTART:20260604T123000
+DTEND:20260604T143000
+DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
+ e-of-forgotten-dreams-3d/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steal This Story\, Please! @ IFC CENTER
+DTSTART:20260604T130500
+DTEND:20260604T150500
+DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
+ films/steal-this-story-please/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/steal-this-story-please/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renoir @ IFC CENTER
+DTSTART:20260604T131500
+DTEND:20260604T151500
+DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
+ oir/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/renoir/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renoir @ IFC CENTER
+DTSTART:20260604T160000
+DTEND:20260604T180000
+DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
+ oir/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/renoir/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renoir @ IFC CENTER
+DTSTART:20260604T184500
+DTEND:20260604T204500
+DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
+ oir/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/renoir/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renoir @ IFC CENTER
+DTSTART:20260604T213000
+DTEND:20260604T233000
+DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
+ oir/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/renoir/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers @ IFC CENTER
+DTSTART:20260604T132000
+DTEND:20260604T152000
+DESCRIPTION:Dir: STEVEN SODERBERGH (2026)\nhttps://www.ifccenter.com/films
+ /the-christophers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-christophers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Christophers @ IFC CENTER
+DTSTART:20260604T173000
+DTEND:20260604T193000
+DESCRIPTION:Dir: STEVEN SODERBERGH (2026)\nhttps://www.ifccenter.com/films
+ /the-christophers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-christophers/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Easy Kind @ IFC CENTER
 DTSTART:20260604T141000
 DTEND:20260604T161000
@@ -6090,6 +8007,42 @@ DESCRIPTION:Dir: KATY CHEVIGNY (2026)\nhttps://www.ifccenter.com/films/the
  -easy-kind/
 LOCATION:IFC CENTER
 URL:https://www.ifccenter.com/films/the-easy-kind/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260604T143500
+DTEND:20260604T163500
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask E. Jean @ IFC CENTER
+DTSTART:20260604T191000
+DTEND:20260604T211000
+DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
+ e-jean/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/ask-e-jean/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A New Leaf @ IFC CENTER
+DTSTART:20260604T164000
+DTEND:20260604T184000
+DESCRIPTION:Dir: ELAINE MAY (1971)\nhttps://www.ifccenter.com/films/a-new-
+ leaf/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/a-new-leaf/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A New Leaf @ IFC CENTER
+DTSTART:20260604T212000
+DTEND:20260604T232000
+DESCRIPTION:Dir: ELAINE MAY (1971)\nhttps://www.ifccenter.com/films/a-new-
+ leaf/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/a-new-leaf/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blonde Ambition @ NITEHAWK CINEMA WILLIAMSBURG
@@ -8209,6 +10162,15 @@ LOCATION:FILM FORUM
 URL:https://www.screenslate.com/series/marilyn-100
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Find Your Friends @ IFC CENTER
+DTSTART:20260609T190000
+DTEND:20260609T210000
+DESCRIPTION:Dir: IZABEL PAKZAD (2026)\nhttps://www.screenslate.com/series/
+ shudder-showcase-2026
+LOCATION:IFC CENTER
+URL:https://www.screenslate.com/series/shudder-showcase-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Such a Pretty Little Beach @ L'ALLIANCE NEW YORK
 DTSTART:20260609T160000
 DTEND:20260609T180000
@@ -9399,6 +11361,24 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/the-third-man-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gaslit @ IFC CENTER
+DTSTART:20260612T190000
+DTEND:20260612T210000
+DESCRIPTION:Dir: KATIE CAMOSY (2026)\nhttps://www.ifccenter.com/films/gasl
+ it/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gaslit/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gaslit @ IFC CENTER
+DTSTART:20260612T213000
+DTEND:20260612T233000
+DESCRIPTION:Dir: KATIE CAMOSY (2026)\nhttps://www.ifccenter.com/films/gasl
+ it/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gaslit/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Naked Dawn @ MUSEUM OF MODERN ART
 DTSTART:20260612T163000
 DTEND:20260612T183000
@@ -9692,6 +11672,15 @@ DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
  an-2026
 LOCATION:FILM FORUM
 URL:https://filmforum.org/film/the-third-man-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gaslit @ IFC CENTER
+DTSTART:20260613T190000
+DTEND:20260613T210000
+DESCRIPTION:Dir: KATIE CAMOSY (2026)\nhttps://www.ifccenter.com/films/gasl
+ it/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gaslit/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Taza\, Son of Cochise @ MUSEUM OF MODERN ART
@@ -12247,6 +14236,15 @@ LOCATION:MUSEUM OF MODERN ART
 URL:https://www.screenslate.com/series/universal-westerns
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Butterfly Effect @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260623T211500
+DTEND:20260623T231500
+DESCRIPTION:Dir: J. MACKYE GRUBER\, ERIC BRESS (2004)\nhttps://www.screens
+ late.com/series/ridiculous-sublime-nitehawk-cinema
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://www.screenslate.com/series/ridiculous-sublime-nitehawk-cinema
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:By Hook or By Crook @ NITEHAWK CINEMA WILLIAMSBURG
 DTSTART:20260623T211500
 DTEND:20260623T231500
@@ -12807,5 +14805,289 @@ DESCRIPTION:Dir: ALICE MAIO MACKAY (2025)\nhttps://www.screenslate.com/ser
 LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://www.screenslate.com/series/be-gay-do-crime-part-iii-finale-tou
  r-nitehawk-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Text of Light @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260627T161500
+DTEND:20260627T181500
+DESCRIPTION:Dir: STAN BRAKHAGE (1974)\nhttps://www.screenslate.com/series/
+ essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/essential-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Text of Light @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260627T171500
+DTEND:20260627T191500
+DESCRIPTION:Dir: STAN BRAKHAGE (1974)\nhttps://www.screenslate.com/series/
+ essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/essential-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Text of Light @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260627T200000
+DTEND:20260627T220000
+DESCRIPTION:Dir: STAN BRAKHAGE (1974)\nhttps://www.screenslate.com/series/
+ essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/essential-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Text of Light @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260627T181500
+DTEND:20260627T201500
+DESCRIPTION:Dir: STAN BRAKHAGE (1974)\nhttps://www.screenslate.com/series/
+ essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/essential-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Text of Light @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260627T204500
+DTEND:20260627T224500
+DESCRIPTION:Dir: STAN BRAKHAGE (1974)\nhttps://www.screenslate.com/series/
+ essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/essential-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mare's Nest @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260627T171500
+DTEND:20260627T191500
+DESCRIPTION:Dir: BEN RIVERS (2025)\nhttps://www.anthologyfilmarchives.org/
+ film_screenings/calendar?view=list&amp\;month=6&amp\;year=2026#showing-613
+ 92
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=6&amp;year=2026#showing-61392
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mare's Nest @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260627T200000
+DTEND:20260627T220000
+DESCRIPTION:Dir: BEN RIVERS (2025)\nhttps://www.anthologyfilmarchives.org/
+ film_screenings/calendar?view=list&amp\;month=6&amp\;year=2026#showing-613
+ 92
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=6&amp;year=2026#showing-61392
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Poet on the Lower East Side: A Docu-diary on Allen Ginsberg @ AN
+ THOLOGY FILM ARCHIVES
+DTSTART:20260627T181500
+DTEND:20260627T201500
+DESCRIPTION:Dir: GYULA GAZDAG (1997)\nhttps://www.screenslate.com/series/a
+ llen-ginsberg-centennial
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/allen-ginsberg-centennial
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fried Shoes\, Cooked Diamonds @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260627T204500
+DTEND:20260627T224500
+DESCRIPTION:Dir: COSTANZO ALLIONE (1979)\nhttps://www.screenslate.com/seri
+ es/allen-ginsberg-centennial
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/allen-ginsberg-centennial
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gonza the Spearman @ BAM
+DTSTART:20260627T130000
+DTEND:20260627T150000
+DESCRIPTION:Dir: MASAHIRO SHINODA (1986)\nhttps://www.screenslate.com/seri
+ es/masahiro-shinoda
+LOCATION:BAM
+URL:https://www.screenslate.com/series/masahiro-shinoda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gonza the Spearman @ BAM
+DTSTART:20260627T163000
+DTEND:20260627T183000
+DESCRIPTION:Dir: MASAHIRO SHINODA (1986)\nhttps://www.screenslate.com/seri
+ es/masahiro-shinoda
+LOCATION:BAM
+URL:https://www.screenslate.com/series/masahiro-shinoda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gonza the Spearman @ BAM
+DTSTART:20260627T184500
+DTEND:20260627T204500
+DESCRIPTION:Dir: MASAHIRO SHINODA (1986)\nhttps://www.screenslate.com/seri
+ es/masahiro-shinoda
+LOCATION:BAM
+URL:https://www.screenslate.com/series/masahiro-shinoda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gonza the Spearman @ BAM
+DTSTART:20260627T210000
+DTEND:20260627T230000
+DESCRIPTION:Dir: MASAHIRO SHINODA (1986)\nhttps://www.screenslate.com/seri
+ es/masahiro-shinoda
+LOCATION:BAM
+URL:https://www.screenslate.com/series/masahiro-shinoda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Under the Blossoming Cherry Trees @ BAM
+DTSTART:20260627T163000
+DTEND:20260627T183000
+DESCRIPTION:Dir: MASAHIRO SHINODA (1975)\nhttps://www.screenslate.com/seri
+ es/masahiro-shinoda
+LOCATION:BAM
+URL:https://www.screenslate.com/series/masahiro-shinoda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Assassination @ BAM
+DTSTART:20260627T184500
+DTEND:20260627T204500
+DESCRIPTION:Dir: MASAHIRO SHINODA (1964)\nhttps://www.screenslate.com/seri
+ es/masahiro-shinoda
+LOCATION:BAM
+URL:https://www.screenslate.com/series/masahiro-shinoda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pale Flower @ BAM
+DTSTART:20260627T210000
+DTEND:20260627T230000
+DESCRIPTION:Dir: MASASHIRO SHINODA (1964)\nhttps://www.screenslate.com/ser
+ ies/masahiro-shinoda
+LOCATION:BAM
+URL:https://www.screenslate.com/series/masahiro-shinoda
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Romería @ FILM FORUM
+DTSTART:20260627T130000
+DTEND:20260627T150000
+DESCRIPTION:Dir: CARLA SIMÓN (2025)\nhttps://filmforum.org/film/romeria
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/romeria
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Romería @ FILM FORUM
+DTSTART:20260627T164500
+DTEND:20260627T184500
+DESCRIPTION:Dir: CARLA SIMÓN (2025)\nhttps://filmforum.org/film/romeria
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/romeria
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Romería @ FILM FORUM
+DTSTART:20260627T200000
+DTEND:20260627T220000
+DESCRIPTION:Dir: CARLA SIMÓN (2025)\nhttps://filmforum.org/film/romeria
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/romeria
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Destry Rides Again @ MUSEUM OF MODERN ART
+DTSTART:20260627T140000
+DTEND:20260627T160000
+DESCRIPTION:Dir: GEORGE MARSHALL (1939)\nhttps://www.screenslate.com/serie
+ s/universal-westerns
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/universal-westerns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Destry Rides Again @ MUSEUM OF MODERN ART
+DTSTART:20260627T163000
+DTEND:20260627T183000
+DESCRIPTION:Dir: GEORGE MARSHALL (1939)\nhttps://www.screenslate.com/serie
+ s/universal-westerns
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/universal-westerns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Destry Rides Again @ MUSEUM OF MODERN ART
+DTSTART:20260627T183000
+DTEND:20260627T203000
+DESCRIPTION:Dir: GEORGE MARSHALL (1939)\nhttps://www.screenslate.com/serie
+ s/universal-westerns
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/universal-westerns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Law and Order @ MUSEUM OF MODERN ART
+DTSTART:20260627T163000
+DTEND:20260627T183000
+DESCRIPTION:Dir: EDWARD L. CAHN (1932)\nhttps://www.screenslate.com/series
+ /universal-westerns
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/universal-westerns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Beguiled @ MUSEUM OF MODERN ART
+DTSTART:20260627T183000
+DTEND:20260627T203000
+DESCRIPTION:Dir: DON SIEGEL (1971)\nhttps://www.screenslate.com/series/uni
+ versal-westerns
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.screenslate.com/series/universal-westerns
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philadelphia @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260627T183000
+DTEND:20260627T203000
+DESCRIPTION:Dir: JONATHAN DEMME (1993)\nhttps://www.screenslate.com/series
+ /originals
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://www.screenslate.com/series/originals
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Splendor in the Grass @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260627T113000
+DTEND:20260627T133000
+DESCRIPTION:Dir: ELIA KAZAN (1961)\nhttps://www.screenslate.com/series/cla
+ ssic-pictures-nitehawk-cinema
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://www.screenslate.com/series/classic-pictures-nitehawk-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Splendor in the Grass @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260627T121500
+DTEND:20260627T141500
+DESCRIPTION:Dir: ELIA KAZAN (1961)\nhttps://www.screenslate.com/series/cla
+ ssic-pictures-nitehawk-cinema
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://www.screenslate.com/series/classic-pictures-nitehawk-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Law of Desire @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260627T121500
+DTEND:20260627T141500
+DESCRIPTION:Dir: PEDRO ALMODÓVAR (1987)\nhttps://www.screenslate.com/seri
+ es/be-gay-do-crime-part-iii-finale-tour-nitehawk-cinema
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://www.screenslate.com/series/be-gay-do-crime-part-iii-finale-tou
+ r-nitehawk-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bad Education @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260627T110000
+DTEND:20260627T130000
+DESCRIPTION:Dir: CORY FINLEY (2019)\nhttps://www.screenslate.com/series/be
+ -gay-do-crime-part-iii-finale-tour-nitehawk-cinema
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://www.screenslate.com/series/be-gay-do-crime-part-iii-finale-tou
+ r-nitehawk-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bad Education @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260627T111500
+DTEND:20260627T131500
+DESCRIPTION:Dir: CORY FINLEY (2019)\nhttps://www.screenslate.com/series/be
+ -gay-do-crime-part-iii-finale-tour-nitehawk-cinema
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://www.screenslate.com/series/be-gay-do-crime-part-iii-finale-tou
+ r-nitehawk-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muppet Treasure Island @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260627T111500
+DTEND:20260627T131500
+DESCRIPTION:Dir: BRIAN HENSON (1996)\nhttps://www.screenslate.com/series/n
+ ostalgia-ultra-nitehawk-cinema
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://www.screenslate.com/series/nostalgia-ultra-nitehawk-cinema
 END:VEVENT
 END:VCALENDAR
