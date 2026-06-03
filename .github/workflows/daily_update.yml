@@ -34,4 +34,5 @@ jobs:
           git config --global user.email "action@github.com"
           git add .
           git commit -m "Update screenings for $(date)" || echo "No changes"
+          git pull --rebase origin main
           git push
