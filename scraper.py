@@ -244,7 +244,8 @@ def _parse_letterboxd_page(url):
         text = resp.text
 
         info = {'url': url, 'page_year': None, 'page_director_slug': None,
-                'genres': [], 'runtime_mins': None, 'rating': None, 'rating_count': None}
+                'genres': [], 'runtime_mins': None, 'rating': None, 'rating_count': None,
+                'poster_url': None}
 
         # JSON-LD
         ld_match = re.search(
@@ -257,6 +258,7 @@ def _parse_letterboxd_page(url):
                     raw = raw.replace(prefix, '')
                 ld = json.loads(raw.strip())
                 info['ld_name'] = ld.get('name', '')
+                info['poster_url'] = ld.get('image')
                 directors = ld.get('director', [])
                 if isinstance(directors, list) and directors:
                     same_as = directors[0].get('sameAs', '')
@@ -388,12 +390,14 @@ def enrich_letterboxd(data):
             s['runtime_mins'] = info.get('runtime_mins')
             s['rating'] = info.get('rating')
             s['rating_count'] = info.get('rating_count')
+            s['poster_url'] = info.get('poster_url')
         else:
             s['letterboxd_url'] = None
             s['genres'] = []
             s['runtime_mins'] = None
             s['rating'] = None
             s['rating_count'] = None
+            s['poster_url'] = None
 
     return data
 
