@@ -181,8 +181,10 @@
         .link { color: var(--fg); text-decoration: none; border-bottom: 2px solid var(--fg);
                  font-weight: bold; }
         .link:hover { background: var(--fg); color: var(--bg); }
-        .letterboxd-link { border-color: #00e054; color: #00e054; }
-        .letterboxd-link:hover { background: #00e054; color: #fff; border-color: #00e054; }
+        .letterboxd-link { border: none; display: inline-flex; align-items: center; }
+        .letterboxd-icon { width: 28px; height: 28px; border-radius: 50%%; object-fit: cover;
+                            transition: transform 0.2s; }
+        .letterboxd-icon:hover { transform: scale(1.15); }
 
         /* ── Similar films drawer ───────────────────── */
         .similar-drawer { border-top: 1px solid var(--subtle); margin-top: 15px; padding-top: 10px;
@@ -238,7 +240,7 @@
     </div>
     <div class="subtitle">
         Next 30 Days (2026-06-02 to 2026-07-01)<br>
-        Scraped from https://www.screenslate.com &bull; Last updated: June 02, 2026 at 10:52 PM
+        Scraped from https://www.screenslate.com &bull; Last updated: June 02, 2026 at 11:09 PM
     </div>
 
     <div class="sticky-bar" id="stickyBar">
@@ -768,7 +770,7 @@
             const d = new Date(m.date+'T00:00:00');
             const ds = d.toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric'});
             const st = m.showtimes.map(t=>`<span class="showtime">${t}</span>`).join('');
-            const lb = m.letterboxd_url ? `<a href="${m.letterboxd_url}" target="_blank" class="link letterboxd-link">Letterboxd</a>` : '';
+            const lb = m.letterboxd_url ? `<a href="${m.letterboxd_url}" target="_blank" class="letterboxd-link" title="View on Letterboxd"><img class="letterboxd-icon" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAnFBMVEVEVWY+VGc2U2lFUWZGTmdEUmJEUF4vUmpkW1yrakO3bT6QZE1EVGZHSGc4fWIqpV1DfJ1CkbpEZXxETFrBcDb/ggD/gAAVy1cA6FMA5FNAvPRAwftCmMP/egAnzGEA4FQ+tvb/p2+09sUA30m29r6F0fczufSCYVP/y63k+urk/Oa44/hDdJHNcy9xXFg5WGYQ0laeZ0g1h2EmrVx5aPuSAAAAoklEQVR4AeWQAwIDMRBF17bNul3f/26Nalxgf5wXzHxqTaIZhoYjy3EsHHlB4G9MlGRFZWhNN0zT0DVesGzbcQnzfD/wA4kOoziOQt5JUqAMUUbxA6i8iEugOKwSqNQWICWsbloI2812hykMZk/g4Yjh6Uzghf8P/z5LMd73gDIBpdIB6gf9MMJUxuEpFUh7xZtoYMK8LDMwgbcyaMJ/+1ajK9jeGGaIBdTtAAAAAElFTkSuQmCC" alt="Letterboxd"></a>` : '';
             const rt = m.runtime_mins ? `<span class="movie-runtime">${m.runtime_mins} min</span>` : '';
             const rat = m.rating ? `<span class="movie-runtime">${m.rating.toFixed(1)}/5</span>` : '';
             const genres = (m.genres || []).map(g => `<span class="genre-tag">${g}</span>`).join('');
@@ -799,7 +801,7 @@
             const d = new Date(m.date+'T00:00:00');
             const ds = d.toLocaleDateString('en-US',{month:'short',day:'numeric'});
             const todayMark = m.date === TODAY ? ' *' : '';
-            const lb = m.letterboxd_url ? ` | <a href="${m.letterboxd_url}" target="_blank">LB</a>` : '';
+            const lb = m.letterboxd_url ? ` <a href="${m.letterboxd_url}" target="_blank" title="Letterboxd"><img class="letterboxd-icon" style="width:20px;height:20px;vertical-align:middle;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAnFBMVEVEVWY+VGc2U2lFUWZGTmdEUmJEUF4vUmpkW1yrakO3bT6QZE1EVGZHSGc4fWIqpV1DfJ1CkbpEZXxETFrBcDb/ggD/gAAVy1cA6FMA5FNAvPRAwftCmMP/egAnzGEA4FQ+tvb/p2+09sUA30m29r6F0fczufSCYVP/y63k+urk/Oa44/hDdJHNcy9xXFg5WGYQ0laeZ0g1h2EmrVx5aPuSAAAAoklEQVR4AeWQAwIDMRBF17bNul3f/26Nalxgf5wXzHxqTaIZhoYjy3EsHHlB4G9MlGRFZWhNN0zT0DVesGzbcQnzfD/wA4kOoziOQt5JUqAMUUbxA6i8iEugOKwSqNQWICWsbloI2812hykMZk/g4Yjh6Uzghf8P/z5LMd73gDIBpdIB6gf9MMJUxuEpFUh7xZtoYMK8LDMwgbcyaMJ/+1ajK9jeGGaIBdTtAAAAAElFTkSuQmCC" alt="LB"></a>` : '';
             return `<tr>
                 <td>${ds}${todayMark}</td>
                 <td><strong>${m.title}</strong> (${m.year})</td>
