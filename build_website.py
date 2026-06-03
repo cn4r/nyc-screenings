@@ -360,8 +360,12 @@ def save_html(data):
 
         /* ── Movie cards ────────────────────────────── */
         .movie-card {{ background: var(--card-bg); border: 2px solid var(--card-border); padding: 20px;
-                       margin-bottom: 15px; transition: all 0.2s; position: relative; }}
+                       margin-bottom: 15px; transition: all 0.2s; position: relative;
+                       display: flex; gap: 20px; }}
         .movie-card:hover {{ box-shadow: 5px 5px 0px var(--shadow); transform: translate(-2px, -2px); }}
+        .movie-poster {{ width: 80px; min-width: 80px; height: 120px; object-fit: cover;
+                         border: 1px solid var(--card-border); }}
+        .movie-body {{ flex: 1; min-width: 0; }}
         .movie-title {{ font-size: 1.3em; font-weight: bold; margin-bottom: 5px; cursor: pointer; }}
         .movie-meta {{ color: var(--muted); margin-bottom: 10px; font-size: 0.95em; }}
         .movie-runtime {{ color: var(--muted); font-size: 0.9em; }}
@@ -398,8 +402,9 @@ def save_html(data):
         /* ── Grid view ──────────────────────────────── */
         .view-grid {{ display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
                       gap: 15px; }}
-        .view-grid .movie-card {{ margin-bottom: 0; }}
+        .view-grid .movie-card {{ margin-bottom: 0; flex-direction: column; }}
         .view-grid .movie-card .similar-drawer {{ display: none !important; }}
+        .view-grid .movie-poster {{ width: 100%%; height: 200px; min-width: unset; }}
 
         /* ── Table view ─────────────────────────────── */
         .view-table {{ width: 100%%; border-collapse: collapse; }}
@@ -972,7 +977,10 @@ def save_html(data):
             const rat = m.rating ? `<span class="movie-runtime">${{m.rating.toFixed(1)}}/5</span>` : '';
             const genres = (m.genres || []).map(g => `<span class="genre-tag">${{g}}</span>`).join('');
             const todayBadge = m.date === TODAY ? '<span class="today-badge">Today</span>' : '';
+            const poster = m.poster_url ? `<img class="movie-poster" src="${{m.poster_url}}" alt="${{m.title}}" loading="lazy">` : '';
             return `<div class="movie-card">
+                ${{poster}}
+                <div class="movie-body">
                 <div class="date-badge">${{ds}}${{todayBadge}}</div>
                 <div class="movie-title" onclick="toggleSimilar(${{i}})">${{m.title}} <span style="font-weight:normal;font-size:0.8em">(${{m.year}})</span></div>
                 <div class="movie-meta">Dir: ${{m.director}} ${{rt ? '&bull; ' + rt : ''}} ${{rat ? '&bull; ' + rat : ''}}</div>
@@ -984,6 +992,7 @@ def save_html(data):
                     ${{lb}}
                 </div>
                 <div class="similar-drawer" id="similar-${{i}}"></div>
+                </div>
             </div>`;
         }}).join('') + (isGrid ? '</div>' : '');
     }}
