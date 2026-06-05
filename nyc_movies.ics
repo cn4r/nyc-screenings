@@ -2,1158 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:Video 50 @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260604T184500
-DTEND:20260604T204500
-DESCRIPTION:Dir: ROBERT WILSON (1978)\nhttps://www.anthologyfilmarchives.o
- rg/film_screenings/series/61220
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/series/61220
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Video 50 @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260604T190000
-DTEND:20260604T210000
-DESCRIPTION:Dir: ROBERT WILSON (1978)\nhttps://www.anthologyfilmarchives.o
- rg/film_screenings/series/61220
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/series/61220
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Video 50 @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260604T210000
-DTEND:20260604T230000
-DESCRIPTION:Dir: ROBERT WILSON (1978)\nhttps://www.anthologyfilmarchives.o
- rg/film_screenings/series/61220
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/series/61220
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Einstein on the Beach: The Changing Image of Opera @ ANTHOLOGY FIL
- M ARCHIVES
-DTSTART:20260604T210000
-DTEND:20260604T230000
-DESCRIPTION:Dir: MARK OBENHAUS (1984)\nhttps://www.anthologyfilmarchives.o
- rg/film_screenings/series/61220
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/series/61220
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Good Time @ BAM
-DTSTART:20260604T190000
-DTEND:20260604T210000
-DESCRIPTION:Dir: JOSH SAFDIE\, BEN SAFDIE (2017)\nhttps://www.bam.org/film
- /2026/urban-odysseys
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/urban-odysseys
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Good Time @ BAM
-DTSTART:20260604T211500
-DTEND:20260604T231500
-DESCRIPTION:Dir: JOSH SAFDIE\, BEN SAFDIE (2017)\nhttps://www.bam.org/film
- /2026/urban-odysseys
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/urban-odysseys
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tokyo Godfathers @ BAM
-DTSTART:20260604T211500
-DTEND:20260604T231500
-DESCRIPTION:Dir: SATOSHI KON (2003)\nhttps://www.bam.org/film/2026/urban-o
- dysseys
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/urban-odysseys
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260604T121500
-DTEND:20260604T141500
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260604T122000
-DTEND:20260604T142000
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260604T143000
-DTEND:20260604T163000
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260604T164000
-DTEND:20260604T184000
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260604T185000
-DTEND:20260604T205000
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260604T210000
-DTEND:20260604T230000
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260604T130000
-DTEND:20260604T150000
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260604T152000
-DTEND:20260604T172000
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260604T174000
-DTEND:20260604T194000
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260604T200000
-DTEND:20260604T220000
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260604T141500
-DTEND:20260604T161500
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260604T184000
-DTEND:20260604T204000
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260604T151000
-DTEND:20260604T171000
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260604T211000
-DTEND:20260604T231000
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260604T172000
-DTEND:20260604T192000
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agatha's Almanac @ FILM FORUM
-DTSTART:20260604T194000
-DTEND:20260604T214000
-DESCRIPTION:Dir: AMALIE ATKINS (2025)\nhttps://filmforum.org/film/agathas-
- almanac
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/agathas-almanac
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Forastera @ FILM FORUM
-DTSTART:20260604T122000
-DTEND:20260604T142000
-DESCRIPTION:Dir: LUCÍA ALEÑAR IGLESIAS (2025)\nhttps://filmforum.org/fil
- m/forastera
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/forastera
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Forastera @ FILM FORUM
-DTSTART:20260604T143000
-DTEND:20260604T163000
-DESCRIPTION:Dir: LUCÍA ALEÑAR IGLESIAS (2025)\nhttps://filmforum.org/fil
- m/forastera
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/forastera
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Forastera @ FILM FORUM
-DTSTART:20260604T164000
-DTEND:20260604T184000
-DESCRIPTION:Dir: LUCÍA ALEÑAR IGLESIAS (2025)\nhttps://filmforum.org/fil
- m/forastera
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/forastera
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Forastera @ FILM FORUM
-DTSTART:20260604T185000
-DTEND:20260604T205000
-DESCRIPTION:Dir: LUCÍA ALEÑAR IGLESIAS (2025)\nhttps://filmforum.org/fil
- m/forastera
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/forastera
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Forastera @ FILM FORUM
-DTSTART:20260604T210000
-DTEND:20260604T230000
-DESCRIPTION:Dir: LUCÍA ALEÑAR IGLESIAS (2025)\nhttps://filmforum.org/fil
- m/forastera
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/forastera
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manas @ FILM FORUM
-DTSTART:20260604T130000
-DTEND:20260604T150000
-DESCRIPTION:Dir: MARIANNA BRENNAND (2024)\nhttps://filmforum.org/film/mana
- s
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/manas
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manas @ FILM FORUM
-DTSTART:20260604T152000
-DTEND:20260604T172000
-DESCRIPTION:Dir: MARIANNA BRENNAND (2024)\nhttps://filmforum.org/film/mana
- s
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/manas
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manas @ FILM FORUM
-DTSTART:20260604T174000
-DTEND:20260604T194000
-DESCRIPTION:Dir: MARIANNA BRENNAND (2024)\nhttps://filmforum.org/film/mana
- s
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/manas
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manas @ FILM FORUM
-DTSTART:20260604T200000
-DTEND:20260604T220000
-DESCRIPTION:Dir: MARIANNA BRENNAND (2024)\nhttps://filmforum.org/film/mana
- s
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/manas
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How to Marry a Millionaire @ FILM FORUM
-DTSTART:20260604T130000
-DTEND:20260604T150000
-DESCRIPTION:Dir: JEAN NEGULESCO (1953)\nhttps://filmforum.org/series/maril
- yn-100
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/marilyn-100
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bellissima @ FILM FORUM
-DTSTART:20260604T141500
-DTEND:20260604T161500
-DESCRIPTION:Dir: LUCHINO VISCONTI (1951)\nhttps://filmforum.org/film/belli
- ssima
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/bellissima
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bellissima @ FILM FORUM
-DTSTART:20260604T184000
-DTEND:20260604T204000
-DESCRIPTION:Dir: LUCHINO VISCONTI (1951)\nhttps://filmforum.org/film/belli
- ssima
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/bellissima
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:River of No Return @ FILM FORUM
-DTSTART:20260604T151000
-DTEND:20260604T171000
-DESCRIPTION:Dir: OTTO PREMINGER (1954)\nhttps://filmforum.org/series/maril
- yn-100
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/marilyn-100
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Picnic @ FILM FORUM
-DTSTART:20260604T164000
-DTEND:20260604T184000
-DESCRIPTION:Dir: PHILIP HARTMAN (1986)\nhttps://filmforum.org/film/no-picn
- ic
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/no-picnic
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Picnic @ FILM FORUM
-DTSTART:20260604T211000
-DTEND:20260604T231000
-DESCRIPTION:Dir: PHILIP HARTMAN (1986)\nhttps://filmforum.org/film/no-picn
- ic
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/no-picnic
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Seven Year Itch @ FILM FORUM
-DTSTART:20260604T172000
-DTEND:20260604T192000
-DESCRIPTION:Dir: BILLY WILDER (1955)\nhttps://filmforum.org/series/marilyn
- -100
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/marilyn-100
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Phantom Beirut @ FILM FORUM
-DTSTART:20260604T194000
-DTEND:20260604T214000
-DESCRIPTION:Dir: GHASSAN SALHAB (1998)\nhttps://filmforum.org/film/phantom
- -beirut
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/phantom-beirut
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agnus Dei @ FILM AT LINCOLN CENTER
-DTSTART:20260604T123000
-DTEND:20260604T143000
-DESCRIPTION:Dir: MASSIMILIANO CAMAITI (2025)\nhttps://www.filmlinc.org/fes
- tivals/open-roads-new-italian-cinema/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/festivals/open-roads-new-italian-cinema/?tab=
- films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agnus Dei @ FILM AT LINCOLN CENTER
-DTSTART:20260604T130000
-DTEND:20260604T150000
-DESCRIPTION:Dir: MASSIMILIANO CAMAITI (2025)\nhttps://www.filmlinc.org/fes
- tivals/open-roads-new-italian-cinema/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/festivals/open-roads-new-italian-cinema/?tab=
- films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agnus Dei @ FILM AT LINCOLN CENTER
-DTSTART:20260604T153000
-DTEND:20260604T173000
-DESCRIPTION:Dir: MASSIMILIANO CAMAITI (2025)\nhttps://www.filmlinc.org/fes
- tivals/open-roads-new-italian-cinema/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/festivals/open-roads-new-italian-cinema/?tab=
- films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agnus Dei @ FILM AT LINCOLN CENTER
-DTSTART:20260604T181500
-DTEND:20260604T201500
-DESCRIPTION:Dir: MASSIMILIANO CAMAITI (2025)\nhttps://www.filmlinc.org/fes
- tivals/open-roads-new-italian-cinema/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/festivals/open-roads-new-italian-cinema/?tab=
- films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agnus Dei @ FILM AT LINCOLN CENTER
-DTSTART:20260604T203000
-DTEND:20260604T223000
-DESCRIPTION:Dir: MASSIMILIANO CAMAITI (2025)\nhttps://www.filmlinc.org/fes
- tivals/open-roads-new-italian-cinema/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/festivals/open-roads-new-italian-cinema/?tab=
- films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agnus Dei @ FILM AT LINCOLN CENTER
-DTSTART:20260604T143000
-DTEND:20260604T163000
-DESCRIPTION:Dir: MASSIMILIANO CAMAITI (2025)\nhttps://www.filmlinc.org/fes
- tivals/open-roads-new-italian-cinema/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/festivals/open-roads-new-italian-cinema/?tab=
- films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agnus Dei @ FILM AT LINCOLN CENTER
-DTSTART:20260604T150000
-DTEND:20260604T170000
-DESCRIPTION:Dir: MASSIMILIANO CAMAITI (2025)\nhttps://www.filmlinc.org/fes
- tivals/open-roads-new-italian-cinema/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/festivals/open-roads-new-italian-cinema/?tab=
- films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agnus Dei @ FILM AT LINCOLN CENTER
-DTSTART:20260604T180000
-DTEND:20260604T200000
-DESCRIPTION:Dir: MASSIMILIANO CAMAITI (2025)\nhttps://www.filmlinc.org/fes
- tivals/open-roads-new-italian-cinema/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/festivals/open-roads-new-italian-cinema/?tab=
- films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agnus Dei @ FILM AT LINCOLN CENTER
-DTSTART:20260604T205000
-DTEND:20260604T225000
-DESCRIPTION:Dir: MASSIMILIANO CAMAITI (2025)\nhttps://www.filmlinc.org/fes
- tivals/open-roads-new-italian-cinema/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/festivals/open-roads-new-italian-cinema/?tab=
- films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Currents @ FILM AT LINCOLN CENTER
-DTSTART:20260604T130000
-DTEND:20260604T150000
-DESCRIPTION:Dir: MILAGROS MUMENTHALER (2025)\nhttps://www.filmlinc.org/fil
- ms/the-currents/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-currents/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Currents @ FILM AT LINCOLN CENTER
-DTSTART:20260604T153000
-DTEND:20260604T173000
-DESCRIPTION:Dir: MILAGROS MUMENTHALER (2025)\nhttps://www.filmlinc.org/fil
- ms/the-currents/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-currents/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Currents @ FILM AT LINCOLN CENTER
-DTSTART:20260604T181500
-DTEND:20260604T201500
-DESCRIPTION:Dir: MILAGROS MUMENTHALER (2025)\nhttps://www.filmlinc.org/fil
- ms/the-currents/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-currents/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Currents @ FILM AT LINCOLN CENTER
-DTSTART:20260604T203000
-DTEND:20260604T223000
-DESCRIPTION:Dir: MILAGROS MUMENTHALER (2025)\nhttps://www.filmlinc.org/fil
- ms/the-currents/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-currents/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elisa @ FILM AT LINCOLN CENTER
-DTSTART:20260604T143000
-DTEND:20260604T163000
-DESCRIPTION:Dir: LEONARDO DI COSTANZO (2025)\nhttps://www.filmlinc.org/fes
- tivals/open-roads-new-italian-cinema/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/festivals/open-roads-new-italian-cinema/?tab=
- films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Friend @ FILM AT LINCOLN CENTER
-DTSTART:20260604T150000
-DTEND:20260604T170000
-DESCRIPTION:Dir: ILDIKÓ ENYEDI (2025)\nhttps://www.filmlinc.org/films/sil
- ent-friend/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/silent-friend/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Friend @ FILM AT LINCOLN CENTER
-DTSTART:20260604T180000
-DTEND:20260604T200000
-DESCRIPTION:Dir: ILDIKÓ ENYEDI (2025)\nhttps://www.filmlinc.org/films/sil
- ent-friend/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/silent-friend/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:1900 @ FILM AT LINCOLN CENTER
-DTSTART:20260604T180000
-DTEND:20260604T200000
-DESCRIPTION:Dir: BERNARDO BERTOLUCCI (1976)\nhttps://www.filmlinc.org/seri
- es/history-italian-style/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/series/history-italian-style/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Stranger @ FILM AT LINCOLN CENTER
-DTSTART:20260604T205000
-DTEND:20260604T225000
-DESCRIPTION:Dir: FRANÇOIS OZON (2025)\nhttps://www.filmlinc.org/films/the
- -stranger/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-stranger/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:We Are Pat @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-DTSTART:20260604T130000
-DTEND:20260604T150000
-DESCRIPTION:Dir: ROWAN HABER (2025)\nhttps://firehousecinema.dctvny.org/we
- arepat
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://firehousecinema.dctvny.org/wearepat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:We Are Pat @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-DTSTART:20260604T153000
-DTEND:20260604T173000
-DESCRIPTION:Dir: ROWAN HABER (2025)\nhttps://firehousecinema.dctvny.org/we
- arepat
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://firehousecinema.dctvny.org/wearepat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:We Are Pat @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-DTSTART:20260604T213000
-DTEND:20260604T233000
-DESCRIPTION:Dir: ROWAN HABER (2025)\nhttps://firehousecinema.dctvny.org/we
- arepat
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://firehousecinema.dctvny.org/wearepat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260604T104000
-DTEND:20260604T124000
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260604T153500
-DTEND:20260604T173500
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260604T183000
-DTEND:20260604T203000
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260604T212500
-DTEND:20260604T232500
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260604T110000
-DTEND:20260604T130000
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260604T111500
-DTEND:20260604T131500
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260604T152000
-DTEND:20260604T172000
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260604T194500
-DTEND:20260604T214500
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260604T112000
-DTEND:20260604T132000
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260604T211500
-DTEND:20260604T231500
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260604T123000
-DTEND:20260604T143000
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260604T130500
-DTEND:20260604T150500
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260604T131500
-DTEND:20260604T151500
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260604T160000
-DTEND:20260604T180000
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260604T184500
-DTEND:20260604T204500
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260604T213000
-DTEND:20260604T233000
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260604T132000
-DTEND:20260604T152000
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260604T173000
-DTEND:20260604T193000
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260604T141000
-DTEND:20260604T161000
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260604T163500
-DTEND:20260604T183500
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260604T190000
-DTEND:20260604T210000
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260604T143500
-DTEND:20260604T163500
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260604T191000
-DTEND:20260604T211000
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260604T164000
-DTEND:20260604T184000
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260604T212000
-DTEND:20260604T232000
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Heron @ IFC CENTER
-DTSTART:20260604T110000
-DTEND:20260604T130000
-DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://www.ifccenter.com/films/blu
- e-heron/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-heron/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Film @ IFC CENTER
-DTSTART:20260604T111500
-DTEND:20260604T131500
-DESCRIPTION:Dir: ELLIOT TUTTLE (2026)\nhttps://www.ifccenter.com/films/blu
- e-film/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-film/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Film @ IFC CENTER
-DTSTART:20260604T152000
-DTEND:20260604T172000
-DESCRIPTION:Dir: ELLIOT TUTTLE (2026)\nhttps://www.ifccenter.com/films/blu
- e-film/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-film/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Film @ IFC CENTER
-DTSTART:20260604T194500
-DTEND:20260604T214500
-DESCRIPTION:Dir: ELLIOT TUTTLE (2026)\nhttps://www.ifccenter.com/films/blu
- e-film/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-film/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mulholland Dr. @ IFC CENTER
-DTSTART:20260604T112000
-DTEND:20260604T132000
-DESCRIPTION:Dir: DAVID LYNCH (2001)\nhttps://www.ifccenter.com/films/mulho
- lland-dr/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mulholland-dr/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mulholland Dr. @ IFC CENTER
-DTSTART:20260604T211500
-DTEND:20260604T231500
-DESCRIPTION:Dir: DAVID LYNCH (2001)\nhttps://www.ifccenter.com/films/mulho
- lland-dr/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mulholland-dr/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cave of Forgotten Dreams 3D @ IFC CENTER
-DTSTART:20260604T123000
-DTEND:20260604T143000
-DESCRIPTION:Dir: WERNER HERZOG (2011)\nhttps://www.ifccenter.com/films/cav
- e-of-forgotten-dreams-3d/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/cave-of-forgotten-dreams-3d/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260604T130500
-DTEND:20260604T150500
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260604T183000
-DTEND:20260604T203000
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Renoir @ IFC CENTER
-DTSTART:20260604T131500
-DTEND:20260604T151500
-DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
- oir/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/renoir/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Renoir @ IFC CENTER
-DTSTART:20260604T160000
-DTEND:20260604T180000
-DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
- oir/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/renoir/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Renoir @ IFC CENTER
-DTSTART:20260604T184500
-DTEND:20260604T204500
-DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
- oir/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/renoir/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Renoir @ IFC CENTER
-DTSTART:20260604T213000
-DTEND:20260604T233000
-DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
- oir/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/renoir/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Christophers @ IFC CENTER
-DTSTART:20260604T132000
-DTEND:20260604T152000
-DESCRIPTION:Dir: STEVEN SODERBERGH (2026)\nhttps://www.ifccenter.com/films
- /the-christophers/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-christophers/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Christophers @ IFC CENTER
-DTSTART:20260604T173000
-DTEND:20260604T193000
-DESCRIPTION:Dir: STEVEN SODERBERGH (2026)\nhttps://www.ifccenter.com/films
- /the-christophers/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-christophers/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Easy Kind @ IFC CENTER
-DTSTART:20260604T141000
-DTEND:20260604T161000
-DESCRIPTION:Dir: KATY CHEVIGNY (2026)\nhttps://www.ifccenter.com/films/the
- -easy-kind/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-easy-kind/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Easy Kind @ IFC CENTER
-DTSTART:20260604T163500
-DTEND:20260604T183500
-DESCRIPTION:Dir: KATY CHEVIGNY (2026)\nhttps://www.ifccenter.com/films/the
- -easy-kind/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-easy-kind/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Easy Kind @ IFC CENTER
-DTSTART:20260604T190000
-DTEND:20260604T210000
-DESCRIPTION:Dir: KATY CHEVIGNY (2026)\nhttps://www.ifccenter.com/films/the
- -easy-kind/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-easy-kind/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Easy Kind @ IFC CENTER
-DTSTART:20260604T212500
-DTEND:20260604T232500
-DESCRIPTION:Dir: KATY CHEVIGNY (2026)\nhttps://www.ifccenter.com/films/the
- -easy-kind/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-easy-kind/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask E. Jean @ IFC CENTER
-DTSTART:20260604T143500
-DTEND:20260604T163500
-DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
- e-jean/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/ask-e-jean/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask E. Jean @ IFC CENTER
-DTSTART:20260604T191000
-DTEND:20260604T211000
-DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
- e-jean/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/ask-e-jean/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A New Leaf @ IFC CENTER
-DTSTART:20260604T164000
-DTEND:20260604T184000
-DESCRIPTION:Dir: ELAINE MAY (1971)\nhttps://www.ifccenter.com/films/a-new-
- leaf/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/a-new-leaf/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A New Leaf @ IFC CENTER
-DTSTART:20260604T212000
-DTEND:20260604T232000
-DESCRIPTION:Dir: ELAINE MAY (1971)\nhttps://www.ifccenter.com/films/a-new-
- leaf/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/a-new-leaf/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Misconceived @ LOW CINEMA
-DTSTART:20260604T180000
-DTEND:20260604T200000
-DESCRIPTION:Dir: JAMES N. KIENITZ WILKINS (2026)\nhttps://lowcinema.com/mo
- vie/the-misconceived/
-LOCATION:LOW CINEMA
-URL:https://lowcinema.com/movie/the-misconceived/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Misconceived @ LOW CINEMA
-DTSTART:20260604T200000
-DTEND:20260604T220000
-DESCRIPTION:Dir: JAMES N. KIENITZ WILKINS (2026)\nhttps://lowcinema.com/mo
- vie/the-misconceived/
-LOCATION:LOW CINEMA
-URL:https://lowcinema.com/movie/the-misconceived/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Misconceived @ LOW CINEMA
-DTSTART:20260604T212000
-DTEND:20260604T232000
-DESCRIPTION:Dir: JAMES N. KIENITZ WILKINS (2026)\nhttps://lowcinema.com/mo
- vie/the-misconceived/
-LOCATION:LOW CINEMA
-URL:https://lowcinema.com/movie/the-misconceived/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildwood\, NJ @ LOW CINEMA
-DTSTART:20260604T200000
-DTEND:20260604T220000
-DESCRIPTION:Dir: CAROL WEAKS CASSIDY\, RUTH LEITMAN (1994)\nhttps://lowcin
- ema.com/
-LOCATION:LOW CINEMA
-URL:https://lowcinema.com/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildwood\, NJ @ LOW CINEMA
-DTSTART:20260604T212000
-DTEND:20260604T232000
-DESCRIPTION:Dir: CAROL WEAKS CASSIDY\, RUTH LEITMAN (1994)\nhttps://lowcin
- ema.com/
-LOCATION:LOW CINEMA
-URL:https://lowcinema.com/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blonde Ambition @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260604T213000
-DTEND:20260604T233000
-DESCRIPTION:Dir: JOHN AMERO\, LEN AMERO (1980)\nhttps://nitehawkcinema.com
- /williamsburg/film-series/skin-deep/
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://nitehawkcinema.com/williamsburg/film-series/skin-deep/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crazy Rich Asians @ PARIS THEATER
-DTSTART:20260604T124500
-DTEND:20260604T144500
-DESCRIPTION:Dir: JON M. CHU (2018)\nhttps://www.paristheaternyc.com/series
- /something-borrowed-something-blue
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/something-borrowed-something-bl
- ue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crazy Rich Asians @ PARIS THEATER
-DTSTART:20260604T154500
-DTEND:20260604T174500
-DESCRIPTION:Dir: JON M. CHU (2018)\nhttps://www.paristheaternyc.com/series
- /something-borrowed-something-blue
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/something-borrowed-something-bl
- ue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crazy Rich Asians @ PARIS THEATER
-DTSTART:20260604T184500
-DTEND:20260604T204500
-DESCRIPTION:Dir: JON M. CHU (2018)\nhttps://www.paristheaternyc.com/series
- /something-borrowed-something-blue
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/something-borrowed-something-bl
- ue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crazy Rich Asians @ PARIS THEATER
-DTSTART:20260604T220000
-DTEND:20260605T000000
-DESCRIPTION:Dir: JON M. CHU (2018)\nhttps://www.paristheaternyc.com/series
- /something-borrowed-something-blue
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/something-borrowed-something-bl
- ue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guess Who’s Coming to Dinner? @ PARIS THEATER
-DTSTART:20260604T154500
-DTEND:20260604T174500
-DESCRIPTION:Dir: STANLEY KRAMER (1967)\nhttps://www.paristheaternyc.com/se
- ries/something-borrowed-something-blue
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/something-borrowed-something-bl
- ue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Age of Innocence @ PARIS THEATER
-DTSTART:20260604T184500
-DTEND:20260604T204500
-DESCRIPTION:Dir: MARTIN SCORSESE (1993)\nhttps://www.paristheaternyc.com/s
- eries/something-borrowed-something-blue
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/something-borrowed-something-bl
- ue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Coming to America @ PARIS THEATER
-DTSTART:20260604T220000
-DTEND:20260605T000000
-DESCRIPTION:Dir: JOHN LANDIS (1988)\nhttps://www.paristheaternyc.com/serie
- s/something-borrowed-something-blue
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/something-borrowed-something-bl
- ue
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jaripeo @ ROOFTOP FILMS
-DTSTART:20260604T190000
-DTEND:20260604T210000
-DESCRIPTION:Dir: EFRAÍN MOJICA\, REBECCA ZWEIG (2026)\nhttps://rooftopfil
- ms.com/calendar/
-LOCATION:ROOFTOP FILMS
-URL:https://rooftopfilms.com/calendar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Domino @ ROXY CINEMA NEW YORK
-DTSTART:20260604T161500
-DTEND:20260604T181500
-DESCRIPTION:Dir: TONY SCOTT (2005)\nhttps://www.roxycinemanewyork.com/stor
- ies/i-paused-my-game-to-be-here/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/stories/i-paused-my-game-to-be-here/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Domino @ ROXY CINEMA NEW YORK
-DTSTART:20260604T213000
-DTEND:20260604T233000
-DESCRIPTION:Dir: TONY SCOTT (2005)\nhttps://www.roxycinemanewyork.com/stor
- ies/i-paused-my-game-to-be-here/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/stories/i-paused-my-game-to-be-here/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tenet @ ROXY CINEMA NEW YORK
-DTSTART:20260604T213000
-DTEND:20260604T233000
-DESCRIPTION:Dir: CHRISTOPHER NOLAN (2020)\nhttps://www.roxycinemanewyork.c
- om/stories/i-paused-my-game-to-be-here/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/stories/i-paused-my-game-to-be-here/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:New News from Another Home @ ANTHOLOGY FILM ARCHIVES
 DTSTART:20260605T183000
 DTEND:20260605T203000
@@ -6818,10 +5666,55 @@ URL:https://metrograph.com/series/?vista_series_id=0000000536
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Andrei Rublev @ METROGRAPH
+DTSTART:20260608T161000
+DTEND:20260608T181000
+DESCRIPTION:Dir: ANDREI TARKOVSKY (1966)\nhttps://metrograph.com/series/?v
+ ista_series_id=0000000536
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000536
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andrei Rublev @ METROGRAPH
+DTSTART:20260608T184500
+DTEND:20260608T204500
+DESCRIPTION:Dir: ANDREI TARKOVSKY (1966)\nhttps://metrograph.com/series/?v
+ ista_series_id=0000000536
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000536
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andrei Rublev @ METROGRAPH
 DTSTART:20260608T192500
 DTEND:20260608T212500
 DESCRIPTION:Dir: ANDREI TARKOVSKY (1966)\nhttps://metrograph.com/series/?v
  ista_series_id=0000000536
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000536
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andrei Rublev @ METROGRAPH
+DTSTART:20260608T215000
+DTEND:20260608T235000
+DESCRIPTION:Dir: ANDREI TARKOVSKY (1966)\nhttps://metrograph.com/series/?v
+ ista_series_id=0000000536
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000536
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Landscape in the Mist @ METROGRAPH
+DTSTART:20260608T161000
+DTEND:20260608T181000
+DESCRIPTION:Dir: THEO ANGELOPOULOS (1988)\nhttps://metrograph.com/series/?
+ vista_series_id=0000000498
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000498
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Van Gogh @ METROGRAPH
+DTSTART:20260608T184500
+DTEND:20260608T204500
+DESCRIPTION:Dir: MAURICE PIALAT (1991)\nhttps://metrograph.com/series/?vis
+ ta_series_id=0000000536
 LOCATION:METROGRAPH
 URL:https://metrograph.com/series/?vista_series_id=0000000536
 END:VEVENT
@@ -6833,6 +5726,24 @@ DESCRIPTION:Dir: KINUYO TANAKA (1953)\nhttps://metrograph.com/series/?vist
  a_series_id=0000000545
 LOCATION:METROGRAPH
 URL:https://metrograph.com/series/?vista_series_id=0000000545
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Thing @ METROGRAPH
+DTSTART:20260608T215000
+DTEND:20260608T235000
+DESCRIPTION:Dir: JOHN CARPENTER (1982)\nhttps://metrograph.com/the-dog-die
+ s/
+LOCATION:METROGRAPH
+URL:https://metrograph.com/the-dog-dies/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xiao Wu (Pickpocket) @ METROGRAPH
+DTSTART:20260608T215000
+DTEND:20260608T235000
+DESCRIPTION:Dir: JIA ZHANGKE (1997)\nhttps://metrograph.com/the-last-dream
+ ers/
+LOCATION:METROGRAPH
+URL:https://metrograph.com/the-last-dreamers/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Law and Order @ MUSEUM OF MODERN ART
@@ -8853,6 +7764,60 @@ LOCATION:IFC CENTER
 URL:https://www.ifccenter.com/films/blue-heron/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hill of Freedom @ METROGRAPH
+DTSTART:20260610T151500
+DTEND:20260610T171500
+DESCRIPTION:Dir: HONG SANG-SOO (2014)\nhttps://metrograph.com/series/?vist
+ a_series_id=0000000534
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000534
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hill of Freedom @ METROGRAPH
+DTSTART:20260610T154500
+DTEND:20260610T174500
+DESCRIPTION:Dir: HONG SANG-SOO (2014)\nhttps://metrograph.com/series/?vist
+ a_series_id=0000000534
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000534
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hill of Freedom @ METROGRAPH
+DTSTART:20260610T164500
+DTEND:20260610T184500
+DESCRIPTION:Dir: HONG SANG-SOO (2014)\nhttps://metrograph.com/series/?vist
+ a_series_id=0000000534
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000534
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hill of Freedom @ METROGRAPH
+DTSTART:20260610T181000
+DTEND:20260610T201000
+DESCRIPTION:Dir: HONG SANG-SOO (2014)\nhttps://metrograph.com/series/?vist
+ a_series_id=0000000534
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000534
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hill of Freedom @ METROGRAPH
+DTSTART:20260610T220000
+DTEND:20260611T000000
+DESCRIPTION:Dir: HONG SANG-SOO (2014)\nhttps://metrograph.com/series/?vist
+ a_series_id=0000000534
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000534
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hill of Freedom @ METROGRAPH
+DTSTART:20260610T221500
+DTEND:20260611T001500
+DESCRIPTION:Dir: HONG SANG-SOO (2014)\nhttps://metrograph.com/series/?vist
+ a_series_id=0000000534
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000534
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Love Letter @ METROGRAPH
 DTSTART:20260610T154500
 DTEND:20260610T174500
@@ -8860,6 +7825,42 @@ DESCRIPTION:Dir: KINUYO TANAKA (1953)\nhttps://metrograph.com/series/?vist
  a_series_id=0000000545
 LOCATION:METROGRAPH
 URL:https://metrograph.com/series/?vista_series_id=0000000545
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:With Hasan in Gaza @ METROGRAPH
+DTSTART:20260610T164500
+DTEND:20260610T184500
+DESCRIPTION:Dir: KAMAL ALJAFARI (2025)\nhttps://metrograph.com/film/?vista
+ _film_id=9999004849
+LOCATION:METROGRAPH
+URL:https://metrograph.com/film/?vista_film_id=9999004849
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jeanne Dielman\, 23 Quai de Commerce\, 1080 Bruxelles @ METROGRAPH
+DTSTART:20260610T181000
+DTEND:20260610T201000
+DESCRIPTION:Dir: CHANTAL AKERMAN (1975)\nhttps://metrograph.com/series/?vi
+ sta_series_id=0000000541
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000541
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fallen Angels @ METROGRAPH
+DTSTART:20260610T220000
+DTEND:20260611T000000
+DESCRIPTION:Dir: WONG KAR WAI (1995)\nhttps://metrograph.com/the-last-drea
+ mers/
+LOCATION:METROGRAPH
+URL:https://metrograph.com/the-last-dreamers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mad Max 2: The Road Warrior @ METROGRAPH
+DTSTART:20260610T221500
+DTEND:20260611T001500
+DESCRIPTION:Dir: GEORGE MILLER (1981)\nhttps://metrograph.com/the-dog-dies
+ /
+LOCATION:METROGRAPH
+URL:https://metrograph.com/the-dog-dies/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:High Plains Drifter @ MUSEUM OF MODERN ART
@@ -9861,6 +8862,131 @@ DESCRIPTION:Dir: JEAN-PIERRE GORIN\, JEAN-LUC GODARD (1972)\nhttps://lalli
  anceny.org/event/why-because-with-jean-pierre-gorin/
 LOCATION:L'ALLIANCE NEW YORK
 URL:https://lallianceny.org/event/why-because-with-jean-pierre-gorin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:With Hasan in Gaza @ METROGRAPH
+DTSTART:20260611T150000
+DTEND:20260611T170000
+DESCRIPTION:Dir: KAMAL ALJAFARI (2025)\nhttps://metrograph.com/film/?vista
+ _film_id=9999004849
+LOCATION:METROGRAPH
+URL:https://metrograph.com/film/?vista_film_id=9999004849
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:With Hasan in Gaza @ METROGRAPH
+DTSTART:20260611T153000
+DTEND:20260611T173000
+DESCRIPTION:Dir: KAMAL ALJAFARI (2025)\nhttps://metrograph.com/film/?vista
+ _film_id=9999004849
+LOCATION:METROGRAPH
+URL:https://metrograph.com/film/?vista_film_id=9999004849
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:With Hasan in Gaza @ METROGRAPH
+DTSTART:20260611T171000
+DTEND:20260611T191000
+DESCRIPTION:Dir: KAMAL ALJAFARI (2025)\nhttps://metrograph.com/film/?vista
+ _film_id=9999004849
+LOCATION:METROGRAPH
+URL:https://metrograph.com/film/?vista_film_id=9999004849
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:With Hasan in Gaza @ METROGRAPH
+DTSTART:20260611T173000
+DTEND:20260611T193000
+DESCRIPTION:Dir: KAMAL ALJAFARI (2025)\nhttps://metrograph.com/film/?vista
+ _film_id=9999004849
+LOCATION:METROGRAPH
+URL:https://metrograph.com/film/?vista_film_id=9999004849
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:With Hasan in Gaza @ METROGRAPH
+DTSTART:20260611T193000
+DTEND:20260611T213000
+DESCRIPTION:Dir: KAMAL ALJAFARI (2025)\nhttps://metrograph.com/film/?vista
+ _film_id=9999004849
+LOCATION:METROGRAPH
+URL:https://metrograph.com/film/?vista_film_id=9999004849
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:With Hasan in Gaza @ METROGRAPH
+DTSTART:20260611T194000
+DTEND:20260611T214000
+DESCRIPTION:Dir: KAMAL ALJAFARI (2025)\nhttps://metrograph.com/film/?vista
+ _film_id=9999004849
+LOCATION:METROGRAPH
+URL:https://metrograph.com/film/?vista_film_id=9999004849
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:With Hasan in Gaza @ METROGRAPH
+DTSTART:20260611T220000
+DTEND:20260612T000000
+DESCRIPTION:Dir: KAMAL ALJAFARI (2025)\nhttps://metrograph.com/film/?vista
+ _film_id=9999004849
+LOCATION:METROGRAPH
+URL:https://metrograph.com/film/?vista_film_id=9999004849
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:With Hasan in Gaza @ METROGRAPH
+DTSTART:20260611T221500
+DTEND:20260612T001500
+DESCRIPTION:Dir: KAMAL ALJAFARI (2025)\nhttps://metrograph.com/film/?vista
+ _film_id=9999004849
+LOCATION:METROGRAPH
+URL:https://metrograph.com/film/?vista_film_id=9999004849
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cléo from 5 to 7 @ METROGRAPH
+DTSTART:20260611T153000
+DTEND:20260611T173000
+DESCRIPTION:Dir: AGNÈS VARDA (1962)\nhttps://metrograph.com/series/?vista
+ _series_id=0000000541
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000541
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HaHaHa @ METROGRAPH
+DTSTART:20260611T171000
+DTEND:20260611T191000
+DESCRIPTION:Dir: HONG SANG-SOO (2010)\nhttps://metrograph.com/series/?vist
+ a_series_id=0000000534
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000534
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cézanne - Conversation With Joachim Gasquet @ METROGRAPH
+DTSTART:20260611T173000
+DTEND:20260611T193000
+DESCRIPTION:Dir: JEAN-MARIE STRAUB\, DANIÈLE HUILLET (1990)\nhttps://metr
+ ograph.com/series/?vista_series_id=0000000536
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000536
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portrait of a Lady on Fire @ METROGRAPH
+DTSTART:20260611T193000
+DTEND:20260611T213000
+DESCRIPTION:Dir: CÉLINE SCIAMMA (2019)\nhttps://metrograph.com/series/?vi
+ sta_series_id=0000000536
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000536
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les rendez-vous d'Anna @ METROGRAPH
+DTSTART:20260611T194000
+DTEND:20260611T214000
+DESCRIPTION:Dir: CHANTAL AKERMAN (1978)\nhttps://metrograph.com/series/?vi
+ sta_series_id=0000000541
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000541
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Showgirls @ METROGRAPH
+DTSTART:20260611T220000
+DTEND:20260612T000000
+DESCRIPTION:Dir: PAUL VERHOEVEN (1995)\nhttps://metrograph.com/thrust-it/
+LOCATION:METROGRAPH
+URL:https://metrograph.com/thrust-it/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Love Letter @ METROGRAPH
@@ -15295,5 +14421,47 @@ DESCRIPTION:Dir: PETER FONDA (1971)\nhttps://www.moma.org/calendar/film/59
  09
 LOCATION:MUSEUM OF MODERN ART
 URL:https://www.moma.org/calendar/film/5909
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daughters of the Dust @ BAM
+DTSTART:20260704T140000
+DTEND:20260704T160000
+DESCRIPTION:Dir: JULIE DASH (1991)\nhttps://www.bam.org/film/2026/spectres
+LOCATION:BAM
+URL:https://www.bam.org/film/2026/spectres
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daughters of the Dust @ BAM
+DTSTART:20260704T163000
+DTEND:20260704T183000
+DESCRIPTION:Dir: JULIE DASH (1991)\nhttps://www.bam.org/film/2026/spectres
+LOCATION:BAM
+URL:https://www.bam.org/film/2026/spectres
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daughters of the Dust @ BAM
+DTSTART:20260704T191500
+DTEND:20260704T211500
+DESCRIPTION:Dir: JULIE DASH (1991)\nhttps://www.bam.org/film/2026/spectres
+LOCATION:BAM
+URL:https://www.bam.org/film/2026/spectres
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sinners @ BAM
+DTSTART:20260704T163000
+DTEND:20260704T183000
+DESCRIPTION:Dir: RYAN COOGLER (2025)\nhttps://www.bam.org/film/2026/spectr
+ es
+LOCATION:BAM
+URL:https://www.bam.org/film/2026/spectres
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Blair Witch Project @ BAM
+DTSTART:20260704T191500
+DTEND:20260704T211500
+DESCRIPTION:Dir: DANIEL MYRICK\, EDUARDO SÁNCHEZ (1999)\nhttps://www.bam.
+ org/film/2026/spectres
+LOCATION:BAM
+URL:https://www.bam.org/film/2026/spectres
 END:VEVENT
 END:VCALENDAR
