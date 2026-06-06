@@ -221,10 +221,15 @@ def resolve_screenslate_links(data):
 
 def _make_letterboxd_slug(title):
     """Convert a movie title to a Letterboxd-style URL slug."""
+    import unicodedata
     slug = title.lower()
     # Remove content in parentheses (like "35mm" notes)
     slug = re.sub(r'\s*\([^)]*\)\s*', ' ', slug)
-    # Replace & with and (Letterboxd doesn't always do this, but handles both)
+    # Remove apostrophes/quotes without adding spaces (L'Âge -> LÂge)
+    slug = slug.replace("'", "").replace("'", "").replace("`", "")
+    # Transliterate accented characters (Â->a, é->e, ñ->n, etc.)
+    slug = unicodedata.normalize('NFKD', slug).encode('ascii', 'ignore').decode('ascii')
+    # Replace & with and
     slug = slug.replace('&', 'and').replace('+', 'and')
     # Keep only alphanumeric, spaces, hyphens
     slug = re.sub(r"[^a-z0-9\s-]", '', slug)
@@ -402,6 +407,214 @@ def enrich_letterboxd(data):
     return data
 
 
+def scrape_metrograph():
+    """Scrape Metrograph listings from metrograph.com/calendar/ (no Selenium needed).
+
+    Structure: div#calendar-list-day-YYYY-MM-DD contains div.film-thumbnail items.
+    Each film div has h4 (title), metadata text (Director / Year / Runtime / Format),
+    and <a> links to film pages and ticket pages with showtime text.
+    """
+    print("\nScraping Metrograph...")
+    all_data = []
+    try:
+        resp = SESSION.get("https://metrograph.com/calendar/", timeout=15)
+        soup = BeautifulSoup(resp.text, 'html.parser')
+
+        day_divs = soup.find_all('div', class_='calendar-list-day')
+        for day_div in day_divs:
+            # Date from id: "calendar-list-day-2026-06-06"
+            div_id = day_div.get('id', '')
+            date_match = re.search(r'(\d{4}-\d{2}-\d{2})', div_id)
+            if not date_match:
+                continue
+            date_str = date_match.group(1)
+
+            films = day_div.find_all('div', class_=re.compile('film-thumbnail'))
+            for film_div in films:
+                h4 = film_div.find('h4')
+                title = h4.get_text(strip=True) if h4 else None
+                if not title:
+                    continue
+
+                # Film page link
+                film_link = None
+                for a in film_div.find_all('a', href=True):
+                    if '/film/' in a['href']:
+                        href = a['href']
+                        film_link = href if href.startswith('http') else f"https://metrograph.com{href}"
+                        break
+
+                # Metadata: "Director / Year / Runtime / Format" in the div text
+                full_text = film_div.get_text(' ', strip=True)
+                # Extract director/year/runtime from pattern after title
+                meta_match = re.search(
+                    r'(?:' + re.escape(title) + r')\s*(.+?)(?:\d{1,2}:\d{2}[ap]m|$)',
+                    full_text, re.IGNORECASE
+                )
+                director = 'N/A'
+                year = 'N/A'
+                runtime = None
+                if meta_match:
+                    meta = meta_match.group(1)
+                    parts = [p.strip() for p in meta.split('/')]
+                    if parts:
+                        director = parts[0] if parts[0] else 'N/A'
+                    if len(parts) > 1:
+                        ym = re.search(r'(19\d{2}|20[0-2]\d)', parts[1])
+                        if ym:
+                            year = ym.group(1)
+                    if len(parts) > 2:
+                        rm = re.search(r'(\d{2,3})\s*min', parts[2])
+                        if rm:
+                            runtime = int(rm.group(1))
+
+                # Showtimes from links
+                showtimes = []
+                for a in film_div.find_all('a', href=True):
+                    t = a.get_text(strip=True)
+                    tm = re.match(r'(\d{1,2}:\d{2}\s*[ap]m)', t, re.IGNORECASE)
+                    if tm:
+                        showtimes.append(tm.group(1))
+                if not showtimes:
+                    # Try from full text
+                    showtimes = re.findall(r'\d{1,2}:\d{2}\s*[ap]m', full_text, re.IGNORECASE)
+                if not showtimes:
+                    showtimes = ['Check website']
+
+                # Ticket link (prefer direct ticket URL over film page)
+                ticket_link = film_link
+                for a in film_div.find_all('a', href=True):
+                    if 'visSelectTickets' in a['href'] or 'Ticketing' in a['href']:
+                        ticket_link = a['href']
+                        break
+
+                all_data.append({
+                    'date': date_str,
+                    'theater': 'METROGRAPH',
+                    'title': title,
+                    'director': director,
+                    'year': year,
+                    'link': ticket_link or film_link or 'https://metrograph.com/calendar/',
+                    'showtimes': showtimes,
+                })
+
+    except Exception as e:
+        print(f"  Metrograph scrape error: {e}")
+
+    print(f"  Got {len(all_data)} Metrograph screenings")
+    return all_data
+
+
+def scrape_paris_theater(driver):
+    """Scrape Paris Theater listings from paristheaternyc.com."""
+    print("\nScraping Paris Theater...")
+    all_data = []
+    try:
+        driver.get("https://www.paristheaternyc.com")
+        time.sleep(3)
+        scroll_full_page(driver)
+        time.sleep(2)
+
+        # Extract all film links from the homepage
+        film_links = set()
+        anchors = driver.find_elements(By.TAG_NAME, 'a')
+        for a in anchors:
+            href = a.get_attribute('href') or ''
+            if '/film/' in href and 'paristheaternyc.com' in href:
+                film_links.add(href)
+
+        print(f"  Found {len(film_links)} film pages")
+
+        for film_url in film_links:
+            try:
+                driver.get(film_url)
+                time.sleep(2)
+                scroll_full_page(driver)
+                time.sleep(1)
+
+                page_text = driver.find_element(By.TAG_NAME, 'body').text
+                title_el = driver.find_elements(By.TAG_NAME, 'h1')
+                title = title_el[0].text.strip() if title_el else "Unknown"
+                if not title or title == "Unknown":
+                    continue
+
+                # Extract director — look for "Directed by" or "Dir." pattern
+                director = "N/A"
+                dir_match = re.search(r'(?:Directed by|Dir\.?)\s+(.+?)(?:\n|$)', page_text, re.IGNORECASE)
+                if dir_match:
+                    director = dir_match.group(1).strip()
+
+                # Extract year
+                year = "N/A"
+                year_match = re.search(r'\b(19\d{2}|20[0-2]\d)\b', page_text)
+                if year_match:
+                    year = year_match.group(1)
+
+                # Extract dates and showtimes
+                # Look for date patterns like "June 12, 2026" or "Jun 12-16"
+                date_matches = re.findall(
+                    r'(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\w*\s+\d{1,2}(?:\s*[-–]\s*\d{1,2})?,?\s*\d{4}',
+                    page_text, re.IGNORECASE
+                )
+                time_matches = re.findall(r'\d{1,2}:\d{2}\s*[AP]M', page_text, re.IGNORECASE)
+                showtimes = time_matches if time_matches else ['Check website']
+
+                # Parse date ranges and create entries for each day
+                for date_str_raw in date_matches:
+                    try:
+                        # Handle ranges like "June 12-16, 2026"
+                        range_match = re.match(
+                            r'(\w+)\s+(\d{1,2})\s*[-–]\s*(\d{1,2}),?\s*(\d{4})',
+                            date_str_raw
+                        )
+                        if range_match:
+                            month_str, start_day, end_day, yr = range_match.groups()
+                            for day in range(int(start_day), int(end_day) + 1):
+                                try:
+                                    dt = datetime.strptime(f"{month_str} {day} {yr}", "%B %d %Y")
+                                    all_data.append({
+                                        'date': dt.strftime('%Y-%m-%d'),
+                                        'theater': 'PARIS THEATER',
+                                        'title': title,
+                                        'director': director,
+                                        'year': year,
+                                        'link': film_url,
+                                        'showtimes': showtimes,
+                                    })
+                                except ValueError:
+                                    pass
+                        else:
+                            # Single date like "June 12, 2026"
+                            clean = re.sub(r'\s+', ' ', date_str_raw.strip())
+                            for fmt in ('%B %d, %Y', '%B %d %Y', '%b %d, %Y', '%b %d %Y'):
+                                try:
+                                    dt = datetime.strptime(clean, fmt)
+                                    all_data.append({
+                                        'date': dt.strftime('%Y-%m-%d'),
+                                        'theater': 'PARIS THEATER',
+                                        'title': title,
+                                        'director': director,
+                                        'year': year,
+                                        'link': film_url,
+                                        'showtimes': showtimes,
+                                    })
+                                    break
+                                except ValueError:
+                                    continue
+                    except Exception:
+                        continue
+
+            except Exception as e:
+                print(f"  Error on {film_url}: {e}")
+                continue
+
+    except Exception as e:
+        print(f"  Paris Theater scrape error: {e}")
+
+    print(f"  Got {len(all_data)} Paris Theater screenings")
+    return all_data
+
+
 def master_scrape(num_days=30):
     """Scrape the next num_days days of screenings with retries."""
     driver = make_driver()
@@ -491,10 +704,24 @@ if __name__ == "__main__":
     print("=" * 60)
     print(f"\n📂 Data folder: {DATA_FOLDER}\n")
     
-    # Always scrape next 30 days
-    NUM_DAYS = 30
+    # Scrape next 90 days
+    NUM_DAYS = 90
     screenings = master_scrape(NUM_DAYS)
     
+    # Scrape theaters not fully covered by Screen Slate
+    metrograph_data = scrape_metrograph()
+    screenings.extend(metrograph_data)
+
+    paris_driver = make_driver()
+    try:
+        paris_data = scrape_paris_theater(paris_driver)
+        screenings.extend(paris_data)
+    finally:
+        try:
+            paris_driver.quit()
+        except Exception:
+            pass
+
     if screenings:
         print(f"\n{'='*60}")
         print(f"✓ Found {len(screenings)} total screenings")
