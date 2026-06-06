@@ -443,7 +443,7 @@ def save_html(data):
         </div>
     </div>
     <div class="subtitle">
-        Next 30 Days ({start_date} to {end_date})<br>
+        Next 90 Days ({start_date} to {end_date})<br>
         Scraped from https://www.screenslate.com &bull; Last updated: {datetime.now().strftime('%B %d, %Y at %I:%M %p')}
     </div>
 
@@ -478,9 +478,27 @@ def save_html(data):
             </div>
             <div class="filter-row">
                 <div class="filter-group">
-                    <label>Specific Dates</label>
-                    <select id="dateFilter" multiple onchange="handleDateFilterChange()"></select>
-                    <div class="filter-hint">Hold Ctrl/Cmd to select multiple</div>
+                    <label>Date Range</label>
+                    <div style="display:flex;gap:8px;margin-bottom:8px;">
+                        <label class="pill" onclick="setDateMode('after')"><input type="radio" name="dateMode" value="after"> After</label>
+                        <label class="pill" onclick="setDateMode('before')"><input type="radio" name="dateMode" value="before"> Before</label>
+                        <label class="pill" onclick="setDateMode('between')"><input type="radio" name="dateMode" value="between"> Between</label>
+                        <label class="pill checked" onclick="setDateMode('specific')"><input type="radio" name="dateMode" value="specific" checked> Specific</label>
+                    </div>
+                    <div id="datePickerSingle" style="display:none;">
+                        <select id="dateSingle" onchange="handleDateModeChange()"></select>
+                    </div>
+                    <div id="datePickerRange" style="display:none;">
+                        <div style="display:flex;gap:8px;align-items:center;">
+                            <select id="dateRangeStart" onchange="handleDateModeChange()"></select>
+                            <span>to</span>
+                            <select id="dateRangeEnd" onchange="handleDateModeChange()"></select>
+                        </div>
+                    </div>
+                    <div id="datePickerMulti">
+                        <select id="dateFilter" multiple onchange="handleDateFilterChange()"></select>
+                        <div class="filter-hint">Hold Ctrl/Cmd to select multiple</div>
+                    </div>
                 </div>
                 <div class="filter-group">
                     <label>Starts Between</label>
@@ -584,6 +602,7 @@ def save_html(data):
     let mapInitialized = false;
     let nowShowingActive = false;
     let currentView = 'list';
+    let dateMode = 'specific';
 
     const dateMap = {{}};
     allMovies.forEach(m => {{ dateMap[m.date] = (dateMap[m.date] || 0) + 1; }});
@@ -649,15 +668,48 @@ def save_html(data):
         if (name === 'where' && !mapInitialized) {{ initMap(); mapInitialized = true; }}
     }}
 
+    /* ── DATE MODE ──────────────────────────────────────────── */
+    function setDateMode(mode) {{
+        dateMode = mode;
+        document.querySelectorAll('[name="dateMode"]').forEach(r => {{
+            r.closest('.pill').classList.toggle('checked', r.value === mode);
+        }});
+        document.getElementById('datePickerMulti').style.display = mode === 'specific' ? '' : 'none';
+        document.getElementById('datePickerSingle').style.display = (mode === 'after' || mode === 'before') ? '' : 'none';
+        document.getElementById('datePickerRange').style.display = mode === 'between' ? '' : 'none';
+        selectedDates.clear(); syncUI(); filterMovies();
+    }}
+    function handleDateModeChange() {{
+        selectedDates.clear();
+        if (dateMode === 'after') {{
+            const v = document.getElementById('dateSingle').value;
+            if (v) dates.forEach(d => {{ if (d >= v) selectedDates.add(d); }});
+        }} else if (dateMode === 'before') {{
+            const v = document.getElementById('dateSingle').value;
+            if (v) dates.forEach(d => {{ if (d <= v) selectedDates.add(d); }});
+        }} else if (dateMode === 'between') {{
+            const s = document.getElementById('dateRangeStart').value;
+            const e = document.getElementById('dateRangeEnd').value;
+            if (s && e) dates.forEach(d => {{ if (d >= s && d <= e) selectedDates.add(d); }});
+        }}
+        if (selectedDates.size) selectedDaysOfWeek.clear();
+        nowShowingActive = false; document.getElementById('nowShowingBtn').classList.remove('active');
+        syncUI(); filterMovies();
+    }}
+
     /* ── POPULATE DROPDOWNS & PILLS ───────────────────────── */
     (function init() {{
         const ds = document.getElementById('dateFilter');
+        const dSingle = document.getElementById('dateSingle');
+        const dStart = document.getElementById('dateRangeStart');
+        const dEnd = document.getElementById('dateRangeEnd');
         dates.forEach(d => {{
-            const o = document.createElement('option');
-            o.value = d;
             const dt = new Date(d + 'T00:00:00');
-            o.textContent = dt.toLocaleDateString('en-US', {{ weekday:'short', month:'short', day:'numeric' }});
-            ds.appendChild(o);
+            const label = dt.toLocaleDateString('en-US', {{ weekday:'short', month:'short', day:'numeric' }});
+            const o = document.createElement('option'); o.value = d; o.textContent = label; ds.appendChild(o);
+            const o2 = o.cloneNode(true); dSingle.appendChild(o2);
+            const o3 = o.cloneNode(true); dStart.appendChild(o3);
+            const o4 = o.cloneNode(true); dEnd.appendChild(o4);
         }});
         const ts = document.getElementById('theaterFilter');
         allTheaters.forEach(t => {{ const o = document.createElement('option'); o.value = t; o.textContent = t; ts.appendChild(o); }});
