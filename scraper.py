@@ -505,6 +505,102 @@ def scrape_metrograph():
     return all_data
 
 
+def scrape_roxy_cinema():
+    """Scrape Roxy Cinema New York from roxycinemanewyork.com/now-showing/ (no Selenium needed).
+
+    Structure: div.grid__listings--group per day, h3.events__date for date,
+    div.detailed-screening__card per screening with time, title, meta, ticket link.
+    """
+    print("\nScraping Roxy Cinema New York...")
+    all_data = []
+    try:
+        resp = SESSION.get("https://www.roxycinemanewyork.com/now-showing/", timeout=15)
+        soup = BeautifulSoup(resp.text, 'html.parser')
+        now = datetime.now()
+        groups = soup.find_all('div', class_='grid__listings--group')
+
+        for group in groups:
+            date_el = group.find('h3', class_='events__date')
+            if not date_el:
+                continue
+            date_str_raw = date_el.get_text(strip=True)  # e.g. 'Saturday, June 06'
+
+            # Assign year: pick the earliest year where the date is today or future
+            today = now.replace(hour=0, minute=0, second=0, microsecond=0)
+            date_obj = None
+            for yr in [now.year, now.year + 1]:
+                try:
+                    candidate = datetime.strptime(f'{date_str_raw} {yr}', '%A, %B %d %Y')
+                    if candidate >= today:
+                        date_obj = candidate
+                        break  # take earliest valid year
+                except ValueError:
+                    continue
+            if not date_obj:
+                continue
+            date_str = date_obj.strftime('%Y-%m-%d')
+
+            cards = group.find_all('div', class_='detailed-screening__card')
+            for card in cards:
+                # Showtime
+                actions = card.find('div', class_='detailed-screening__actions')
+                showtime_text = actions.get_text(strip=True) if actions else ''
+                st_match = re.search(r'(\d{1,2}:\d{2}[AP]M)', showtime_text, re.IGNORECASE)
+                showtime = st_match.group(1) if st_match else 'Check website'
+
+                # Ticket link (prefer Veezi)
+                ticket_link = 'https://www.roxycinemanewyork.com/now-showing/'
+                for a in card.find_all('a', href=True):
+                    if 'veezi' in a['href'] or 'ticketing' in a['href'].lower():
+                        ticket_link = a['href']
+                        break
+                else:
+                    cta = card.find('a', class_='detailed-screening__cta')
+                    if cta:
+                        ticket_link = cta['href']
+
+                # Title — strip series suffix like '| I Paused My Game to be Here'
+                title_el = card.find('h3', class_='detailed-screening__title')
+                if not title_el:
+                    continue
+                title = re.sub(r'\s*\|.*$', '', title_el.get_text(strip=True)).strip()
+                if not title:
+                    continue
+
+                # Meta: 'Drama, History, Thriller | 2025 | 136MIN'
+                info_el = card.find('p', class_='detailed-screening__info')
+                info = info_el.get_text(strip=True) if info_el else ''
+                year = 'N/A'
+                for part in info.split('|'):
+                    ym = re.search(r'(19\d{2}|20[0-2]\d)', part)
+                    if ym:
+                        year = ym.group(1)
+                        break
+
+                # Merge showtimes for same title+date
+                existing = next((d for d in all_data
+                                 if d['date'] == date_str and d['title'] == title), None)
+                if existing:
+                    if showtime not in existing['showtimes']:
+                        existing['showtimes'].append(showtime)
+                else:
+                    all_data.append({
+                        'date': date_str,
+                        'theater': 'ROXY CINEMA NEW YORK',
+                        'title': title,
+                        'director': 'N/A',
+                        'year': year,
+                        'link': ticket_link,
+                        'showtimes': [showtime],
+                    })
+
+    except Exception as e:
+        print(f"  Roxy Cinema scrape error: {e}")
+
+    print(f"  Got {len(all_data)} Roxy Cinema screenings")
+    return all_data
+
+
 def scrape_paris_theater(driver):
     """Scrape Paris Theater listings from paristheaternyc.com."""
     print("\nScraping Paris Theater...")
@@ -711,6 +807,9 @@ if __name__ == "__main__":
     # Scrape theaters not fully covered by Screen Slate
     metrograph_data = scrape_metrograph()
     screenings.extend(metrograph_data)
+
+    roxy_data = scrape_roxy_cinema()
+    screenings.extend(roxy_data)
 
     paris_driver = make_driver()
     try:
