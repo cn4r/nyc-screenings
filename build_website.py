@@ -329,7 +329,8 @@ def save_html(data):
         .calendar-day.selected .screening-count {{ color: #fff; }}
 
         /* ── Map ────────────────────────────────────── */
-        #map {{ height: 400px; width: 100%; border: 2px solid var(--card-border); margin-top: 10px; }}
+        #map {{ height: 400px; width: 100%; border: 2px solid var(--card-border); margin-top: 10px;
+                touch-action: none; }}
         .btn-clear {{ margin-top: 10px; padding: 8px 15px; cursor: pointer; background: var(--card-bg);
                       border: 2px solid var(--card-border); font-family: inherit; font-weight: bold;
                       text-transform: uppercase; transition: 0.2s; color: var(--fg); }}
@@ -692,7 +693,6 @@ def save_html(data):
             const e = document.getElementById('dateRangeEnd').value;
             if (s && e) dates.forEach(d => {{ if (d >= s && d <= e) selectedDates.add(d); }});
         }}
-        if (selectedDates.size) selectedDaysOfWeek.clear();
         nowShowingActive = false; document.getElementById('nowShowingBtn').classList.remove('active');
         syncUI(); filterMovies();
     }}
@@ -790,15 +790,17 @@ def save_html(data):
         map = new google.maps.Map(document.getElementById('map'), {{
             center: {{lat:40.7128, lng:-74.0060}}, zoom: 11,
             styles: [{{ featureType:"poi", stylers:[{{ visibility:"off" }}] }}],
-            mapTypeControl: false, streetViewControl: false
+            mapTypeControl: false, streetViewControl: false,
+            gestureHandling: 'greedy',  // allows single-finger pan on touch devices
+            zoomControl: true,
         }});
         drawingManager = new google.maps.drawing.DrawingManager({{
             drawingMode: null, drawingControl: true,
             drawingControlOptions: {{ position: google.maps.ControlPosition.TOP_CENTER,
-                                      drawingModes: ['polygon','circle','rectangle'] }},
-            circleOptions:    {{ fillOpacity:0.2, strokeColor:'#d32f2f', fillColor:'#d32f2f' }},
-            polygonOptions:   {{ fillOpacity:0.2, strokeColor:'#d32f2f', fillColor:'#d32f2f' }},
-            rectangleOptions: {{ fillOpacity:0.2, strokeColor:'#d32f2f', fillColor:'#d32f2f' }}
+                                      drawingModes: ['circle', 'rectangle', 'polygon'] }},
+            circleOptions:    {{ fillOpacity:0.2, strokeColor:'#d32f2f', fillColor:'#d32f2f', clickable:false, editable:true, zIndex:1 }},
+            polygonOptions:   {{ fillOpacity:0.2, strokeColor:'#d32f2f', fillColor:'#d32f2f', clickable:false, editable:true, zIndex:1 }},
+            rectangleOptions: {{ fillOpacity:0.2, strokeColor:'#d32f2f', fillColor:'#d32f2f', clickable:false, editable:true, zIndex:1 }}
         }});
         drawingManager.setMap(map);
         google.maps.event.addListener(drawingManager, 'overlaycomplete', function(e) {{
@@ -853,10 +855,11 @@ def save_html(data):
             cal.appendChild(day); cur.setDate(cur.getDate() + 1);
         }}
     }}
-    function toggleDayOfWeek(i) {{ selectedDaysOfWeek.has(i) ? selectedDaysOfWeek.delete(i) : selectedDaysOfWeek.add(i); selectedDates.clear(); nowShowingActive = false; document.getElementById('nowShowingBtn').classList.remove('active'); syncUI(); filterMovies(); }}
-    function handleDayCheckboxChange() {{ selectedDaysOfWeek.clear(); document.querySelectorAll('.day-checkbox input:checked').forEach(cb => selectedDaysOfWeek.add(+cb.value)); selectedDates.clear(); nowShowingActive = false; document.getElementById('nowShowingBtn').classList.remove('active'); syncUI(); filterMovies(); }}
-    function toggleDate(ds) {{ selectedDates.has(ds) ? selectedDates.delete(ds) : selectedDates.add(ds); if (selectedDates.size) selectedDaysOfWeek.clear(); nowShowingActive = false; document.getElementById('nowShowingBtn').classList.remove('active'); syncUI(); filterMovies(); }}
-    function handleDateFilterChange() {{ selectedDates = new Set(Array.from(document.getElementById('dateFilter').selectedOptions).map(o=>o.value)); if (selectedDates.size) selectedDaysOfWeek.clear(); nowShowingActive = false; document.getElementById('nowShowingBtn').classList.remove('active'); syncUI(); filterMovies(); }}
+    // Day-of-week and date filters now stack — selecting Fridays + a date range gives the intersection.
+    function toggleDayOfWeek(i) {{ selectedDaysOfWeek.has(i) ? selectedDaysOfWeek.delete(i) : selectedDaysOfWeek.add(i); nowShowingActive = false; document.getElementById('nowShowingBtn').classList.remove('active'); syncUI(); filterMovies(); }}
+    function handleDayCheckboxChange() {{ selectedDaysOfWeek.clear(); document.querySelectorAll('.day-checkbox input:checked').forEach(cb => selectedDaysOfWeek.add(+cb.value)); nowShowingActive = false; document.getElementById('nowShowingBtn').classList.remove('active'); syncUI(); filterMovies(); }}
+    function toggleDate(ds) {{ selectedDates.has(ds) ? selectedDates.delete(ds) : selectedDates.add(ds); nowShowingActive = false; document.getElementById('nowShowingBtn').classList.remove('active'); syncUI(); filterMovies(); }}
+    function handleDateFilterChange() {{ selectedDates = new Set(Array.from(document.getElementById('dateFilter').selectedOptions).map(o=>o.value)); nowShowingActive = false; document.getElementById('nowShowingBtn').classList.remove('active'); syncUI(); filterMovies(); }}
     function syncUI() {{
         Array.from(document.getElementById('dateFilter').options).forEach(o => {{ o.selected = selectedDates.has(o.value); }});
         document.querySelectorAll('.day-checkbox').forEach(lbl => {{ const cb = lbl.querySelector('input'); cb.checked = selectedDaysOfWeek.has(+cb.value); lbl.classList.toggle('checked', cb.checked); }});
