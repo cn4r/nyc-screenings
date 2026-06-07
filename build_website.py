@@ -456,8 +456,7 @@ def save_html(data):
         </div>
     </div>
     <div class="subtitle">
-        Next 90 Days ({start_date} to {end_date})<br>
-        Scraped from https://www.screenslate.com &bull; Last updated: {datetime.now().strftime('%B %d, %Y at %I:%M %p')}
+        Next 90 Days ({start_date} to {end_date}) &bull; Last updated: {datetime.now().strftime('%B %d, %Y at %I:%M %p')}
     </div>
 
     <div class="sticky-bar" id="stickyBar">
