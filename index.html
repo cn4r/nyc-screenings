@@ -34,7 +34,8 @@
         .dvd-btn { display: inline-block; cursor: pointer; border: none; background: none;
                     padding: 0; transition: transform 0.2s; }
         .dvd-btn img { height: 34px; width: 34px; object-fit: cover; display: block;
-                        border-radius: 2px; }
+                        border-radius: 2px; mix-blend-mode: multiply; }
+        body.dark .dvd-btn img { mix-blend-mode: screen; filter: invert(1) hue-rotate(180deg); }
         .dvd-btn:hover { transform: rotate(-8deg) scale(1.1); }
         .subtitle { color: var(--muted); font-style: italic; margin-bottom: 15px;
                     font-family: 'VT323', 'Special Elite', 'Courier New', monospace;
@@ -252,7 +253,7 @@
     </div>
     <div class="subtitle">
         Next 90 Days (2026-06-05 to 2026-07-28)<br>
-        Scraped from https://www.screenslate.com &bull; Last updated: June 06, 2026 at 05:44 PM
+        Scraped from https://www.screenslate.com &bull; Last updated: June 06, 2026 at 05:47 PM
     </div>
 
     <div class="sticky-bar" id="stickyBar">
@@ -431,10 +432,17 @@
 
     /* ── DARK MODE ─────────────────────────────────────────── */
     function toggleDark() {
-        document.body.classList.toggle('dark');
-        const btn = document.getElementById('darkToggle');
-        btn.textContent = document.body.classList.contains('dark') ? 'Light' : 'Dark';
+        const dark = document.body.classList.toggle('dark');
+        document.getElementById('darkToggle').textContent = dark ? 'Light' : 'Dark';
+        localStorage.setItem('dark', dark ? '1' : '');
     }
+    // Restore dark mode from localStorage on load
+    (function() {
+        if (localStorage.getItem('dark')) {
+            document.body.classList.add('dark');
+            document.getElementById('darkToggle').textContent = 'Light';
+        }
+    })();
 
     /* ── NOW SHOWING ───────────────────────────────────────── */
     function toggleNowShowing() {

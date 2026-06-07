@@ -238,7 +238,8 @@ def save_html(data):
         .dvd-btn {{ display: inline-block; cursor: pointer; border: none; background: none;
                     padding: 0; transition: transform 0.2s; }}
         .dvd-btn img {{ height: 34px; width: 34px; object-fit: cover; display: block;
-                        border-radius: 2px; }}
+                        border-radius: 2px; mix-blend-mode: multiply; }}
+        body.dark .dvd-btn img {{ mix-blend-mode: screen; filter: invert(1) hue-rotate(180deg); }}
         .dvd-btn:hover {{ transform: rotate(-8deg) scale(1.1); }}
         .subtitle {{ color: var(--muted); font-style: italic; margin-bottom: 15px;
                     font-family: 'VT323', 'Special Elite', 'Courier New', monospace;
@@ -635,10 +636,17 @@ def save_html(data):
 
     /* ── DARK MODE ─────────────────────────────────────────── */
     function toggleDark() {{
-        document.body.classList.toggle('dark');
-        const btn = document.getElementById('darkToggle');
-        btn.textContent = document.body.classList.contains('dark') ? 'Light' : 'Dark';
+        const dark = document.body.classList.toggle('dark');
+        document.getElementById('darkToggle').textContent = dark ? 'Light' : 'Dark';
+        localStorage.setItem('dark', dark ? '1' : '');
     }}
+    // Restore dark mode from localStorage on load
+    (function() {{
+        if (localStorage.getItem('dark')) {{
+            document.body.classList.add('dark');
+            document.getElementById('darkToggle').textContent = 'Light';
+        }}
+    }})();
 
     /* ── NOW SHOWING ───────────────────────────────────────── */
     function toggleNowShowing() {{
@@ -1119,48 +1127,50 @@ def save_pile_html(data):
     <link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
     <style>
         * {{ box-sizing: border-box; margin: 0; padding: 0; }}
-        body {{ background: #fafafa; min-height: 100vh; overflow: hidden;
-                font-family: "Times New Roman", serif; color: #000; }}
+        :root {{ --bg: #fafafa; --fg: #000; --card-bg: #fff; --muted: #666; --accent: #d32f2f; }}
+        body.dark {{ --bg: #1a1a1a; --fg: #e0e0e0; --card-bg: #2a2a2a; --muted: #aaa; --accent: #ff5252; }}
+        body {{ background: var(--bg); min-height: 100vh; overflow: hidden;
+                font-family: "Times New Roman", serif; color: var(--fg);
+                transition: background 0.3s, color 0.3s; }}
         .header {{ position: fixed; top: 0; left: 0; right: 0; z-index: 1000;
                    display: flex; justify-content: space-between; align-items: center;
-                   padding: 12px 20px; background: #fff; border-bottom: 3px solid #000; }}
+                   padding: 12px 20px; background: var(--bg); border-bottom: 3px solid var(--fg);
+                   transition: background 0.3s; }}
         .header h1 {{ font-size: 1.1em; letter-spacing: 3px; text-transform: uppercase; }}
         .header-right {{ display: flex; gap: 10px; align-items: center; }}
-        .btn {{ padding: 7px 14px; background: #000; color: #fff; border: 2px solid #000;
+        .btn {{ padding: 7px 14px; background: var(--fg); color: var(--bg); border: 2px solid var(--fg);
                 font-family: inherit; font-size: 0.85em; cursor: pointer; letter-spacing: 1px;
                 text-transform: uppercase; transition: 0.2s; text-decoration: none; }}
-        .btn:hover {{ background: #d32f2f; border-color: #d32f2f; }}
+        .btn:hover {{ background: var(--accent); border-color: var(--accent); color: #fff; }}
         .stage {{ position: fixed; top: 55px; left: 0; right: 0; bottom: 0; overflow: hidden;
-                  background: #fafafa; }}
-        .card {{ position: absolute; width: 120px; cursor: grab; user-select: none;
-                 outline: none; }}
+                  background: var(--bg); transition: background 0.3s; }}
+        .card {{ position: absolute; width: 120px; cursor: grab; user-select: none; outline: none; }}
         .card:active {{ cursor: grabbing; }}
-        .card:focus {{ box-shadow: 0 0 0 3px #d32f2f; }}
+        .card:focus {{ box-shadow: 0 0 0 3px var(--accent); }}
         .card img {{ width: 120px; height: 180px; object-fit: cover; display: block;
-                     border: 2px solid #000; }}
-        .card .label {{ font-size: 0.6em; background: #fff; color: #000; padding: 3px 5px;
-                        text-align: center; line-height: 1.2; border: 2px solid #000;
+                     border: 2px solid var(--fg); }}
+        .card .label {{ font-size: 0.6em; background: var(--card-bg); color: var(--fg); padding: 3px 5px;
+                        text-align: center; line-height: 1.2; border: 2px solid var(--fg);
                         border-top: none; overflow: hidden; white-space: nowrap;
                         text-overflow: ellipsis; font-weight: bold; text-transform: uppercase;
-                        letter-spacing: 0.5px; }}
-        /* Modal */
+                        letter-spacing: 0.5px; transition: background 0.3s; }}
         .modal {{ display: none; position: fixed; inset: 0; z-index: 2000;
                   background: rgba(0,0,0,0.7); align-items: center; justify-content: center; }}
         .modal.open {{ display: flex; }}
-        .modal-inner {{ background: #fff; border: 2px solid #000; padding: 30px;
-                        max-width: 420px; width: 90%; position: relative; }}
+        .modal-inner {{ background: var(--card-bg); border: 2px solid var(--fg); padding: 30px;
+                        max-width: 420px; width: 90%%; position: relative; transition: background 0.3s; }}
         .modal-poster {{ width: 100%%; max-height: 280px; object-fit: contain; margin-bottom: 15px;
-                         border: 2px solid #000; }}
+                         border: 2px solid var(--fg); }}
         .modal h2 {{ font-size: 1.3em; margin-bottom: 5px; font-weight: bold; }}
-        .modal p {{ color: #666; font-size: 0.9em; margin-bottom: 6px; }}
+        .modal p {{ color: var(--muted); font-size: 0.9em; margin-bottom: 6px; }}
         .modal .close {{ position: absolute; top: 10px; right: 14px; cursor: pointer;
-                         font-size: 1.5em; color: #000; font-weight: bold; line-height: 1; }}
-        .modal .close:hover {{ color: #d32f2f; }}
-        .modal a {{ color: #000; border-bottom: 2px solid #000; text-decoration: none;
+                         font-size: 1.5em; color: var(--fg); font-weight: bold; line-height: 1; }}
+        .modal .close:hover {{ color: var(--accent); }}
+        .modal a {{ color: var(--fg); border-bottom: 2px solid var(--fg); text-decoration: none;
                     font-weight: bold; display: inline-block; margin-top: 10px; }}
-        .modal a:hover {{ background: #000; color: #fff; }}
+        .modal a:hover {{ background: var(--fg); color: var(--bg); }}
         .hint {{ position: fixed; bottom: 12px; left: 50%%; transform: translateX(-50%%);
-                 font-size: 0.75em; color: #999; font-style: italic; pointer-events: none; }}
+                 font-size: 0.75em; color: var(--muted); font-style: italic; pointer-events: none; }}
     </style>
 </head>
 <body>
@@ -1168,6 +1178,7 @@ def save_pile_html(data):
     <h1>The Pile</h1>
     <div class="header-right">
         <button class="btn" onclick="shuffle()">Shuffle</button>
+        <button class="btn" id="darkBtn" onclick="toggleDark()">Dark</button>
         <a href="index.html" class="btn">Back</a>
     </div>
 </div>
@@ -1285,6 +1296,20 @@ function closeModal(e) {{
         document.getElementById('modal').classList.remove('open');
 }}
 document.addEventListener('keydown', e => {{ if (e.key === 'Escape') document.getElementById('modal').classList.remove('open'); }});
+
+function toggleDark() {{
+    const dark = document.body.classList.toggle('dark');
+    localStorage.setItem('dark', dark ? '1' : '');
+    document.getElementById('darkBtn').textContent = dark ? 'Light' : 'Dark';
+}}
+
+// Sync dark mode with main site via localStorage
+(function() {{
+    if (localStorage.getItem('dark')) {{
+        document.body.classList.add('dark');
+        document.getElementById('darkBtn').textContent = 'Light';
+    }}
+}})();
 
 window.onload = shuffle;
 </script>
