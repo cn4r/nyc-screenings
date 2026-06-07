@@ -1,5 +1,12 @@
 # Future Ideas
 
+## Email Digest + Newsletter Signup
+- Daily email to owner (charitsn28@gmail.com) with newly added screenings since yesterday
+- Newsletter subscribe form on site — stores emails via Resend's contacts API
+- Subscribers get same daily digest of new listings: title, theater, showtimes, ticket link
+- Use Resend (free tier: 3K emails/month) + GitHub secret RESEND_API_KEY
+- Send step runs in GitHub Action after scrape, diffs screenings_latest vs previous day's file
+
 ## Saved Search Email Notifications
 - Subscribe form at top of listings: enter email, saves current filter state
 - Backend options: Supabase free tier for subscription storage, Resend/SendGrid for sending

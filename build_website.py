@@ -208,6 +208,7 @@ def save_html(data):
     <title>NYC Movie Ledger</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
     <style>
         :root {{ --bg: #fafafa; --fg: #000; --card-bg: #fff; --card-border: #000;
                  --accent: #d32f2f; --muted: #666; --subtle: #f0f0f0; --tag-bg: #f0f0f0;
@@ -234,7 +235,15 @@ def save_html(data):
                         font-family: inherit; font-weight: bold; font-size: 1em; cursor: pointer;
                         transition: 0.2s; }}
         .dark-toggle:hover {{ opacity: 0.8; }}
-        .subtitle {{ color: var(--muted); font-style: italic; margin-bottom: 15px; }}
+        .dvd-btn {{ display: inline-block; cursor: pointer; border: none; background: none;
+                    padding: 0; transition: transform 0.2s; }}
+        .dvd-btn img {{ height: 34px; width: 34px; object-fit: cover; display: block;
+                        border-radius: 2px; mix-blend-mode: multiply; }}
+        body.dark .dvd-btn img {{ mix-blend-mode: screen; filter: invert(1) hue-rotate(180deg); }}
+        .dvd-btn:hover {{ transform: rotate(-8deg) scale(1.1); }}
+        .subtitle {{ color: var(--muted); font-style: italic; margin-bottom: 15px;
+                    font-family: 'VT323', 'Special Elite', 'Courier New', monospace;
+                    font-size: 1.05em; letter-spacing: 0.5px; }}
 
         /* ── Sticky bar ─────────────────────────────── */
         .sticky-bar {{ position: sticky; top: 0; z-index: 100; background: var(--bg);
@@ -441,11 +450,13 @@ def save_html(data):
         <div class="header-actions">
             <button class="now-showing-btn" id="nowShowingBtn" onclick="toggleNowShowing()">Now Showing</button>
             <button class="dark-toggle" id="darkToggle" onclick="toggleDark()">Dark</button>
+            <a href="pile.html" class="dvd-btn" title="The Pile">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/DVD-R_bottom-side.jpg" alt="The Pile">
+            </a>
         </div>
     </div>
     <div class="subtitle">
-        Next 90 Days ({start_date} to {end_date})<br>
-        Scraped from https://www.screenslate.com &bull; Last updated: {datetime.now().strftime('%B %d, %Y at %I:%M %p')}
+        Next 90 Days ({start_date} to {end_date}) &bull; Last updated: {datetime.now().strftime('%B %d, %Y at %I:%M %p')}
     </div>
 
     <div class="sticky-bar" id="stickyBar">
@@ -578,7 +589,6 @@ def save_html(data):
     <div id="movieContainer"></div>
 
     <div class="footer">
-        Data sourced from <a href="https://www.screenslate.com" target="_blank">Screen Slate</a><br>
         Calendar file available: <a href="./nyc_movies.ics" download>Download ICS</a>
     </div>
 
@@ -624,10 +634,17 @@ def save_html(data):
 
     /* ── DARK MODE ─────────────────────────────────────────── */
     function toggleDark() {{
-        document.body.classList.toggle('dark');
-        const btn = document.getElementById('darkToggle');
-        btn.textContent = document.body.classList.contains('dark') ? 'Light' : 'Dark';
+        const dark = document.body.classList.toggle('dark');
+        document.getElementById('darkToggle').textContent = dark ? 'Light' : 'Dark';
+        localStorage.setItem('dark', dark ? '1' : '');
     }}
+    // Restore dark mode from localStorage on load
+    (function() {{
+        if (localStorage.getItem('dark')) {{
+            document.body.classList.add('dark');
+            document.getElementById('darkToggle').textContent = 'Light';
+        }}
+    }})();
 
     /* ── NOW SHOWING ───────────────────────────────────────── */
     function toggleNowShowing() {{
@@ -914,7 +931,21 @@ def save_html(data):
             if (c && !isLocationInShape(c.lat, c.lng)) return false;
             if (!c && currentShape) return false;
             if (selectedTheaters.size && !selectedTheaters.has(m.theater)) return false;
-            if (selectedDates.size && !selectedDates.has(m.date)) return false;
+            // Date filter — evaluated live from current mode + inputs every call
+            if (dateMode === 'specific') {{
+                if (selectedDates.size && !selectedDates.has(m.date)) return false;
+            }} else if (dateMode === 'after') {{
+                const v = document.getElementById('dateSingle').value;
+                if (v && m.date < v) return false;
+            }} else if (dateMode === 'before') {{
+                const v = document.getElementById('dateSingle').value;
+                if (v && m.date > v) return false;
+            }} else if (dateMode === 'between') {{
+                const s = document.getElementById('dateRangeStart').value;
+                const e = document.getElementById('dateRangeEnd').value;
+                if (s && m.date < s) return false;
+                if (e && m.date > e) return false;
+            }}
             if (selectedDaysOfWeek.size) {{ const dow = new Date(m.date + 'T00:00:00').getDay(); if (!selectedDaysOfWeek.has(dow)) return false; }}
             if (filters.time && !matchesTimeRange(m.showtimes, lo, hi)) return false;
             if (selectedGenres.size) {{ const mg = m.genres || []; if (!mg.some(g => selectedGenres.has(g))) return false; }}
@@ -1085,6 +1116,224 @@ def save_html(data):
     print(f"✓ Website saved: {fp}")
 
 
+def save_pile_html(data):
+    import random
+    # Dedupe by title, prefer entries with poster_url
+    seen = {}
+    for s in data:
+        t = s['title']
+        if t not in seen or (s.get('poster_url') and not seen[t].get('poster_url')):
+            seen[t] = s
+    unique = list(seen.values())
+    random.shuffle(unique)
+    # Pass all unique films; JS picks 50 randomly and reshuffles on demand
+    pile_data = json.dumps(unique, ensure_ascii=False)
+    dvd_placeholder = "https://upload.wikimedia.org/wikipedia/commons/d/d3/DVD-R_bottom-side.jpg"
+
+    html = f"""<!DOCTYPE html>
+<html>
+<head>
+    <title>The Pile</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
+    <style>
+        * {{ box-sizing: border-box; margin: 0; padding: 0; }}
+        :root {{ --bg: #fafafa; --fg: #000; --card-bg: #fff; --muted: #666; --accent: #d32f2f; }}
+        body.dark {{ --bg: #1a1a1a; --fg: #e0e0e0; --card-bg: #2a2a2a; --muted: #aaa; --accent: #ff5252; }}
+        body {{ background: var(--bg); min-height: 100vh; overflow: hidden;
+                font-family: "Times New Roman", serif; color: var(--fg);
+                transition: background 0.3s, color 0.3s; }}
+        .header {{ position: fixed; top: 0; left: 0; right: 0; z-index: 1000;
+                   display: flex; justify-content: space-between; align-items: center;
+                   padding: 12px 20px; background: var(--bg); border-bottom: 3px solid var(--fg);
+                   transition: background 0.3s; }}
+        .header h1 {{ font-size: 1.1em; letter-spacing: 3px; text-transform: uppercase; }}
+        .header-right {{ display: flex; gap: 10px; align-items: center; }}
+        .btn {{ padding: 7px 14px; background: var(--fg); color: var(--bg); border: 2px solid var(--fg);
+                font-family: inherit; font-size: 0.85em; cursor: pointer; letter-spacing: 1px;
+                text-transform: uppercase; transition: 0.2s; text-decoration: none; }}
+        .btn:hover {{ background: var(--accent); border-color: var(--accent); color: #fff; }}
+        .stage {{ position: fixed; top: 55px; left: 0; right: 0; bottom: 0; overflow: hidden;
+                  background: var(--bg); transition: background 0.3s; }}
+        .card {{ position: absolute; width: 120px; cursor: grab; user-select: none; outline: none; }}
+        .card:active {{ cursor: grabbing; }}
+        .card:focus {{ box-shadow: 0 0 0 3px var(--accent); }}
+        .card img {{ width: 120px; height: 180px; object-fit: cover; display: block;
+                     border: 2px solid var(--fg); }}
+        .card .label {{ font-size: 0.6em; background: var(--card-bg); color: var(--fg); padding: 3px 5px;
+                        text-align: center; line-height: 1.2; border: 2px solid var(--fg);
+                        border-top: none; overflow: hidden; white-space: nowrap;
+                        text-overflow: ellipsis; font-weight: bold; text-transform: uppercase;
+                        letter-spacing: 0.5px; transition: background 0.3s; }}
+        .modal {{ display: none; position: fixed; inset: 0; z-index: 2000;
+                  background: rgba(0,0,0,0.7); align-items: center; justify-content: center; }}
+        .modal.open {{ display: flex; }}
+        .modal-inner {{ background: var(--card-bg); border: 2px solid var(--fg); padding: 30px;
+                        max-width: 420px; width: 90%%; position: relative; transition: background 0.3s; }}
+        .modal-poster {{ width: 100%%; max-height: 280px; object-fit: contain; margin-bottom: 15px;
+                         border: 2px solid var(--fg); }}
+        .modal h2 {{ font-size: 1.3em; margin-bottom: 5px; font-weight: bold; }}
+        .modal p {{ color: var(--muted); font-size: 0.9em; margin-bottom: 6px; }}
+        .modal .close {{ position: absolute; top: 10px; right: 14px; cursor: pointer;
+                         font-size: 1.5em; color: var(--fg); font-weight: bold; line-height: 1; }}
+        .modal .close:hover {{ color: var(--accent); }}
+        .modal a {{ color: var(--fg); border-bottom: 2px solid var(--fg); text-decoration: none;
+                    font-weight: bold; display: inline-block; margin-top: 10px; }}
+        .modal a:hover {{ background: var(--fg); color: var(--bg); }}
+        .hint {{ position: fixed; bottom: 12px; left: 50%%; transform: translateX(-50%%);
+                 font-size: 0.75em; color: var(--muted); font-style: italic; pointer-events: none; }}
+    </style>
+</head>
+<body>
+<div class="header">
+    <h1>The Pile</h1>
+    <div class="header-right">
+        <button class="btn" onclick="shuffle()">Shuffle</button>
+        <button class="btn" id="darkBtn" onclick="toggleDark()">Dark</button>
+        <a href="index.html" class="btn">Back</a>
+    </div>
+</div>
+<div class="stage" id="stage"></div>
+<div class="modal" id="modal" onclick="closeModal(event)">
+    <div class="modal-inner" id="modalInner">
+        <span class="close" onclick="closeModal()">&#215;</span>
+        <img class="modal-poster" id="modalPoster" src="" alt="">
+        <h2 id="modalTitle"></h2>
+        <p id="modalMeta"></p>
+        <p id="modalTheater"></p>
+        <p id="modalShowtimes"></p>
+        <a id="modalLink" href="" target="_blank">Tickets &amp; Info &rarr;</a>
+    </div>
+</div>
+<div class="hint">Double-click or press Enter to see details &bull; Drag to move &bull; Tab + arrows to navigate</div>
+
+<script>
+const allFilms = {pile_data};
+const DVD_PLACEHOLDER = "{dvd_placeholder}";
+let zTop = 10;
+let currentFilms = [];
+
+function shuffle() {{
+    const stage = document.getElementById('stage');
+    stage.innerHTML = '';
+    zTop = 10;
+    const pool = [...allFilms].sort(() => Math.random() - 0.5).slice(0, 50);
+    currentFilms = pool;
+    const W = stage.offsetWidth, H = stage.offsetHeight;
+    pool.forEach((film, i) => {{
+        const card = document.createElement('div');
+        card.className = 'card';
+        card.tabIndex = 0;
+        const rot = (Math.random() - 0.5) * 18;
+        const x = 60 + Math.random() * Math.max(W - 200, 100);
+        const y = 10 + Math.random() * Math.max(H - 220, 100);
+        card.style.cssText = `left:${{x}}px;top:${{y}}px;transform:rotate(${{rot}}deg);z-index:${{zTop++}};`;
+
+        const img = document.createElement('img');
+        img.src = film.poster_url || DVD_PLACEHOLDER;
+        img.alt = film.title;
+        img.draggable = false;
+        img.onerror = () => {{ img.src = DVD_PLACEHOLDER; }};
+        img.loading = 'lazy';
+
+        const label = document.createElement('div');
+        label.className = 'label';
+        label.textContent = film.title;
+
+        card.appendChild(img);
+        card.appendChild(label);
+
+        // Double-click or Enter to open — so single click + drag never fires modal
+        card.addEventListener('dblclick', () => openModal(i));
+        card.addEventListener('keydown', e => {{
+            const step = e.shiftKey ? 40 : 10;
+            if (e.key === 'Enter' || e.key === ' ') {{ e.preventDefault(); openModal(i); return; }}
+            if (e.key === 'ArrowLeft')  {{ e.preventDefault(); nudge(card, -step, 0); }}
+            if (e.key === 'ArrowRight') {{ e.preventDefault(); nudge(card,  step, 0); }}
+            if (e.key === 'ArrowUp')    {{ e.preventDefault(); nudge(card, 0, -step); }}
+            if (e.key === 'ArrowDown')  {{ e.preventDefault(); nudge(card, 0,  step); }}
+        }});
+
+        card.addEventListener('mousedown', e => startDrag(e, card));
+        card.addEventListener('touchstart', e => startDrag(e, card), {{passive: true}});
+
+        stage.appendChild(card);
+    }});
+}}
+
+function nudge(card, dx, dy) {{
+    card.style.left = (parseFloat(card.style.left) + dx) + 'px';
+    card.style.top  = (parseFloat(card.style.top)  + dy) + 'px';
+    card.style.zIndex = ++zTop;
+}}
+
+function startDrag(e, card) {{
+    card.style.zIndex = ++zTop;
+    const isTouch = e.type === 'touchstart';
+    const startX = isTouch ? e.touches[0].clientX : e.clientX;
+    const startY = isTouch ? e.touches[0].clientY : e.clientY;
+    const origX = parseFloat(card.style.left);
+    const origY = parseFloat(card.style.top);
+    let totalDist = 0;
+
+    function onMove(e2) {{
+        const cx = isTouch ? e2.touches[0].clientX : e2.clientX;
+        const cy = isTouch ? e2.touches[0].clientY : e2.clientY;
+        const dx = cx - startX, dy = cy - startY;
+        totalDist = Math.abs(dx) + Math.abs(dy);
+        card.style.left = (origX + dx) + 'px';
+        card.style.top  = (origY + dy) + 'px';
+    }}
+    function onUp() {{
+        document.removeEventListener(isTouch ? 'touchmove' : 'mousemove', onMove);
+        document.removeEventListener(isTouch ? 'touchend'  : 'mouseup',   onUp);
+    }}
+    document.addEventListener(isTouch ? 'touchmove' : 'mousemove', onMove);
+    document.addEventListener(isTouch ? 'touchend'  : 'mouseup',   onUp);
+}}
+
+function openModal(i) {{
+    const film = currentFilms[i];
+    document.getElementById('modalPoster').src = film.poster_url || DVD_PLACEHOLDER;
+    document.getElementById('modalTitle').textContent = film.title + (film.year && film.year !== 'N/A' ? ' (' + film.year + ')' : '');
+    document.getElementById('modalMeta').textContent = film.director && film.director !== 'N/A' ? 'Dir. ' + film.director : '';
+    document.getElementById('modalTheater').textContent = film.theater || '';
+    document.getElementById('modalShowtimes').textContent = (film.showtimes || []).join(' · ');
+    document.getElementById('modalLink').href = film.link || '#';
+    document.getElementById('modal').classList.add('open');
+}}
+function closeModal(e) {{
+    if (!e || e.target === document.getElementById('modal') || e.target.classList.contains('close'))
+        document.getElementById('modal').classList.remove('open');
+}}
+document.addEventListener('keydown', e => {{ if (e.key === 'Escape') document.getElementById('modal').classList.remove('open'); }});
+
+function toggleDark() {{
+    const dark = document.body.classList.toggle('dark');
+    localStorage.setItem('dark', dark ? '1' : '');
+    document.getElementById('darkBtn').textContent = dark ? 'Light' : 'Dark';
+}}
+
+// Sync dark mode with main site via localStorage
+(function() {{
+    if (localStorage.getItem('dark')) {{
+        document.body.classList.add('dark');
+        document.getElementById('darkBtn').textContent = 'Light';
+    }}
+}})();
+
+window.onload = shuffle;
+</script>
+</body>
+</html>"""
+
+    fp = os.path.join(OUTPUT_FOLDER, "pile.html")
+    with open(fp, "w", encoding="utf-8") as f:
+        f.write(html)
+    print(f"✓ Pile saved: {fp}")
+
+
 # ── MAIN ────────────────────────────────────────────────────────────
 if __name__ == "__main__":
     raw = load_data()
@@ -1092,3 +1341,4 @@ if __name__ == "__main__":
         clean = deduplicate(raw)
         save_ics(clean)
         save_html(clean)
+        save_pile_html(clean)
