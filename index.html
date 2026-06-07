@@ -4,6 +4,7 @@
     <title>NYC Movie Ledger</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
     <style>
         :root { --bg: #fafafa; --fg: #000; --card-bg: #fff; --card-border: #000;
                  --accent: #d32f2f; --muted: #666; --subtle: #f0f0f0; --tag-bg: #f0f0f0;
@@ -30,7 +31,14 @@
                         font-family: inherit; font-weight: bold; font-size: 1em; cursor: pointer;
                         transition: 0.2s; }
         .dark-toggle:hover { opacity: 0.8; }
-        .subtitle { color: var(--muted); font-style: italic; margin-bottom: 15px; }
+        .dvd-btn { display: inline-block; cursor: pointer; border: none; background: none;
+                    padding: 0; transition: transform 0.2s; }
+        .dvd-btn img { height: 34px; width: 34px; object-fit: cover; display: block;
+                        border-radius: 2px; }
+        .dvd-btn:hover { transform: rotate(-8deg) scale(1.1); }
+        .subtitle { color: var(--muted); font-style: italic; margin-bottom: 15px;
+                    font-family: 'VT323', 'Special Elite', 'Courier New', monospace;
+                    font-size: 1.05em; letter-spacing: 0.5px; }
 
         /* ── Sticky bar ─────────────────────────────── */
         .sticky-bar { position: sticky; top: 0; z-index: 100; background: var(--bg);
@@ -237,11 +245,14 @@
         <div class="header-actions">
             <button class="now-showing-btn" id="nowShowingBtn" onclick="toggleNowShowing()">Now Showing</button>
             <button class="dark-toggle" id="darkToggle" onclick="toggleDark()">Dark</button>
+            <a href="pile.html" class="dvd-btn" title="The Pile">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/DVD-R_bottom-side.jpg" alt="The Pile">
+            </a>
         </div>
     </div>
     <div class="subtitle">
         Next 90 Days (2026-06-05 to 2026-07-28)<br>
-        Scraped from https://www.screenslate.com &bull; Last updated: June 06, 2026 at 05:31 PM
+        Scraped from https://www.screenslate.com &bull; Last updated: June 06, 2026 at 05:40 PM
     </div>
 
     <div class="sticky-bar" id="stickyBar">

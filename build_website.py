@@ -208,6 +208,7 @@ def save_html(data):
     <title>NYC Movie Ledger</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
     <style>
         :root {{ --bg: #fafafa; --fg: #000; --card-bg: #fff; --card-border: #000;
                  --accent: #d32f2f; --muted: #666; --subtle: #f0f0f0; --tag-bg: #f0f0f0;
@@ -234,7 +235,14 @@ def save_html(data):
                         font-family: inherit; font-weight: bold; font-size: 1em; cursor: pointer;
                         transition: 0.2s; }}
         .dark-toggle:hover {{ opacity: 0.8; }}
-        .subtitle {{ color: var(--muted); font-style: italic; margin-bottom: 15px; }}
+        .dvd-btn {{ display: inline-block; cursor: pointer; border: none; background: none;
+                    padding: 0; transition: transform 0.2s; }}
+        .dvd-btn img {{ height: 34px; width: 34px; object-fit: cover; display: block;
+                        border-radius: 2px; }}
+        .dvd-btn:hover {{ transform: rotate(-8deg) scale(1.1); }}
+        .subtitle {{ color: var(--muted); font-style: italic; margin-bottom: 15px;
+                    font-family: 'VT323', 'Special Elite', 'Courier New', monospace;
+                    font-size: 1.05em; letter-spacing: 0.5px; }}
 
         /* ── Sticky bar ─────────────────────────────── */
         .sticky-bar {{ position: sticky; top: 0; z-index: 100; background: var(--bg);
@@ -441,6 +449,9 @@ def save_html(data):
         <div class="header-actions">
             <button class="now-showing-btn" id="nowShowingBtn" onclick="toggleNowShowing()">Now Showing</button>
             <button class="dark-toggle" id="darkToggle" onclick="toggleDark()">Dark</button>
+            <a href="pile.html" class="dvd-btn" title="The Pile">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/DVD-R_bottom-side.jpg" alt="The Pile">
+            </a>
         </div>
     </div>
     <div class="subtitle">
@@ -1085,6 +1096,210 @@ def save_html(data):
     print(f"✓ Website saved: {fp}")
 
 
+def save_pile_html(data):
+    import random
+    # Dedupe by title, prefer entries with poster_url
+    seen = {}
+    for s in data:
+        t = s['title']
+        if t not in seen or (s.get('poster_url') and not seen[t].get('poster_url')):
+            seen[t] = s
+    unique = list(seen.values())
+    random.shuffle(unique)
+    # Pass all unique films; JS picks 50 randomly and reshuffles on demand
+    pile_data = json.dumps(unique, ensure_ascii=False)
+    dvd_placeholder = "https://upload.wikimedia.org/wikipedia/commons/d/d3/DVD-R_bottom-side.jpg"
+
+    html = f"""<!DOCTYPE html>
+<html>
+<head>
+    <title>The Pile</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
+    <style>
+        * {{ box-sizing: border-box; margin: 0; padding: 0; }}
+        body {{ background: #1a1005; min-height: 100vh; overflow: hidden;
+                font-family: 'Special Elite', 'Courier New', monospace; color: #e8d5a0; }}
+        .header {{ position: fixed; top: 0; left: 0; right: 0; z-index: 1000;
+                   display: flex; justify-content: space-between; align-items: center;
+                   padding: 12px 20px; background: rgba(26,16,5,0.85);
+                   backdrop-filter: blur(6px); border-bottom: 1px solid #5a3e1b; }}
+        .header h1 {{ font-size: 1.1em; letter-spacing: 3px; text-transform: uppercase; color: #e8d5a0; }}
+        .header-right {{ display: flex; gap: 10px; align-items: center; }}
+        .btn {{ padding: 7px 14px; background: #5a3e1b; color: #e8d5a0; border: 1px solid #8a6030;
+                font-family: inherit; font-size: 0.85em; cursor: pointer; letter-spacing: 1px;
+                text-transform: uppercase; transition: 0.2s; text-decoration: none; }}
+        .btn:hover {{ background: #8a6030; }}
+        .stage {{ position: fixed; top: 56px; left: 0; right: 0; bottom: 0; overflow: hidden; }}
+        .card {{ position: absolute; width: 120px; cursor: grab; user-select: none;
+                 transition: box-shadow 0.15s; outline: none; }}
+        .card:active {{ cursor: grabbing; }}
+        .card:focus {{ box-shadow: 0 0 0 3px #e8d5a0; }}
+        .card img {{ width: 120px; height: 180px; object-fit: cover; display: block;
+                     border: 2px solid #5a3e1b; }}
+        .card .label {{ font-size: 0.65em; background: rgba(26,16,5,0.9); padding: 3px 5px;
+                        text-align: center; line-height: 1.2; border: 1px solid #5a3e1b;
+                        border-top: none; overflow: hidden; white-space: nowrap;
+                        text-overflow: ellipsis; }}
+        /* Modal */
+        .modal {{ display: none; position: fixed; inset: 0; z-index: 2000;
+                  background: rgba(0,0,0,0.85); align-items: center; justify-content: center; }}
+        .modal.open {{ display: flex; }}
+        .modal-inner {{ background: #1a1005; border: 2px solid #8a6030; padding: 30px;
+                        max-width: 420px; width: 90%; position: relative; }}
+        .modal-poster {{ width: 100%%; max-height: 300px; object-fit: contain; margin-bottom: 15px; }}
+        .modal h2 {{ font-size: 1.3em; margin-bottom: 5px; }}
+        .modal p {{ color: #b8a07a; font-size: 0.9em; margin-bottom: 8px; }}
+        .modal .close {{ position: absolute; top: 10px; right: 14px; cursor: pointer;
+                         font-size: 1.4em; color: #8a6030; }}
+        .modal .close:hover {{ color: #e8d5a0; }}
+        .modal a {{ color: #e8d5a0; border-bottom: 1px solid #8a6030; text-decoration: none; }}
+        .modal a:hover {{ color: #8a6030; }}
+        .hint {{ position: fixed; bottom: 15px; left: 50%%; transform: translateX(-50%%);
+                 font-size: 0.75em; color: #5a3e1b; letter-spacing: 1px; pointer-events: none; }}
+    </style>
+</head>
+<body>
+<div class="header">
+    <h1>The Pile</h1>
+    <div class="header-right">
+        <button class="btn" onclick="shuffle()">Shuffle</button>
+        <a href="index.html" class="btn">Back</a>
+    </div>
+</div>
+<div class="stage" id="stage"></div>
+<div class="modal" id="modal" onclick="closeModal(event)">
+    <div class="modal-inner" id="modalInner">
+        <span class="close" onclick="closeModal()">&#215;</span>
+        <img class="modal-poster" id="modalPoster" src="" alt="">
+        <h2 id="modalTitle"></h2>
+        <p id="modalMeta"></p>
+        <p id="modalTheater"></p>
+        <p id="modalShowtimes"></p>
+        <a id="modalLink" href="" target="_blank">Tickets &amp; Info &rarr;</a>
+    </div>
+</div>
+<div class="hint" id="hint">Click to see details &bull; Drag to move &bull; Tab + arrows to navigate</div>
+
+<script>
+const allFilms = {pile_data};
+const DVD_PLACEHOLDER = "{dvd_placeholder}";
+let cards = [];
+let zTop = 10;
+let currentFilms = [];
+
+function shuffle() {{
+    const stage = document.getElementById('stage');
+    stage.innerHTML = '';
+    cards = [];
+    zTop = 10;
+    // Pick 50 random unique films
+    const pool = [...allFilms].sort(() => Math.random() - 0.5).slice(0, 50);
+    currentFilms = pool;
+    const W = stage.offsetWidth, H = stage.offsetHeight;
+    pool.forEach((film, i) => {{
+        const card = document.createElement('div');
+        card.className = 'card';
+        card.tabIndex = 0;
+        card.dataset.i = i;
+        const rot = (Math.random() - 0.5) * 20;
+        const x = 80 + Math.random() * (W - 240);
+        const y = 20 + Math.random() * (H - 220);
+        card.style.cssText = `left:${{x}}px;top:${{y}}px;transform:rotate(${{rot}}deg);z-index:${{zTop++}};`;
+        const img = document.createElement('img');
+        img.src = film.poster_url || DVD_PLACEHOLDER;
+        img.alt = film.title;
+        img.draggable = false;
+        img.onerror = () => {{ img.src = DVD_PLACEHOLDER; }};
+        img.loading = 'lazy';
+        const label = document.createElement('div');
+        label.className = 'label';
+        label.textContent = film.title;
+        card.appendChild(img);
+        card.appendChild(label);
+        // Click to show details
+        card.addEventListener('click', () => openModal(i));
+        // Keyboard
+        card.addEventListener('keydown', e => {{
+            const step = e.shiftKey ? 40 : 10;
+            if (e.key === 'Enter' || e.key === ' ') {{ e.preventDefault(); openModal(i); return; }}
+            if (e.key === 'ArrowLeft')  {{ e.preventDefault(); moveCard(card, -step, 0); }}
+            if (e.key === 'ArrowRight') {{ e.preventDefault(); moveCard(card, step, 0); }}
+            if (e.key === 'ArrowUp')    {{ e.preventDefault(); moveCard(card, 0, -step); }}
+            if (e.key === 'ArrowDown')  {{ e.preventDefault(); moveCard(card, 0, step); }}
+        }});
+        // Drag (mouse)
+        card.addEventListener('mousedown', e => startDrag(e, card));
+        // Drag (touch)
+        card.addEventListener('touchstart', e => startDrag(e, card), {{passive: true}});
+        stage.appendChild(card);
+        cards.push(card);
+    }});
+}}
+
+function moveCard(card, dx, dy) {{
+    card.style.left = (parseFloat(card.style.left) + dx) + 'px';
+    card.style.top  = (parseFloat(card.style.top)  + dy) + 'px';
+    card.style.zIndex = ++zTop;
+}}
+
+function startDrag(e, card) {{
+    card.style.zIndex = ++zTop;
+    const isTouch = e.type === 'touchstart';
+    const startX = isTouch ? e.touches[0].clientX : e.clientX;
+    const startY = isTouch ? e.touches[0].clientY : e.clientY;
+    const origX = parseFloat(card.style.left);
+    const origY = parseFloat(card.style.top);
+    let moved = false;
+
+    function onMove(e2) {{
+        const cx = isTouch ? e2.touches[0].clientX : e2.clientX;
+        const cy = isTouch ? e2.touches[0].clientY : e2.clientY;
+        const dx = cx - startX, dy = cy - startY;
+        if (Math.abs(dx) + Math.abs(dy) > 3) moved = true;
+        card.style.left = (origX + dx) + 'px';
+        card.style.top  = (origY + dy) + 'px';
+    }}
+    function onUp(e2) {{
+        document.removeEventListener(isTouch ? 'touchmove' : 'mousemove', onMove);
+        document.removeEventListener(isTouch ? 'touchend'  : 'mouseup',   onUp);
+        // If barely moved, treat as click (handled by click listener)
+    }}
+    document.addEventListener(isTouch ? 'touchmove' : 'mousemove', onMove);
+    document.addEventListener(isTouch ? 'touchend'  : 'mouseup',   onUp);
+}}
+
+function openModal(i) {{
+    const film = currentFilms[i];
+    document.getElementById('modalPoster').src = film.poster_url || DVD_PLACEHOLDER;
+    document.getElementById('modalTitle').textContent = film.title + (film.year && film.year !== 'N/A' ? ' (' + film.year + ')' : '');
+    document.getElementById('modalMeta').textContent = film.director && film.director !== 'N/A' ? 'Dir. ' + film.director : '';
+    document.getElementById('modalTheater').textContent = film.theater || '';
+    const times = (film.showtimes || []).join(' · ');
+    document.getElementById('modalShowtimes').textContent = times;
+    document.getElementById('modalLink').href = film.link || '#';
+    document.getElementById('modal').classList.add('open');
+}}
+
+function closeModal(e) {{
+    if (!e || e.target === document.getElementById('modal') || e.target.classList.contains('close')) {{
+        document.getElementById('modal').classList.remove('open');
+    }}
+}}
+document.addEventListener('keydown', e => {{ if (e.key === 'Escape') closeModal({{target: document.getElementById('modal')}}); }});
+
+window.onload = shuffle;
+</script>
+</body>
+</html>"""
+
+    fp = os.path.join(OUTPUT_FOLDER, "pile.html")
+    with open(fp, "w", encoding="utf-8") as f:
+        f.write(html)
+    print(f"✓ Pile saved: {fp}")
+
+
 # ── MAIN ────────────────────────────────────────────────────────────
 if __name__ == "__main__":
     raw = load_data()
@@ -1092,3 +1307,4 @@ if __name__ == "__main__":
         clean = deduplicate(raw)
         save_ics(clean)
         save_html(clean)
+        save_pile_html(clean)
