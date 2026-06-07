@@ -1119,45 +1119,48 @@ def save_pile_html(data):
     <link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
     <style>
         * {{ box-sizing: border-box; margin: 0; padding: 0; }}
-        body {{ background: #1a1005; min-height: 100vh; overflow: hidden;
-                font-family: 'Special Elite', 'Courier New', monospace; color: #e8d5a0; }}
+        body {{ background: #fafafa; min-height: 100vh; overflow: hidden;
+                font-family: "Times New Roman", serif; color: #000; }}
         .header {{ position: fixed; top: 0; left: 0; right: 0; z-index: 1000;
                    display: flex; justify-content: space-between; align-items: center;
-                   padding: 12px 20px; background: rgba(26,16,5,0.85);
-                   backdrop-filter: blur(6px); border-bottom: 1px solid #5a3e1b; }}
-        .header h1 {{ font-size: 1.1em; letter-spacing: 3px; text-transform: uppercase; color: #e8d5a0; }}
+                   padding: 12px 20px; background: #fff; border-bottom: 3px solid #000; }}
+        .header h1 {{ font-size: 1.1em; letter-spacing: 3px; text-transform: uppercase; }}
         .header-right {{ display: flex; gap: 10px; align-items: center; }}
-        .btn {{ padding: 7px 14px; background: #5a3e1b; color: #e8d5a0; border: 1px solid #8a6030;
+        .btn {{ padding: 7px 14px; background: #000; color: #fff; border: 2px solid #000;
                 font-family: inherit; font-size: 0.85em; cursor: pointer; letter-spacing: 1px;
                 text-transform: uppercase; transition: 0.2s; text-decoration: none; }}
-        .btn:hover {{ background: #8a6030; }}
-        .stage {{ position: fixed; top: 56px; left: 0; right: 0; bottom: 0; overflow: hidden; }}
+        .btn:hover {{ background: #d32f2f; border-color: #d32f2f; }}
+        .stage {{ position: fixed; top: 55px; left: 0; right: 0; bottom: 0; overflow: hidden;
+                  background: #fafafa; }}
         .card {{ position: absolute; width: 120px; cursor: grab; user-select: none;
-                 transition: box-shadow 0.15s; outline: none; }}
+                 outline: none; }}
         .card:active {{ cursor: grabbing; }}
-        .card:focus {{ box-shadow: 0 0 0 3px #e8d5a0; }}
+        .card:focus {{ box-shadow: 0 0 0 3px #d32f2f; }}
         .card img {{ width: 120px; height: 180px; object-fit: cover; display: block;
-                     border: 2px solid #5a3e1b; }}
-        .card .label {{ font-size: 0.65em; background: rgba(26,16,5,0.9); padding: 3px 5px;
-                        text-align: center; line-height: 1.2; border: 1px solid #5a3e1b;
+                     border: 2px solid #000; }}
+        .card .label {{ font-size: 0.6em; background: #fff; color: #000; padding: 3px 5px;
+                        text-align: center; line-height: 1.2; border: 2px solid #000;
                         border-top: none; overflow: hidden; white-space: nowrap;
-                        text-overflow: ellipsis; }}
+                        text-overflow: ellipsis; font-weight: bold; text-transform: uppercase;
+                        letter-spacing: 0.5px; }}
         /* Modal */
         .modal {{ display: none; position: fixed; inset: 0; z-index: 2000;
-                  background: rgba(0,0,0,0.85); align-items: center; justify-content: center; }}
+                  background: rgba(0,0,0,0.7); align-items: center; justify-content: center; }}
         .modal.open {{ display: flex; }}
-        .modal-inner {{ background: #1a1005; border: 2px solid #8a6030; padding: 30px;
+        .modal-inner {{ background: #fff; border: 2px solid #000; padding: 30px;
                         max-width: 420px; width: 90%; position: relative; }}
-        .modal-poster {{ width: 100%%; max-height: 300px; object-fit: contain; margin-bottom: 15px; }}
-        .modal h2 {{ font-size: 1.3em; margin-bottom: 5px; }}
-        .modal p {{ color: #b8a07a; font-size: 0.9em; margin-bottom: 8px; }}
+        .modal-poster {{ width: 100%%; max-height: 280px; object-fit: contain; margin-bottom: 15px;
+                         border: 2px solid #000; }}
+        .modal h2 {{ font-size: 1.3em; margin-bottom: 5px; font-weight: bold; }}
+        .modal p {{ color: #666; font-size: 0.9em; margin-bottom: 6px; }}
         .modal .close {{ position: absolute; top: 10px; right: 14px; cursor: pointer;
-                         font-size: 1.4em; color: #8a6030; }}
-        .modal .close:hover {{ color: #e8d5a0; }}
-        .modal a {{ color: #e8d5a0; border-bottom: 1px solid #8a6030; text-decoration: none; }}
-        .modal a:hover {{ color: #8a6030; }}
-        .hint {{ position: fixed; bottom: 15px; left: 50%%; transform: translateX(-50%%);
-                 font-size: 0.75em; color: #5a3e1b; letter-spacing: 1px; pointer-events: none; }}
+                         font-size: 1.5em; color: #000; font-weight: bold; line-height: 1; }}
+        .modal .close:hover {{ color: #d32f2f; }}
+        .modal a {{ color: #000; border-bottom: 2px solid #000; text-decoration: none;
+                    font-weight: bold; display: inline-block; margin-top: 10px; }}
+        .modal a:hover {{ background: #000; color: #fff; }}
+        .hint {{ position: fixed; bottom: 12px; left: 50%%; transform: translateX(-50%%);
+                 font-size: 0.75em; color: #999; font-style: italic; pointer-events: none; }}
     </style>
 </head>
 <body>
@@ -1180,21 +1183,18 @@ def save_pile_html(data):
         <a id="modalLink" href="" target="_blank">Tickets &amp; Info &rarr;</a>
     </div>
 </div>
-<div class="hint" id="hint">Click to see details &bull; Drag to move &bull; Tab + arrows to navigate</div>
+<div class="hint">Double-click or press Enter to see details &bull; Drag to move &bull; Tab + arrows to navigate</div>
 
 <script>
 const allFilms = {pile_data};
 const DVD_PLACEHOLDER = "{dvd_placeholder}";
-let cards = [];
 let zTop = 10;
 let currentFilms = [];
 
 function shuffle() {{
     const stage = document.getElementById('stage');
     stage.innerHTML = '';
-    cards = [];
     zTop = 10;
-    // Pick 50 random unique films
     const pool = [...allFilms].sort(() => Math.random() - 0.5).slice(0, 50);
     currentFilms = pool;
     const W = stage.offsetWidth, H = stage.offsetHeight;
@@ -1202,43 +1202,44 @@ function shuffle() {{
         const card = document.createElement('div');
         card.className = 'card';
         card.tabIndex = 0;
-        card.dataset.i = i;
-        const rot = (Math.random() - 0.5) * 20;
-        const x = 80 + Math.random() * (W - 240);
-        const y = 20 + Math.random() * (H - 220);
+        const rot = (Math.random() - 0.5) * 18;
+        const x = 60 + Math.random() * Math.max(W - 200, 100);
+        const y = 10 + Math.random() * Math.max(H - 220, 100);
         card.style.cssText = `left:${{x}}px;top:${{y}}px;transform:rotate(${{rot}}deg);z-index:${{zTop++}};`;
+
         const img = document.createElement('img');
         img.src = film.poster_url || DVD_PLACEHOLDER;
         img.alt = film.title;
         img.draggable = false;
         img.onerror = () => {{ img.src = DVD_PLACEHOLDER; }};
         img.loading = 'lazy';
+
         const label = document.createElement('div');
         label.className = 'label';
         label.textContent = film.title;
+
         card.appendChild(img);
         card.appendChild(label);
-        // Click to show details
-        card.addEventListener('click', () => openModal(i));
-        // Keyboard
+
+        // Double-click or Enter to open — so single click + drag never fires modal
+        card.addEventListener('dblclick', () => openModal(i));
         card.addEventListener('keydown', e => {{
             const step = e.shiftKey ? 40 : 10;
             if (e.key === 'Enter' || e.key === ' ') {{ e.preventDefault(); openModal(i); return; }}
-            if (e.key === 'ArrowLeft')  {{ e.preventDefault(); moveCard(card, -step, 0); }}
-            if (e.key === 'ArrowRight') {{ e.preventDefault(); moveCard(card, step, 0); }}
-            if (e.key === 'ArrowUp')    {{ e.preventDefault(); moveCard(card, 0, -step); }}
-            if (e.key === 'ArrowDown')  {{ e.preventDefault(); moveCard(card, 0, step); }}
+            if (e.key === 'ArrowLeft')  {{ e.preventDefault(); nudge(card, -step, 0); }}
+            if (e.key === 'ArrowRight') {{ e.preventDefault(); nudge(card,  step, 0); }}
+            if (e.key === 'ArrowUp')    {{ e.preventDefault(); nudge(card, 0, -step); }}
+            if (e.key === 'ArrowDown')  {{ e.preventDefault(); nudge(card, 0,  step); }}
         }});
-        // Drag (mouse)
+
         card.addEventListener('mousedown', e => startDrag(e, card));
-        // Drag (touch)
         card.addEventListener('touchstart', e => startDrag(e, card), {{passive: true}});
+
         stage.appendChild(card);
-        cards.push(card);
     }});
 }}
 
-function moveCard(card, dx, dy) {{
+function nudge(card, dx, dy) {{
     card.style.left = (parseFloat(card.style.left) + dx) + 'px';
     card.style.top  = (parseFloat(card.style.top)  + dy) + 'px';
     card.style.zIndex = ++zTop;
@@ -1251,20 +1252,19 @@ function startDrag(e, card) {{
     const startY = isTouch ? e.touches[0].clientY : e.clientY;
     const origX = parseFloat(card.style.left);
     const origY = parseFloat(card.style.top);
-    let moved = false;
+    let totalDist = 0;
 
     function onMove(e2) {{
         const cx = isTouch ? e2.touches[0].clientX : e2.clientX;
         const cy = isTouch ? e2.touches[0].clientY : e2.clientY;
         const dx = cx - startX, dy = cy - startY;
-        if (Math.abs(dx) + Math.abs(dy) > 3) moved = true;
+        totalDist = Math.abs(dx) + Math.abs(dy);
         card.style.left = (origX + dx) + 'px';
         card.style.top  = (origY + dy) + 'px';
     }}
-    function onUp(e2) {{
+    function onUp() {{
         document.removeEventListener(isTouch ? 'touchmove' : 'mousemove', onMove);
         document.removeEventListener(isTouch ? 'touchend'  : 'mouseup',   onUp);
-        // If barely moved, treat as click (handled by click listener)
     }}
     document.addEventListener(isTouch ? 'touchmove' : 'mousemove', onMove);
     document.addEventListener(isTouch ? 'touchend'  : 'mouseup',   onUp);
@@ -1276,18 +1276,15 @@ function openModal(i) {{
     document.getElementById('modalTitle').textContent = film.title + (film.year && film.year !== 'N/A' ? ' (' + film.year + ')' : '');
     document.getElementById('modalMeta').textContent = film.director && film.director !== 'N/A' ? 'Dir. ' + film.director : '';
     document.getElementById('modalTheater').textContent = film.theater || '';
-    const times = (film.showtimes || []).join(' · ');
-    document.getElementById('modalShowtimes').textContent = times;
+    document.getElementById('modalShowtimes').textContent = (film.showtimes || []).join(' · ');
     document.getElementById('modalLink').href = film.link || '#';
     document.getElementById('modal').classList.add('open');
 }}
-
 function closeModal(e) {{
-    if (!e || e.target === document.getElementById('modal') || e.target.classList.contains('close')) {{
+    if (!e || e.target === document.getElementById('modal') || e.target.classList.contains('close'))
         document.getElementById('modal').classList.remove('open');
-    }}
 }}
-document.addEventListener('keydown', e => {{ if (e.key === 'Escape') closeModal({{target: document.getElementById('modal')}}); }});
+document.addEventListener('keydown', e => {{ if (e.key === 'Escape') document.getElementById('modal').classList.remove('open'); }});
 
 window.onload = shuffle;
 </script>
