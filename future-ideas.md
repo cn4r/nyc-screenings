@@ -17,6 +17,10 @@
 ## Director Deep-Link
 - Click a director name to instantly filter to all their screenings
 
+## Remove Sold Out Listings
+- Detect sold-out screenings during scraping (check ticket links for "sold out" text)
+- Filter them out so users only see available screenings
+
 ## Price as a Filter
 - Hardcoded per-theater pricing (Film Forum $17, Metrograph $18, Anthology $12, etc.)
 - Display in cards, add min/max price filter
