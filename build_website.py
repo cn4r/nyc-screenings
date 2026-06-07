@@ -47,6 +47,7 @@ THEATER_NEIGHBORHOODS = {
     "AMC LINCOLN SQUARE": "Upper West Side",
     "FILM AT LINCOLN CENTER": "Upper West Side",
     "ROXY CINEMA": "TriBeCa",
+    "ROXY CINEMA NEW YORK": "TriBeCa",
     "SPECTACLE THEATER": "Brooklyn",
     "SPECTACLE": "Brooklyn",
     "SYNDICATED": "Brooklyn",
