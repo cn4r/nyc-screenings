@@ -589,7 +589,6 @@ def save_html(data):
     <div id="movieContainer"></div>
 
     <div class="footer">
-        Data sourced from <a href="https://www.screenslate.com" target="_blank">Screen Slate</a><br>
         Calendar file available: <a href="./nyc_movies.ics" download>Download ICS</a>
     </div>
 
