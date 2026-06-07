@@ -252,7 +252,7 @@
         </div>
     </div>
     <div class="subtitle">
-        Next 90 Days (2026-06-05 to 2026-07-28) &bull; Last updated: June 06, 2026 at 05:49 PM
+        Next 90 Days (2026-06-05 to 2026-07-28) &bull; Last updated: June 06, 2026 at 05:51 PM
     </div>
 
     <div class="sticky-bar" id="stickyBar">
@@ -727,7 +727,21 @@
             if (c && !isLocationInShape(c.lat, c.lng)) return false;
             if (!c && currentShape) return false;
             if (selectedTheaters.size && !selectedTheaters.has(m.theater)) return false;
-            if (selectedDates.size && !selectedDates.has(m.date)) return false;
+            // Date filter — evaluated live from current mode + inputs every call
+            if (dateMode === 'specific') {
+                if (selectedDates.size && !selectedDates.has(m.date)) return false;
+            } else if (dateMode === 'after') {
+                const v = document.getElementById('dateSingle').value;
+                if (v && m.date < v) return false;
+            } else if (dateMode === 'before') {
+                const v = document.getElementById('dateSingle').value;
+                if (v && m.date > v) return false;
+            } else if (dateMode === 'between') {
+                const s = document.getElementById('dateRangeStart').value;
+                const e = document.getElementById('dateRangeEnd').value;
+                if (s && m.date < s) return false;
+                if (e && m.date > e) return false;
+            }
             if (selectedDaysOfWeek.size) { const dow = new Date(m.date + 'T00:00:00').getDay(); if (!selectedDaysOfWeek.has(dow)) return false; }
             if (filters.time && !matchesTimeRange(m.showtimes, lo, hi)) return false;
             if (selectedGenres.size) { const mg = m.genres || []; if (!mg.some(g => selectedGenres.has(g))) return false; }

@@ -931,7 +931,21 @@ def save_html(data):
             if (c && !isLocationInShape(c.lat, c.lng)) return false;
             if (!c && currentShape) return false;
             if (selectedTheaters.size && !selectedTheaters.has(m.theater)) return false;
-            if (selectedDates.size && !selectedDates.has(m.date)) return false;
+            // Date filter — evaluated live from current mode + inputs every call
+            if (dateMode === 'specific') {{
+                if (selectedDates.size && !selectedDates.has(m.date)) return false;
+            }} else if (dateMode === 'after') {{
+                const v = document.getElementById('dateSingle').value;
+                if (v && m.date < v) return false;
+            }} else if (dateMode === 'before') {{
+                const v = document.getElementById('dateSingle').value;
+                if (v && m.date > v) return false;
+            }} else if (dateMode === 'between') {{
+                const s = document.getElementById('dateRangeStart').value;
+                const e = document.getElementById('dateRangeEnd').value;
+                if (s && m.date < s) return false;
+                if (e && m.date > e) return false;
+            }}
             if (selectedDaysOfWeek.size) {{ const dow = new Date(m.date + 'T00:00:00').getDay(); if (!selectedDaysOfWeek.has(dow)) return false; }}
             if (filters.time && !matchesTimeRange(m.showtimes, lo, hi)) return false;
             if (selectedGenres.size) {{ const mg = m.genres || []; if (!mg.some(g => selectedGenres.has(g))) return false; }}
