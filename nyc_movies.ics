@@ -2,1277 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:By Hook or By Crook @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260618T183000
-DTEND:20260618T203000
-DESCRIPTION:Dir: SILAS HOWARD\, HARRY DODGE (2001)\nhttps://www.anthologyf
- ilmarchives.org/film_screenings/calendar?view=list&amp\;month=6&amp\;year=
- 2026#showing-61430
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
- st&amp;month=6&amp;year=2026#showing-61430
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:By Hook or By Crook @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260618T210000
-DTEND:20260618T230000
-DESCRIPTION:Dir: SILAS HOWARD\, HARRY DODGE (2001)\nhttps://www.anthologyf
- ilmarchives.org/film_screenings/calendar?view=list&amp\;month=6&amp\;year=
- 2026#showing-61430
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
- st&amp;month=6&amp;year=2026#showing-61430
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:By Hook or By Crook @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260618T193000
-DTEND:20260618T213000
-DESCRIPTION:Dir: SILAS HOWARD\, HARRY DODGE (2001)\nhttps://www.anthologyf
- ilmarchives.org/film_screenings/calendar?view=list&amp\;month=6&amp\;year=
- 2026#showing-61430
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
- st&amp;month=6&amp;year=2026#showing-61430
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rodrigo D. No Futuro @ BAM
-DTSTART:20260618T170000
-DTEND:20260618T190000
-DESCRIPTION:Dir: VICTOR GAVIRIA (1990)\nhttps://www.bam.org/film/2026/nues
- tra-escena
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/nuestra-escena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rodrigo D. No Futuro @ BAM
-DTSTART:20260618T190000
-DTEND:20260618T210000
-DESCRIPTION:Dir: VICTOR GAVIRIA (1990)\nhttps://www.bam.org/film/2026/nues
- tra-escena
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/nuestra-escena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alma Punk @ BAM
-DTSTART:20260618T190000
-DTEND:20260618T210000
-DESCRIPTION:Dir: SARAH MINTER (1991-1992)\nhttps://www.bam.org/film/2026/n
- uestra-escena
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/nuestra-escena
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In The Mood For Love @ CHERRY LANE THEATRE
-DTSTART:20260618T190000
-DTEND:20260618T210000
-DESCRIPTION:Dir: WONG KAR-WAI (2000)\nhttps://cherrylanetheatre.org/shows/
- mood-for-love
-LOCATION:CHERRY LANE THEATRE
-URL:https://cherrylanetheatre.org/shows/mood-for-love
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Promised Sky @ FILM FORUM
-DTSTART:20260618T121500
-DTEND:20260618T141500
-DESCRIPTION:Dir: ERIGE SEHIRI (2025)\nhttps://filmforum.org/film/promised-
- sky
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/promised-sky
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Promised Sky @ FILM FORUM
-DTSTART:20260618T142000
-DTEND:20260618T162000
-DESCRIPTION:Dir: ERIGE SEHIRI (2025)\nhttps://filmforum.org/film/promised-
- sky
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/promised-sky
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Promised Sky @ FILM FORUM
-DTSTART:20260618T163000
-DTEND:20260618T183000
-DESCRIPTION:Dir: ERIGE SEHIRI (2025)\nhttps://filmforum.org/film/promised-
- sky
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/promised-sky
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Promised Sky @ FILM FORUM
-DTSTART:20260618T184000
-DTEND:20260618T204000
-DESCRIPTION:Dir: ERIGE SEHIRI (2025)\nhttps://filmforum.org/film/promised-
- sky
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/promised-sky
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Promised Sky @ FILM FORUM
-DTSTART:20260618T205000
-DTEND:20260618T225000
-DESCRIPTION:Dir: ERIGE SEHIRI (2025)\nhttps://filmforum.org/film/promised-
- sky
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/promised-sky
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Promised Sky @ FILM FORUM
-DTSTART:20260618T122000
-DTEND:20260618T142000
-DESCRIPTION:Dir: ERIGE SEHIRI (2025)\nhttps://filmforum.org/film/promised-
- sky
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/promised-sky
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Promised Sky @ FILM FORUM
-DTSTART:20260618T204000
-DTEND:20260618T224000
-DESCRIPTION:Dir: ERIGE SEHIRI (2025)\nhttps://filmforum.org/film/promised-
- sky
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/promised-sky
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Promised Sky @ FILM FORUM
-DTSTART:20260618T123000
-DTEND:20260618T143000
-DESCRIPTION:Dir: ERIGE SEHIRI (2025)\nhttps://filmforum.org/film/promised-
- sky
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/promised-sky
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Promised Sky @ FILM FORUM
-DTSTART:20260618T150000
-DTEND:20260618T170000
-DESCRIPTION:Dir: ERIGE SEHIRI (2025)\nhttps://filmforum.org/film/promised-
- sky
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/promised-sky
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Promised Sky @ FILM FORUM
-DTSTART:20260618T173000
-DTEND:20260618T193000
-DESCRIPTION:Dir: ERIGE SEHIRI (2025)\nhttps://filmforum.org/film/promised-
- sky
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/promised-sky
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Promised Sky @ FILM FORUM
-DTSTART:20260618T200000
-DTEND:20260618T220000
-DESCRIPTION:Dir: ERIGE SEHIRI (2025)\nhttps://filmforum.org/film/promised-
- sky
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/promised-sky
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Promised Sky @ FILM FORUM
-DTSTART:20260618T125000
-DTEND:20260618T145000
-DESCRIPTION:Dir: ERIGE SEHIRI (2025)\nhttps://filmforum.org/film/promised-
- sky
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/promised-sky
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Promised Sky @ FILM FORUM
-DTSTART:20260618T151500
-DTEND:20260618T171500
-DESCRIPTION:Dir: ERIGE SEHIRI (2025)\nhttps://filmforum.org/film/promised-
- sky
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/promised-sky
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Promised Sky @ FILM FORUM
-DTSTART:20260618T180000
-DTEND:20260618T200000
-DESCRIPTION:Dir: ERIGE SEHIRI (2025)\nhttps://filmforum.org/film/promised-
- sky
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/promised-sky
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Promised Sky @ FILM FORUM
-DTSTART:20260618T203000
-DTEND:20260618T223000
-DESCRIPTION:Dir: ERIGE SEHIRI (2025)\nhttps://filmforum.org/film/promised-
- sky
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/promised-sky
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Promised Sky @ FILM FORUM
-DTSTART:20260618T183000
-DTEND:20260618T203000
-DESCRIPTION:Dir: ERIGE SEHIRI (2025)\nhttps://filmforum.org/film/promised-
- sky
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/promised-sky
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Picnic @ FILM FORUM
-DTSTART:20260618T122000
-DTEND:20260618T142000
-DESCRIPTION:Dir: PHILIP HARTMAN (1986)\nhttps://filmforum.org/film/no-picn
- ic
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/no-picnic
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Picnic @ FILM FORUM
-DTSTART:20260618T163000
-DTEND:20260618T183000
-DESCRIPTION:Dir: PHILIP HARTMAN (1986)\nhttps://filmforum.org/film/no-picn
- ic
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/no-picnic
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Picnic @ FILM FORUM
-DTSTART:20260618T204000
-DTEND:20260618T224000
-DESCRIPTION:Dir: PHILIP HARTMAN (1986)\nhttps://filmforum.org/film/no-picn
- ic
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/no-picnic
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260618T123000
-DTEND:20260618T143000
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260618T150000
-DTEND:20260618T170000
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260618T173000
-DTEND:20260618T193000
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Days and Nights in the Forest @ FILM FORUM
-DTSTART:20260618T200000
-DTEND:20260618T220000
-DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://filmforum.org/film/days-and-
- nights-in-the-forest
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/days-and-nights-in-the-forest
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260618T125000
-DTEND:20260618T145000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260618T151500
-DTEND:20260618T171500
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260618T180000
-DTEND:20260618T200000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260618T203000
-DTEND:20260618T223000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Forastera @ FILM FORUM
-DTSTART:20260618T142000
-DTEND:20260618T162000
-DESCRIPTION:Dir: LUCÍA ALEÑAR IGLESIAS (2025)\nhttps://filmforum.org/fil
- m/forastera
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/forastera
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Forastera @ FILM FORUM
-DTSTART:20260618T183000
-DTEND:20260618T203000
-DESCRIPTION:Dir: LUCÍA ALEÑAR IGLESIAS (2025)\nhttps://filmforum.org/fil
- m/forastera
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/forastera
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Sister @ FILM AT LINCOLN CENTER
-DTSTART:20260618T130000
-DTEND:20260618T150000
-DESCRIPTION:Dir: HAFSIA HERZI (2025)\nhttps://www.filmlinc.org/films/the-l
- ittle-sister/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-little-sister/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Sister @ FILM AT LINCOLN CENTER
-DTSTART:20260618T181500
-DTEND:20260618T201500
-DESCRIPTION:Dir: HAFSIA HERZI (2025)\nhttps://www.filmlinc.org/films/the-l
- ittle-sister/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-little-sister/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Sister @ FILM AT LINCOLN CENTER
-DTSTART:20260618T204500
-DTEND:20260618T224500
-DESCRIPTION:Dir: HAFSIA HERZI (2025)\nhttps://www.filmlinc.org/films/the-l
- ittle-sister/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-little-sister/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Sister @ FILM AT LINCOLN CENTER
-DTSTART:20260618T131500
-DTEND:20260618T151500
-DESCRIPTION:Dir: HAFSIA HERZI (2025)\nhttps://www.filmlinc.org/films/the-l
- ittle-sister/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-little-sister/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Sister @ FILM AT LINCOLN CENTER
-DTSTART:20260618T153000
-DTEND:20260618T173000
-DESCRIPTION:Dir: HAFSIA HERZI (2025)\nhttps://www.filmlinc.org/films/the-l
- ittle-sister/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-little-sister/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Sister @ FILM AT LINCOLN CENTER
-DTSTART:20260618T180000
-DTEND:20260618T200000
-DESCRIPTION:Dir: HAFSIA HERZI (2025)\nhttps://www.filmlinc.org/films/the-l
- ittle-sister/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-little-sister/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Sister @ FILM AT LINCOLN CENTER
-DTSTART:20260618T151500
-DTEND:20260618T171500
-DESCRIPTION:Dir: HAFSIA HERZI (2025)\nhttps://www.filmlinc.org/films/the-l
- ittle-sister/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-little-sister/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Sister @ FILM AT LINCOLN CENTER
-DTSTART:20260618T203000
-DTEND:20260618T223000
-DESCRIPTION:Dir: HAFSIA HERZI (2025)\nhttps://www.filmlinc.org/films/the-l
- ittle-sister/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-little-sister/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Sister @ FILM AT LINCOLN CENTER
-DTSTART:20260618T201500
-DTEND:20260618T221500
-DESCRIPTION:Dir: HAFSIA HERZI (2025)\nhttps://www.filmlinc.org/films/the-l
- ittle-sister/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-little-sister/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Currents @ FILM AT LINCOLN CENTER
-DTSTART:20260618T131500
-DTEND:20260618T151500
-DESCRIPTION:Dir: MILAGROS MUMENTHALER (2025)\nhttps://www.filmlinc.org/fil
- ms/the-currents/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-currents/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Currents @ FILM AT LINCOLN CENTER
-DTSTART:20260618T153000
-DTEND:20260618T173000
-DESCRIPTION:Dir: MILAGROS MUMENTHALER (2025)\nhttps://www.filmlinc.org/fil
- ms/the-currents/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-currents/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Currents @ FILM AT LINCOLN CENTER
-DTSTART:20260618T180000
-DTEND:20260618T200000
-DESCRIPTION:Dir: MILAGROS MUMENTHALER (2025)\nhttps://www.filmlinc.org/fil
- ms/the-currents/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-currents/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Friend @ FILM AT LINCOLN CENTER
-DTSTART:20260618T151500
-DTEND:20260618T171500
-DESCRIPTION:Dir: ILDIKÓ ENYEDI (2025)\nhttps://www.filmlinc.org/films/sil
- ent-friend/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/silent-friend/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Friend @ FILM AT LINCOLN CENTER
-DTSTART:20260618T203000
-DTEND:20260618T223000
-DESCRIPTION:Dir: ILDIKÓ ENYEDI (2025)\nhttps://www.filmlinc.org/films/sil
- ent-friend/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/silent-friend/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mid-Century Loves @ FILM AT LINCOLN CENTER
-DTSTART:20260618T180000
-DTEND:20260618T200000
-DESCRIPTION:Dir: GLAUCO PELLEGRINI\, PIETRO GERMI\, MARIO CHIARI\, ROBERTO
-  ROSSELLINI\, ANTONIO PIETRANGELI (1954)\nhttps://www.filmlinc.org/series/
- history-italian-style/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/series/history-italian-style/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Lovemakers @ FILM AT LINCOLN CENTER
-DTSTART:20260618T201500
-DTEND:20260618T221500
-DESCRIPTION:Dir: MAURO BOLOGNINI (1961)\nhttps://www.filmlinc.org/series/h
- istory-italian-style/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/series/history-italian-style/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Time and Water @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-DTSTART:20260618T161500
-DTEND:20260618T181500
-DESCRIPTION:Dir: SARA DOSA (2026)\nhttps://www.dctvny.org/s/firehouse-film
- /time-and-water-MCUE46YTJVHZAS7L2LMJ4SL6AKTM
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/time-and-water-MCUE46YTJVHZAS7
- L2LMJ4SL6AKTM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Time and Water @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-DTSTART:20260618T183000
-DTEND:20260618T203000
-DESCRIPTION:Dir: SARA DOSA (2026)\nhttps://www.dctvny.org/s/firehouse-film
- /time-and-water-MCUE46YTJVHZAS7L2LMJ4SL6AKTM
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/time-and-water-MCUE46YTJVHZAS7
- L2LMJ4SL6AKTM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Gas Station Attendant @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMEN
- TARY FILM
-DTSTART:20260618T183000
-DTEND:20260618T203000
-DESCRIPTION:Dir: KARLA MURTHY (2025)\nhttps://www.dctvny.org/s/firehouse-f
- ilm/the-gas-station-attendant-MCQMZ3DX6SLFDOHH3QFB2XB6EBOU
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/the-gas-station-attendant-MCQM
- Z3DX6SLFDOHH3QFB2XB6EBOU
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon @ IFC CENTER
-DTSTART:20260618T103500
-DTEND:20260618T123500
-DESCRIPTION:Dir: LILIAN T. MEHREL (2026)\nhttps://www.ifccenter.com/films/
- honeyjoon/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/honeyjoon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon @ IFC CENTER
-DTSTART:20260618T165000
-DTEND:20260618T185000
-DESCRIPTION:Dir: LILIAN T. MEHREL (2026)\nhttps://www.ifccenter.com/films/
- honeyjoon/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/honeyjoon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon @ IFC CENTER
-DTSTART:20260618T194500
-DTEND:20260618T214500
-DESCRIPTION:Dir: LILIAN T. MEHREL (2026)\nhttps://www.ifccenter.com/films/
- honeyjoon/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/honeyjoon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon @ IFC CENTER
-DTSTART:20260618T104000
-DTEND:20260618T124000
-DESCRIPTION:Dir: LILIAN T. MEHREL (2026)\nhttps://www.ifccenter.com/films/
- honeyjoon/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/honeyjoon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon @ IFC CENTER
-DTSTART:20260618T172000
-DTEND:20260618T192000
-DESCRIPTION:Dir: LILIAN T. MEHREL (2026)\nhttps://www.ifccenter.com/films/
- honeyjoon/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/honeyjoon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon @ IFC CENTER
-DTSTART:20260618T110000
-DTEND:20260618T130000
-DESCRIPTION:Dir: LILIAN T. MEHREL (2026)\nhttps://www.ifccenter.com/films/
- honeyjoon/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/honeyjoon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon @ IFC CENTER
-DTSTART:20260618T133500
-DTEND:20260618T153500
-DESCRIPTION:Dir: LILIAN T. MEHREL (2026)\nhttps://www.ifccenter.com/films/
- honeyjoon/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/honeyjoon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon @ IFC CENTER
-DTSTART:20260618T161000
-DTEND:20260618T181000
-DESCRIPTION:Dir: LILIAN T. MEHREL (2026)\nhttps://www.ifccenter.com/films/
- honeyjoon/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/honeyjoon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon @ IFC CENTER
-DTSTART:20260618T184500
-DTEND:20260618T204500
-DESCRIPTION:Dir: LILIAN T. MEHREL (2026)\nhttps://www.ifccenter.com/films/
- honeyjoon/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/honeyjoon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon @ IFC CENTER
-DTSTART:20260618T212000
-DTEND:20260618T232000
-DESCRIPTION:Dir: LILIAN T. MEHREL (2026)\nhttps://www.ifccenter.com/films/
- honeyjoon/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/honeyjoon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon @ IFC CENTER
-DTSTART:20260618T110500
-DTEND:20260618T130500
-DESCRIPTION:Dir: LILIAN T. MEHREL (2026)\nhttps://www.ifccenter.com/films/
- honeyjoon/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/honeyjoon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon @ IFC CENTER
-DTSTART:20260618T213500
-DTEND:20260618T233500
-DESCRIPTION:Dir: LILIAN T. MEHREL (2026)\nhttps://www.ifccenter.com/films/
- honeyjoon/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/honeyjoon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon @ IFC CENTER
-DTSTART:20260618T111500
-DTEND:20260618T131500
-DESCRIPTION:Dir: LILIAN T. MEHREL (2026)\nhttps://www.ifccenter.com/films/
- honeyjoon/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/honeyjoon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon @ IFC CENTER
-DTSTART:20260618T121500
-DTEND:20260618T141500
-DESCRIPTION:Dir: LILIAN T. MEHREL (2026)\nhttps://www.ifccenter.com/films/
- honeyjoon/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/honeyjoon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon @ IFC CENTER
-DTSTART:20260618T175000
-DTEND:20260618T195000
-DESCRIPTION:Dir: LILIAN T. MEHREL (2026)\nhttps://www.ifccenter.com/films/
- honeyjoon/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/honeyjoon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon @ IFC CENTER
-DTSTART:20260618T195000
-DTEND:20260618T215000
-DESCRIPTION:Dir: LILIAN T. MEHREL (2026)\nhttps://www.ifccenter.com/films/
- honeyjoon/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/honeyjoon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon @ IFC CENTER
-DTSTART:20260618T130000
-DTEND:20260618T150000
-DESCRIPTION:Dir: LILIAN T. MEHREL (2026)\nhttps://www.ifccenter.com/films/
- honeyjoon/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/honeyjoon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon @ IFC CENTER
-DTSTART:20260618T205500
-DTEND:20260618T225500
-DESCRIPTION:Dir: LILIAN T. MEHREL (2026)\nhttps://www.ifccenter.com/films/
- honeyjoon/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/honeyjoon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon @ IFC CENTER
-DTSTART:20260618T130500
-DTEND:20260618T150500
-DESCRIPTION:Dir: LILIAN T. MEHREL (2026)\nhttps://www.ifccenter.com/films/
- honeyjoon/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/honeyjoon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon @ IFC CENTER
-DTSTART:20260618T134500
-DTEND:20260618T154500
-DESCRIPTION:Dir: LILIAN T. MEHREL (2026)\nhttps://www.ifccenter.com/films/
- honeyjoon/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/honeyjoon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon @ IFC CENTER
-DTSTART:20260618T160500
-DTEND:20260618T180500
-DESCRIPTION:Dir: LILIAN T. MEHREL (2026)\nhttps://www.ifccenter.com/films/
- honeyjoon/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/honeyjoon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon @ IFC CENTER
-DTSTART:20260618T183000
-DTEND:20260618T203000
-DESCRIPTION:Dir: LILIAN T. MEHREL (2026)\nhttps://www.ifccenter.com/films/
- honeyjoon/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/honeyjoon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon @ IFC CENTER
-DTSTART:20260618T141500
-DTEND:20260618T161500
-DESCRIPTION:Dir: LILIAN T. MEHREL (2026)\nhttps://www.ifccenter.com/films/
- honeyjoon/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/honeyjoon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon @ IFC CENTER
-DTSTART:20260618T190000
-DTEND:20260618T210000
-DESCRIPTION:Dir: LILIAN T. MEHREL (2026)\nhttps://www.ifccenter.com/films/
- honeyjoon/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/honeyjoon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon @ IFC CENTER
-DTSTART:20260618T145500
-DTEND:20260618T165500
-DESCRIPTION:Dir: LILIAN T. MEHREL (2026)\nhttps://www.ifccenter.com/films/
- honeyjoon/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/honeyjoon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon @ IFC CENTER
-DTSTART:20260618T151500
-DTEND:20260618T171500
-DESCRIPTION:Dir: LILIAN T. MEHREL (2026)\nhttps://www.ifccenter.com/films/
- honeyjoon/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/honeyjoon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeyjoon @ IFC CENTER
-DTSTART:20260618T215000
-DTEND:20260618T235000
-DESCRIPTION:Dir: LILIAN T. MEHREL (2026)\nhttps://www.ifccenter.com/films/
- honeyjoon/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/honeyjoon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Retaguardia @ IFC CENTER
-DTSTART:20260618T103500
-DTEND:20260618T123500
-DESCRIPTION:Dir: OLIVIER CÔTÉ\, JEAN-FRANÇOIS BOUCHARD (2026)\nhttps://
- www.ifccenter.com/films/la-retaguardia-the-ones-who-stay/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/la-retaguardia-the-ones-who-stay/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Renoir @ IFC CENTER
-DTSTART:20260618T104000
-DTEND:20260618T124000
-DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
- oir/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/renoir/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Renoir @ IFC CENTER
-DTSTART:20260618T172000
-DTEND:20260618T192000
-DESCRIPTION:Dir: CHIE HAYAKAWA (2025)\nhttps://www.ifccenter.com/films/ren
- oir/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/renoir/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Shot Andy Warhol @ IFC CENTER
-DTSTART:20260618T110000
-DTEND:20260618T130000
-DESCRIPTION:Dir: MARY HARRON (1996)\nhttps://www.ifccenter.com/films/i-sho
- t-andy-warhol/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/i-shot-andy-warhol/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Shot Andy Warhol @ IFC CENTER
-DTSTART:20260618T133500
-DTEND:20260618T153500
-DESCRIPTION:Dir: MARY HARRON (1996)\nhttps://www.ifccenter.com/films/i-sho
- t-andy-warhol/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/i-shot-andy-warhol/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Shot Andy Warhol @ IFC CENTER
-DTSTART:20260618T161000
-DTEND:20260618T181000
-DESCRIPTION:Dir: MARY HARRON (1996)\nhttps://www.ifccenter.com/films/i-sho
- t-andy-warhol/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/i-shot-andy-warhol/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Shot Andy Warhol @ IFC CENTER
-DTSTART:20260618T184500
-DTEND:20260618T204500
-DESCRIPTION:Dir: MARY HARRON (1996)\nhttps://www.ifccenter.com/films/i-sho
- t-andy-warhol/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/i-shot-andy-warhol/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Shot Andy Warhol @ IFC CENTER
-DTSTART:20260618T212000
-DTEND:20260618T232000
-DESCRIPTION:Dir: MARY HARRON (1996)\nhttps://www.ifccenter.com/films/i-sho
- t-andy-warhol/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/i-shot-andy-warhol/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Heron @ IFC CENTER
-DTSTART:20260618T110500
-DTEND:20260618T130500
-DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://www.ifccenter.com/films/blu
- e-heron/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-heron/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Heron @ IFC CENTER
-DTSTART:20260618T213500
-DTEND:20260618T233500
-DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://www.ifccenter.com/films/blu
- e-heron/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-heron/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Steal This Story\, Please! @ IFC CENTER
-DTSTART:20260618T111500
-DTEND:20260618T131500
-DESCRIPTION:Dir: CARL DEAL\, TIA LESSIN (2025)\nhttps://www.ifccenter.com/
- films/steal-this-story-please/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/steal-this-story-please/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:She's the He @ IFC CENTER
-DTSTART:20260618T121500
-DTEND:20260618T141500
-DESCRIPTION:Dir: SIOBHAN MCCARTHY (2025)\nhttps://www.ifccenter.com/films/
- shes-the-he/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/shes-the-he/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:She's the He @ IFC CENTER
-DTSTART:20260618T175000
-DTEND:20260618T195000
-DESCRIPTION:Dir: SIOBHAN MCCARTHY (2025)\nhttps://www.ifccenter.com/films/
- shes-the-he/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/shes-the-he/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:She's the He @ IFC CENTER
-DTSTART:20260618T195000
-DTEND:20260618T215000
-DESCRIPTION:Dir: SIOBHAN MCCARTHY (2025)\nhttps://www.ifccenter.com/films/
- shes-the-he/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/shes-the-he/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jinsei @ IFC CENTER
-DTSTART:20260618T130000
-DTEND:20260618T150000
-DESCRIPTION:Dir: RYUYA SUZUKI (2025)\nhttps://www.ifccenter.com/films/jins
- ei/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/jinsei/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jinsei @ IFC CENTER
-DTSTART:20260618T205500
-DTEND:20260618T225500
-DESCRIPTION:Dir: RYUYA SUZUKI (2025)\nhttps://www.ifccenter.com/films/jins
- ei/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/jinsei/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask E. Jean @ IFC CENTER
-DTSTART:20260618T130500
-DTEND:20260618T150500
-DESCRIPTION:Dir: IVY MEEROPOL (2026)\nhttps://www.ifccenter.com/films/ask-
- e-jean/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/ask-e-jean/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:True North @ IFC CENTER
-DTSTART:20260618T134500
-DTEND:20260618T154500
-DESCRIPTION:Dir: MICHELE STEPHENSON (2026)\nhttps://www.ifccenter.com/film
- s/true-north/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/true-north/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:True North @ IFC CENTER
-DTSTART:20260618T160500
-DTEND:20260618T180500
-DESCRIPTION:Dir: MICHELE STEPHENSON (2026)\nhttps://www.ifccenter.com/film
- s/true-north/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/true-north/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:True North @ IFC CENTER
-DTSTART:20260618T183000
-DTEND:20260618T203000
-DESCRIPTION:Dir: MICHELE STEPHENSON (2026)\nhttps://www.ifccenter.com/film
- s/true-north/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/true-north/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gaslit @ IFC CENTER
-DTSTART:20260618T141500
-DTEND:20260618T161500
-DESCRIPTION:Dir: KATIE CAMOSY (2026)\nhttps://www.ifccenter.com/films/gasl
- it/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gaslit/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gaslit @ IFC CENTER
-DTSTART:20260618T190000
-DTEND:20260618T210000
-DESCRIPTION:Dir: KATIE CAMOSY (2026)\nhttps://www.ifccenter.com/films/gasl
- it/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gaslit/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terminator 2: Judgment Day @ IFC CENTER
-DTSTART:20260618T145500
-DTEND:20260618T165500
-DESCRIPTION:Dir: JAMES CAMERON (1991)\nhttps://www.ifccenter.com/films/ter
- minator-2-judgment-day/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/terminator-2-judgment-day/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Film @ IFC CENTER
-DTSTART:20260618T151500
-DTEND:20260618T171500
-DESCRIPTION:Dir: ELLIOT TUTTLE (2026)\nhttps://www.ifccenter.com/films/blu
- e-film/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-film/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Film @ IFC CENTER
-DTSTART:20260618T215000
-DTEND:20260618T235000
-DESCRIPTION:Dir: ELLIOT TUTTLE (2026)\nhttps://www.ifccenter.com/films/blu
- e-film/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/blue-film/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crazy Horse @ L'ALLIANCE NEW YORK
-DTSTART:20260618T160000
-DTEND:20260618T180000
-DESCRIPTION:Dir: FREDERICK WISEMAN (2011)\nhttps://lallianceny.org/event/c
- razy-horse/
-LOCATION:L'ALLIANCE NEW YORK
-URL:https://lallianceny.org/event/crazy-horse/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crazy Horse @ L'ALLIANCE NEW YORK
-DTSTART:20260618T190000
-DTEND:20260618T210000
-DESCRIPTION:Dir: FREDERICK WISEMAN (2011)\nhttps://lallianceny.org/event/c
- razy-horse/
-LOCATION:L'ALLIANCE NEW YORK
-URL:https://lallianceny.org/event/crazy-horse/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Peppermint Candy @ METROGRAPH
-DTSTART:20260618T160000
-DTEND:20260618T180000
-DESCRIPTION:Dir: LEE CHANG-DONG (1999)\nhttps://metrograph.com/series/?vis
- ta_series_id=0000000534
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000534
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Peppermint Candy @ METROGRAPH
-DTSTART:20260618T161500
-DTEND:20260618T181500
-DESCRIPTION:Dir: LEE CHANG-DONG (1999)\nhttps://metrograph.com/series/?vis
- ta_series_id=0000000534
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000534
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Peppermint Candy @ METROGRAPH
-DTSTART:20260618T184500
-DTEND:20260618T204500
-DESCRIPTION:Dir: LEE CHANG-DONG (1999)\nhttps://metrograph.com/series/?vis
- ta_series_id=0000000534
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000534
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Peppermint Candy @ METROGRAPH
-DTSTART:20260618T185000
-DTEND:20260618T205000
-DESCRIPTION:Dir: LEE CHANG-DONG (1999)\nhttps://metrograph.com/series/?vis
- ta_series_id=0000000534
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000534
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Peppermint Candy @ METROGRAPH
-DTSTART:20260618T214000
-DTEND:20260618T234000
-DESCRIPTION:Dir: LEE CHANG-DONG (1999)\nhttps://metrograph.com/series/?vis
- ta_series_id=0000000534
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000534
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Peppermint Candy @ METROGRAPH
-DTSTART:20260618T214500
-DTEND:20260618T234500
-DESCRIPTION:Dir: LEE CHANG-DONG (1999)\nhttps://metrograph.com/series/?vis
- ta_series_id=0000000534
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000534
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Peppermint Candy @ METROGRAPH
-DTSTART:20260618T160000
-DTEND:20260618T180000
-DESCRIPTION:Dir: LEE CHANG-DONG (1999)\nhttps://metrograph.com/series/?vis
- ta_series_id=0000000534
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000534
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lust for Life @ METROGRAPH
-DTSTART:20260618T161500
-DTEND:20260618T181500
-DESCRIPTION:Dir: VINCENTE MINNELLI (1956)\nhttps://metrograph.com/series/?
- vista_series_id=0000000536
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000536
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lust for Life @ METROGRAPH
-DTSTART:20260618T161500
-DTEND:20260618T181500
-DESCRIPTION:Dir: VINCENTE MINNELLI (1956)\nhttps://metrograph.com/series/?
- vista_series_id=0000000536
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000536
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Come and See @ METROGRAPH
-DTSTART:20260618T184500
-DTEND:20260618T204500
-DESCRIPTION:Dir: ELEM KLIMOV (1985)\nhttps://metrograph.com/series/?vista_
- series_id=0000000542
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000542
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Come and See @ METROGRAPH
-DTSTART:20260618T184500
-DTEND:20260618T204500
-DESCRIPTION:Dir: ELEM KLIMOV (1985)\nhttps://metrograph.com/series/?vista_
- series_id=0000000542
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000542
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Taste of Tea @ METROGRAPH
-DTSTART:20260618T185000
-DTEND:20260618T205000
-DESCRIPTION:Dir: KATSUHITO ISHII (2004)\nhttps://metrograph.com/film/?vist
- a_film_id=9999004814
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/?vista_film_id=9999004814
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Taste of Tea @ METROGRAPH
-DTSTART:20260618T185000
-DTEND:20260618T205000
-DESCRIPTION:Dir: KATSUHITO ISHII (2004)\nhttps://metrograph.com/film/?vist
- a_film_id=9999004814
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/?vista_film_id=9999004814
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onda Nova @ METROGRAPH
-DTSTART:20260618T214000
-DTEND:20260618T234000
-DESCRIPTION:Dir: JOSÉ ANTONIO GARCIA\, ÍCARO MARTINS (1983)\nhttps://met
- rograph.com/series/?vista_series_id=0000000548
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000548
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Onda Nova @ METROGRAPH
-DTSTART:20260618T214000
-DTEND:20260618T234000
-DESCRIPTION:Dir: JOSÉ ANTONIO GARCIA\, ÍCARO MARTINS (1983)\nhttps://met
- rograph.com/series/?vista_series_id=0000000548
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000548
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Love Letter @ METROGRAPH
-DTSTART:20260618T214500
-DTEND:20260618T234500
-DESCRIPTION:Dir: KINUYO TANAKA (1953)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000545
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000545
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Love Letter @ METROGRAPH
-DTSTART:20260618T214500
-DTEND:20260618T234500
-DESCRIPTION:Dir: KINUYO TANAKA (1953)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000545
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000545
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbarosa @ MUSEUM OF MODERN ART
-DTSTART:20260618T163000
-DTEND:20260618T183000
-DESCRIPTION:Dir: FRED SCHEPISI (1982)\nhttps://www.moma.org/calendar/film/
- 5909
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5909
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbarosa @ MUSEUM OF MODERN ART
-DTSTART:20260618T190000
-DTEND:20260618T210000
-DESCRIPTION:Dir: FRED SCHEPISI (1982)\nhttps://www.moma.org/calendar/film/
- 5909
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5909
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Destry Rides Again @ MUSEUM OF MODERN ART
-DTSTART:20260618T190000
-DTEND:20260618T210000
-DESCRIPTION:Dir: GEORGE MARSHALL (1939)\nhttps://www.moma.org/calendar/fil
- m/5909
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5909
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fancy Dance @ NITEHAWK CINEMA PROSPECT PARK
-DTSTART:20260618T210000
-DTEND:20260618T230000
-DESCRIPTION:Dir: ERICA TREMBLAY (2023)\nhttps://nitehawkcinema.com/william
- sburg/film-series/be-gay-do-crime-part-iii/
-LOCATION:NITEHAWK CINEMA PROSPECT PARK
-URL:https://nitehawkcinema.com/williamsburg/film-series/be-gay-do-crime-pa
- rt-iii/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Terror House @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260618T213000
-DTEND:20260618T233000
-DESCRIPTION:Dir: JOHN POLINIA\, JON MCBRIDE\, MARK POLONIA (1998)\nhttps:/
- /nitehawkcinema.com/williamsburg/film-series/visual-vengeance/
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://nitehawkcinema.com/williamsburg/film-series/visual-vengeance/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alfreda's Cinema Annual Juneteenth Remembrance @ PROSPECT PARK BOA
- THOUSE
-DTSTART:20260618T160000
-DTEND:20260618T180000
-DESCRIPTION:Dir: VARIOUS (420M)\nhttps://www.eventbrite.com/e/alfredas-cin
- ema-presents-the-learning-tree-1969-the-boys-and-the-bees-tickets-19870013
- 71591?aff=ebdsoporgprofile
-LOCATION:PROSPECT PARK BOATHOUSE
-URL:https://www.eventbrite.com/e/alfredas-cinema-presents-the-learning-tre
- e-1969-the-boys-and-the-bees-tickets-1987001371591?aff=ebdsoporgprofile
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alfreda's Cinema Annual Juneteenth Remembrance @ PROSPECT PARK BOA
- THOUSE
-DTSTART:20260618T203000
-DTEND:20260618T223000
-DESCRIPTION:Dir: VARIOUS (420M)\nhttps://www.eventbrite.com/e/alfredas-cin
- ema-presents-the-learning-tree-1969-the-boys-and-the-bees-tickets-19870013
- 71591?aff=ebdsoporgprofile
-LOCATION:PROSPECT PARK BOATHOUSE
-URL:https://www.eventbrite.com/e/alfredas-cinema-presents-the-learning-tre
- e-1969-the-boys-and-the-bees-tickets-1987001371591?aff=ebdsoporgprofile
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:My Beautiful Laundrette @ QUAD CINEMA
-DTSTART:20260618T201500
-DTEND:20260618T221500
-DESCRIPTION:Dir: STEPHEN FREARS (1985)\nhttps://quadcinema.com/program/pri
- de-from-a-to-z/
-LOCATION:QUAD CINEMA
-URL:https://quadcinema.com/program/pride-from-a-to-z/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mārama @ ROXY CINEMA NEW YORK
-DTSTART:20260618T190000
-DTEND:20260618T210000
-DESCRIPTION:Dir: TARATOA STAPPARD (2025)\nhttps://ticketing.uswest.veezi.c
- om/purchase/7521?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7521?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mārama @ ROXY CINEMA NEW YORK
-DTSTART:20260618T210000
-DTEND:20260618T230000
-DESCRIPTION:Dir: TARATOA STAPPARD (2025)\nhttps://ticketing.uswest.veezi.c
- om/purchase/7521?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7521?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unfriended @ ROXY CINEMA NEW YORK
-DTSTART:20260618T210000
-DTEND:20260618T230000
-DESCRIPTION:Dir: LEVAN GABRIADZE (2014)\nhttps://www.roxycinemanewyork.com
- /screenings/unfriended-35mm/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/screenings/unfriended-35mm/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:History Lessons @ SPECTACLE
-DTSTART:20260618T193000
-DTEND:20260618T213000
-DESCRIPTION:Dir: 7:30PM (History Lessons)\nhttps://www.spectacletheater.co
- m/intercat-2026/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/intercat-2026/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:History Lessons @ SPECTACLE
-DTSTART:20260618T220000
-DTEND:20260619T000000
-DESCRIPTION:Dir: 7:30PM (History Lessons)\nhttps://www.spectacletheater.co
- m/intercat-2026/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/intercat-2026/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Curse of the Seven Jackals @ ANTHOLOGY FILM ARCHIVES
 DTSTART:20260619T191500
 DTEND:20260619T211500
@@ -3946,8 +2675,8 @@ BEGIN:VEVENT
 SUMMARY:River's Edge @ IFC CENTER
 DTSTART:20260620T235900
 DTEND:20260621T015900
-DESCRIPTION:Dir: ISAO YUKISADA (2018)\nhttps://www.ifccenter.com/series/wa
- verly-midnights-think-of-the-children/
+DESCRIPTION:Dir: TIM HUNTER (1987)\nhttps://www.ifccenter.com/series/waver
+ ly-midnights-think-of-the-children/
 LOCATION:IFC CENTER
 URL:https://www.ifccenter.com/series/waverly-midnights-think-of-the-childr
  en/
@@ -12090,15 +10819,6 @@ URL:https://movingimage.org/series/culture-wars/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tongues Untied @ MUSEUM OF THE MOVING IMAGE
-DTSTART:20260628T140000
-DTEND:20260628T160000
-DESCRIPTION:Dir: PHILIP KAUFMAN (2000)\nhttps://movingimage.org/series/cul
- ture-wars/
-LOCATION:MUSEUM OF THE MOVING IMAGE
-URL:https://movingimage.org/series/culture-wars/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tongues Untied @ MUSEUM OF THE MOVING IMAGE
 DTSTART:20260628T160000
 DTEND:20260628T180000
 DESCRIPTION:Dir: PHILIP KAUFMAN (2000)\nhttps://movingimage.org/series/cul
@@ -16963,6 +15683,15 @@ LOCATION:MUSEUM OF MODERN ART
 URL:https://www.moma.org/calendar/film/5911
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Stranger Than Paradise @ MUSEUM OF MODERN ART
+DTSTART:20260725T183000
+DTEND:20260725T203000
+DESCRIPTION:Dir: JIM JARMUSCH (1984)\nhttps://www.moma.org/calendar/film/5
+ 911
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5911
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Obsession @ MUSEUM OF THE MOVING IMAGE
 DTSTART:20260725T150000
 DTEND:20260725T170000
@@ -17032,6 +15761,24 @@ DTSTART:20260726T140000
 DTEND:20260726T160000
 DESCRIPTION:Dir: WAYNE WANG (1982)\nhttps://www.moma.org/calendar/film/591
  1
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5911
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chan Is Missing @ MUSEUM OF MODERN ART
+DTSTART:20260726T160000
+DTEND:20260726T180000
+DESCRIPTION:Dir: WAYNE WANG (1982)\nhttps://www.moma.org/calendar/film/591
+ 1
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5911
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Full Moon in New York @ MUSEUM OF MODERN ART
+DTSTART:20260726T160000
+DTEND:20260726T180000
+DESCRIPTION:Dir: STANLEY KWAN (1989)\nhttps://www.moma.org/calendar/film/5
+ 911
 LOCATION:MUSEUM OF MODERN ART
 URL:https://www.moma.org/calendar/film/5911
 END:VEVENT
@@ -17135,6 +15882,23 @@ LOCATION:MUSEUM OF MODERN ART
 URL:https://www.moma.org/calendar/film/5911
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pushing Hands @ MUSEUM OF MODERN ART
+DTSTART:20260729T183000
+DTEND:20260729T203000
+DESCRIPTION:Dir: ANG LEE (1991)\nhttps://www.moma.org/calendar/film/5911
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5911
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Full Moon in New York @ MUSEUM OF MODERN ART
+DTSTART:20260729T183000
+DTEND:20260729T203000
+DESCRIPTION:Dir: STANLEY KWAN (1989)\nhttps://www.moma.org/calendar/film/5
+ 911
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5911
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Farewell China @ MUSEUM OF MODERN ART
 DTSTART:20260730T160000
 DTEND:20260730T180000
@@ -17196,6 +15960,66 @@ DESCRIPTION:Dir: MIRO REMO (2025)\nhttps://new-york.czechcentres.cz/en/pro
  gram/radeji-zesilet-v-divocine
 LOCATION:CZECH CENTER
 URL:https://new-york.czechcentres.cz/en/program/radeji-zesilet-v-divocine
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peppermint Candy @ METROGRAPH
+DTSTART:20260618T160000
+DTEND:20260618T180000
+DESCRIPTION:Dir: Lee  Chang-dong (1999)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30186
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30186
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lust for Life @ METROGRAPH
+DTSTART:20260618T161500
+DTEND:20260618T181500
+DESCRIPTION:Dir: Vincente Minnelli (1956)\nhttps://t.metrograph.com/Ticket
+ ing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30187
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30187
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Come and See @ METROGRAPH
+DTSTART:20260618T184500
+DTEND:20260618T204500
+DESCRIPTION:Dir: Elem Klimov (1985)\nhttps://t.metrograph.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=9999&txtSessionId=30188
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30188
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Taste of Tea @ METROGRAPH
+DTSTART:20260618T185000
+DTEND:20260618T205000
+DESCRIPTION:Dir: Katsuhito Ishii (2004)\nhttps://metrograph.com/film/?vist
+ a_film_id=9999004814
+LOCATION:METROGRAPH
+URL:https://metrograph.com/film/?vista_film_id=9999004814
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onda Nova @ METROGRAPH
+DTSTART:20260618T214000
+DTEND:20260618T234000
+DESCRIPTION:Dir: José Antonio Garcia\, Ícaro Martins (1983)\nhttps://t.m
+ etrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId
+ =30224
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Letter @ METROGRAPH
+DTSTART:20260618T214500
+DTEND:20260618T234500
+DESCRIPTION:Dir: Shunji  Iwai (1995)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30190
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30190
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grand Budapest Hotel preceded by Hotel Chevalier @ METROGRAPH
@@ -17788,36 +16612,6 @@ DESCRIPTION:Dir: Roland Emmerich (1992)\nhttps://t.metrograph.com/Ticketin
 LOCATION:METROGRAPH
 URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=30253
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Python Hunt @ ROXY CINEMA NEW YORK
-DTSTART:20260618T170000
-DTEND:20260618T190000
-DESCRIPTION:Dir: N/A (2025)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 458?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7458?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Michael @ ROXY CINEMA NEW YORK
-DTSTART:20260618T184500
-DTEND:20260618T204500
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 587?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7587?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unfriended - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20260618T211500
-DTEND:20260618T231500
-DESCRIPTION:Dir: N/A (2014)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 510?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7510?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Michael @ ROXY CINEMA NEW YORK
@@ -18487,6 +17281,46 @@ URL:https://ticketing.uswest.veezi.com/purchase/7584?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rebel Without a Cause - 35MM @ ROXY CINEMA NEW YORK
+DTSTART:20260721T190000
+DTEND:20260721T210000
+DESCRIPTION:Dir: N/A (1955)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 592?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7592?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Johnny Guitar - 35MM @ ROXY CINEMA NEW YORK
+DTSTART:20260722T190000
+DTEND:20260722T210000
+DESCRIPTION:Dir: N/A (1954)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 560?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7560?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rebel Without a Cause - 35MM @ ROXY CINEMA NEW YORK
+DTSTART:20260723T170000
+DTEND:20260723T190000
+DESCRIPTION:Dir: N/A (1955)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 561?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7561?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Johnny Guitar - 35MM @ ROXY CINEMA NEW YORK
+DTSTART:20260724T164500
+DTEND:20260724T184500
+DESCRIPTION:Dir: N/A (1954)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 557?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7557?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Masked and Anonymous - 35MM + Q&A @ ROXY CINEMA NEW YORK
 DTSTART:20260724T190000
 DTEND:20260724T210000
@@ -18494,6 +17328,26 @@ DESCRIPTION:Dir: N/A (2003)\nhttps://ticketing.uswest.veezi.com/purchase/7
  504?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7504?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Johnny Guitar - 35MM @ ROXY CINEMA NEW YORK
+DTSTART:20260725T141500
+DTEND:20260725T161500
+DESCRIPTION:Dir: N/A (1954)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 563?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7563?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rebel Without a Cause - 35MM @ ROXY CINEMA NEW YORK
+DTSTART:20260725T163000
+DTEND:20260725T183000
+DESCRIPTION:Dir: N/A (1955)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 564?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7564?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
@@ -18547,6 +17401,16 @@ URL:https://ticketing.uswest.veezi.com/purchase/7589?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bigger Than Life - 35MM @ ROXY CINEMA NEW YORK
+DTSTART:20260801T150000
+DTEND:20260801T170000
+DESCRIPTION:Dir: N/A (1956)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 590?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7590?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Glowing + Q&A @ ROXY CINEMA NEW YORK
 DTSTART:20260801T170000
 DTEND:20260801T190000
@@ -18554,6 +17418,16 @@ DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
  577?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7577?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Ember Knight Show + Q&A @ ROXY CINEMA NEW YORK
+DTSTART:20260801T191500
+DTEND:20260801T211500
+DESCRIPTION:Dir: N/A (2020)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 591?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7591?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 END:VCALENDAR
