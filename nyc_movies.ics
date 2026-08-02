@@ -2,1629 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:L'Âge D'or @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260801T161500
-DTEND:20260801T181500
-DESCRIPTION:Dir: LUIS BUÑUEL\, SALVADOR DALÍ (1928)\nhttp://anthologyfil
- marchives.org/film_screenings/programs/essential-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
- nema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'Âge D'or @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260801T180000
-DTEND:20260801T200000
-DESCRIPTION:Dir: LUIS BUÑUEL\, SALVADOR DALÍ (1928)\nhttp://anthologyfil
- marchives.org/film_screenings/programs/essential-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
- nema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'Âge D'or @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260801T181500
-DTEND:20260801T201500
-DESCRIPTION:Dir: LUIS BUÑUEL\, SALVADOR DALÍ (1928)\nhttp://anthologyfil
- marchives.org/film_screenings/programs/essential-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
- nema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'Âge D'or @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260801T200000
-DTEND:20260801T220000
-DESCRIPTION:Dir: LUIS BUÑUEL\, SALVADOR DALÍ (1928)\nhttp://anthologyfil
- marchives.org/film_screenings/programs/essential-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
- nema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'Âge D'or @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260801T201500
-DTEND:20260801T221500
-DESCRIPTION:Dir: LUIS BUÑUEL\, SALVADOR DALÍ (1928)\nhttp://anthologyfil
- marchives.org/film_screenings/programs/essential-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
- nema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Salamandre @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260801T200000
-DTEND:20260801T220000
-DESCRIPTION:Dir: ALAIN TANNER (1971)\nhttps://www.anthologyfilmarchives.or
- g/film_screenings/series/61690
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/series/61690
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Welcome II the Terrordome @ BAM
-DTSTART:20260801T140000
-DTEND:20260801T160000
-DESCRIPTION:Dir: NGOZI ONWURAH (1995)\nhttps://www.bam.org/film/2026/welco
- me-ii-the-terrordome
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/welcome-ii-the-terrordome
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Welcome II the Terrordome @ BAM
-DTSTART:20260801T163000
-DTEND:20260801T183000
-DESCRIPTION:Dir: NGOZI ONWURAH (1995)\nhttps://www.bam.org/film/2026/welco
- me-ii-the-terrordome
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/welcome-ii-the-terrordome
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Welcome II the Terrordome @ BAM
-DTSTART:20260801T190000
-DTEND:20260801T210000
-DESCRIPTION:Dir: NGOZI ONWURAH (1995)\nhttps://www.bam.org/film/2026/welco
- me-ii-the-terrordome
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/welcome-ii-the-terrordome
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Welcome II the Terrordome @ BAM
-DTSTART:20260801T213000
-DTEND:20260801T233000
-DESCRIPTION:Dir: NGOZI ONWURAH (1995)\nhttps://www.bam.org/film/2026/welco
- me-ii-the-terrordome
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/welcome-ii-the-terrordome
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260801T122000
-DTEND:20260801T142000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260801T181500
-DTEND:20260801T201500
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260801T123000
-DTEND:20260801T143000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260801T144000
-DTEND:20260801T164000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260801T165000
-DTEND:20260801T185000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260801T190000
-DTEND:20260801T210000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260801T211000
-DTEND:20260801T231000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260801T124500
-DTEND:20260801T144500
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260801T150000
-DTEND:20260801T170000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260801T195000
-DTEND:20260801T215000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260801T125000
-DTEND:20260801T145000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260801T174500
-DTEND:20260801T194500
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260801T163000
-DTEND:20260801T183000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260801T203000
-DTEND:20260801T223000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260801T152000
-DTEND:20260801T172000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260801T184000
-DTEND:20260801T204000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:White Nights @ FILM FORUM
-DTSTART:20260801T123000
-DTEND:20260801T143000
-DESCRIPTION:Dir: LUCHINO VISCONTI (1957)\nhttps://filmforum.org/film/white
- -nights
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/white-nights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:White Nights @ FILM FORUM
-DTSTART:20260801T144000
-DTEND:20260801T164000
-DESCRIPTION:Dir: LUCHINO VISCONTI (1957)\nhttps://filmforum.org/film/white
- -nights
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/white-nights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:White Nights @ FILM FORUM
-DTSTART:20260801T165000
-DTEND:20260801T185000
-DESCRIPTION:Dir: LUCHINO VISCONTI (1957)\nhttps://filmforum.org/film/white
- -nights
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/white-nights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:White Nights @ FILM FORUM
-DTSTART:20260801T190000
-DTEND:20260801T210000
-DESCRIPTION:Dir: LUCHINO VISCONTI (1957)\nhttps://filmforum.org/film/white
- -nights
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/white-nights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:White Nights @ FILM FORUM
-DTSTART:20260801T211000
-DTEND:20260801T231000
-DESCRIPTION:Dir: LUCHINO VISCONTI (1957)\nhttps://filmforum.org/film/white
- -nights
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/white-nights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Remake @ FILM FORUM
-DTSTART:20260801T124500
-DTEND:20260801T144500
-DESCRIPTION:Dir: ROSS MCELWEE (2025)\nhttps://filmforum.org/film/remake
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/remake
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Remake @ FILM FORUM
-DTSTART:20260801T150000
-DTEND:20260801T170000
-DESCRIPTION:Dir: ROSS MCELWEE (2025)\nhttps://filmforum.org/film/remake
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/remake
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Remake @ FILM FORUM
-DTSTART:20260801T195000
-DTEND:20260801T215000
-DESCRIPTION:Dir: ROSS MCELWEE (2025)\nhttps://filmforum.org/film/remake
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/remake
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Pachuco: The Legend of Luis Valdez @ FILM FORUM
-DTSTART:20260801T125000
-DTEND:20260801T145000
-DESCRIPTION:Dir: DAVID ALVARADO (2026)\nhttps://filmforum.org/film/america
- n-pachuco
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/american-pachuco
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Pachuco: The Legend of Luis Valdez @ FILM FORUM
-DTSTART:20260801T174500
-DTEND:20260801T194500
-DESCRIPTION:Dir: DAVID ALVARADO (2026)\nhttps://filmforum.org/film/america
- n-pachuco
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/american-pachuco
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dread Beat an Blood @ FILM FORUM
-DTSTART:20260801T144000
-DTEND:20260801T164000
-DESCRIPTION:Dir: FRANCO ROSSO (1975)\nhttps://filmforum.org/film/dread-bea
- t-an-blood
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/dread-beat-an-blood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dread Beat an Blood @ FILM FORUM
-DTSTART:20260801T163000
-DTEND:20260801T183000
-DESCRIPTION:Dir: FRANCO ROSSO (1975)\nhttps://filmforum.org/film/dread-bea
- t-an-blood
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/dread-beat-an-blood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dread Beat an Blood @ FILM FORUM
-DTSTART:20260801T203000
-DTEND:20260801T223000
-DESCRIPTION:Dir: FRANCO ROSSO (1975)\nhttps://filmforum.org/film/dread-bea
- t-an-blood
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/dread-beat-an-blood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sherman's March @ FILM FORUM
-DTSTART:20260801T152000
-DTEND:20260801T172000
-DESCRIPTION:Dir: ROSS MCELWEE (1985)\nhttps://filmforum.org/film/shermans-
- march
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/shermans-march
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sherman's March @ FILM FORUM
-DTSTART:20260801T184000
-DTEND:20260801T204000
-DESCRIPTION:Dir: ROSS MCELWEE (1985)\nhttps://filmforum.org/film/shermans-
- march
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/shermans-march
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260801T120000
-DTEND:20260801T140000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260801T150000
-DTEND:20260801T170000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260801T183000
-DTEND:20260801T203000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260801T130000
-DTEND:20260801T150000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260801T153000
-DTEND:20260801T173000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260801T180000
-DTEND:20260801T200000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260801T203000
-DTEND:20260801T223000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260801T131500
-DTEND:20260801T151500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260801T204500
-DTEND:20260801T224500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260801T154500
-DTEND:20260801T174500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260801T181500
-DTEND:20260801T201500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Piano @ FILM AT LINCOLN CENTER
-DTSTART:20260801T130000
-DTEND:20260801T150000
-DESCRIPTION:Dir: JANE CAMPION (1993)\nhttps://www.filmlinc.org/films/the-p
- iano/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-piano/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Piano @ FILM AT LINCOLN CENTER
-DTSTART:20260801T153000
-DTEND:20260801T173000
-DESCRIPTION:Dir: JANE CAMPION (1993)\nhttps://www.filmlinc.org/films/the-p
- iano/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-piano/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Piano @ FILM AT LINCOLN CENTER
-DTSTART:20260801T180000
-DTEND:20260801T200000
-DESCRIPTION:Dir: JANE CAMPION (1993)\nhttps://www.filmlinc.org/films/the-p
- iano/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-piano/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Piano @ FILM AT LINCOLN CENTER
-DTSTART:20260801T203000
-DTEND:20260801T223000
-DESCRIPTION:Dir: JANE CAMPION (1993)\nhttps://www.filmlinc.org/films/the-p
- iano/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-piano/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rose of Nevada @ FILM AT LINCOLN CENTER
-DTSTART:20260801T131500
-DTEND:20260801T151500
-DESCRIPTION:Dir: MARK JENKIN (2025)\nhttps://www.filmlinc.org/films/rose-o
- f-nevada/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/rose-of-nevada/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rose of Nevada @ FILM AT LINCOLN CENTER
-DTSTART:20260801T204500
-DTEND:20260801T224500
-DESCRIPTION:Dir: MARK JENKIN (2025)\nhttps://www.filmlinc.org/films/rose-o
- f-nevada/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/rose-of-nevada/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Romería @ FILM AT LINCOLN CENTER
-DTSTART:20260801T154500
-DTEND:20260801T174500
-DESCRIPTION:Dir: CARLA SIMÓN (2025)\nhttps://www.filmlinc.org/films/romer
- ia/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/romeria/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Romería @ FILM AT LINCOLN CENTER
-DTSTART:20260801T181500
-DTEND:20260801T201500
-DESCRIPTION:Dir: CARLA SIMÓN (2025)\nhttps://www.filmlinc.org/films/romer
- ia/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/romeria/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Non Films Presents Lawrence Jordan: A Mini-Retrospective @ THE FIL
- M-MAKERS’ COOPERATIVE
-DTSTART:20260801T190000
-DTEND:20260801T210000
-DESCRIPTION:Dir: LAWRENCE JORDAN (1969-1979)\nhttps://film-makerscoop.com/
- screenings/non-films-presents-larry-jordan-a-mini-retrospective
-LOCATION:THE FILM-MAKERS’ COOPERATIVE
-URL:https://film-makerscoop.com/screenings/non-films-presents-larry-jordan
- -a-mini-retrospective
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Paradise Lost @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-DTSTART:20260801T163000
-DTEND:20260801T183000
-DESCRIPTION:Dir: LAURIE SUMIYE (2025)\nhttps://www.dctvny.org/s/firehouse-
- film/a-paradise-lost-MCMXKMSQCYI5FVJCCAS77CZ2BT4E
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/a-paradise-lost-MCMXKMSQCYI5FV
- JCCAS77CZ2BT4E
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Paradise Lost @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-DTSTART:20260801T190000
-DTEND:20260801T210000
-DESCRIPTION:Dir: LAURIE SUMIYE (2025)\nhttps://www.dctvny.org/s/firehouse-
- film/a-paradise-lost-MCMXKMSQCYI5FVJCCAS77CZ2BT4E
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/a-paradise-lost-MCMXKMSQCYI5FV
- JCCAS77CZ2BT4E
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Paradise Lost @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-DTSTART:20260801T213000
-DTEND:20260801T233000
-DESCRIPTION:Dir: LAURIE SUMIYE (2025)\nhttps://www.dctvny.org/s/firehouse-
- film/a-paradise-lost-MCMXKMSQCYI5FVJCCAS77CZ2BT4E
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/a-paradise-lost-MCMXKMSQCYI5FV
- JCCAS77CZ2BT4E
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T103500
-DTEND:20260801T123500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T123500
-DTEND:20260801T143500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T153000
-DTEND:20260801T173000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T193500
-DTEND:20260801T213500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T215000
-DTEND:20260801T235000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T104000
-DTEND:20260801T124000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T131500
-DTEND:20260801T151500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T155500
-DTEND:20260801T175500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T185000
-DTEND:20260801T205000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T214000
-DTEND:20260801T234000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T110000
-DTEND:20260801T130000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T133000
-DTEND:20260801T153000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T160000
-DTEND:20260801T180000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T183000
-DTEND:20260801T203000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T210000
-DTEND:20260801T230000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T110500
-DTEND:20260801T130500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T175000
-DTEND:20260801T195000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T111500
-DTEND:20260801T131500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T144000
-DTEND:20260801T164000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T180500
-DTEND:20260801T200500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T212000
-DTEND:20260801T232000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T124500
-DTEND:20260801T144500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T204500
-DTEND:20260801T224500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T145000
-DTEND:20260801T165000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T184500
-DTEND:20260801T204500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T163500
-DTEND:20260801T183500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T230500
-DTEND:20260802T010500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T232000
-DTEND:20260802T012000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T235500
-DTEND:20260802T015500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260801T235900
-DTEND:20260802T015900
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manhunter @ IFC CENTER
-DTSTART:20260801T104000
-DTEND:20260801T124000
-DESCRIPTION:Dir: MICHAEL MANN (1986)\nhttps://www.ifccenter.com/films/mich
- ael-manns-manhunter-the-final-cut/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/michael-manns-manhunter-the-final-cut/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manhunter @ IFC CENTER
-DTSTART:20260801T131500
-DTEND:20260801T151500
-DESCRIPTION:Dir: MICHAEL MANN (1986)\nhttps://www.ifccenter.com/films/mich
- ael-manns-manhunter-the-final-cut/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/michael-manns-manhunter-the-final-cut/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manhunter @ IFC CENTER
-DTSTART:20260801T155500
-DTEND:20260801T175500
-DESCRIPTION:Dir: MICHAEL MANN (1986)\nhttps://www.ifccenter.com/films/mich
- ael-manns-manhunter-the-final-cut/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/michael-manns-manhunter-the-final-cut/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manhunter @ IFC CENTER
-DTSTART:20260801T185000
-DTEND:20260801T205000
-DESCRIPTION:Dir: MICHAEL MANN (1986)\nhttps://www.ifccenter.com/films/mich
- ael-manns-manhunter-the-final-cut/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/michael-manns-manhunter-the-final-cut/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manhunter @ IFC CENTER
-DTSTART:20260801T214000
-DTEND:20260801T234000
-DESCRIPTION:Dir: MICHAEL MANN (1986)\nhttps://www.ifccenter.com/films/mich
- ael-manns-manhunter-the-final-cut/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/michael-manns-manhunter-the-final-cut/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside @ IFC CENTER
-DTSTART:20260801T110000
-DTEND:20260801T130000
-DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
- nside/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside @ IFC CENTER
-DTSTART:20260801T133000
-DTEND:20260801T153000
-DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
- nside/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside @ IFC CENTER
-DTSTART:20260801T160000
-DTEND:20260801T180000
-DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
- nside/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside @ IFC CENTER
-DTSTART:20260801T183000
-DTEND:20260801T203000
-DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
- nside/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside @ IFC CENTER
-DTSTART:20260801T210000
-DTEND:20260801T230000
-DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
- nside/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lost Chapters @ IFC CENTER
-DTSTART:20260801T110500
-DTEND:20260801T130500
-DESCRIPTION:Dir: LORENA ALVARADO (2026)\nhttps://www.ifccenter.com/films/l
- ost-chapters/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/lost-chapters/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lost Chapters @ IFC CENTER
-DTSTART:20260801T175000
-DTEND:20260801T195000
-DESCRIPTION:Dir: LORENA ALVARADO (2026)\nhttps://www.ifccenter.com/films/l
- ost-chapters/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/lost-chapters/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ IFC CENTER
-DTSTART:20260801T111500
-DTEND:20260801T131500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
- the-samurai-and-the-prisoner/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ IFC CENTER
-DTSTART:20260801T144000
-DTEND:20260801T164000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
- the-samurai-and-the-prisoner/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ IFC CENTER
-DTSTART:20260801T180500
-DTEND:20260801T200500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
- the-samurai-and-the-prisoner/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ IFC CENTER
-DTSTART:20260801T212000
-DTEND:20260801T232000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
- the-samurai-and-the-prisoner/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheep in the Box @ IFC CENTER
-DTSTART:20260801T124500
-DTEND:20260801T144500
-DESCRIPTION:Dir: HIROKAZU KORE-EDA (2026)\nhttps://www.ifccenter.com/films
- /sheep-in-the-box/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/sheep-in-the-box/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheep in the Box @ IFC CENTER
-DTSTART:20260801T204500
-DTEND:20260801T224500
-DESCRIPTION:Dir: HIROKAZU KORE-EDA (2026)\nhttps://www.ifccenter.com/films
- /sheep-in-the-box/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/sheep-in-the-box/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jimmy @ IFC CENTER
-DTSTART:20260801T145000
-DTEND:20260801T165000
-DESCRIPTION:Dir: YASHADDAI OWENS (67M)\nhttps://www.ifccenter.com/films/ji
- mmy/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/jimmy/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jimmy @ IFC CENTER
-DTSTART:20260801T184500
-DTEND:20260801T204500
-DESCRIPTION:Dir: YASHADDAI OWENS (67M)\nhttps://www.ifccenter.com/films/ji
- mmy/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/jimmy/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mary Oliver: Saved by the Beauty of the World @ IFC CENTER
-DTSTART:20260801T163500
-DTEND:20260801T183500
-DESCRIPTION:Dir: SASHA WATERS (2026)\nhttps://www.ifccenter.com/films/mary
- -oliver-saved-by-the-beauty-of-the-world/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mary-oliver-saved-by-the-beauty-of-the
- -world/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heat @ IFC CENTER
-DTSTART:20260801T230500
-DTEND:20260802T010500
-DESCRIPTION:Dir: MICHAEL MANN (1995)\nhttps://www.ifccenter.com/series/wav
- erly-midnights-mann-splaining/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/series/waverly-midnights-mann-splaining/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thief @ IFC CENTER
-DTSTART:20260801T232000
-DTEND:20260802T012000
-DESCRIPTION:Dir: MICHAEL MANN (1981)\nhttps://www.ifccenter.com/series/wav
- erly-midnights-mann-splaining/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/series/waverly-midnights-mann-splaining/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blades of Glory @ IFC CENTER
-DTSTART:20260801T235500
-DTEND:20260802T015500
-DESCRIPTION:Dir: WILL SPECK\, JOSH GORDON (2007)\nhttps://www.ifccenter.co
- m/series/staff-picks-2026/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/series/staff-picks-2026/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gummo @ IFC CENTER
-DTSTART:20260801T235900
-DTEND:20260802T015900
-DESCRIPTION:Dir: HARMONY KORINE (1997)\nhttps://www.ifccenter.com/series/w
- averly-midnights-think-of-the-children/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/series/waverly-midnights-think-of-the-childr
- en/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SLC Punk @ IFC CENTER
-DTSTART:20260801T235900
-DTEND:20260802T015900
-DESCRIPTION:Dir: JAMES MERENDINO (1998)\nhttps://www.ifccenter.com/series/
- staff-picks-2026/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/series/staff-picks-2026/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Charisma @ JAPAN SOCIETY
-DTSTART:20260801T130000
-DTEND:20260801T150000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (1999)\nhttps://japansociety.org/events/
- charisma/
-LOCATION:JAPAN SOCIETY
-URL:https://japansociety.org/events/charisma/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Lost Man @ LOW CINEMA
-DTSTART:20260801T200000
-DTEND:20260801T220000
-DESCRIPTION:Dir: DANIELLE ARBID (2007)\nhttps://arabwomen2025.eventive.org
- /welcome
-LOCATION:LOW CINEMA
-URL:https://arabwomen2025.eventive.org/welcome
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'Argent @ METROGRAPH
-DTSTART:20260801T113000
-DTEND:20260801T133000
-DESCRIPTION:Dir: ROBERT BRESSON (1983)\nhttps://metrograph.com/series/?vis
- ta_series_id=0000000570
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000570
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'Argent @ METROGRAPH
-DTSTART:20260801T120000
-DTEND:20260801T140000
-DESCRIPTION:Dir: ROBERT BRESSON (1983)\nhttps://metrograph.com/series/?vis
- ta_series_id=0000000570
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000570
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'Argent @ METROGRAPH
-DTSTART:20260801T132000
-DTEND:20260801T152000
-DESCRIPTION:Dir: ROBERT BRESSON (1983)\nhttps://metrograph.com/series/?vis
- ta_series_id=0000000570
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000570
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'Argent @ METROGRAPH
-DTSTART:20260801T154000
-DTEND:20260801T174000
-DESCRIPTION:Dir: ROBERT BRESSON (1983)\nhttps://metrograph.com/series/?vis
- ta_series_id=0000000570
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000570
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'Argent @ METROGRAPH
-DTSTART:20260801T160000
-DTEND:20260801T180000
-DESCRIPTION:Dir: ROBERT BRESSON (1983)\nhttps://metrograph.com/series/?vis
- ta_series_id=0000000570
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000570
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'Argent @ METROGRAPH
-DTSTART:20260801T182000
-DTEND:20260801T202000
-DESCRIPTION:Dir: ROBERT BRESSON (1983)\nhttps://metrograph.com/series/?vis
- ta_series_id=0000000570
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000570
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'Argent @ METROGRAPH
-DTSTART:20260801T184000
-DTEND:20260801T204000
-DESCRIPTION:Dir: ROBERT BRESSON (1983)\nhttps://metrograph.com/series/?vis
- ta_series_id=0000000570
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000570
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'Argent @ METROGRAPH
-DTSTART:20260801T204500
-DTEND:20260801T224500
-DESCRIPTION:Dir: ROBERT BRESSON (1983)\nhttps://metrograph.com/series/?vis
- ta_series_id=0000000570
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000570
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'Argent @ METROGRAPH
-DTSTART:20260801T210000
-DTEND:20260801T230000
-DESCRIPTION:Dir: ROBERT BRESSON (1983)\nhttps://metrograph.com/series/?vis
- ta_series_id=0000000570
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000570
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'Argent @ METROGRAPH
-DTSTART:20260801T230000
-DTEND:20260802T010000
-DESCRIPTION:Dir: ROBERT BRESSON (1983)\nhttps://metrograph.com/series/?vis
- ta_series_id=0000000570
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000570
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JFK @ METROGRAPH
-DTSTART:20260801T120000
-DTEND:20260801T140000
-DESCRIPTION:Dir: 1991 (189M)\nhttps://metrograph.com/series/?vista_series_
- id=0000000559
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000559
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rambling Rose @ METROGRAPH
-DTSTART:20260801T132000
-DTEND:20260801T152000
-DESCRIPTION:Dir: MARTHA COOLIDGE (1991)\nhttps://metrograph.com/series/?vi
- sta_series_id=0000000557
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000557
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mountains of the Moon @ METROGRAPH
-DTSTART:20260801T154000
-DTEND:20260801T174000
-DESCRIPTION:Dir: BOB RAFELSON (1990)\nhttps://metrograph.com/series/?vista
- _series_id=0000000557
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000557
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rebecca @ METROGRAPH
-DTSTART:20260801T160000
-DTEND:20260801T180000
-DESCRIPTION:Dir: ALFRED HITCHCOCK (1940)\nhttps://metrograph.com/series/?v
- ista_series_id=0000000566
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000566
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stavisky @ METROGRAPH
-DTSTART:20260801T182000
-DTEND:20260801T202000
-DESCRIPTION:Dir: ALAIN RESNAIS (1974)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000564
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000564
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Millionaires' Express @ METROGRAPH
-DTSTART:20260801T184000
-DTEND:20260801T204000
-DESCRIPTION:Dir: SAMMO KAM-BO HUNG (1986)\nhttps://metrograph.com/series/?
- vista_series_id=0000000556
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000556
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Made in Hong Kong @ METROGRAPH
-DTSTART:20260801T204500
-DTEND:20260801T224500
-DESCRIPTION:Dir: FRUIT CHAN (1997)\nhttps://metrograph.com/film/?vista_fil
- m_id=9999002313
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/?vista_film_id=9999002313
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:First Blood @ METROGRAPH
-DTSTART:20260801T210000
-DTEND:20260801T230000
-DESCRIPTION:Dir: TED KOTCHEFF (1982)\nhttps://metrograph.com/series/?vista
- _series_id=0000000557
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000557
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Possession @ METROGRAPH
-DTSTART:20260801T230000
-DTEND:20260802T010000
-DESCRIPTION:Dir: ANDRZEJ ŻUŁAWSKI (1981)\nhttps://metrograph.com/film/?v
- ista_film_id=9999001205
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/?vista_film_id=9999001205
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dumplings @ METROGRAPH
-DTSTART:20260801T230000
-DTEND:20260802T010000
-DESCRIPTION:Dir: FRUIT CHAN (2004)\nhttps://metrograph.com/series/?vista_s
- eries_id=0000000558
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000558
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Illegal Immigrant @ MUSEUM OF MODERN ART
-DTSTART:20260801T153000
-DTEND:20260801T173000
-DESCRIPTION:Dir: WANTING ZHANG\, MABEL CHEUNG (1985)\nhttps://www.moma.org
- /calendar/film/5911
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5911
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Illegal Immigrant @ MUSEUM OF MODERN ART
-DTSTART:20260801T180000
-DTEND:20260801T200000
-DESCRIPTION:Dir: WANTING ZHANG\, MABEL CHEUNG (1985)\nhttps://www.moma.org
- /calendar/film/5911
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5911
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Illegal Immigrant @ MUSEUM OF MODERN ART
-DTSTART:20260801T190000
-DTEND:20260801T210000
-DESCRIPTION:Dir: WANTING ZHANG\, MABEL CHEUNG (1985)\nhttps://www.moma.org
- /calendar/film/5911
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5911
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Norte @ MUSEUM OF MODERN ART
-DTSTART:20260801T180000
-DTEND:20260801T200000
-DESCRIPTION:Dir: GREGORY NAVA (1983)\nhttps://www.moma.org/calendar/film/5
- 911
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5911
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Student Prince in Old Heidelberg @ MUSEUM OF MODERN ART
-DTSTART:20260801T190000
-DTEND:20260801T210000
-DESCRIPTION:Dir: ERNST LUBITSCH (1927)\nhttps://www.moma.org/calendar/film
- /5914
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5914
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ready Player One @ MUSEUM OF THE MOVING IMAGE
-DTSTART:20260801T120000
-DTEND:20260801T140000
-DESCRIPTION:Dir: STEVEN SPIELBERG (2018)\nhttps://movingimage.org/series/a
- tmos-summer/
-LOCATION:MUSEUM OF THE MOVING IMAGE
-URL:https://movingimage.org/series/atmos-summer/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ready Player One @ MUSEUM OF THE MOVING IMAGE
-DTSTART:20260801T150000
-DTEND:20260801T170000
-DESCRIPTION:Dir: STEVEN SPIELBERG (2018)\nhttps://movingimage.org/series/a
- tmos-summer/
-LOCATION:MUSEUM OF THE MOVING IMAGE
-URL:https://movingimage.org/series/atmos-summer/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ready Player One @ MUSEUM OF THE MOVING IMAGE
-DTSTART:20260801T183000
-DTEND:20260801T203000
-DESCRIPTION:Dir: STEVEN SPIELBERG (2018)\nhttps://movingimage.org/series/a
- tmos-summer/
-LOCATION:MUSEUM OF THE MOVING IMAGE
-URL:https://movingimage.org/series/atmos-summer/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2001: A Space Odyssey @ MUSEUM OF THE MOVING IMAGE
-DTSTART:20260801T150000
-DTEND:20260801T170000
-DESCRIPTION:Dir: STANLEY KUBRICK (1968)\nhttps://movingimage.org/series/se
- e-it-big-70mm-2026/
-LOCATION:MUSEUM OF THE MOVING IMAGE
-URL:https://movingimage.org/series/see-it-big-70mm-2026/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Talladega Nights: The Ballad of Ricky Bobby @ NITEHAWK CINEMA PROS
- PECT PARK
-DTSTART:20260801T113000
-DTEND:20260801T133000
-DESCRIPTION:Dir: ADAM MCKAY (2006)\nhttps://nitehawkcinema.com/williamsbur
- g/film-series/anniversary-party/
-LOCATION:NITEHAWK CINEMA PROSPECT PARK
-URL:https://nitehawkcinema.com/williamsburg/film-series/anniversary-party/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Talladega Nights: The Ballad of Ricky Bobby @ NITEHAWK CINEMA PROS
- PECT PARK
-DTSTART:20260801T124500
-DTEND:20260801T144500
-DESCRIPTION:Dir: ADAM MCKAY (2006)\nhttps://nitehawkcinema.com/williamsbur
- g/film-series/anniversary-party/
-LOCATION:NITEHAWK CINEMA PROSPECT PARK
-URL:https://nitehawkcinema.com/williamsburg/film-series/anniversary-party/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Space Jam @ NITEHAWK CINEMA PROSPECT PARK
-DTSTART:20260801T124500
-DTEND:20260801T144500
-DESCRIPTION:Dir: JOE PYTKA (1996)\nhttps://nitehawkcinema.com/williamsburg
- /film-series/the-class-of-96/
-LOCATION:NITEHAWK CINEMA PROSPECT PARK
-URL:https://nitehawkcinema.com/williamsburg/film-series/the-class-of-96/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Welcome to the Dollhouse @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260801T110000
-DTEND:20260801T130000
-DESCRIPTION:Dir: TODD SOLONDZ (1995)\nhttps://nitehawkcinema.com/williamsb
- urg/film-series/the-class-of-96/
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://nitehawkcinema.com/williamsburg/film-series/the-class-of-96/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Welcome to the Dollhouse @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260801T111500
-DTEND:20260801T131500
-DESCRIPTION:Dir: TODD SOLONDZ (1995)\nhttps://nitehawkcinema.com/williamsb
- urg/film-series/the-class-of-96/
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://nitehawkcinema.com/williamsburg/film-series/the-class-of-96/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Heron @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260801T111500
-DTEND:20260801T131500
-DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://nitehawkcinema.com/williams
- burg/film-series/icymi/
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://nitehawkcinema.com/williamsburg/film-series/icymi/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Common Threads: Stories from the Quilt @ PARIS THEATER
-DTSTART:20260801T123000
-DTEND:20260801T143000
-DESCRIPTION:Dir: ROBERT EPSTEIN\, JEFFREY FRIEDMAN (1989)\nhttps://www.par
- istheaternyc.com/series/academy-museum-it-came-from-the-archive
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/academy-museum-it-came-from-the
- -archive
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Common Threads: Stories from the Quilt @ PARIS THEATER
-DTSTART:20260801T144500
-DTEND:20260801T164500
-DESCRIPTION:Dir: ROBERT EPSTEIN\, JEFFREY FRIEDMAN (1989)\nhttps://www.par
- istheaternyc.com/series/academy-museum-it-came-from-the-archive
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/academy-museum-it-came-from-the
- -archive
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Common Threads: Stories from the Quilt @ PARIS THEATER
-DTSTART:20260801T173000
-DTEND:20260801T193000
-DESCRIPTION:Dir: ROBERT EPSTEIN\, JEFFREY FRIEDMAN (1989)\nhttps://www.par
- istheaternyc.com/series/academy-museum-it-came-from-the-archive
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/academy-museum-it-came-from-the
- -archive
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Common Threads: Stories from the Quilt @ PARIS THEATER
-DTSTART:20260801T203000
-DTEND:20260801T223000
-DESCRIPTION:Dir: ROBERT EPSTEIN\, JEFFREY FRIEDMAN (1989)\nhttps://www.par
- istheaternyc.com/series/academy-museum-it-came-from-the-archive
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/academy-museum-it-came-from-the
- -archive
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saint Joan @ PARIS THEATER
-DTSTART:20260801T144500
-DTEND:20260801T164500
-DESCRIPTION:Dir: OTTO PREMINGER (1957)\nhttps://www.paristheaternyc.com/se
- ries/academy-museum-it-came-from-the-archive
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/academy-museum-it-came-from-the
- -archive
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Misfits @ PARIS THEATER
-DTSTART:20260801T173000
-DTEND:20260801T193000
-DESCRIPTION:Dir: JOHN HUSTON (1961)\nhttps://www.paristheaternyc.com/serie
- s/academy-museum-it-came-from-the-archive
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/academy-museum-it-came-from-the
- -archive
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unbearable Lightness of Being @ PARIS THEATER
-DTSTART:20260801T203000
-DTEND:20260801T223000
-DESCRIPTION:Dir: PHILIP KAUFMAN (1988)\nhttps://www.paristheaternyc.com/se
- ries/academy-museum-it-came-from-the-archive
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/academy-museum-it-came-from-the
- -archive
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Computer Chess @ ROOFTOP FILMS
-DTSTART:20260801T200000
-DTEND:20260801T220000
-DESCRIPTION:Dir: ANDREW BUJALSKI (2013)\nhttps://rooftopfilms.com/calendar
- /
-LOCATION:ROOFTOP FILMS
-URL:https://rooftopfilms.com/calendar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bigger Than Life @ ROXY CINEMA NEW YORK
-DTSTART:20260801T150000
-DTEND:20260801T170000
-DESCRIPTION:Dir: NICHOLAS RAY (1956)\nhttps://www.roxycinemanewyork.com/st
- ories/nicholas-ray-retrospective/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/stories/nicholas-ray-retrospective/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bigger Than Life @ ROXY CINEMA NEW YORK
-DTSTART:20260801T170000
-DTEND:20260801T190000
-DESCRIPTION:Dir: NICHOLAS RAY (1956)\nhttps://www.roxycinemanewyork.com/st
- ories/nicholas-ray-retrospective/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/stories/nicholas-ray-retrospective/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bigger Than Life @ ROXY CINEMA NEW YORK
-DTSTART:20260801T191500
-DTEND:20260801T211500
-DESCRIPTION:Dir: NICHOLAS RAY (1956)\nhttps://www.roxycinemanewyork.com/st
- ories/nicholas-ray-retrospective/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/stories/nicholas-ray-retrospective/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bigger Than Life @ ROXY CINEMA NEW YORK
-DTSTART:20260801T210000
-DTEND:20260801T230000
-DESCRIPTION:Dir: NICHOLAS RAY (1956)\nhttps://www.roxycinemanewyork.com/st
- ories/nicholas-ray-retrospective/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/stories/nicholas-ray-retrospective/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rebel Without a Cause @ ROXY CINEMA NEW YORK
-DTSTART:20260801T170000
-DTEND:20260801T190000
-DESCRIPTION:Dir: NICOLAS RAY (1955)\nhttps://www.roxycinemanewyork.com/sto
- ries/nicholas-ray-retrospective/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/stories/nicholas-ray-retrospective/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Ember Knight Show @ ROXY CINEMA NEW YORK
-DTSTART:20260801T191500
-DTEND:20260801T211500
-DESCRIPTION:Dir: EMBER KNIGHT (2020)\nhttps://ticketing.uswest.veezi.com/p
- urchase/7591?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7591?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crocodile Dose @ ROXY CINEMA NEW YORK
-DTSTART:20260801T210000
-DTEND:20260801T230000
-DESCRIPTION:Dir: JASON WATERS (2026)\nhttps://ticketing.uswest.veezi.com/p
- urchase/7613?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7613?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nostos: The Return @ SPECTACLE
-DTSTART:20260801T193000
-DTEND:20260801T213000
-DESCRIPTION:Dir: FRANCO PIAVOLI (1989)\nhttps://www.spectacletheater.com/n
- ostos-the-return/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/nostos-the-return/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nostos: The Return @ SPECTACLE
-DTSTART:20260801T220000
-DTEND:20260802T000000
-DESCRIPTION:Dir: FRANCO PIAVOLI (1989)\nhttps://www.spectacletheater.com/n
- ostos-the-return/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/nostos-the-return/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nostos: The Return @ SPECTACLE
-DTSTART:20260801T235500
-DTEND:20260802T015500
-DESCRIPTION:Dir: FRANCO PIAVOLI (1989)\nhttps://www.spectacletheater.com/n
- ostos-the-return/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/nostos-the-return/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Highway Hypnosis @ SPECTACLE
-DTSTART:20260801T220000
-DTEND:20260802T000000
-DESCRIPTION:Dir: KEN CAMP (1984)\nhttps://www.spectacletheater.com/the-dev
- il-rides-shotgun/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/the-devil-rides-shotgun/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Game of Pleasure @ SPECTACLE
-DTSTART:20260801T235500
-DTEND:20260802T015500
-DESCRIPTION:Dir: DALE E. FRANTZ (1998)\nhttps://www.spectacletheater.com/g
- ame-of-pleasure/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/game-of-pleasure/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:애국소녀 K-Family Affairs by 남아름 Arum Nam @ UNIONDOCS
-DTSTART:20260801T193000
-DTEND:20260801T213000
-DESCRIPTION:Dir: ARUM NAM (2023)\nhttps://uniondocs.org/event/%ec%95%a0%ea
- %b5%ad%ec%86%8c%eb%85%80-k-family-affairs-2026-08-01/
-LOCATION:UNIONDOCS
-URL:https://uniondocs.org/event/%ec%95%a0%ea%b5%ad%ec%86%8c%eb%85%80-k-fam
- ily-affairs-2026-08-01/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Los Olvidados @ ANTHOLOGY FILM ARCHIVES
 DTSTART:20260802T153000
 DTEND:20260802T173000
@@ -4315,6 +2692,36 @@ URL:https://www.paristheaternyc.com/series/academy-museum-it-came-from-the
  -archive
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:No Picnic @ ROXY CINEMA NEW YORK
+DTSTART:20260803T190000
+DTEND:20260803T210000
+DESCRIPTION:Dir: PHILIP HARTMAN (1987)\nhttps://www.roxycinemanewyork.com/
+ screenings/no-picnic-new-4k-restoration/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/screenings/no-picnic-new-4k-restorat
+ ion/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Picnic @ ROXY CINEMA NEW YORK
+DTSTART:20260803T211500
+DTEND:20260803T231500
+DESCRIPTION:Dir: PHILIP HARTMAN (1987)\nhttps://www.roxycinemanewyork.com/
+ screenings/no-picnic-new-4k-restoration/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/screenings/no-picnic-new-4k-restorat
+ ion/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Piano @ ROXY CINEMA NEW YORK
+DTSTART:20260803T211500
+DTEND:20260803T231500
+DESCRIPTION:Dir: JANE CAMPION (1993)\nhttps://www.roxycinemanewyork.com/sc
+ reenings/the-piano-new-4k-restoration/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/screenings/the-piano-new-4k-restorat
+ ion/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:K2 & the Invisible Footmen @ SPECTACLE
 DTSTART:20260803T193000
 DTEND:20260803T213000
@@ -5424,6 +3831,15 @@ LOCATION:ROOFTOP FILMS
 URL:https://rooftopfilms.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:American Movie @ ROXY CINEMA NEW YORK
+DTSTART:20260804T190000
+DTEND:20260804T210000
+DESCRIPTION:Dir: CHRIS SMITH (1999)\nhttps://www.roxycinemanewyork.com/scr
+ eenings/american-movie-35mm-2/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/screenings/american-movie-35mm-2/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Roller Junkies @ SPECTACLE
 DTSTART:20260804T193000
 DTEND:20260804T213000
@@ -6370,6 +4786,25 @@ DESCRIPTION:Dir: CONNOR SEN WARNICK (2025)\nhttps://ticketing.uswest.veezi
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7655?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Characters Disappearing @ ROXY CINEMA NEW YORK
+DTSTART:20260805T213000
+DTEND:20260805T233000
+DESCRIPTION:Dir: CONNOR SEN WARNICK (2025)\nhttps://ticketing.uswest.veezi
+ .com/purchase/7655?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7655?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After Dark\, My Sweet @ ROXY CINEMA NEW YORK
+DTSTART:20260805T213000
+DTEND:20260805T233000
+DESCRIPTION:Dir: JAMES FOLEY (1990)\nhttps://vinegarsyndrome.com/collectio
+ ns/cinematographe
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://vinegarsyndrome.com/collections/cinematographe
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surfer: Teen Confronts Fear @ SPECTACLE
@@ -7492,6 +5927,33 @@ LOCATION:QUAD CINEMA
 URL:https://quadcinema.com/program/john-huston-hollywood-maverick/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:After Dark\, My Sweet @ ROXY CINEMA NEW YORK
+DTSTART:20260806T190000
+DTEND:20260806T210000
+DESCRIPTION:Dir: JAMES FOLEY (1990)\nhttps://vinegarsyndrome.com/collectio
+ ns/cinematographe
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://vinegarsyndrome.com/collections/cinematographe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After Dark\, My Sweet @ ROXY CINEMA NEW YORK
+DTSTART:20260806T214500
+DTEND:20260806T234500
+DESCRIPTION:Dir: JAMES FOLEY (1990)\nhttps://vinegarsyndrome.com/collectio
+ ns/cinematographe
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://vinegarsyndrome.com/collections/cinematographe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barrio Triste @ ROXY CINEMA NEW YORK
+DTSTART:20260806T214500
+DTEND:20260806T234500
+DESCRIPTION:Dir: STILLZ (2026)\nhttps://www.roxycinemanewyork.com/screenin
+ gs/barrio-triste/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/screenings/barrio-triste/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Highway Hypnosis @ SPECTACLE
 DTSTART:20260806T193000
 DTEND:20260806T213000
@@ -7764,19 +6226,36 @@ LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://nitehawkcinema.com/williamsburg/film-series/the-class-of-96/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Fountain @ ROXY CINEMA NEW YORK
+SUMMARY:American Movie @ ROXY CINEMA NEW YORK
+DTSTART:20260807T170000
+DTEND:20260807T190000
+DESCRIPTION:Dir: CHRIS SMITH (1999)\nhttps://www.roxycinemanewyork.com/scr
+ eenings/american-movie-35mm-2/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/screenings/american-movie-35mm-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Movie @ ROXY CINEMA NEW YORK
 DTSTART:20260807T190000
 DTEND:20260807T210000
-DESCRIPTION:Dir: DARREN ARONOFSKY (2006)\nhttps://www.roxycinemanewyork.co
- m/stories/2006-movies-you-must-see-before-you-die/
+DESCRIPTION:Dir: CHRIS SMITH (1999)\nhttps://www.roxycinemanewyork.com/scr
+ eenings/american-movie-35mm-2/
 LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/stories/2006-movies-you-must-see-bef
- ore-you-die/
+URL:https://www.roxycinemanewyork.com/screenings/american-movie-35mm-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Movie @ ROXY CINEMA NEW YORK
+DTSTART:20260807T213000
+DTEND:20260807T233000
+DESCRIPTION:Dir: CHRIS SMITH (1999)\nhttps://www.roxycinemanewyork.com/scr
+ eenings/american-movie-35mm-2/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/screenings/american-movie-35mm-2/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Fountain @ ROXY CINEMA NEW YORK
-DTSTART:20260807T213000
-DTEND:20260807T233000
+DTSTART:20260807T190000
+DTEND:20260807T210000
 DESCRIPTION:Dir: DARREN ARONOFSKY (2006)\nhttps://www.roxycinemanewyork.co
  m/stories/2006-movies-you-must-see-before-you-die/
 LOCATION:ROXY CINEMA NEW YORK
@@ -8241,18 +6720,39 @@ LOCATION:ROOFTOP FILMS
 URL:https://rooftopfilms.com/calendar/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rebel Without a Cause @ ROXY CINEMA NEW YORK
+SUMMARY:The Piano @ ROXY CINEMA NEW YORK
+DTSTART:20260808T140000
+DTEND:20260808T160000
+DESCRIPTION:Dir: JANE CAMPION (1993)\nhttps://www.roxycinemanewyork.com/sc
+ reenings/the-piano-new-4k-restoration/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/screenings/the-piano-new-4k-restorat
+ ion/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Piano @ ROXY CINEMA NEW YORK
 DTSTART:20260808T163000
 DTEND:20260808T183000
-DESCRIPTION:Dir: NICOLAS RAY (1955)\nhttps://www.roxycinemanewyork.com/sto
- ries/nicholas-ray-retrospective/
+DESCRIPTION:Dir: JANE CAMPION (1993)\nhttps://www.roxycinemanewyork.com/sc
+ reenings/the-piano-new-4k-restoration/
 LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/stories/nicholas-ray-retrospective/
+URL:https://www.roxycinemanewyork.com/screenings/the-piano-new-4k-restorat
+ ion/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Piano @ ROXY CINEMA NEW YORK
+DTSTART:20260808T211500
+DTEND:20260808T231500
+DESCRIPTION:Dir: JANE CAMPION (1993)\nhttps://www.roxycinemanewyork.com/sc
+ reenings/the-piano-new-4k-restoration/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/screenings/the-piano-new-4k-restorat
+ ion/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rebel Without a Cause @ ROXY CINEMA NEW YORK
-DTSTART:20260808T211500
-DTEND:20260808T231500
+DTSTART:20260808T163000
+DTEND:20260808T183000
 DESCRIPTION:Dir: NICOLAS RAY (1955)\nhttps://www.roxycinemanewyork.com/sto
  ries/nicholas-ray-retrospective/
 LOCATION:ROXY CINEMA NEW YORK
@@ -8579,6 +7079,26 @@ DESCRIPTION:Dir: JAN DE BONT (1996)\nhttps://nitehawkcinema.com/williamsbu
  rg/film-series/the-class-of-96/
 LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://nitehawkcinema.com/williamsburg/film-series/the-class-of-96/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Piano @ ROXY CINEMA NEW YORK
+DTSTART:20260809T150000
+DTEND:20260809T170000
+DESCRIPTION:Dir: JANE CAMPION (1993)\nhttps://www.roxycinemanewyork.com/sc
+ reenings/the-piano-new-4k-restoration/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/screenings/the-piano-new-4k-restorat
+ ion/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Piano @ ROXY CINEMA NEW YORK
+DTSTART:20260809T194500
+DTEND:20260809T214500
+DESCRIPTION:Dir: JANE CAMPION (1993)\nhttps://www.roxycinemanewyork.com/sc
+ reenings/the-piano-new-4k-restoration/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/screenings/the-piano-new-4k-restorat
+ ion/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Black Book @ ROXY CINEMA NEW YORK
@@ -9051,6 +7571,33 @@ DESCRIPTION:Dir: JOHN HUSTON (1961)\nhttps://quadcinema.com/program/john-h
  uston-hollywood-maverick/
 LOCATION:QUAD CINEMA
 URL:https://quadcinema.com/program/john-huston-hollywood-maverick/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 9 @ ROXY CINEMA NEW YORK
+DTSTART:20260811T190000
+DTEND:20260811T210000
+DESCRIPTION:Dir: BRAD ANDERSON (2001)\nhttps://www.roxycinemanewyork.com/s
+ creenings/session-9-qa/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/screenings/session-9-qa/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 9 @ ROXY CINEMA NEW YORK
+DTSTART:20260811T213000
+DTEND:20260811T233000
+DESCRIPTION:Dir: BRAD ANDERSON (2001)\nhttps://www.roxycinemanewyork.com/s
+ creenings/session-9-qa/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/screenings/session-9-qa/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barrio Triste @ ROXY CINEMA NEW YORK
+DTSTART:20260811T213000
+DTEND:20260811T233000
+DESCRIPTION:Dir: STILLZ (2026)\nhttps://www.roxycinemanewyork.com/screenin
+ gs/barrio-triste/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/screenings/barrio-triste/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club Lingerie @ SPECTACLE
@@ -9566,6 +8113,26 @@ DESCRIPTION:Dir: JOHN HUSTON (1961)\nhttps://quadcinema.com/program/john-h
  uston-hollywood-maverick/
 LOCATION:QUAD CINEMA
 URL:https://quadcinema.com/program/john-huston-hollywood-maverick/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barrio Triste @ ROXY CINEMA NEW YORK
+DTSTART:20260813T191500
+DTEND:20260813T211500
+DESCRIPTION:Dir: VOGUE GIAMBRI (2022)\nhttps://ticketing.uswest.veezi.com/
+ purchase/7675?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7675?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barrio Triste @ ROXY CINEMA NEW YORK
+DTSTART:20260813T213000
+DTEND:20260813T233000
+DESCRIPTION:Dir: VOGUE GIAMBRI (2022)\nhttps://ticketing.uswest.veezi.com/
+ purchase/7675?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7675?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Sami Song of Survival @ SPECTACLE
@@ -10327,6 +8894,33 @@ LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://nitehawkcinema.com/williamsburg/film-series/the-class-of-96/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Barrio Triste @ ROXY CINEMA NEW YORK
+DTSTART:20260815T143000
+DTEND:20260815T163000
+DESCRIPTION:Dir: STILLZ (2026)\nhttps://www.roxycinemanewyork.com/screenin
+ gs/barrio-triste/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/screenings/barrio-triste/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barrio Triste @ ROXY CINEMA NEW YORK
+DTSTART:20260815T163000
+DTEND:20260815T183000
+DESCRIPTION:Dir: STILLZ (2026)\nhttps://www.roxycinemanewyork.com/screenin
+ gs/barrio-triste/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/screenings/barrio-triste/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barrio Triste @ ROXY CINEMA NEW YORK
+DTSTART:20260815T214500
+DTEND:20260815T234500
+DESCRIPTION:Dir: STILLZ (2026)\nhttps://www.roxycinemanewyork.com/screenin
+ gs/barrio-triste/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/screenings/barrio-triste/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Black Book @ ROXY CINEMA NEW YORK
 DTSTART:20260815T163000
 DTEND:20260815T183000
@@ -10335,6 +8929,15 @@ DESCRIPTION:Dir: PAUL VERHOEVEN (2006)\nhttps://www.roxycinemanewyork.com/
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://www.roxycinemanewyork.com/stories/2006-movies-you-must-see-bef
  ore-you-die/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Magic Lanterns 2 @ ROXY CINEMA NEW YORK
+DTSTART:20260815T214500
+DTEND:20260815T234500
+DESCRIPTION:Dir: ELSIE FISHER (2026)\nhttps://www.roxycinemanewyork.com/sc
+ reenings/magic-lanterns-2/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/screenings/magic-lanterns-2/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Corruption of the Damned @ SPECTACLE
@@ -12009,6 +10612,15 @@ LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://nitehawkcinema.com/williamsburg/movies/sleepaway-camp/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lockjaw @ ROXY CINEMA NEW YORK
+DTSTART:20260821T190000
+DTEND:20260821T210000
+DESCRIPTION:Dir: SABRINA GRECO (2025)\nhttps://www.roxycinemanewyork.com/s
+ creenings/lockjaw-qa/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/screenings/lockjaw-qa/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Scenic Route @ SPECTACLE
 DTSTART:20260821T170000
 DTEND:20260821T190000
@@ -12242,6 +10854,25 @@ DESCRIPTION:Dir: VARIOUS (90M)\nhttps://www.roxycinemanewyork.com/screenin
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://www.roxycinemanewyork.com/screenings/peculiar-puppets-vol-xiii
  -in-glorious-16mm/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peculiar Puppets vol. XIII @ ROXY CINEMA NEW YORK
+DTSTART:20260822T213000
+DTEND:20260822T233000
+DESCRIPTION:Dir: VARIOUS (90M)\nhttps://www.roxycinemanewyork.com/screenin
+ gs/peculiar-puppets-vol-xiii-in-glorious-16mm/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/screenings/peculiar-puppets-vol-xiii
+ -in-glorious-16mm/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lockjaw @ ROXY CINEMA NEW YORK
+DTSTART:20260822T213000
+DTEND:20260822T233000
+DESCRIPTION:Dir: SABRINA GRECO (2025)\nhttps://www.roxycinemanewyork.com/s
+ creenings/lockjaw-qa/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/screenings/lockjaw-qa/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stalking Chernobyl @ SPECTACLE
@@ -12650,6 +11281,16 @@ URL:https://www.eventbrite.com/e/an-evening-with-marlene-dietrich-one-woma
  n-shows-ornithology-tickets-1993934711397
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Wind that Shakes the Barley @ ROXY CINEMA NEW YORK
+DTSTART:20260824T190000
+DTEND:20260824T210000
+DESCRIPTION:Dir: KEN LOACH (2006)\nhttps://www.roxycinemanewyork.com/stori
+ es/2006-movies-you-must-see-before-you-die/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/stories/2006-movies-you-must-see-bef
+ ore-you-die/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Satan's Menagerie @ SPECTACLE
 DTSTART:20260824T193000
 DTEND:20260824T213000
@@ -12755,6 +11396,16 @@ DESCRIPTION:Dir: ROMAN POLANSKI (1974)\nhttps://quadcinema.com/program/joh
  n-huston-hollywood-maverick/
 LOCATION:QUAD CINEMA
 URL:https://quadcinema.com/program/john-huston-hollywood-maverick/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Black Dahlia @ ROXY CINEMA NEW YORK
+DTSTART:20260825T213000
+DTEND:20260825T233000
+DESCRIPTION:Dir: BRIAN DE PALMA (2006)\nhttps://www.roxycinemanewyork.com/
+ stories/2006-movies-you-must-see-before-you-die/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/stories/2006-movies-you-must-see-bef
+ ore-you-die/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Garchaster's Cornblade @ SPECTACLE
@@ -12882,6 +11533,15 @@ DESCRIPTION:Dir: ROMAN POLANSKI (1974)\nhttps://quadcinema.com/program/joh
  n-huston-hollywood-maverick/
 LOCATION:QUAD CINEMA
 URL:https://quadcinema.com/program/john-huston-hollywood-maverick/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In the Family @ ROXY CINEMA NEW YORK
+DTSTART:20260826T180000
+DTEND:20260826T200000
+DESCRIPTION:Dir: PATRICK WANG (2011)\nhttps://www.roxycinemanewyork.com/sc
+ reenings/in-the-family-35mm-qa/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/screenings/in-the-family-35mm-qa/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Live a Little @ SCANDINAVIA HOUSE
@@ -13212,6 +11872,16 @@ LOCATION:MUSEUM OF THE MOVING IMAGE
 URL:https://movingimage.org/series/see-it-big-70mm-2026/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Black Dahlia @ ROXY CINEMA NEW YORK
+DTSTART:20260828T191500
+DTEND:20260828T211500
+DESCRIPTION:Dir: BRIAN DE PALMA (2006)\nhttps://www.roxycinemanewyork.com/
+ stories/2006-movies-you-must-see-before-you-die/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/stories/2006-movies-you-must-see-bef
+ ore-you-die/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Split @ SPECTACLE
 DTSTART:20260828T170000
 DTEND:20260828T190000
@@ -13499,6 +12169,36 @@ DESCRIPTION:Dir: SHATARA MICHELLE FORD (2025)\nhttps://nitehawkcinema.com/
 LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://nitehawkcinema.com/williamsburg/film-series/future-of-film-is-
  female/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wind that Shakes the Barley @ ROXY CINEMA NEW YORK
+DTSTART:20260829T143000
+DTEND:20260829T163000
+DESCRIPTION:Dir: KEN LOACH (2006)\nhttps://www.roxycinemanewyork.com/stori
+ es/2006-movies-you-must-see-before-you-die/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/stories/2006-movies-you-must-see-bef
+ ore-you-die/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wind that Shakes the Barley @ ROXY CINEMA NEW YORK
+DTSTART:20260829T214500
+DTEND:20260829T234500
+DESCRIPTION:Dir: KEN LOACH (2006)\nhttps://www.roxycinemanewyork.com/stori
+ es/2006-movies-you-must-see-before-you-die/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/stories/2006-movies-you-must-see-bef
+ ore-you-die/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:? @ ROXY CINEMA NEW YORK
+DTSTART:20260829T214500
+DTEND:20260829T234500
+DESCRIPTION:Dir: ? (?)\nhttps://www.roxycinemanewyork.com/stories/city-dud
+ es-new-series-coming-soon-to-the-roxy-cinema-tribeca/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/stories/city-dudes-new-series-coming
+ -soon-to-the-roxy-cinema-tribeca/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parsifal @ SPECTACLE
@@ -14386,6 +13086,16 @@ LOCATION:MUSEUM OF MODERN ART
 URL:https://www.moma.org/calendar/film/5911
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Departed @ ROXY CINEMA NEW YORK
+DTSTART:20260909T190000
+DTEND:20260909T210000
+DESCRIPTION:Dir: MARTIN SCORSESE (2006)\nhttps://www.roxycinemanewyork.com
+ /stories/2006-movies-you-must-see-before-you-die/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/stories/2006-movies-you-must-see-bef
+ ore-you-die/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Weightless @ SCANDINAVIA HOUSE
 DTSTART:20260909T190000
 DTEND:20260909T210000
@@ -14506,6 +13216,16 @@ LOCATION:SARATOGA PARK
 URL:https://www.eventbrite.com/o/8387562806
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Idlewild @ ROXY CINEMA NEW YORK
+DTSTART:20260928T190000
+DTEND:20260928T210000
+DESCRIPTION:Dir: BRYAN BARBER (2006)\nhttps://www.roxycinemanewyork.com/st
+ ories/2006-movies-you-must-see-before-you-die/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/stories/2006-movies-you-must-see-bef
+ ore-you-die/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sunset Boulevard @ UNITED PALACE
 DTSTART:20260928T193000
 DTEND:20260928T213000
@@ -14605,39 +13325,9 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/nyc-in-transit
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WWW. RACHELORMONT .COM @ ROXY CINEMA NEW YORK
-DTSTART:20270731T221500
-DTEND:20270801T001500
-DESCRIPTION:Dir: N/A (2024)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 615?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7615?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bigger Than Life - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20260801T150000
-DTEND:20260801T170000
-DESCRIPTION:Dir: N/A (1956)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 590?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7590?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rebel Without a Cause - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20260801T170000
-DTEND:20260801T190000
-DESCRIPTION:Dir: N/A (1955)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 664?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7664?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Ember Knight Show + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20260801T191500
-DTEND:20260801T211500
+DTSTART:20270801T191500
+DTEND:20270801T211500
 DESCRIPTION:Dir: N/A (2020)\nhttps://ticketing.uswest.veezi.com/purchase/7
  591?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
@@ -14646,8 +13336,8 @@ URL:https://ticketing.uswest.veezi.com/purchase/7591?siteToken=tt17e5ajy3v
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crocodile Dose + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20260801T210000
-DTEND:20260801T230000
+DTSTART:20270801T210000
+DTEND:20270801T230000
 DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
  613?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
@@ -14776,16 +13466,6 @@ URL:https://ticketing.uswest.veezi.com/purchase/7635?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barrio Triste @ ROXY CINEMA NEW YORK
-DTSTART:20260806T214500
-DTEND:20260806T234500
-DESCRIPTION:Dir: N/A (2025)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 715?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7715?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:American Movie - 35MM @ ROXY CINEMA NEW YORK
 DTSTART:20260807T170000
 DTEND:20260807T190000
@@ -14896,13 +13576,13 @@ URL:https://ticketing.uswest.veezi.com/purchase/7638?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Invite @ ROXY CINEMA NEW YORK
+SUMMARY:Rose of Nevada @ ROXY CINEMA NEW YORK
 DTSTART:20260810T211500
 DTEND:20260810T231500
 DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 657?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+ 735?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7657?siteToken=tt17e5ajy3v
+URL:https://ticketing.uswest.veezi.com/purchase/7735?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
@@ -14913,16 +13593,6 @@ DESCRIPTION:Dir: N/A (2001)\nhttps://ticketing.uswest.veezi.com/purchase/7
  646?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7646?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barrio Triste @ ROXY CINEMA NEW YORK
-DTSTART:20260811T213000
-DTEND:20260811T233000
-DESCRIPTION:Dir: N/A (2025)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 695?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7695?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
@@ -14966,16 +13636,6 @@ URL:https://ticketing.uswest.veezi.com/purchase/7675?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barrio Triste @ ROXY CINEMA NEW YORK
-DTSTART:20260813T213000
-DTEND:20260813T233000
-DESCRIPTION:Dir: N/A (2025)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 696?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7696?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Disclosure Day @ ROXY CINEMA NEW YORK
 DTSTART:20260814T160000
 DTEND:20260814T180000
@@ -14996,16 +13656,6 @@ URL:https://ticketing.uswest.veezi.com/purchase/7647?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barrio Triste @ ROXY CINEMA NEW YORK
-DTSTART:20260815T143000
-DTEND:20260815T163000
-DESCRIPTION:Dir: N/A (2025)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 697?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7697?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Black Book - 35MM @ ROXY CINEMA NEW YORK
 DTSTART:20260815T163000
 DTEND:20260815T183000
@@ -15023,16 +13673,6 @@ DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
  648?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7648?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Magic Lanterns 2 @ ROXY CINEMA NEW YORK
-DTSTART:20260815T214500
-DTEND:20260815T234500
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 729?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7729?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
