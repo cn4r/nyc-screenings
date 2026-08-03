@@ -2,1465 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:Los Olvidados @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260802T153000
-DTEND:20260802T173000
-DESCRIPTION:Dir: LUIS BUÑUEL (1950)\nhttp://anthologyfilmarchives.org/fil
- m_screenings/programs/essential-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
- nema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los Olvidados @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260802T171500
-DTEND:20260802T191500
-DESCRIPTION:Dir: LUIS BUÑUEL (1950)\nhttp://anthologyfilmarchives.org/fil
- m_screenings/programs/essential-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
- nema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los Olvidados @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260802T180000
-DTEND:20260802T200000
-DESCRIPTION:Dir: LUIS BUÑUEL (1950)\nhttp://anthologyfilmarchives.org/fil
- m_screenings/programs/essential-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
- nema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los Olvidados @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260802T193000
-DTEND:20260802T213000
-DESCRIPTION:Dir: LUIS BUÑUEL (1950)\nhttp://anthologyfilmarchives.org/fil
- m_screenings/programs/essential-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
- nema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los Olvidados @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260802T200000
-DTEND:20260802T220000
-DESCRIPTION:Dir: LUIS BUÑUEL (1950)\nhttp://anthologyfilmarchives.org/fil
- m_screenings/programs/essential-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
- nema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Gold Rush @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260802T180000
-DTEND:20260802T200000
-DESCRIPTION:Dir: CHARLIE CHAPLIN (1925)\nhttp://anthologyfilmarchives.org/
- film_screenings/programs/essential-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
- nema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Omnibus: Pig Earth @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260802T200000
-DTEND:20260802T220000
-DESCRIPTION:Dir: MICHAEL DIBB (1979)\nhttps://www.anthologyfilmarchives.or
- g/film_screenings/series/61690
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/series/61690
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Welcome II the Terrordome @ BAM
-DTSTART:20260802T140000
-DTEND:20260802T160000
-DESCRIPTION:Dir: NGOZI ONWURAH (1995)\nhttps://www.bam.org/film/2026/welco
- me-ii-the-terrordome
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/welcome-ii-the-terrordome
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Welcome II the Terrordome @ BAM
-DTSTART:20260802T163000
-DTEND:20260802T183000
-DESCRIPTION:Dir: NGOZI ONWURAH (1995)\nhttps://www.bam.org/film/2026/welco
- me-ii-the-terrordome
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/welcome-ii-the-terrordome
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Welcome II the Terrordome @ BAM
-DTSTART:20260802T190000
-DTEND:20260802T210000
-DESCRIPTION:Dir: NGOZI ONWURAH (1995)\nhttps://www.bam.org/film/2026/welco
- me-ii-the-terrordome
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/welcome-ii-the-terrordome
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Welcome II the Terrordome @ BAM
-DTSTART:20260802T210000
-DTEND:20260802T230000
-DESCRIPTION:Dir: NGOZI ONWURAH (1995)\nhttps://www.bam.org/film/2026/welco
- me-ii-the-terrordome
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/welcome-ii-the-terrordome
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260802T122000
-DTEND:20260802T142000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260802T181500
-DTEND:20260802T201500
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260802T123000
-DTEND:20260802T143000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260802T144000
-DTEND:20260802T164000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260802T165000
-DTEND:20260802T185000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260802T190000
-DTEND:20260802T210000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260802T211000
-DTEND:20260802T231000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260802T124500
-DTEND:20260802T144500
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260802T150000
-DTEND:20260802T170000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260802T195000
-DTEND:20260802T215000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260802T125000
-DTEND:20260802T145000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260802T174500
-DTEND:20260802T194500
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260802T163000
-DTEND:20260802T183000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260802T203000
-DTEND:20260802T223000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260802T152000
-DTEND:20260802T172000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Third Man @ FILM FORUM
-DTSTART:20260802T184000
-DTEND:20260802T204000
-DESCRIPTION:Dir: CAROL REED (1949)\nhttps://filmforum.org/film/the-third-m
- an-2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-third-man-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:White Nights @ FILM FORUM
-DTSTART:20260802T123000
-DTEND:20260802T143000
-DESCRIPTION:Dir: LUCHINO VISCONTI (1957)\nhttps://filmforum.org/film/white
- -nights
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/white-nights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:White Nights @ FILM FORUM
-DTSTART:20260802T144000
-DTEND:20260802T164000
-DESCRIPTION:Dir: LUCHINO VISCONTI (1957)\nhttps://filmforum.org/film/white
- -nights
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/white-nights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:White Nights @ FILM FORUM
-DTSTART:20260802T165000
-DTEND:20260802T185000
-DESCRIPTION:Dir: LUCHINO VISCONTI (1957)\nhttps://filmforum.org/film/white
- -nights
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/white-nights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:White Nights @ FILM FORUM
-DTSTART:20260802T190000
-DTEND:20260802T210000
-DESCRIPTION:Dir: LUCHINO VISCONTI (1957)\nhttps://filmforum.org/film/white
- -nights
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/white-nights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:White Nights @ FILM FORUM
-DTSTART:20260802T211000
-DTEND:20260802T231000
-DESCRIPTION:Dir: LUCHINO VISCONTI (1957)\nhttps://filmforum.org/film/white
- -nights
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/white-nights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Remake @ FILM FORUM
-DTSTART:20260802T124500
-DTEND:20260802T144500
-DESCRIPTION:Dir: ROSS MCELWEE (2025)\nhttps://filmforum.org/film/remake
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/remake
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Remake @ FILM FORUM
-DTSTART:20260802T150000
-DTEND:20260802T170000
-DESCRIPTION:Dir: ROSS MCELWEE (2025)\nhttps://filmforum.org/film/remake
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/remake
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Remake @ FILM FORUM
-DTSTART:20260802T195000
-DTEND:20260802T215000
-DESCRIPTION:Dir: ROSS MCELWEE (2025)\nhttps://filmforum.org/film/remake
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/remake
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Pachuco: The Legend of Luis Valdez @ FILM FORUM
-DTSTART:20260802T125000
-DTEND:20260802T145000
-DESCRIPTION:Dir: DAVID ALVARADO (2026)\nhttps://filmforum.org/film/america
- n-pachuco
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/american-pachuco
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Pachuco: The Legend of Luis Valdez @ FILM FORUM
-DTSTART:20260802T174500
-DTEND:20260802T194500
-DESCRIPTION:Dir: DAVID ALVARADO (2026)\nhttps://filmforum.org/film/america
- n-pachuco
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/american-pachuco
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dread Beat an Blood @ FILM FORUM
-DTSTART:20260802T144000
-DTEND:20260802T164000
-DESCRIPTION:Dir: FRANCO ROSSO (1975)\nhttps://filmforum.org/film/dread-bea
- t-an-blood
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/dread-beat-an-blood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dread Beat an Blood @ FILM FORUM
-DTSTART:20260802T163000
-DTEND:20260802T183000
-DESCRIPTION:Dir: FRANCO ROSSO (1975)\nhttps://filmforum.org/film/dread-bea
- t-an-blood
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/dread-beat-an-blood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dread Beat an Blood @ FILM FORUM
-DTSTART:20260802T203000
-DTEND:20260802T223000
-DESCRIPTION:Dir: FRANCO ROSSO (1975)\nhttps://filmforum.org/film/dread-bea
- t-an-blood
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/dread-beat-an-blood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sherman's March @ FILM FORUM
-DTSTART:20260802T152000
-DTEND:20260802T172000
-DESCRIPTION:Dir: ROSS MCELWEE (1985)\nhttps://filmforum.org/film/shermans-
- march
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/shermans-march
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sherman's March @ FILM FORUM
-DTSTART:20260802T184000
-DTEND:20260802T204000
-DESCRIPTION:Dir: ROSS MCELWEE (1985)\nhttps://filmforum.org/film/shermans-
- march
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/shermans-march
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Piano @ FILM AT LINCOLN CENTER
-DTSTART:20260802T130000
-DTEND:20260802T150000
-DESCRIPTION:Dir: JANE CAMPION (1993)\nhttps://www.filmlinc.org/films/the-p
- iano/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-piano/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Piano @ FILM AT LINCOLN CENTER
-DTSTART:20260802T153000
-DTEND:20260802T173000
-DESCRIPTION:Dir: JANE CAMPION (1993)\nhttps://www.filmlinc.org/films/the-p
- iano/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-piano/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Piano @ FILM AT LINCOLN CENTER
-DTSTART:20260802T180000
-DTEND:20260802T200000
-DESCRIPTION:Dir: JANE CAMPION (1993)\nhttps://www.filmlinc.org/films/the-p
- iano/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-piano/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Piano @ FILM AT LINCOLN CENTER
-DTSTART:20260802T203000
-DTEND:20260802T223000
-DESCRIPTION:Dir: JANE CAMPION (1993)\nhttps://www.filmlinc.org/films/the-p
- iano/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-piano/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Piano @ FILM AT LINCOLN CENTER
-DTSTART:20260802T161500
-DTEND:20260802T181500
-DESCRIPTION:Dir: JANE CAMPION (1993)\nhttps://www.filmlinc.org/films/the-p
- iano/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-piano/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Piano @ FILM AT LINCOLN CENTER
-DTSTART:20260802T194500
-DTEND:20260802T214500
-DESCRIPTION:Dir: JANE CAMPION (1993)\nhttps://www.filmlinc.org/films/the-p
- iano/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-piano/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Piano @ FILM AT LINCOLN CENTER
-DTSTART:20260802T131500
-DTEND:20260802T151500
-DESCRIPTION:Dir: JANE CAMPION (1993)\nhttps://www.filmlinc.org/films/the-p
- iano/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-piano/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Piano @ FILM AT LINCOLN CENTER
-DTSTART:20260802T204500
-DTEND:20260802T224500
-DESCRIPTION:Dir: JANE CAMPION (1993)\nhttps://www.filmlinc.org/films/the-p
- iano/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-piano/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Piano @ FILM AT LINCOLN CENTER
-DTSTART:20260802T154500
-DTEND:20260802T174500
-DESCRIPTION:Dir: JANE CAMPION (1993)\nhttps://www.filmlinc.org/films/the-p
- iano/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-piano/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Piano @ FILM AT LINCOLN CENTER
-DTSTART:20260802T181500
-DTEND:20260802T201500
-DESCRIPTION:Dir: JANE CAMPION (1993)\nhttps://www.filmlinc.org/films/the-p
- iano/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-piano/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260802T130000
-DTEND:20260802T150000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260802T161500
-DTEND:20260802T181500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260802T194500
-DTEND:20260802T214500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rose of Nevada @ FILM AT LINCOLN CENTER
-DTSTART:20260802T131500
-DTEND:20260802T151500
-DESCRIPTION:Dir: MARK JENKIN (2025)\nhttps://www.filmlinc.org/films/rose-o
- f-nevada/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/rose-of-nevada/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rose of Nevada @ FILM AT LINCOLN CENTER
-DTSTART:20260802T204500
-DTEND:20260802T224500
-DESCRIPTION:Dir: MARK JENKIN (2025)\nhttps://www.filmlinc.org/films/rose-o
- f-nevada/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/rose-of-nevada/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Romería @ FILM AT LINCOLN CENTER
-DTSTART:20260802T154500
-DTEND:20260802T174500
-DESCRIPTION:Dir: CARLA SIMÓN (2025)\nhttps://www.filmlinc.org/films/romer
- ia/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/romeria/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Romería @ FILM AT LINCOLN CENTER
-DTSTART:20260802T181500
-DTEND:20260802T201500
-DESCRIPTION:Dir: CARLA SIMÓN (2025)\nhttps://www.filmlinc.org/films/romer
- ia/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/romeria/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Paradise Lost @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-DTSTART:20260802T143000
-DTEND:20260802T163000
-DESCRIPTION:Dir: LAURIE SUMIYE (2025)\nhttps://www.dctvny.org/s/firehouse-
- film/a-paradise-lost-MCMXKMSQCYI5FVJCCAS77CZ2BT4E
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/a-paradise-lost-MCMXKMSQCYI5FV
- JCCAS77CZ2BT4E
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Paradise Lost @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-DTSTART:20260802T170000
-DTEND:20260802T190000
-DESCRIPTION:Dir: LAURIE SUMIYE (2025)\nhttps://www.dctvny.org/s/firehouse-
- film/a-paradise-lost-MCMXKMSQCYI5FVJCCAS77CZ2BT4E
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/a-paradise-lost-MCMXKMSQCYI5FV
- JCCAS77CZ2BT4E
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Paradise Lost @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-DTSTART:20260802T193000
-DTEND:20260802T213000
-DESCRIPTION:Dir: LAURIE SUMIYE (2025)\nhttps://www.dctvny.org/s/firehouse-
- film/a-paradise-lost-MCMXKMSQCYI5FVJCCAS77CZ2BT4E
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/a-paradise-lost-MCMXKMSQCYI5FV
- JCCAS77CZ2BT4E
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260802T103500
-DTEND:20260802T123500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260802T123500
-DTEND:20260802T143500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260802T153000
-DTEND:20260802T173000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260802T193500
-DTEND:20260802T213500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260802T215000
-DTEND:20260802T235000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260802T104000
-DTEND:20260802T124000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260802T131500
-DTEND:20260802T151500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260802T155500
-DTEND:20260802T175500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260802T185000
-DTEND:20260802T205000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260802T214000
-DTEND:20260802T234000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260802T110000
-DTEND:20260802T130000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260802T133000
-DTEND:20260802T153000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260802T160000
-DTEND:20260802T180000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260802T183000
-DTEND:20260802T203000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260802T210000
-DTEND:20260802T230000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260802T110500
-DTEND:20260802T130500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260802T175000
-DTEND:20260802T195000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260802T111500
-DTEND:20260802T131500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260802T144000
-DTEND:20260802T164000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260802T180500
-DTEND:20260802T200500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260802T212000
-DTEND:20260802T232000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260802T124500
-DTEND:20260802T144500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260802T203000
-DTEND:20260802T223000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260802T145000
-DTEND:20260802T165000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260802T163500
-DTEND:20260802T183500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manhunter @ IFC CENTER
-DTSTART:20260802T104000
-DTEND:20260802T124000
-DESCRIPTION:Dir: MICHAEL MANN (1986)\nhttps://www.ifccenter.com/films/mich
- ael-manns-manhunter-the-final-cut/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/michael-manns-manhunter-the-final-cut/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manhunter @ IFC CENTER
-DTSTART:20260802T131500
-DTEND:20260802T151500
-DESCRIPTION:Dir: MICHAEL MANN (1986)\nhttps://www.ifccenter.com/films/mich
- ael-manns-manhunter-the-final-cut/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/michael-manns-manhunter-the-final-cut/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manhunter @ IFC CENTER
-DTSTART:20260802T155500
-DTEND:20260802T175500
-DESCRIPTION:Dir: MICHAEL MANN (1986)\nhttps://www.ifccenter.com/films/mich
- ael-manns-manhunter-the-final-cut/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/michael-manns-manhunter-the-final-cut/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manhunter @ IFC CENTER
-DTSTART:20260802T185000
-DTEND:20260802T205000
-DESCRIPTION:Dir: MICHAEL MANN (1986)\nhttps://www.ifccenter.com/films/mich
- ael-manns-manhunter-the-final-cut/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/michael-manns-manhunter-the-final-cut/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manhunter @ IFC CENTER
-DTSTART:20260802T214000
-DTEND:20260802T234000
-DESCRIPTION:Dir: MICHAEL MANN (1986)\nhttps://www.ifccenter.com/films/mich
- ael-manns-manhunter-the-final-cut/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/michael-manns-manhunter-the-final-cut/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside @ IFC CENTER
-DTSTART:20260802T110000
-DTEND:20260802T130000
-DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
- nside/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside @ IFC CENTER
-DTSTART:20260802T133000
-DTEND:20260802T153000
-DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
- nside/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside @ IFC CENTER
-DTSTART:20260802T160000
-DTEND:20260802T180000
-DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
- nside/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside @ IFC CENTER
-DTSTART:20260802T183000
-DTEND:20260802T203000
-DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
- nside/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside @ IFC CENTER
-DTSTART:20260802T210000
-DTEND:20260802T230000
-DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
- nside/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lost Chapters @ IFC CENTER
-DTSTART:20260802T110500
-DTEND:20260802T130500
-DESCRIPTION:Dir: LORENA ALVARADO (2026)\nhttps://www.ifccenter.com/films/l
- ost-chapters/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/lost-chapters/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lost Chapters @ IFC CENTER
-DTSTART:20260802T175000
-DTEND:20260802T195000
-DESCRIPTION:Dir: LORENA ALVARADO (2026)\nhttps://www.ifccenter.com/films/l
- ost-chapters/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/lost-chapters/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ IFC CENTER
-DTSTART:20260802T111500
-DTEND:20260802T131500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
- the-samurai-and-the-prisoner/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ IFC CENTER
-DTSTART:20260802T144000
-DTEND:20260802T164000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
- the-samurai-and-the-prisoner/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ IFC CENTER
-DTSTART:20260802T180500
-DTEND:20260802T200500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
- the-samurai-and-the-prisoner/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ IFC CENTER
-DTSTART:20260802T212000
-DTEND:20260802T232000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
- the-samurai-and-the-prisoner/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheep in the Box @ IFC CENTER
-DTSTART:20260802T124500
-DTEND:20260802T144500
-DESCRIPTION:Dir: HIROKAZU KORE-EDA (2026)\nhttps://www.ifccenter.com/films
- /sheep-in-the-box/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/sheep-in-the-box/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheep in the Box @ IFC CENTER
-DTSTART:20260802T203000
-DTEND:20260802T223000
-DESCRIPTION:Dir: HIROKAZU KORE-EDA (2026)\nhttps://www.ifccenter.com/films
- /sheep-in-the-box/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/sheep-in-the-box/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jimmy @ IFC CENTER
-DTSTART:20260802T145000
-DTEND:20260802T165000
-DESCRIPTION:Dir: YASHADDAI OWENS (67M)\nhttps://www.ifccenter.com/films/ji
- mmy/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/jimmy/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jimmy @ IFC CENTER
-DTSTART:20260802T183000
-DTEND:20260802T203000
-DESCRIPTION:Dir: YASHADDAI OWENS (67M)\nhttps://www.ifccenter.com/films/ji
- mmy/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/jimmy/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mary Oliver: Saved by the Beauty of the World @ IFC CENTER
-DTSTART:20260802T163500
-DTEND:20260802T183500
-DESCRIPTION:Dir: SASHA WATERS (2026)\nhttps://www.ifccenter.com/films/mary
- -oliver-saved-by-the-beauty-of-the-world/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mary-oliver-saved-by-the-beauty-of-the
- -world/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Good Morning @ METROGRAPH
-DTSTART:20260802T110000
-DTEND:20260802T130000
-DESCRIPTION:Dir: YASUJIRŌ OZU (1959)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000310
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000310
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Good Morning @ METROGRAPH
-DTSTART:20260802T111500
-DTEND:20260802T131500
-DESCRIPTION:Dir: YASUJIRŌ OZU (1959)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000310
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000310
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Good Morning @ METROGRAPH
-DTSTART:20260802T130000
-DTEND:20260802T150000
-DESCRIPTION:Dir: YASUJIRŌ OZU (1959)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000310
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000310
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Good Morning @ METROGRAPH
-DTSTART:20260802T153000
-DTEND:20260802T173000
-DESCRIPTION:Dir: YASUJIRŌ OZU (1959)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000310
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000310
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Good Morning @ METROGRAPH
-DTSTART:20260802T170000
-DTEND:20260802T190000
-DESCRIPTION:Dir: YASUJIRŌ OZU (1959)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000310
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000310
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Good Morning @ METROGRAPH
-DTSTART:20260802T174500
-DTEND:20260802T194500
-DESCRIPTION:Dir: YASUJIRŌ OZU (1959)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000310
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000310
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Good Morning @ METROGRAPH
-DTSTART:20260802T193500
-DTEND:20260802T213500
-DESCRIPTION:Dir: YASUJIRŌ OZU (1959)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000310
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000310
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Good Morning @ METROGRAPH
-DTSTART:20260802T194000
-DTEND:20260802T214000
-DESCRIPTION:Dir: YASUJIRŌ OZU (1959)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000310
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000310
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Good Morning @ METROGRAPH
-DTSTART:20260802T214000
-DTEND:20260802T234000
-DESCRIPTION:Dir: YASUJIRŌ OZU (1959)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000310
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000310
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Good Morning @ METROGRAPH
-DTSTART:20260802T214500
-DTEND:20260802T234500
-DESCRIPTION:Dir: YASUJIRŌ OZU (1959)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000310
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000310
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Triplets Of Belleville @ METROGRAPH
-DTSTART:20260802T111500
-DTEND:20260802T131500
-DESCRIPTION:Dir: 2003 (78M)\nhttps://metrograph.com/series/?vista_series_i
- d=0000000310
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000310
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stavisky @ METROGRAPH
-DTSTART:20260802T130000
-DTEND:20260802T150000
-DESCRIPTION:Dir: ALAIN RESNAIS (1974)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000564
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000564
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sholay @ METROGRAPH
-DTSTART:20260802T130000
-DTEND:20260802T150000
-DESCRIPTION:Dir: RAMESH SIPPY (1975)\nhttps://metrograph.com/series/?vista
- _series_id=0000000556
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000556
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arabesque @ METROGRAPH
-DTSTART:20260802T153000
-DTEND:20260802T173000
-DESCRIPTION:Dir: STANLEY DONEN (1966)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000564
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000564
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jonah Who Will Be 25 in the Year 2000 @ METROGRAPH
-DTSTART:20260802T170000
-DTEND:20260802T190000
-DESCRIPTION:Dir: ALAIN TANNER (1976)\nhttps://metrograph.com/film/?vista_f
- ilm_id=9999000950
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/?vista_film_id=9999000950
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'Argent @ METROGRAPH
-DTSTART:20260802T174500
-DTEND:20260802T194500
-DESCRIPTION:Dir: ROBERT BRESSON (1983)\nhttps://metrograph.com/series/?vis
- ta_series_id=0000000570
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000570
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eight Diagram Pole Fighter @ METROGRAPH
-DTSTART:20260802T193500
-DTEND:20260802T213500
-DESCRIPTION:Dir: LAU KAR-LEUNG (1984)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000562
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000562
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Green Room @ METROGRAPH
-DTSTART:20260802T194000
-DTEND:20260802T214000
-DESCRIPTION:Dir: FRANÇOIS TRUFFAUT (1978)\nhttps://metrograph.com/series/
- ?vista_series_id=0000000570
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000570
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wake in Fright @ METROGRAPH
-DTSTART:20260802T214000
-DTEND:20260802T234000
-DESCRIPTION:Dir: TED KOTCHEFF (1971)\nhttps://metrograph.com/series/?vista
- _series_id=0000000556
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000556
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drunken Master II @ METROGRAPH
-DTSTART:20260802T214500
-DTEND:20260802T234500
-DESCRIPTION:Dir: LAU KAR-LEUNG (1994)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000562
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000562
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:So Far From India @ MUSEUM OF MODERN ART
-DTSTART:20260802T133000
-DTEND:20260802T153000
-DESCRIPTION:Dir: MIRA NAIR (1983)\nhttps://www.moma.org/calendar/film/5911
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5911
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:So Far From India @ MUSEUM OF MODERN ART
-DTSTART:20260802T160000
-DTEND:20260802T180000
-DESCRIPTION:Dir: MIRA NAIR (1983)\nhttps://www.moma.org/calendar/film/5911
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5911
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:So Far From India @ MUSEUM OF MODERN ART
-DTSTART:20260802T163000
-DTEND:20260802T183000
-DESCRIPTION:Dir: MIRA NAIR (1983)\nhttps://www.moma.org/calendar/film/5911
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5911
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shoulder Arms @ MUSEUM OF MODERN ART
-DTSTART:20260802T160000
-DTEND:20260802T180000
-DESCRIPTION:Dir: CHARLIE CHAPLIN (1918)\nhttps://www.moma.org/calendar/fil
- m/5914
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5914
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alambrista! @ MUSEUM OF MODERN ART
-DTSTART:20260802T163000
-DTEND:20260802T183000
-DESCRIPTION:Dir: ROBERT M. YOUNG (1977)\nhttps://www.moma.org/calendar/fil
- m/5911
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5911
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paprika @ MUSEUM OF THE MOVING IMAGE
-DTSTART:20260802T123000
-DTEND:20260802T143000
-DESCRIPTION:Dir: SATOSHI KON (2006)\nhttp://www.movingimage.us/programs/20
- 19/11/16/detail/world-of-animation/
-LOCATION:MUSEUM OF THE MOVING IMAGE
-URL:http://www.movingimage.us/programs/2019/11/16/detail/world-of-animatio
- n/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paprika @ MUSEUM OF THE MOVING IMAGE
-DTSTART:20260802T130000
-DTEND:20260802T150000
-DESCRIPTION:Dir: SATOSHI KON (2006)\nhttp://www.movingimage.us/programs/20
- 19/11/16/detail/world-of-animation/
-LOCATION:MUSEUM OF THE MOVING IMAGE
-URL:http://www.movingimage.us/programs/2019/11/16/detail/world-of-animatio
- n/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paprika @ MUSEUM OF THE MOVING IMAGE
-DTSTART:20260802T150000
-DTEND:20260802T170000
-DESCRIPTION:Dir: SATOSHI KON (2006)\nhttp://www.movingimage.us/programs/20
- 19/11/16/detail/world-of-animation/
-LOCATION:MUSEUM OF THE MOVING IMAGE
-URL:http://www.movingimage.us/programs/2019/11/16/detail/world-of-animatio
- n/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paprika @ MUSEUM OF THE MOVING IMAGE
-DTSTART:20260802T160000
-DTEND:20260802T180000
-DESCRIPTION:Dir: SATOSHI KON (2006)\nhttp://www.movingimage.us/programs/20
- 19/11/16/detail/world-of-animation/
-LOCATION:MUSEUM OF THE MOVING IMAGE
-URL:http://www.movingimage.us/programs/2019/11/16/detail/world-of-animatio
- n/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paprika @ MUSEUM OF THE MOVING IMAGE
-DTSTART:20260802T183000
-DTEND:20260802T203000
-DESCRIPTION:Dir: SATOSHI KON (2006)\nhttp://www.movingimage.us/programs/20
- 19/11/16/detail/world-of-animation/
-LOCATION:MUSEUM OF THE MOVING IMAGE
-URL:http://www.movingimage.us/programs/2019/11/16/detail/world-of-animatio
- n/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ratatouille @ MUSEUM OF THE MOVING IMAGE
-DTSTART:20260802T130000
-DTEND:20260802T150000
-DESCRIPTION:Dir: JAN PINKAVA\, BRAD BIRD (2007)\nhttps://movingimage.org/s
- eries/sunday-feast-with-tony/
-LOCATION:MUSEUM OF THE MOVING IMAGE
-URL:https://movingimage.org/series/sunday-feast-with-tony/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2001: A Space Odyssey @ MUSEUM OF THE MOVING IMAGE
-DTSTART:20260802T150000
-DTEND:20260802T170000
-DESCRIPTION:Dir: STANLEY KUBRICK (1968)\nhttps://movingimage.org/series/se
- e-it-big-70mm-2026/
-LOCATION:MUSEUM OF THE MOVING IMAGE
-URL:https://movingimage.org/series/see-it-big-70mm-2026/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tampopo @ MUSEUM OF THE MOVING IMAGE
-DTSTART:20260802T160000
-DTEND:20260802T180000
-DESCRIPTION:Dir: JUZO ITAMI (1985)\nhttps://movingimage.org/series/sunday-
- feast-with-tony/
-LOCATION:MUSEUM OF THE MOVING IMAGE
-URL:https://movingimage.org/series/sunday-feast-with-tony/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony @ MUSEUM OF THE MOVING IMAGE
-DTSTART:20260802T183000
-DTEND:20260802T203000
-DESCRIPTION:Dir: MATT JOHNSON (2026)\nhttps://movingimage.org/series/sunda
- y-feast-with-tony/
-LOCATION:MUSEUM OF THE MOVING IMAGE
-URL:https://movingimage.org/series/sunday-feast-with-tony/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Talladega Nights: The Ballad of Ricky Bobby @ NITEHAWK CINEMA PROS
- PECT PARK
-DTSTART:20260802T113000
-DTEND:20260802T133000
-DESCRIPTION:Dir: ADAM MCKAY (2006)\nhttps://nitehawkcinema.com/williamsbur
- g/film-series/anniversary-party/
-LOCATION:NITEHAWK CINEMA PROSPECT PARK
-URL:https://nitehawkcinema.com/williamsburg/film-series/anniversary-party/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Talladega Nights: The Ballad of Ricky Bobby @ NITEHAWK CINEMA PROS
- PECT PARK
-DTSTART:20260802T124500
-DTEND:20260802T144500
-DESCRIPTION:Dir: ADAM MCKAY (2006)\nhttps://nitehawkcinema.com/williamsbur
- g/film-series/anniversary-party/
-LOCATION:NITEHAWK CINEMA PROSPECT PARK
-URL:https://nitehawkcinema.com/williamsburg/film-series/anniversary-party/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Space Jam @ NITEHAWK CINEMA PROSPECT PARK
-DTSTART:20260802T124500
-DTEND:20260802T144500
-DESCRIPTION:Dir: JOE PYTKA (1996)\nhttps://nitehawkcinema.com/williamsburg
- /film-series/the-class-of-96/
-LOCATION:NITEHAWK CINEMA PROSPECT PARK
-URL:https://nitehawkcinema.com/williamsburg/film-series/the-class-of-96/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scream @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260802T110000
-DTEND:20260802T130000
-DESCRIPTION:Dir: WES CRAVEN (1996)\nhttps://nitehawkcinema.com/williamsbur
- g/film-series/the-class-of-96/
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://nitehawkcinema.com/williamsburg/film-series/the-class-of-96/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scream @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260802T111500
-DTEND:20260802T131500
-DESCRIPTION:Dir: WES CRAVEN (1996)\nhttps://nitehawkcinema.com/williamsbur
- g/film-series/the-class-of-96/
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://nitehawkcinema.com/williamsburg/film-series/the-class-of-96/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Heron @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260802T111500
-DTEND:20260802T131500
-DESCRIPTION:Dir: SOPHY ROMVARI (2026)\nhttps://nitehawkcinema.com/williams
- burg/film-series/icymi/
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://nitehawkcinema.com/williamsburg/film-series/icymi/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Front Page @ PARIS THEATER
-DTSTART:20260802T120000
-DTEND:20260802T140000
-DESCRIPTION:Dir: LEWIS MILESTONE (1931)\nhttps://www.paristheaternyc.com/s
- eries/academy-museum-it-came-from-the-archive
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/academy-museum-it-came-from-the
- -archive
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Front Page @ PARIS THEATER
-DTSTART:20260802T150000
-DTEND:20260802T170000
-DESCRIPTION:Dir: LEWIS MILESTONE (1931)\nhttps://www.paristheaternyc.com/s
- eries/academy-museum-it-came-from-the-archive
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/academy-museum-it-came-from-the
- -archive
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Front Page @ PARIS THEATER
-DTSTART:20260802T210000
-DTEND:20260802T230000
-DESCRIPTION:Dir: LEWIS MILESTONE (1931)\nhttps://www.paristheaternyc.com/s
- eries/academy-museum-it-came-from-the-archive
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/academy-museum-it-came-from-the
- -archive
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Front Page @ PARIS THEATER
-DTSTART:20260802T183000
-DTEND:20260802T203000
-DESCRIPTION:Dir: LEWIS MILESTONE (1931)\nhttps://www.paristheaternyc.com/s
- eries/academy-museum-it-came-from-the-archive
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/academy-museum-it-came-from-the
- -archive
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Flew Over the Cuckoo's Nest @ PARIS THEATER
-DTSTART:20260802T150000
-DTEND:20260802T170000
-DESCRIPTION:Dir: MILOŠ FORMAN (1975)\nhttps://www.paristheaternyc.com/ser
- ies/academy-museum-it-came-from-the-archive
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/academy-museum-it-came-from-the
- -archive
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Flew Over the Cuckoo's Nest @ PARIS THEATER
-DTSTART:20260802T210000
-DTEND:20260802T230000
-DESCRIPTION:Dir: MILOŠ FORMAN (1975)\nhttps://www.paristheaternyc.com/ser
- ies/academy-museum-it-came-from-the-archive
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/academy-museum-it-came-from-the
- -archive
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Salesman @ PARIS THEATER
-DTSTART:20260802T183000
-DTEND:20260802T203000
-DESCRIPTION:Dir: ALBERT AND DAVID MAYSLES AND CHARLOTTE ZWERIN (1968)\nhtt
- ps://www.paristheaternyc.com/series/academy-museum-it-came-from-the-archiv
- e
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/academy-museum-it-came-from-the
- -archive
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rose of Nevada @ ROXY CINEMA NEW YORK
-DTSTART:20260802T123000
-DTEND:20260802T143000
-DESCRIPTION:Dir: MARK JENKIN (2025)\nhttps://www.roxycinemanewyork.com/scr
- eenings/rose-of-nevada-35mm/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/screenings/rose-of-nevada-35mm/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rose of Nevada @ ROXY CINEMA NEW YORK
-DTSTART:20260802T173000
-DTEND:20260802T193000
-DESCRIPTION:Dir: MARK JENKIN (2025)\nhttps://www.roxycinemanewyork.com/scr
- eenings/rose-of-nevada-35mm/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/screenings/rose-of-nevada-35mm/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Party Girl @ ROXY CINEMA NEW YORK
-DTSTART:20260802T173000
-DTEND:20260802T193000
-DESCRIPTION:Dir: NICHOLAS RAY (1958)\nhttps://www.roxycinemanewyork.com/st
- ories/nicholas-ray-retrospective/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/stories/nicholas-ray-retrospective/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheila and the Brainstem @ SPECTACLE
-DTSTART:20260802T150000
-DTEND:20260802T170000
-DESCRIPTION:Dir: Sheila and the Brainstem (MATT MCDOWELL AND RUSSELL BATES
- )\nhttps://www.spectacletheater.com/fist-church/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/fist-church/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheila and the Brainstem @ SPECTACLE
-DTSTART:20260802T170000
-DTEND:20260802T190000
-DESCRIPTION:Dir: Sheila and the Brainstem (MATT MCDOWELL AND RUSSELL BATES
- )\nhttps://www.spectacletheater.com/fist-church/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/fist-church/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Seasons in Quincy: Four Portraits of John Berger @ ANTHOLOGY F
  ILM ARCHIVES
 DTSTART:20260803T183000
@@ -2505,6 +1046,15 @@ LOCATION:METROGRAPH
 URL:https://metrograph.com/series/?vista_series_id=0000000557
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Extreme Prejudice @ METROGRAPH
+DTSTART:20260803T151500
+DTEND:20260803T171500
+DESCRIPTION:Dir: WALTER HILL (1987)\nhttps://metrograph.com/series/?vista_
+ series_id=0000000557
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000557
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Before Sunrise @ METROGRAPH
 DTSTART:20260803T152000
 DTEND:20260803T172000
@@ -2512,6 +1062,24 @@ DESCRIPTION:Dir: RICHARD LINKLATER (1995)\nhttps://metrograph.com/series/?
  vista_series_id=0000000555
 LOCATION:METROGRAPH
 URL:https://metrograph.com/series/?vista_series_id=0000000555
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Before Sunrise @ METROGRAPH
+DTSTART:20260803T152000
+DTEND:20260803T172000
+DESCRIPTION:Dir: RICHARD LINKLATER (1995)\nhttps://metrograph.com/series/?
+ vista_series_id=0000000555
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000555
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fallen Angels @ METROGRAPH
+DTSTART:20260803T173000
+DTEND:20260803T193000
+DESCRIPTION:Dir: WONG KAR WAI (1995)\nhttps://metrograph.com/the-last-drea
+ mers/
+LOCATION:METROGRAPH
+URL:https://metrograph.com/the-last-dreamers/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fallen Angels @ METROGRAPH
@@ -2532,6 +1100,24 @@ LOCATION:METROGRAPH
 URL:https://metrograph.com/film/?vista_film_id=9999004235
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Europa @ METROGRAPH
+DTSTART:20260803T193500
+DTEND:20260803T213500
+DESCRIPTION:Dir: LARS VON TRIER (1991)\nhttps://metrograph.com/film/?vista
+ _film_id=9999004235
+LOCATION:METROGRAPH
+URL:https://metrograph.com/film/?vista_film_id=9999004235
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Good Time @ METROGRAPH
+DTSTART:20260803T194000
+DTEND:20260803T214000
+DESCRIPTION:Dir: JOSH SAFDIE\, BEN SAFDIE (2017)\nhttps://metrograph.com/s
+ eries/?vista_series_id=0000000555
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000555
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Good Time @ METROGRAPH
 DTSTART:20260803T194000
 DTEND:20260803T214000
@@ -2548,6 +1134,24 @@ DESCRIPTION:Dir: JUZO ITAMI (1985)\nhttps://metrograph.com/series/?vista_s
  eries_id=0000000551
 LOCATION:METROGRAPH
 URL:https://metrograph.com/series/?vista_series_id=0000000551
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tampopo @ METROGRAPH
+DTSTART:20260803T215000
+DTEND:20260803T235000
+DESCRIPTION:Dir: JUZO ITAMI (1985)\nhttps://metrograph.com/series/?vista_s
+ eries_id=0000000551
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000551
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel Heart @ METROGRAPH
+DTSTART:20260803T215000
+DTEND:20260803T235000
+DESCRIPTION:Dir: ALAN PARKER (1987)\nhttps://metrograph.com/series/?vista_
+ series_id=0000000557
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000557
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Angel Heart @ METROGRAPH
@@ -3627,6 +2231,15 @@ LOCATION:METROGRAPH
 URL:https://metrograph.com/series/?vista_series_id=0000000555
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Haine @ METROGRAPH
+DTSTART:20260804T150000
+DTEND:20260804T170000
+DESCRIPTION:Dir: MATHIEW KASSOVITZ (1995)\nhttps://metrograph.com/series/?
+ vista_series_id=0000000555
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000555
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Arabesque @ METROGRAPH
 DTSTART:20260804T154500
 DTEND:20260804T174500
@@ -3634,6 +2247,24 @@ DESCRIPTION:Dir: STANLEY DONEN (1966)\nhttps://metrograph.com/series/?vist
  a_series_id=0000000564
 LOCATION:METROGRAPH
 URL:https://metrograph.com/series/?vista_series_id=0000000564
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arabesque @ METROGRAPH
+DTSTART:20260804T154500
+DTEND:20260804T174500
+DESCRIPTION:Dir: STANLEY DONEN (1966)\nhttps://metrograph.com/series/?vist
+ a_series_id=0000000564
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000564
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Topo @ METROGRAPH
+DTSTART:20260804T170000
+DTEND:20260804T190000
+DESCRIPTION:Dir: ALEJANDRO JODOROWSKY (1970)\nhttps://metrograph.com/categ
+ ory/animal-farm-moles/
+LOCATION:METROGRAPH
+URL:https://metrograph.com/category/animal-farm-moles/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El Topo @ METROGRAPH
@@ -3663,6 +2294,15 @@ LOCATION:METROGRAPH
 URL:https://metrograph.com/series/?vista_series_id=0000000563
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Linda Linda Linda @ METROGRAPH
+DTSTART:20260804T193000
+DTEND:20260804T213000
+DESCRIPTION:Dir: NOBUHIRO YAMASHITA (2005)\nhttps://metrograph.com/series/
+ ?vista_series_id=0000000563
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000563
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:3 Women @ METROGRAPH
 DTSTART:20260804T215000
 DTEND:20260804T235000
@@ -3670,6 +2310,24 @@ DESCRIPTION:Dir: ROBERT ALTMAN (1977)\nhttps://metrograph.com/series/?vist
  a_series_id=0000000563
 LOCATION:METROGRAPH
 URL:https://metrograph.com/series/?vista_series_id=0000000563
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3 Women @ METROGRAPH
+DTSTART:20260804T215000
+DTEND:20260804T235000
+DESCRIPTION:Dir: ROBERT ALTMAN (1977)\nhttps://metrograph.com/series/?vist
+ a_series_id=0000000563
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000563
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacob's Ladder @ METROGRAPH
+DTSTART:20260804T220000
+DTEND:20260805T000000
+DESCRIPTION:Dir: ADRIAN LYNE (1990)\nhttps://metrograph.com/series/?vista_
+ series_id=0000000557
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000557
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jacob's Ladder @ METROGRAPH
@@ -5732,6 +4390,15 @@ LOCATION:METROGRAPH
 URL:https://metrograph.com/series/?vista_series_id=0000000558
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Happy Together @ METROGRAPH
+DTSTART:20260806T152500
+DTEND:20260806T172500
+DESCRIPTION:Dir: WONG KAR-WAI (1997)\nhttps://metrograph.com/series/?vista
+ _series_id=0000000558
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000558
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Bakery Girl of Monceau @ METROGRAPH
 DTSTART:20260806T154500
 DTEND:20260806T174500
@@ -5759,6 +4426,24 @@ LOCATION:METROGRAPH
 URL:https://metrograph.com/series/?vista_series_id=0000000556
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Aferim! @ METROGRAPH
+DTSTART:20260806T174000
+DTEND:20260806T194000
+DESCRIPTION:Dir: RADU JUDE (2015)\nhttps://metrograph.com/series/?vista_se
+ ries_id=0000000556
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000556
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bouchra @ METROGRAPH
+DTSTART:20260806T195000
+DTEND:20260806T215000
+DESCRIPTION:Dir: ORIAN BARKI\, MERIEM BENNANI (2025)\nhttps://metrograph.c
+ om/series/?vista_series_id=0000000554
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000554
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bouchra @ METROGRAPH
 DTSTART:20260806T195000
 DTEND:20260806T215000
@@ -5777,6 +4462,15 @@ LOCATION:METROGRAPH
 URL:https://metrograph.com/series/?vista_series_id=0000000558
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:My Heart Is That Eternal Rose @ METROGRAPH
+DTSTART:20260806T200000
+DTEND:20260806T220000
+DESCRIPTION:Dir: PATRICK TAM (1989)\nhttps://metrograph.com/series/?vista_
+ series_id=0000000558
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000558
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Basic Instinct @ METROGRAPH
 DTSTART:20260806T214500
 DTEND:20260806T234500
@@ -5784,6 +4478,24 @@ DESCRIPTION:Dir: PAUL VERHOEVEN (1992)\nhttps://metrograph.com/series/?vis
  ta_series_id=0000000557
 LOCATION:METROGRAPH
 URL:https://metrograph.com/series/?vista_series_id=0000000557
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basic Instinct @ METROGRAPH
+DTSTART:20260806T214500
+DTEND:20260806T234500
+DESCRIPTION:Dir: PAUL VERHOEVEN (1992)\nhttps://metrograph.com/series/?vis
+ ta_series_id=0000000557
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000557
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Possession @ METROGRAPH
+DTSTART:20260806T215000
+DTEND:20260806T235000
+DESCRIPTION:Dir: ANDRZEJ ŻUŁAWSKI (1981)\nhttps://metrograph.com/film/?v
+ ista_film_id=9999001205
+LOCATION:METROGRAPH
+URL:https://metrograph.com/film/?vista_film_id=9999001205
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Possession @ METROGRAPH
@@ -6181,6 +4893,15 @@ DTEND:20260807T215000
 DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
 LOCATION:FILM FORUM
 URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wake in Fright @ METROGRAPH
+DTSTART:20260807T141500
+DTEND:20260807T161500
+DESCRIPTION:Dir: TED KOTCHEFF (1971)\nhttps://metrograph.com/series/?vista
+ _series_id=0000000556
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000556
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wake in Fright @ METROGRAPH
@@ -6630,6 +5351,24 @@ LOCATION:METROGRAPH
 URL:https://metrograph.com/series/?vista_series_id=0000000310
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Good Morning @ METROGRAPH
+DTSTART:20260808T114500
+DTEND:20260808T134500
+DESCRIPTION:Dir: YASUJIRŌ OZU (1959)\nhttps://metrograph.com/series/?vist
+ a_series_id=0000000310
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000310
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First Blood @ METROGRAPH
+DTSTART:20260808T182500
+DTEND:20260808T202500
+DESCRIPTION:Dir: TED KOTCHEFF (1982)\nhttps://metrograph.com/series/?vista
+ _series_id=0000000557
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000557
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:First Blood @ METROGRAPH
 DTSTART:20260808T182500
 DTEND:20260808T202500
@@ -6648,6 +5387,15 @@ LOCATION:METROGRAPH
 URL:https://metrograph.com/series/?vista_series_id=0000000555
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Night is Short\, Walk on Girl @ METROGRAPH
+DTSTART:20260808T183000
+DTEND:20260808T203000
+DESCRIPTION:Dir: MASAAKI YUASA (2017)\nhttps://metrograph.com/series/?vist
+ a_series_id=0000000555
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000555
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dumplings @ METROGRAPH
 DTSTART:20260808T204500
 DTEND:20260808T224500
@@ -6655,6 +5403,24 @@ DESCRIPTION:Dir: FRUIT CHAN (2004)\nhttps://metrograph.com/series/?vista_s
  eries_id=0000000558
 LOCATION:METROGRAPH
 URL:https://metrograph.com/series/?vista_series_id=0000000558
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dumplings @ METROGRAPH
+DTSTART:20260808T204500
+DTEND:20260808T224500
+DESCRIPTION:Dir: FRUIT CHAN (2004)\nhttps://metrograph.com/series/?vista_s
+ eries_id=0000000558
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000558
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In the Mood for Love @ METROGRAPH
+DTSTART:20260808T225000
+DTEND:20260809T005000
+DESCRIPTION:Dir: WONG KAR-WAI (2000)\nhttps://metrograph.com/maggie-cheung
+ /
+LOCATION:METROGRAPH
+URL:https://metrograph.com/maggie-cheung/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:In the Mood for Love @ METROGRAPH
@@ -7025,6 +5791,15 @@ DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
  age
 LOCATION:FILM FORUM
 URL:https://filmforum.org/film/center-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rebecca @ METROGRAPH
+DTSTART:20260809T161000
+DTEND:20260809T181000
+DESCRIPTION:Dir: ALFRED HITCHCOCK (1940)\nhttps://metrograph.com/series/?v
+ ista_series_id=0000000566
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000566
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rebecca @ METROGRAPH
@@ -10185,6 +8960,16 @@ LOCATION:QUAD CINEMA
 URL:https://quadcinema.com/program/john-huston-hollywood-maverick/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Characters Disappearing @ ROXY CINEMA NEW YORK
+DTSTART:20260819T190000
+DTEND:20260819T210000
+DESCRIPTION:Dir: CONNOR SEN WARNICK (2025)\nhttps://ticketing.uswest.veezi
+ .com/purchase/7655?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7655?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nostos: The Return @ SPECTACLE
 DTSTART:20260819T193000
 DTEND:20260819T213000
@@ -10592,6 +9377,15 @@ DESCRIPTION:Dir: ANDREI TARKOVSKY (1972)\nhttps://www.bam.org/film/2026/ar
  thouse-scifi
 LOCATION:BAM
 URL:https://www.bam.org/film/2026/arthouse-scifi
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In the Mood for Love @ METROGRAPH
+DTSTART:20260821T150000
+DTEND:20260821T170000
+DESCRIPTION:Dir: WONG KAR-WAI (2000)\nhttps://metrograph.com/maggie-cheung
+ /
+LOCATION:METROGRAPH
+URL:https://metrograph.com/maggie-cheung/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:In the Mood for Love @ METROGRAPH
@@ -13325,49 +12119,1520 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/nyc-in-transit
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Ember Knight Show + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20270801T191500
-DTEND:20270801T211500
-DESCRIPTION:Dir: N/A (2020)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 591?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7591?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
+SUMMARY:Wake in Fright @ METROGRAPH
+DTSTART:20260802T214000
+DTEND:20260802T234000
+DESCRIPTION:Dir: Ted Kotcheff (1971)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30428
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30428
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crocodile Dose + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20270801T210000
-DTEND:20270801T230000
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 613?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7613?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
+SUMMARY:Drunken Master II @ METROGRAPH
+DTSTART:20260802T214500
+DTEND:20260802T234500
+DESCRIPTION:Dir: Lau Kar-leung (1994)\nhttps://t.metrograph.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=9999&txtSessionId=30422
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30422
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rose of Nevada - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20260802T123000
-DTEND:20260802T143000
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 668?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7668?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
+SUMMARY:The Hole [Newly Struck 35mm Print] @ METROGRAPH
+DTSTART:20260803T173500
+DTEND:20260803T193500
+DESCRIPTION:Dir: Tsai Ming-liang (1998)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30635
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30635
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Peculiar Puppets @ ROXY CINEMA NEW YORK
-DTSTART:20260802T150000
-DTEND:20260802T170000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://ticketing.uswest.veezi.com/purchase/75
- 94?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7594?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
+SUMMARY:Lebanon in Turmoil preceded by South Lebanon @ METROGRAPH
+DTSTART:20260804T180000
+DTEND:20260804T200000
+DESCRIPTION:Dir: Jocelyne Saab (1975)\nhttps://t.metrograph.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=9999&txtSessionId=30623
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30623
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Claire's Knee @ METROGRAPH
+DTSTART:20260804T195000
+DTEND:20260804T215000
+DESCRIPTION:Dir: Éric Rohmer (1970)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30669
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30669
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bakery Girl of Monceau + Suzanne's Career @ METROGRAPH
+DTSTART:20260806T154500
+DTEND:20260806T174500
+DESCRIPTION:Dir: Éric Rohmer (1963)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30633
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Night at Maud's @ METROGRAPH
+DTSTART:20260806T173000
+DTEND:20260806T193000
+DESCRIPTION:Dir: Éric Rohmer (1969)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30627
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30627
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vertigo @ METROGRAPH
+DTSTART:20260807T140000
+DTEND:20260807T160000
+DESCRIPTION:Dir: Alfred Hitchcock (1958)\nhttps://t.metrograph.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30514
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30514
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chocolat @ METROGRAPH
+DTSTART:20260807T163000
+DTEND:20260807T183000
+DESCRIPTION:Dir: Claire Denis (1988)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30517
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30517
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conversation Piece @ METROGRAPH
+DTSTART:20260807T163500
+DTEND:20260807T183500
+DESCRIPTION:Dir: Luchino  Visconti (1974)\nhttps://t.metrograph.com/Ticket
+ ing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30516
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30516
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paranoid Park @ METROGRAPH
+DTSTART:20260807T184000
+DTEND:20260807T204000
+DESCRIPTION:Dir: Gus Van Sant (2007)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30518
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30518
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Collateral @ METROGRAPH
+DTSTART:20260807T191500
+DTEND:20260807T211500
+DESCRIPTION:Dir: Michael Mann (2004)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30606
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30606
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Milk of Sorrow @ METROGRAPH
+DTSTART:20260807T203000
+DTEND:20260807T223000
+DESCRIPTION:Dir: Claudia Llosa (2009)\nhttps://t.metrograph.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=9999&txtSessionId=30519
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30519
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hannibal @ METROGRAPH
+DTSTART:20260807T220000
+DTEND:20260808T000000
+DESCRIPTION:Dir: Ridley Scott (2001)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30521
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scene of the Crime @ METROGRAPH
+DTSTART:20260807T223000
+DTEND:20260808T003000
+DESCRIPTION:Dir: André Téchiné (1986)\nhttps://t.metrograph.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30520
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30520
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le amiche @ METROGRAPH
+DTSTART:20260808T115000
+DTEND:20260808T135000
+DESCRIPTION:Dir: Michelangelo Antonioni (1955)\nhttps://t.metrograph.com/T
+ icketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30523
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30523
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Warriors @ METROGRAPH
+DTSTART:20260808T135000
+DTEND:20260808T155000
+DESCRIPTION:Dir: Walter Hill (1979)\nhttps://t.metrograph.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=9999&txtSessionId=30525
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30525
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chocolat @ METROGRAPH
+DTSTART:20260808T140000
+DTEND:20260808T160000
+DESCRIPTION:Dir: Claire Denis (1988)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30526
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30526
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Chaser @ METROGRAPH
+DTSTART:20260808T155000
+DTEND:20260808T175000
+DESCRIPTION:Dir: Na  Hong-jin (2008)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30527
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Otar Iosseliani Early Shorts Program @ METROGRAPH
+DTSTART:20260808T161500
+DTEND:20260808T181500
+DESCRIPTION:Dir: Otar Iosseliani (1958)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30528
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girlhood @ METROGRAPH
+DTSTART:20260808T202500
+DTEND:20260808T222500
+DESCRIPTION:Dir: Céline  Sciamma (2014)\nhttps://t.metrograph.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30531
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30531
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Millennium Mambo @ METROGRAPH
+DTSTART:20260808T224500
+DTEND:20260809T004500
+DESCRIPTION:Dir: Hou Hsiao-hsien (2001)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30534
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30534
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vertigo @ METROGRAPH
+DTSTART:20260809T110000
+DTEND:20260809T130000
+DESCRIPTION:Dir: Alfred Hitchcock (1958)\nhttps://t.metrograph.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30535
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30535
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girlhood @ METROGRAPH
+DTSTART:20260809T111500
+DTEND:20260809T131500
+DESCRIPTION:Dir: Céline  Sciamma (2014)\nhttps://t.metrograph.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30536
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30536
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le amiche @ METROGRAPH
+DTSTART:20260809T133000
+DTEND:20260809T153000
+DESCRIPTION:Dir: Michelangelo Antonioni (1955)\nhttps://t.metrograph.com/T
+ icketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30540
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30540
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hole [Newly Struck 35mm Print] @ METROGRAPH
+DTSTART:20260809T134000
+DTEND:20260809T154000
+DESCRIPTION:Dir: Tsai Ming-liang (1998)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30634
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30634
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Kid @ METROGRAPH
+DTSTART:20260809T154000
+DTEND:20260809T174000
+DESCRIPTION:Dir: Charlie Chaplin (1921)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30637
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30637
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Favorites of the Moon @ METROGRAPH
+DTSTART:20260809T170000
+DTEND:20260809T190000
+DESCRIPTION:Dir: Otar Iosseliani (1984)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30608
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30608
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conversation Piece @ METROGRAPH
+DTSTART:20260809T184500
+DTEND:20260809T204500
+DESCRIPTION:Dir: Luchino  Visconti (1974)\nhttps://t.metrograph.com/Ticket
+ ing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30538
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30538
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:And Then There Was Light @ METROGRAPH
+DTSTART:20260809T191500
+DTEND:20260809T211500
+DESCRIPTION:Dir: Otar Iosseliani (1989)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30544
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30544
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Chaser @ METROGRAPH
+DTSTART:20260809T211500
+DTEND:20260809T231500
+DESCRIPTION:Dir: Na  Hong-jin (2008)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30541
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30541
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scene of the Crime @ METROGRAPH
+DTSTART:20260809T213000
+DTEND:20260809T233000
+DESCRIPTION:Dir: André Téchiné (1986)\nhttps://t.metrograph.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30543
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30543
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bouchra @ METROGRAPH
+DTSTART:20260810T151000
+DTEND:20260810T171000
+DESCRIPTION:Dir: N/A (N/A)\nhttps://t.metrograph.com/Ticketing/visSelectTi
+ ckets.aspx?cinemacode=9999&txtSessionId=30670
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30670
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toute une nuit @ METROGRAPH
+DTSTART:20260810T151500
+DTEND:20260810T171500
+DESCRIPTION:Dir: Chantal  Akerman (1982)\nhttps://t.metrograph.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30671
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30671
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Collectionneuse @ METROGRAPH
+DTSTART:20260810T170000
+DTEND:20260810T190000
+DESCRIPTION:Dir: Éric Rohmer (1967)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30672
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30672
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Millionaires' Express @ METROGRAPH
+DTSTART:20260810T171500
+DTEND:20260810T191500
+DESCRIPTION:Dir: Sammo Kam-Bo Hung (1986)\nhttps://t.metrograph.com/Ticket
+ ing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30673
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30673
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3 Women @ METROGRAPH
+DTSTART:20260810T190000
+DTEND:20260810T210000
+DESCRIPTION:Dir: Robert Altman (1977)\nhttps://t.metrograph.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=9999&txtSessionId=30674
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30674
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Razor's Edge + Lebanese\, Hostage of Their City @ METROGRAPH
+DTSTART:20260810T192000
+DTEND:20260810T212000
+DESCRIPTION:Dir: Jocelyne Saab (1985)\nhttps://t.metrograph.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=9999&txtSessionId=30675
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30675
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Collateral @ METROGRAPH
+DTSTART:20260810T213500
+DTEND:20260810T233500
+DESCRIPTION:Dir: Michael Mann (2004)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30676
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30676
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tampopo @ METROGRAPH
+DTSTART:20260810T214000
+DTEND:20260810T234000
+DESCRIPTION:Dir: Juzo Itami (1985)\nhttps://t.metrograph.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=9999&txtSessionId=30677
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30677
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vertigo @ METROGRAPH
+DTSTART:20260811T151500
+DTEND:20260811T171500
+DESCRIPTION:Dir: Alfred Hitchcock (1958)\nhttps://t.metrograph.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30678
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30678
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Great Silence @ METROGRAPH
+DTSTART:20260811T154500
+DTEND:20260811T174500
+DESCRIPTION:Dir: Sergio Corbucci (1968)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30679
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30679
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Before Sunrise @ METROGRAPH
+DTSTART:20260811T175000
+DTEND:20260811T195000
+DESCRIPTION:Dir: Richard  Linklater (1995)\nhttps://t.metrograph.com/Ticke
+ ting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30680
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30680
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Green Room @ METROGRAPH
+DTSTART:20260811T180000
+DTEND:20260811T200000
+DESCRIPTION:Dir: François  Truffaut (1978)\nhttps://t.metrograph.com/Tick
+ eting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30681
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30681
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love in the Afternoon @ METROGRAPH
+DTSTART:20260811T200000
+DTEND:20260811T220000
+DESCRIPTION:Dir: Éric Rohmer (1972)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30682
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30682
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Red Light Bandit @ METROGRAPH
+DTSTART:20260811T200000
+DTEND:20260811T220000
+DESCRIPTION:Dir: Rogério Sganzerla (1968)\nhttps://t.metrograph.com/Ticke
+ ting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30683
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30683
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fallen Angels @ METROGRAPH
+DTSTART:20260811T221000
+DTEND:20260812T001000
+DESCRIPTION:Dir: Wong Kar-wai (1995)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30685
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30685
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solaris @ METROGRAPH
+DTSTART:20260812T160000
+DTEND:20260812T180000
+DESCRIPTION:Dir: Andrei Tarkovsky (1972)\nhttps://t.metrograph.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30686
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30686
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mountains of the Moon @ METROGRAPH
+DTSTART:20260812T163000
+DTEND:20260812T183000
+DESCRIPTION:Dir: Bob Rafelson (1990)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30691
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30691
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacob's Ladder @ METROGRAPH
+DTSTART:20260812T191500
+DTEND:20260812T211500
+DESCRIPTION:Dir: Adrian  Lyne (1990)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30687
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30687
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Take Care of My Cat @ METROGRAPH
+DTSTART:20260812T192000
+DTEND:20260812T212000
+DESCRIPTION:Dir: Jeong Jae-eun (2001)\nhttps://t.metrograph.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=9999&txtSessionId=30690
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30690
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:State of Grace @ METROGRAPH
+DTSTART:20260812T213500
+DTEND:20260812T233500
+DESCRIPTION:Dir: Phil Joanou (1990)\nhttps://t.metrograph.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=9999&txtSessionId=30689
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30689
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Topo @ METROGRAPH
+DTSTART:20260812T214000
+DTEND:20260812T234000
+DESCRIPTION:Dir: Alejandro Jodorowsky (1970)\nhttps://t.metrograph.com/Tic
+ keting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30688
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30688
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Haine @ METROGRAPH
+DTSTART:20260813T140000
+DTEND:20260813T160000
+DESCRIPTION:Dir: Matthieu  Kassovitz (1995)\nhttps://t.metrograph.com/Tick
+ eting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30692
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30692
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Happy Together @ METROGRAPH
+DTSTART:20260813T141000
+DTEND:20260813T161000
+DESCRIPTION:Dir: Wong Kar-wai (1997)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30697
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30697
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linda Linda Linda @ METROGRAPH
+DTSTART:20260813T160000
+DTEND:20260813T180000
+DESCRIPTION:Dir: Nobuhiro Yamashita (2005)\nhttps://t.metrograph.com/Ticke
+ ting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30693
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30693
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:L'Argent @ METROGRAPH
+DTSTART:20260813T161500
+DTEND:20260813T181500
+DESCRIPTION:Dir: Robert  Bresson (1983)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30696
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30696
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Traveler @ METROGRAPH
+DTSTART:20260813T181000
+DTEND:20260813T201000
+DESCRIPTION:Dir: Abbas Kiarostami (1974)\nhttps://t.metrograph.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30695
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30695
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Do You Love Me @ METROGRAPH
+DTSTART:20260813T182000
+DTEND:20260813T202000
+DESCRIPTION:Dir: Lana Daher (2026)\nhttps://t.metrograph.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=9999&txtSessionId=30694
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30694
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JFK @ METROGRAPH
+DTSTART:20260813T194500
+DTEND:20260813T214500
+DESCRIPTION:Dir: Oliver Stone (1991)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30698
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30698
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Bonnes Femmes @ METROGRAPH
+DTSTART:20260814T134500
+DTEND:20260814T154500
+DESCRIPTION:Dir: Claude  Chabrol (1960)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30545
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30545
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Warriors @ METROGRAPH
+DTSTART:20260814T140000
+DTEND:20260814T160000
+DESCRIPTION:Dir: Walter Hill (1979)\nhttps://t.metrograph.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=9999&txtSessionId=30546
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30546
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Notte @ METROGRAPH
+DTSTART:20260814T155000
+DTEND:20260814T175000
+DESCRIPTION:Dir: Michelangelo Antonioni (1962)\nhttps://t.metrograph.com/T
+ icketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30548
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30548
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deliverance @ METROGRAPH
+DTSTART:20260814T161000
+DTEND:20260814T181000
+DESCRIPTION:Dir: John  Boorman (1972)\nhttps://t.metrograph.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=9999&txtSessionId=30547
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30547
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nil by Mouth @ METROGRAPH
+DTSTART:20260814T182000
+DTEND:20260814T202000
+DESCRIPTION:Dir: Gary Oldman (1997)\nhttps://t.metrograph.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=9999&txtSessionId=30549
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30549
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Walkabout @ METROGRAPH
+DTSTART:20260814T183000
+DTEND:20260814T203000
+DESCRIPTION:Dir: Nicolas Roeg (1971)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30550
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30550
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hunger @ METROGRAPH
+DTSTART:20260814T204500
+DTEND:20260814T224500
+DESCRIPTION:Dir: Tony Scott (1983)\nhttps://t.metrograph.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=9999&txtSessionId=30551
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30551
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obsession @ METROGRAPH
+DTSTART:20260814T205000
+DTEND:20260814T225000
+DESCRIPTION:Dir: Brian De Palma (1976)\nhttps://t.metrograph.com/Ticketing
+ /visSelectTickets.aspx?cinemacode=9999&txtSessionId=30552
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30552
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chungking Express @ METROGRAPH
+DTSTART:20260814T225000
+DTEND:20260815T005000
+DESCRIPTION:Dir: Wong Kar-wai (1994)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30553
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30553
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Irreversible @ METROGRAPH
+DTSTART:20260814T230000
+DTEND:20260815T010000
+DESCRIPTION:Dir: Gaspar Noe (2002)\nhttps://t.metrograph.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=9999&txtSessionId=30554
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30554
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Dark Knight @ METROGRAPH
+DTSTART:20260815T120000
+DTEND:20260815T140000
+DESCRIPTION:Dir: Christopher Nolan (2008)\nhttps://t.metrograph.com/Ticket
+ ing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30555
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30555
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Day in the Country + People on Sunday @ METROGRAPH
+DTSTART:20260815T123000
+DTEND:20260815T143000
+DESCRIPTION:Dir: Robert Siodmak\, Jean  Renoir \, Edgar G. Ulmer (1930)\nh
+ ttps://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&tx
+ tSessionId=30556
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30556
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Two by Robb Moss @ METROGRAPH
+DTSTART:20260815T150000
+DTEND:20260815T170000
+DESCRIPTION:Dir: Robb Moss (1991)\nhttps://t.metrograph.com/Ticketing/visS
+ electTickets.aspx?cinemacode=9999&txtSessionId=30558
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30558
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deliverance @ METROGRAPH
+DTSTART:20260815T151000
+DTEND:20260815T171000
+DESCRIPTION:Dir: John  Boorman (1972)\nhttps://t.metrograph.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=9999&txtSessionId=30557
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30557
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hannibal @ METROGRAPH
+DTSTART:20260815T173000
+DTEND:20260815T193000
+DESCRIPTION:Dir: Ridley Scott (2001)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30559
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30559
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nil by Mouth @ METROGRAPH
+DTSTART:20260815T173500
+DTEND:20260815T193500
+DESCRIPTION:Dir: Gary Oldman (1997)\nhttps://t.metrograph.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=9999&txtSessionId=30560
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30560
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Others @ METROGRAPH
+DTSTART:20260815T201500
+DTEND:20260815T221500
+DESCRIPTION:Dir: Alejandro Amenábar (2001)\nhttps://t.metrograph.com/Tick
+ eting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30561
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30561
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obsession @ METROGRAPH
+DTSTART:20260815T202000
+DTEND:20260815T222000
+DESCRIPTION:Dir: Brian De Palma (1976)\nhttps://t.metrograph.com/Ticketing
+ /visSelectTickets.aspx?cinemacode=9999&txtSessionId=30562
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30562
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chungking Express @ METROGRAPH
+DTSTART:20260815T222500
+DTEND:20260816T002500
+DESCRIPTION:Dir: Wong Kar-wai (1994)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30564
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30564
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Irreversible @ METROGRAPH
+DTSTART:20260815T223000
+DTEND:20260816T003000
+DESCRIPTION:Dir: Gaspar Noe (2002)\nhttps://t.metrograph.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=9999&txtSessionId=30563
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30563
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Four Adventures of Reinette and Mirabelle @ METROGRAPH
+DTSTART:20260816T110000
+DTEND:20260816T130000
+DESCRIPTION:Dir: Éric Rohmer (1987)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30566
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30566
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Jungle Book @ METROGRAPH
+DTSTART:20260816T110000
+DTEND:20260816T130000
+DESCRIPTION:Dir: Wolfgang  Reitherman (1967)\nhttps://t.metrograph.com/Tic
+ keting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30565
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30565
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Walkabout @ METROGRAPH
+DTSTART:20260816T125000
+DTEND:20260816T145000
+DESCRIPTION:Dir: Nicolas Roeg (1971)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30567
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30567
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Otar Iosseliani Early Shorts Program @ METROGRAPH
+DTSTART:20260816T130000
+DTEND:20260816T150000
+DESCRIPTION:Dir: Otar Iosseliani (1958)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30568
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30568
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falling Leaves @ METROGRAPH
+DTSTART:20260816T150000
+DTEND:20260816T170000
+DESCRIPTION:Dir: Otar Iosseliani (1966)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30569
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30569
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paranoid Park @ METROGRAPH
+DTSTART:20260816T151000
+DTEND:20260816T171000
+DESCRIPTION:Dir: Gus Van Sant (2007)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30576
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30576
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:There Once Was a Singing Blackbird @ METROGRAPH
+DTSTART:20260816T170000
+DTEND:20260816T190000
+DESCRIPTION:Dir: Otar Iosseliani (1969)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30570
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30570
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Milk of Sorrow @ METROGRAPH
+DTSTART:20260816T171500
+DTEND:20260816T191500
+DESCRIPTION:Dir: Claudia Llosa (2009)\nhttps://t.metrograph.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=9999&txtSessionId=30575
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30575
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Notte @ METROGRAPH
+DTSTART:20260816T191500
+DTEND:20260816T211500
+DESCRIPTION:Dir: Michelangelo Antonioni (1962)\nhttps://t.metrograph.com/T
+ icketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30571
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30571
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Bonnes Femmes @ METROGRAPH
+DTSTART:20260816T193000
+DTEND:20260816T213000
+DESCRIPTION:Dir: Claude  Chabrol (1960)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30574
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30574
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chungking Express @ METROGRAPH
+DTSTART:20260816T214500
+DTEND:20260816T234500
+DESCRIPTION:Dir: Wong Kar-wai (1994)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30572
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30572
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hunger @ METROGRAPH
+DTSTART:20260816T215000
+DTEND:20260816T235000
+DESCRIPTION:Dir: Tony Scott (1983)\nhttps://t.metrograph.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=9999&txtSessionId=30573
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30573
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chungking Express @ METROGRAPH
+DTSTART:20260821T124500
+DTEND:20260821T144500
+DESCRIPTION:Dir: Wong Kar-wai (1994)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30577
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30577
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Withnail and I @ METROGRAPH
+DTSTART:20260821T131500
+DTEND:20260821T151500
+DESCRIPTION:Dir: Bruce Robinson (1987)\nhttps://t.metrograph.com/Ticketing
+ /visSelectTickets.aspx?cinemacode=9999&txtSessionId=30582
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30582
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Others @ METROGRAPH
+DTSTART:20260821T153000
+DTEND:20260821T173000
+DESCRIPTION:Dir: Alejandro Amenábar (2001)\nhttps://t.metrograph.com/Tick
+ eting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30583
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30583
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Dark Knight @ METROGRAPH
+DTSTART:20260821T171500
+DTEND:20260821T191500
+DESCRIPTION:Dir: Christopher Nolan (2008)\nhttps://t.metrograph.com/Ticket
+ ing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30579
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30579
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Notte @ METROGRAPH
+DTSTART:20260821T174500
+DTEND:20260821T194500
+DESCRIPTION:Dir: Michelangelo Antonioni (1962)\nhttps://t.metrograph.com/T
+ icketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30584
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30584
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What Lies Beneath @ METROGRAPH
+DTSTART:20260821T201500
+DTEND:20260821T221500
+DESCRIPTION:Dir: Robert  Zemeckis (2000)\nhttps://t.metrograph.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30585
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30585
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:True Romance @ METROGRAPH
+DTSTART:20260821T203000
+DTEND:20260821T223000
+DESCRIPTION:Dir: Tony Scott (1993)\nhttps://t.metrograph.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=9999&txtSessionId=30580
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30580
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raw @ METROGRAPH
+DTSTART:20260821T225000
+DTEND:20260822T005000
+DESCRIPTION:Dir: Julia  Ducournau (2016)\nhttps://t.metrograph.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30586
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30586
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:House @ METROGRAPH
+DTSTART:20260821T230000
+DTEND:20260822T010000
+DESCRIPTION:Dir: Nobuhiko  Ôbayashi (1977)\nhttps://t.metrograph.com/Tick
+ eting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30581
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30581
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:When Marnie Was There @ METROGRAPH
+DTSTART:20260822T120000
+DTEND:20260822T140000
+DESCRIPTION:Dir: Hiromasa Yonebayashi (2014)\nhttps://t.metrograph.com/Tic
+ keting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30587
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30587
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Happy Hour @ METROGRAPH
+DTSTART:20260822T141000
+DTEND:20260822T161000
+DESCRIPTION:Dir: Ryusuke Hamaguchi (2015)\nhttps://t.metrograph.com/Ticket
+ ing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30588
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30588
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Days and Nights in the Forest @ METROGRAPH
+DTSTART:20260822T143000
+DTEND:20260822T163000
+DESCRIPTION:Dir: Satyajit Ray (1970)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30591
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30591
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:True Romance @ METROGRAPH
+DTSTART:20260822T170000
+DTEND:20260822T190000
+DESCRIPTION:Dir: Tony Scott (1993)\nhttps://t.metrograph.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=9999&txtSessionId=30592
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30592
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bram Stoker's Dracula @ METROGRAPH
+DTSTART:20260822T194500
+DTEND:20260822T214500
+DESCRIPTION:Dir: Francis Ford  Coppola (1992)\nhttps://t.metrograph.com/Ti
+ cketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30593
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30593
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What Lies Beneath @ METROGRAPH
+DTSTART:20260822T195000
+DTEND:20260822T215000
+DESCRIPTION:Dir: Robert  Zemeckis (2000)\nhttps://t.metrograph.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30589
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women on the Verge of a Nervous Breakdown @ METROGRAPH
+DTSTART:20260822T223000
+DTEND:20260823T003000
+DESCRIPTION:Dir: Pedro Almodóvar (1988)\nhttps://t.metrograph.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30594
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30594
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider Baby @ METROGRAPH
+DTSTART:20260822T223500
+DTEND:20260823T003500
+DESCRIPTION:Dir: Jack Hill (1967)\nhttps://t.metrograph.com/Ticketing/visS
+ electTickets.aspx?cinemacode=9999&txtSessionId=30590
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30590
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Jungle Book @ METROGRAPH
+DTSTART:20260823T110000
+DTEND:20260823T130000
+DESCRIPTION:Dir: Wolfgang  Reitherman (1967)\nhttps://t.metrograph.com/Tic
+ keting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30600
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E.T. the Extra-Terrestrial @ METROGRAPH
+DTSTART:20260823T110000
+DTEND:20260823T130000
+DESCRIPTION:Dir: Steven Spielberg (1982)\nhttps://t.metrograph.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30595
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30595
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:When Marnie Was There @ METROGRAPH
+DTSTART:20260823T124000
+DTEND:20260823T144000
+DESCRIPTION:Dir: Hiromasa Yonebayashi (2014)\nhttps://t.metrograph.com/Tic
+ keting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30601
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30601
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Dark Knight @ METROGRAPH
+DTSTART:20260823T133000
+DTEND:20260823T153000
+DESCRIPTION:Dir: Christopher Nolan (2008)\nhttps://t.metrograph.com/Ticket
+ ing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30596
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30596
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Petite Maman @ METROGRAPH
+DTSTART:20260823T144500
+DTEND:20260823T164500
+DESCRIPTION:Dir: Céline  Sciamma (2021)\nhttps://t.metrograph.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30602
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30602
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Withnail and I @ METROGRAPH
+DTSTART:20260823T162500
+DTEND:20260823T182500
+DESCRIPTION:Dir: Bruce Robinson (1987)\nhttps://t.metrograph.com/Ticketing
+ /visSelectTickets.aspx?cinemacode=9999&txtSessionId=30603
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30603
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pastorale @ METROGRAPH
+DTSTART:20260823T163000
+DTEND:20260823T183000
+DESCRIPTION:Dir: Otar Iosseliani (1975)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30597
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30597
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bram Stoker's Dracula @ METROGRAPH
+DTSTART:20260823T184000
+DTEND:20260823T204000
+DESCRIPTION:Dir: Francis Ford  Coppola (1992)\nhttps://t.metrograph.com/Ti
+ cketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30598
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chasing Butterflies @ METROGRAPH
+DTSTART:20260823T184500
+DTEND:20260823T204500
+DESCRIPTION:Dir: Otar Iosseliani (1992)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30604
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30604
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In My Skin @ METROGRAPH
+DTSTART:20260823T211500
+DTEND:20260823T231500
+DESCRIPTION:Dir: Marina de Van (2002)\nhttps://t.metrograph.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=9999&txtSessionId=30605
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30605
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After Hours @ METROGRAPH
+DTSTART:20260823T212000
+DTEND:20260823T232000
+DESCRIPTION:Dir: Martin Scorsese (1985)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30599
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30599
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bram Stoker's Dracula @ METROGRAPH
+DTSTART:20260828T154500
+DTEND:20260828T174500
+DESCRIPTION:Dir: Francis Ford  Coppola (1992)\nhttps://t.metrograph.com/Ti
+ cketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30638
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30638
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Days and Nights in the Forest @ METROGRAPH
+DTSTART:20260828T160000
+DTEND:20260828T180000
+DESCRIPTION:Dir: Satyajit Ray (1970)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30642
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30642
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jennifer's Body @ METROGRAPH
+DTSTART:20260828T181500
+DTEND:20260828T201500
+DESCRIPTION:Dir: Karyn Kusama (2009)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30643
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30643
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women on the Verge of a Nervous Breakdown @ METROGRAPH
+DTSTART:20260828T183000
+DTEND:20260828T203000
+DESCRIPTION:Dir: Pedro Almodóvar (1988)\nhttps://t.metrograph.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30639
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30639
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eve's Bayou @ METROGRAPH
+DTSTART:20260828T202500
+DTEND:20260828T222500
+DESCRIPTION:Dir: Kasi  Lemmons (1997)\nhttps://t.metrograph.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=9999&txtSessionId=30644
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30644
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der Fan @ METROGRAPH
+DTSTART:20260828T203000
+DTEND:20260828T223000
+DESCRIPTION:Dir: Eckhart Schmidt (1982)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30640
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30640
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:House @ METROGRAPH
+DTSTART:20260828T223000
+DTEND:20260829T003000
+DESCRIPTION:Dir: Nobuhiko  Ôbayashi (1977)\nhttps://t.metrograph.com/Tick
+ eting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30641
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30641
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raw @ METROGRAPH
+DTSTART:20260828T223500
+DTEND:20260829T003500
+DESCRIPTION:Dir: Julia  Ducournau (2016)\nhttps://t.metrograph.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30645
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30645
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Old Joy @ METROGRAPH
+DTSTART:20260829T113000
+DTEND:20260829T133000
+DESCRIPTION:Dir: Kelly Reichardt (2006)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30646
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30646
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Petite Maman @ METROGRAPH
+DTSTART:20260829T114500
+DTEND:20260829T134500
+DESCRIPTION:Dir: Céline  Sciamma (2021)\nhttps://t.metrograph.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30652
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30652
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mississippi Mermaid @ METROGRAPH
+DTSTART:20260829T131500
+DTEND:20260829T151500
+DESCRIPTION:Dir: François  Truffaut (1969)\nhttps://t.metrograph.com/Tick
+ eting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30647
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30647
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Days and Nights in the Forest @ METROGRAPH
+DTSTART:20260829T133000
+DTEND:20260829T153000
+DESCRIPTION:Dir: Satyajit Ray (1970)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30653
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30653
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stand By Me @ METROGRAPH
+DTSTART:20260829T154500
+DTEND:20260829T174500
+DESCRIPTION:Dir: Rob  Reiner (1986)\nhttps://t.metrograph.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=9999&txtSessionId=30648
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30648
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In My Skin @ METROGRAPH
+DTSTART:20260829T155000
+DTEND:20260829T175000
+DESCRIPTION:Dir: Marina de Van (2002)\nhttps://t.metrograph.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=9999&txtSessionId=30654
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30654
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2046 @ METROGRAPH
+DTSTART:20260829T174000
+DTEND:20260829T194000
+DESCRIPTION:Dir: Wong Kar-wai (2004)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30649
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30649
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lady in the Water @ METROGRAPH
+DTSTART:20260829T180000
+DTEND:20260829T200000
+DESCRIPTION:Dir: M. Night Shyamalan (2006)\nhttps://t.metrograph.com/Ticke
+ ting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30655
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30655
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nenette and Boni @ METROGRAPH
+DTSTART:20260829T201500
+DTEND:20260829T221500
+DESCRIPTION:Dir: Claire Denis (1996)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30650
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30650
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der Fan @ METROGRAPH
+DTSTART:20260829T203000
+DTEND:20260829T223000
+DESCRIPTION:Dir: Eckhart Schmidt (1982)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30656
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30656
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mulholland Drive [35mm] @ METROGRAPH
+DTSTART:20260829T223000
+DTEND:20260830T003000
+DESCRIPTION:Dir: David Lynch (2001)\nhttps://t.metrograph.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=9999&txtSessionId=30651
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30651
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:True Romance @ METROGRAPH
+DTSTART:20260829T224500
+DTEND:20260830T004500
+DESCRIPTION:Dir: Tony Scott (1993)\nhttps://t.metrograph.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=9999&txtSessionId=30657
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30657
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E.T. the Extra-Terrestrial @ METROGRAPH
+DTSTART:20260830T110000
+DTEND:20260830T130000
+DESCRIPTION:Dir: Steven Spielberg (1982)\nhttps://t.metrograph.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30658
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30658
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goodbye\, Dragon Inn @ METROGRAPH
+DTSTART:20260830T111500
+DTEND:20260830T131500
+DESCRIPTION:Dir: Tsai Ming-liang (2003)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30663
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30663
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lady in the Water @ METROGRAPH
+DTSTART:20260830T130000
+DTEND:20260830T150000
+DESCRIPTION:Dir: M. Night Shyamalan (2006)\nhttps://t.metrograph.com/Ticke
+ ting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30664
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30664
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bram Stoker's Dracula @ METROGRAPH
+DTSTART:20260830T132500
+DTEND:20260830T152500
+DESCRIPTION:Dir: Francis Ford  Coppola (1992)\nhttps://t.metrograph.com/Ti
+ cketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30659
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30659
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der Fan @ METROGRAPH
+DTSTART:20260830T151500
+DTEND:20260830T171500
+DESCRIPTION:Dir: Eckhart Schmidt (1982)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30665
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30665
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mulholland Drive [35mm] @ METROGRAPH
+DTSTART:20260830T160000
+DTEND:20260830T180000
+DESCRIPTION:Dir: David Lynch (2001)\nhttps://t.metrograph.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=9999&txtSessionId=30660
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30660
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eve's Bayou @ METROGRAPH
+DTSTART:20260830T171500
+DTEND:20260830T191500
+DESCRIPTION:Dir: Kasi  Lemmons (1997)\nhttps://t.metrograph.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=9999&txtSessionId=30666
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30666
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2046 @ METROGRAPH
+DTSTART:20260830T190000
+DTEND:20260830T210000
+DESCRIPTION:Dir: Wong Kar-wai (2004)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30661
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jennifer's Body @ METROGRAPH
+DTSTART:20260830T193000
+DTEND:20260830T213000
+DESCRIPTION:Dir: Karyn Kusama (2009)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30667
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30667
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After Hours @ METROGRAPH
+DTSTART:20260830T214000
+DTEND:20260830T234000
+DESCRIPTION:Dir: Martin Scorsese (1985)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30662
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30662
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In My Skin @ METROGRAPH
+DTSTART:20260830T214500
+DTEND:20260830T234500
+DESCRIPTION:Dir: Marina de Van (2002)\nhttps://t.metrograph.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=9999&txtSessionId=30668
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30668
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Party Girl - 35mm @ ROXY CINEMA NEW YORK
-DTSTART:20260802T173000
-DTEND:20260802T193000
+DTSTART:20270802T173000
+DTEND:20270802T193000
 DESCRIPTION:Dir: N/A (1958)\nhttps://ticketing.uswest.veezi.com/purchase/7
  607?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
@@ -13376,8 +13641,8 @@ URL:https://ticketing.uswest.veezi.com/purchase/7607?siteToken=tt17e5ajy3v
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A. Rimbaud @ ROXY CINEMA NEW YORK
-DTSTART:20260802T193000
-DTEND:20260802T213000
+DTSTART:20270802T193000
+DTEND:20270802T213000
 DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
  627?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
@@ -13736,23 +14001,13 @@ URL:https://ticketing.uswest.veezi.com/purchase/7651?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gail Daughtry and the Celebrity Sex Pass @ ROXY CINEMA NEW YORK
-DTSTART:20260819T190000
-DTEND:20260819T210000
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 652?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7652?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Click - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20260819T210000
-DTEND:20260819T230000
+SUMMARY:Crank - 35MM @ ROXY CINEMA NEW YORK
+DTSTART:20260819T211500
+DTEND:20260819T231500
 DESCRIPTION:Dir: N/A (2006)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 684?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+ 737?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7684?siteToken=tt17e5ajy3v
+URL:https://ticketing.uswest.veezi.com/purchase/7737?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
