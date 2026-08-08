@@ -2,1455 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:Le sang d'un poète (The Blood of a Poet) @ ANTHOLOGY FILM ARCHIVE
- S
-DTSTART:20260807T183000
-DTEND:20260807T203000
-DESCRIPTION:Dir: JEAN COCTEAU (1930)\nhttp://anthologyfilmarchives.org/fil
- m_screenings/programs/essential-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
- nema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le sang d'un poète (The Blood of a Poet) @ ANTHOLOGY FILM ARCHIVE
- S
-DTSTART:20260807T184500
-DTEND:20260807T204500
-DESCRIPTION:Dir: JEAN COCTEAU (1930)\nhttp://anthologyfilmarchives.org/fil
- m_screenings/programs/essential-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
- nema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le sang d'un poète (The Blood of a Poet) @ ANTHOLOGY FILM ARCHIVE
- S
-DTSTART:20260807T201500
-DTEND:20260807T221500
-DESCRIPTION:Dir: JEAN COCTEAU (1930)\nhttp://anthologyfilmarchives.org/fil
- m_screenings/programs/essential-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
- nema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le sang d'un poète (The Blood of a Poet) @ ANTHOLOGY FILM ARCHIVE
- S
-DTSTART:20260807T210000
-DTEND:20260807T230000
-DESCRIPTION:Dir: JEAN COCTEAU (1930)\nhttp://anthologyfilmarchives.org/fil
- m_screenings/programs/essential-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
- nema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Shooting @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260807T184500
-DTEND:20260807T204500
-DESCRIPTION:Dir: MONTE HELLMAN (1966)\nhttps://www.anthologyfilmarchives.o
- rg/film_screenings/series/61653
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/series/61653
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beauty and the Beast @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260807T201500
-DTEND:20260807T221500
-DESCRIPTION:Dir: JEAN COCTEAU (1946)\nhttp://anthologyfilmarchives.org/fil
- m_screenings/programs/essential-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
- nema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Time to Die @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260807T210000
-DTEND:20260807T230000
-DESCRIPTION:Dir: ARTURO RIPSTEIN (1966)\nhttps://www.anthologyfilmarchives
- .org/film_screenings/series/61653
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/series/61653
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ BAM
-DTSTART:20260807T133000
-DTEND:20260807T153000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.bam.org/film/2026/th
- e-samurai-and-the-prisoner
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/the-samurai-and-the-prisoner
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ BAM
-DTSTART:20260807T164000
-DTEND:20260807T184000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.bam.org/film/2026/th
- e-samurai-and-the-prisoner
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/the-samurai-and-the-prisoner
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ BAM
-DTSTART:20260807T194500
-DTEND:20260807T214500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.bam.org/film/2026/th
- e-samurai-and-the-prisoner
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/the-samurai-and-the-prisoner
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ BAM
-DTSTART:20260807T140000
-DTEND:20260807T160000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.bam.org/film/2026/th
- e-samurai-and-the-prisoner
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/the-samurai-and-the-prisoner
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ BAM
-DTSTART:20260807T163000
-DTEND:20260807T183000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.bam.org/film/2026/th
- e-samurai-and-the-prisoner
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/the-samurai-and-the-prisoner
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ BAM
-DTSTART:20260807T160000
-DTEND:20260807T180000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.bam.org/film/2026/th
- e-samurai-and-the-prisoner
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/the-samurai-and-the-prisoner
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ BAM
-DTSTART:20260807T184500
-DTEND:20260807T204500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.bam.org/film/2026/th
- e-samurai-and-the-prisoner
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/the-samurai-and-the-prisoner
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ BAM
-DTSTART:20260807T210500
-DTEND:20260807T230500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.bam.org/film/2026/th
- e-samurai-and-the-prisoner
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/the-samurai-and-the-prisoner
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Welcome II the Terrordome @ BAM
-DTSTART:20260807T140000
-DTEND:20260807T160000
-DESCRIPTION:Dir: NGOZI ONWURAH (1995)\nhttps://www.bam.org/film/2026/welco
- me-ii-the-terrordome
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/welcome-ii-the-terrordome
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Welcome II the Terrordome @ BAM
-DTSTART:20260807T163000
-DTEND:20260807T183000
-DESCRIPTION:Dir: NGOZI ONWURAH (1995)\nhttps://www.bam.org/film/2026/welco
- me-ii-the-terrordome
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/welcome-ii-the-terrordome
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheep in the Box @ BAM
-DTSTART:20260807T160000
-DTEND:20260807T180000
-DESCRIPTION:Dir: HIROKAZU KORE-EDA (2026)\nhttps://www.bam.org/film/2026/s
- heep-in-the-box
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/sheep-in-the-box
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trás-os-Montes @ BAM
-DTSTART:20260807T184500
-DTEND:20260807T204500
-DESCRIPTION:Dir: ANTÓNIO REIS AND MARGARIDA CORDEIRO (1976)\nhttps://www.
- bam.org/film/2026/rites-of-cinema
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/rites-of-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rosa de Areia @ BAM
-DTSTART:20260807T210500
-DTEND:20260807T230500
-DESCRIPTION:Dir: ANTÓNIO REIS & MARGARIDA CORDEIRO (1989)\nhttps://www.ba
- m.org/film/2026/rites-of-cinema
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/rites-of-cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Center Stage @ FILM FORUM
-DTSTART:20260807T121500
-DTEND:20260807T141500
-DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
- age
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/center-stage
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Center Stage @ FILM FORUM
-DTSTART:20260807T152000
-DTEND:20260807T172000
-DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
- age
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/center-stage
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Center Stage @ FILM FORUM
-DTSTART:20260807T183000
-DTEND:20260807T203000
-DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
- age
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/center-stage
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Center Stage @ FILM FORUM
-DTSTART:20260807T142500
-DTEND:20260807T162500
-DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
- age
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/center-stage
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Center Stage @ FILM FORUM
-DTSTART:20260807T164000
-DTEND:20260807T184000
-DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
- age
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/center-stage
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Center Stage @ FILM FORUM
-DTSTART:20260807T185000
-DTEND:20260807T205000
-DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
- age
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/center-stage
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Center Stage @ FILM FORUM
-DTSTART:20260807T195000
-DTEND:20260807T215000
-DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
- age
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/center-stage
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Center Stage @ FILM FORUM
-DTSTART:20260807T122000
-DTEND:20260807T142000
-DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
- age
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/center-stage
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Center Stage @ FILM FORUM
-DTSTART:20260807T143500
-DTEND:20260807T163500
-DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
- age
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/center-stage
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Center Stage @ FILM FORUM
-DTSTART:20260807T165000
-DTEND:20260807T185000
-DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
- age
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/center-stage
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Center Stage @ FILM FORUM
-DTSTART:20260807T190000
-DTEND:20260807T210000
-DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
- age
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/center-stage
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Center Stage @ FILM FORUM
-DTSTART:20260807T125000
-DTEND:20260807T145000
-DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
- age
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/center-stage
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Center Stage @ FILM FORUM
-DTSTART:20260807T211000
-DTEND:20260807T231000
-DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
- age
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/center-stage
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260807T121500
-DTEND:20260807T141500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260807T142500
-DTEND:20260807T162500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260807T164000
-DTEND:20260807T184000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260807T185000
-DTEND:20260807T205000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260807T195000
-DTEND:20260807T215000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:White Nights @ FILM FORUM
-DTSTART:20260807T122000
-DTEND:20260807T142000
-DESCRIPTION:Dir: LUCHINO VISCONTI (1957)\nhttps://filmforum.org/film/white
- -nights
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/white-nights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:White Nights @ FILM FORUM
-DTSTART:20260807T143500
-DTEND:20260807T163500
-DESCRIPTION:Dir: LUCHINO VISCONTI (1957)\nhttps://filmforum.org/film/white
- -nights
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/white-nights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:White Nights @ FILM FORUM
-DTSTART:20260807T165000
-DTEND:20260807T185000
-DESCRIPTION:Dir: LUCHINO VISCONTI (1957)\nhttps://filmforum.org/film/white
- -nights
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/white-nights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:White Nights @ FILM FORUM
-DTSTART:20260807T190000
-DTEND:20260807T210000
-DESCRIPTION:Dir: LUCHINO VISCONTI (1957)\nhttps://filmforum.org/film/white
- -nights
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/white-nights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Remake @ FILM FORUM
-DTSTART:20260807T125000
-DTEND:20260807T145000
-DESCRIPTION:Dir: ROSS MCELWEE (2025)\nhttps://filmforum.org/film/remake
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/remake
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sherman's March @ FILM FORUM
-DTSTART:20260807T152000
-DTEND:20260807T172000
-DESCRIPTION:Dir: ROSS MCELWEE (1985)\nhttps://filmforum.org/film/shermans-
- march
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/shermans-march
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dread Beat an Blood @ FILM FORUM
-DTSTART:20260807T211000
-DTEND:20260807T231000
-DESCRIPTION:Dir: FRANCO ROSSO (1979)\nhttps://filmforum.org/film/dread-bea
- t-an-blood
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/dread-beat-an-blood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260807T120000
-DTEND:20260807T140000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260807T150000
-DTEND:20260807T170000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260807T180000
-DTEND:20260807T200000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260807T210000
-DTEND:20260807T230000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260807T130000
-DTEND:20260807T150000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260807T153000
-DTEND:20260807T173000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260807T203000
-DTEND:20260807T223000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260807T131500
-DTEND:20260807T151500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260807T154500
-DTEND:20260807T174500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260807T181500
-DTEND:20260807T201500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260807T204500
-DTEND:20260807T224500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Piano @ FILM AT LINCOLN CENTER
-DTSTART:20260807T130000
-DTEND:20260807T150000
-DESCRIPTION:Dir: JANE CAMPION (1993)\nhttps://www.filmlinc.org/films/the-p
- iano/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-piano/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Piano @ FILM AT LINCOLN CENTER
-DTSTART:20260807T153000
-DTEND:20260807T173000
-DESCRIPTION:Dir: JANE CAMPION (1993)\nhttps://www.filmlinc.org/films/the-p
- iano/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-piano/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Piano @ FILM AT LINCOLN CENTER
-DTSTART:20260807T180000
-DTEND:20260807T200000
-DESCRIPTION:Dir: JANE CAMPION (1993)\nhttps://www.filmlinc.org/films/the-p
- iano/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-piano/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Piano @ FILM AT LINCOLN CENTER
-DTSTART:20260807T203000
-DTEND:20260807T223000
-DESCRIPTION:Dir: JANE CAMPION (1993)\nhttps://www.filmlinc.org/films/the-p
- iano/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-piano/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
-DTSTART:20260807T131500
-DTEND:20260807T151500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
- me/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/late-fame/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
-DTSTART:20260807T154500
-DTEND:20260807T174500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
- me/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/late-fame/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
-DTSTART:20260807T181500
-DTEND:20260807T201500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
- me/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/late-fame/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
-DTSTART:20260807T204500
-DTEND:20260807T224500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
- me/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/late-fame/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CatVideoFest 2026 @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FIL
- M
-DTSTART:20260807T190000
-DTEND:20260807T210000
-DESCRIPTION:Dir: WILL BRADEN (2026)\nhttps://www.dctvny.org/s/firehouse-fi
- lm/catvideofest-2026-MCJRR43CLQQZD5PESSTHV6M2DDQY
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/catvideofest-2026-MCJRR43CLQQZ
- D5PESSTHV6M2DDQY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T104000
-DTEND:20260807T124000
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T125000
-DTEND:20260807T145000
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T172500
-DTEND:20260807T192500
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T193500
-DTEND:20260807T213500
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T104500
-DTEND:20260807T124500
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T124500
-DTEND:20260807T144500
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T191500
-DTEND:20260807T211500
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T105000
-DTEND:20260807T125000
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T150000
-DTEND:20260807T170000
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T214000
-DTEND:20260807T234000
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T111000
-DTEND:20260807T131000
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T143500
-DTEND:20260807T163500
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T165000
-DTEND:20260807T185000
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T190500
-DTEND:20260807T210500
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T213000
-DTEND:20260807T233000
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T120500
-DTEND:20260807T140500
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T212000
-DTEND:20260807T232000
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T133000
-DTEND:20260807T153000
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T183500
-DTEND:20260807T203500
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T150500
-DTEND:20260807T170500
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T154500
-DTEND:20260807T174500
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T214500
-DTEND:20260807T234500
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T173000
-DTEND:20260807T193000
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T223500
-DTEND:20260808T003500
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T233500
-DTEND:20260808T013500
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T234000
-DTEND:20260808T014000
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T235000
-DTEND:20260808T015000
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T235500
-DTEND:20260808T015500
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260807T235900
-DTEND:20260808T015900
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Child of My Own @ IFC CENTER
-DTSTART:20260807T104500
-DTEND:20260807T124500
-DESCRIPTION:Dir: MAITE ALBERDI (2026)\nhttps://www.ifccenter.com/films/a-c
- hild-of-my-own/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/a-child-of-my-own/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Child of My Own @ IFC CENTER
-DTSTART:20260807T124500
-DTEND:20260807T144500
-DESCRIPTION:Dir: MAITE ALBERDI (2026)\nhttps://www.ifccenter.com/films/a-c
- hild-of-my-own/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/a-child-of-my-own/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Child of My Own @ IFC CENTER
-DTSTART:20260807T191500
-DTEND:20260807T211500
-DESCRIPTION:Dir: MAITE ALBERDI (2026)\nhttps://www.ifccenter.com/films/a-c
- hild-of-my-own/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/a-child-of-my-own/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260807T105000
-DTEND:20260807T125000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260807T150000
-DTEND:20260807T170000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260807T214000
-DTEND:20260807T234000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside @ IFC CENTER
-DTSTART:20260807T111000
-DTEND:20260807T131000
-DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
- nside/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside @ IFC CENTER
-DTSTART:20260807T143500
-DTEND:20260807T163500
-DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
- nside/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside @ IFC CENTER
-DTSTART:20260807T165000
-DTEND:20260807T185000
-DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
- nside/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside @ IFC CENTER
-DTSTART:20260807T190500
-DTEND:20260807T210500
-DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
- nside/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside @ IFC CENTER
-DTSTART:20260807T213000
-DTEND:20260807T233000
-DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
- nside/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Fence @ IFC CENTER
-DTSTART:20260807T120500
-DTEND:20260807T140500
-DESCRIPTION:Dir: CLAIRE DENIS (2025)\nhttps://www.ifccenter.com/films/the-
- fence/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-fence/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Fence @ IFC CENTER
-DTSTART:20260807T212000
-DTEND:20260807T232000
-DESCRIPTION:Dir: CLAIRE DENIS (2025)\nhttps://www.ifccenter.com/films/the-
- fence/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-fence/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Julian @ IFC CENTER
-DTSTART:20260807T133000
-DTEND:20260807T153000
-DESCRIPTION:Dir: CATO KUSTERS (2025)\nhttps://www.ifccenter.com/films/juli
- an/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/julian/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Julian @ IFC CENTER
-DTSTART:20260807T183500
-DTEND:20260807T203500
-DESCRIPTION:Dir: CATO KUSTERS (2025)\nhttps://www.ifccenter.com/films/juli
- an/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/julian/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mary Oliver: Saved by the Beauty of the World @ IFC CENTER
-DTSTART:20260807T150500
-DTEND:20260807T170500
-DESCRIPTION:Dir: SASHA WATERS (2026)\nhttps://www.ifccenter.com/films/mary
- -oliver-saved-by-the-beauty-of-the-world/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mary-oliver-saved-by-the-beauty-of-the
- -world/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manhunter @ IFC CENTER
-DTSTART:20260807T154500
-DTEND:20260807T174500
-DESCRIPTION:Dir: MICHAEL MANN (1986)\nhttps://www.ifccenter.com/films/mich
- ael-manns-manhunter-the-final-cut/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/michael-manns-manhunter-the-final-cut/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manhunter @ IFC CENTER
-DTSTART:20260807T214500
-DTEND:20260807T234500
-DESCRIPTION:Dir: MICHAEL MANN (1986)\nhttps://www.ifccenter.com/films/mich
- ael-manns-manhunter-the-final-cut/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/michael-manns-manhunter-the-final-cut/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jimmy @ IFC CENTER
-DTSTART:20260807T173000
-DTEND:20260807T193000
-DESCRIPTION:Dir: YASHADDAI OWENS (67M)\nhttps://www.ifccenter.com/films/ji
- mmy/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/jimmy/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jimmy @ IFC CENTER
-DTSTART:20260807T223500
-DTEND:20260808T003500
-DESCRIPTION:Dir: YASHADDAI OWENS (67M)\nhttps://www.ifccenter.com/films/ji
- mmy/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/jimmy/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blades of Glory @ IFC CENTER
-DTSTART:20260807T233500
-DTEND:20260808T013500
-DESCRIPTION:Dir: WILL SPECK\, JOSH GORDON (2007)\nhttps://www.ifccenter.co
- m/series/staff-picks-2026/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/series/staff-picks-2026/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thief @ IFC CENTER
-DTSTART:20260807T234000
-DTEND:20260808T014000
-DESCRIPTION:Dir: MICHAEL MANN (1981)\nhttps://www.ifccenter.com/series/wav
- erly-midnights-mann-splaining/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/series/waverly-midnights-mann-splaining/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Addams Family Values @ IFC CENTER
-DTSTART:20260807T235000
-DTEND:20260808T015000
-DESCRIPTION:Dir: BARRY SONNEFELD (1993)\nhttps://www.ifccenter.com/series/
- staff-picks-2026/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/series/staff-picks-2026/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gummo @ IFC CENTER
-DTSTART:20260807T235500
-DTEND:20260808T015500
-DESCRIPTION:Dir: HARMONY KORINE (1997)\nhttps://www.ifccenter.com/series/w
- averly-midnights-think-of-the-children/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/series/waverly-midnights-think-of-the-childr
- en/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghost in the Shell @ IFC CENTER
-DTSTART:20260807T235900
-DTEND:20260808T015900
-DESCRIPTION:Dir: MAMORU OSHII (1995)\nhttps://www.ifccenter.com/films/ghos
- t-in-the-shell/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/ghost-in-the-shell/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Notes on Breakcore @ LOW CINEMA
-DTSTART:20260807T180000
-DTEND:20260807T200000
-DESCRIPTION:Dir: DAVID KLEINL\, BERTRAM KÖNIGHOFER (2006)\nhttps://lowcin
- ema.com/movie/notes-on-breakcore-x-bass-boss/
-LOCATION:LOW CINEMA
-URL:https://lowcinema.com/movie/notes-on-breakcore-x-bass-boss/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Notes on Breakcore @ LOW CINEMA
-DTSTART:20260807T200000
-DTEND:20260807T220000
-DESCRIPTION:Dir: DAVID KLEINL\, BERTRAM KÖNIGHOFER (2006)\nhttps://lowcin
- ema.com/movie/notes-on-breakcore-x-bass-boss/
-LOCATION:LOW CINEMA
-URL:https://lowcinema.com/movie/notes-on-breakcore-x-bass-boss/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vertigo @ METROGRAPH
-DTSTART:20260807T140000
-DTEND:20260807T160000
-DESCRIPTION:Dir: ALFRED HITCHCOCK (1958)\nhttps://metrograph.com/series/?v
- ista_series_id=0000000566
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000566
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vertigo @ METROGRAPH
-DTSTART:20260807T141500
-DTEND:20260807T161500
-DESCRIPTION:Dir: ALFRED HITCHCOCK (1958)\nhttps://metrograph.com/series/?v
- ista_series_id=0000000566
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000566
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vertigo @ METROGRAPH
-DTSTART:20260807T163000
-DTEND:20260807T183000
-DESCRIPTION:Dir: ALFRED HITCHCOCK (1958)\nhttps://metrograph.com/series/?v
- ista_series_id=0000000566
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000566
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vertigo @ METROGRAPH
-DTSTART:20260807T163500
-DTEND:20260807T183500
-DESCRIPTION:Dir: ALFRED HITCHCOCK (1958)\nhttps://metrograph.com/series/?v
- ista_series_id=0000000566
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000566
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vertigo @ METROGRAPH
-DTSTART:20260807T184000
-DTEND:20260807T204000
-DESCRIPTION:Dir: ALFRED HITCHCOCK (1958)\nhttps://metrograph.com/series/?v
- ista_series_id=0000000566
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000566
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vertigo @ METROGRAPH
-DTSTART:20260807T191500
-DTEND:20260807T211500
-DESCRIPTION:Dir: ALFRED HITCHCOCK (1958)\nhttps://metrograph.com/series/?v
- ista_series_id=0000000566
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000566
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vertigo @ METROGRAPH
-DTSTART:20260807T203000
-DTEND:20260807T223000
-DESCRIPTION:Dir: ALFRED HITCHCOCK (1958)\nhttps://metrograph.com/series/?v
- ista_series_id=0000000566
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000566
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vertigo @ METROGRAPH
-DTSTART:20260807T220000
-DTEND:20260808T000000
-DESCRIPTION:Dir: ALFRED HITCHCOCK (1958)\nhttps://metrograph.com/series/?v
- ista_series_id=0000000566
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000566
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vertigo @ METROGRAPH
-DTSTART:20260807T223000
-DTEND:20260808T003000
-DESCRIPTION:Dir: ALFRED HITCHCOCK (1958)\nhttps://metrograph.com/series/?v
- ista_series_id=0000000566
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000566
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wake in Fright @ METROGRAPH
-DTSTART:20260807T141500
-DTEND:20260807T161500
-DESCRIPTION:Dir: TED KOTCHEFF (1971)\nhttps://metrograph.com/series/?vista
- _series_id=0000000556
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000556
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chocolat @ METROGRAPH
-DTSTART:20260807T163000
-DTEND:20260807T183000
-DESCRIPTION:Dir: CLAIRE DENIS (1988)\nhttps://metrograph.com/series/?vista
- _series_id=0000000570
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000570
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Conversation Piece @ METROGRAPH
-DTSTART:20260807T163500
-DTEND:20260807T183500
-DESCRIPTION:Dir: LUCHINO VISCONTI (1977)\nhttps://metrograph.com/series/?v
- ista_series_id=0000000564
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000564
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paranoid Park @ METROGRAPH
-DTSTART:20260807T184000
-DTEND:20260807T204000
-DESCRIPTION:Dir: GUS VAN SANT (2007)\nhttps://metrograph.com/series/?vista
- _series_id=0000000558
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000558
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Collateral @ METROGRAPH
-DTSTART:20260807T191500
-DTEND:20260807T211500
-DESCRIPTION:Dir: MICHAEL MANN (2004)\nhttps://metrograph.com/series/?vista
- _series_id=0000000555
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000555
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Milk of Sorrow @ METROGRAPH
-DTSTART:20260807T203000
-DTEND:20260807T223000
-DESCRIPTION:Dir: CLAUDIA LLOSA (2009)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000566
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000566
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hannibal @ METROGRAPH
-DTSTART:20260807T220000
-DTEND:20260808T000000
-DESCRIPTION:Dir: RIDLEY SCOTT (2001)\nhttps://metrograph.com/series/?vista
- _series_id=0000000559
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000559
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scene of the Crime @ METROGRAPH
-DTSTART:20260807T223000
-DTEND:20260808T003000
-DESCRIPTION:Dir: ANDRÉ TÉCHINÉ (1986)\nhttps://metrograph.com/series/?v
- ista_series_id=0000000570
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000570
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mississippi Masala @ MUSEUM OF MODERN ART
-DTSTART:20260807T160000
-DTEND:20260807T180000
-DESCRIPTION:Dir: MIRA NAIR (1991)\nhttps://www.moma.org/calendar/film/5911
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5911
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mississippi Masala @ MUSEUM OF MODERN ART
-DTSTART:20260807T190000
-DTEND:20260807T210000
-DESCRIPTION:Dir: MIRA NAIR (1991)\nhttps://www.moma.org/calendar/film/5911
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5911
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clando @ MUSEUM OF MODERN ART
-DTSTART:20260807T190000
-DTEND:20260807T210000
-DESCRIPTION:Dir: JEAN-MARIE TÉNO (1996)\nhttps://www.moma.org/calendar/fi
- lm/5911
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5911
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freeway @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260807T235500
-DTEND:20260808T015500
-DESCRIPTION:Dir: MATTHEW BRIGHT (1996)\nhttps://nitehawkcinema.com/william
- sburg/film-series/the-class-of-96/
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://nitehawkcinema.com/williamsburg/film-series/the-class-of-96/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Child of My Own @ PARIS THEATER
-DTSTART:20260807T113000
-DTEND:20260807T133000
-DESCRIPTION:Dir: MAITE ALBERDI (2026)\nhttps://www.paristheaternyc.com/ser
- ies/a-child-of-my-own-maite-alberdi
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/a-child-of-my-own-maite-alberdi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Child of My Own @ PARIS THEATER
-DTSTART:20260807T140000
-DTEND:20260807T160000
-DESCRIPTION:Dir: MAITE ALBERDI (2026)\nhttps://www.paristheaternyc.com/ser
- ies/a-child-of-my-own-maite-alberdi
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/a-child-of-my-own-maite-alberdi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Child of My Own @ PARIS THEATER
-DTSTART:20260807T163000
-DTEND:20260807T183000
-DESCRIPTION:Dir: MAITE ALBERDI (2026)\nhttps://www.paristheaternyc.com/ser
- ies/a-child-of-my-own-maite-alberdi
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/a-child-of-my-own-maite-alberdi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Child of My Own @ PARIS THEATER
-DTSTART:20260807T190000
-DTEND:20260807T210000
-DESCRIPTION:Dir: MAITE ALBERDI (2026)\nhttps://www.paristheaternyc.com/ser
- ies/a-child-of-my-own-maite-alberdi
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/a-child-of-my-own-maite-alberdi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Child of My Own @ PARIS THEATER
-DTSTART:20260807T213000
-DTEND:20260807T233000
-DESCRIPTION:Dir: MAITE ALBERDI (2026)\nhttps://www.paristheaternyc.com/ser
- ies/a-child-of-my-own-maite-alberdi
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/a-child-of-my-own-maite-alberdi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Movie @ ROXY CINEMA NEW YORK
-DTSTART:20260807T170000
-DTEND:20260807T190000
-DESCRIPTION:Dir: CHRIS SMITH (1999)\nhttps://www.roxycinemanewyork.com/scr
- eenings/american-movie-35mm-2/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/screenings/american-movie-35mm-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Movie @ ROXY CINEMA NEW YORK
-DTSTART:20260807T190000
-DTEND:20260807T210000
-DESCRIPTION:Dir: CHRIS SMITH (1999)\nhttps://www.roxycinemanewyork.com/scr
- eenings/american-movie-35mm-2/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/screenings/american-movie-35mm-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Movie @ ROXY CINEMA NEW YORK
-DTSTART:20260807T213000
-DTEND:20260807T233000
-DESCRIPTION:Dir: CHRIS SMITH (1999)\nhttps://www.roxycinemanewyork.com/scr
- eenings/american-movie-35mm-2/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/screenings/american-movie-35mm-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Fountain @ ROXY CINEMA NEW YORK
-DTSTART:20260807T190000
-DTEND:20260807T210000
-DESCRIPTION:Dir: DARREN ARONOFSKY (2006)\nhttps://www.roxycinemanewyork.co
- m/stories/2006-movies-you-must-see-before-you-die/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/stories/2006-movies-you-must-see-bef
- ore-you-die/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In the Glow of Darkness @ ROXY CINEMA NEW YORK
-DTSTART:20260807T213000
-DTEND:20260807T233000
-DESCRIPTION:Dir: TUCKER BENNETT (2025)\nhttps://ticketing.uswest.veezi.com
- /purchase/7625?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7625?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Sami Song of Survival @ SPECTACLE
-DTSTART:20260807T170000
-DTEND:20260807T190000
-DESCRIPTION:Dir: IARA LEE (2025)\nhttps://www.spectacletheater.com/art-cou
- ld-be-a-weapon/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/art-could-be-a-weapon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Sami Song of Survival @ SPECTACLE
-DTSTART:20260807T193000
-DTEND:20260807T213000
-DESCRIPTION:Dir: IARA LEE (2025)\nhttps://www.spectacletheater.com/art-cou
- ld-be-a-weapon/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/art-could-be-a-weapon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Sami Song of Survival @ SPECTACLE
-DTSTART:20260807T220000
-DTEND:20260808T000000
-DESCRIPTION:Dir: IARA LEE (2025)\nhttps://www.spectacletheater.com/art-cou
- ld-be-a-weapon/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/art-could-be-a-weapon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Sami Song of Survival @ SPECTACLE
-DTSTART:20260807T235500
-DTEND:20260808T015500
-DESCRIPTION:Dir: IARA LEE (2025)\nhttps://www.spectacletheater.com/art-cou
- ld-be-a-weapon/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/art-could-be-a-weapon/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agalmatophilia @ SPECTACLE
-DTSTART:20260807T193000
-DTEND:20260807T213000
-DESCRIPTION:Dir: JARED MASTERS (2018)\nhttps://www.spectacletheater.com/in
- troducing-jared-masters/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/introducing-jared-masters/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Club Lingerie @ SPECTACLE
-DTSTART:20260807T220000
-DTEND:20260808T000000
-DESCRIPTION:Dir: JARED MASTERS (2014)\nhttps://www.spectacletheater.com/in
- troducing-jared-masters/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/introducing-jared-masters/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Janie @ SPECTACLE
-DTSTART:20260807T235500
-DTEND:20260808T015500
-DESCRIPTION:Dir: JACK BRAVMAN (1970)\nhttps://www.spectacletheater.com/the
- -devil-rides-shotgun/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/the-devil-rides-shotgun/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Man With a Movie Camera @ THEATRE 154
-DTSTART:20260807T193000
-DTEND:20260807T213000
-DESCRIPTION:Dir: DZIGA VERTOV’S (1929)\nhttps://www.eventbrite.com/e/man
- -with-a-movie-camera-presented-by-pm-theater-tickets-1993072609828?aff=odd
- tdtcreator
-LOCATION:THEATRE 154
-URL:https://www.eventbrite.com/e/man-with-a-movie-camera-presented-by-pm-t
- heater-tickets-1993072609828?aff=oddtdtcreator
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nobody Wanted to Die / Niekas Nenorėjo Mirti @ ANTHOLOGY FILM ARC
  HIVES
 DTSTART:20260808T160000
@@ -4202,6 +2753,33 @@ DESCRIPTION:Dir: AHMED EL MAÂNOUNI (1978)\nhttps://www.moma.org/calendar/
  film/5914
 LOCATION:MUSEUM OF MODERN ART
 URL:https://www.moma.org/calendar/film/5914
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amadeus @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260809T123000
+DTEND:20260809T143000
+DESCRIPTION:Dir: 12:30PM (CatVideoFest 2026)\nhttps://movingimage.us/serie
+ s/jim-hensons-world-2020/
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://movingimage.us/series/jim-hensons-world-2020/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amadeus @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260809T130000
+DTEND:20260809T150000
+DESCRIPTION:Dir: 12:30PM (CatVideoFest 2026)\nhttps://movingimage.us/serie
+ s/jim-hensons-world-2020/
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://movingimage.us/series/jim-hensons-world-2020/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amadeus @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260809T150000
+DTEND:20260809T170000
+DESCRIPTION:Dir: 12:30PM (CatVideoFest 2026)\nhttps://movingimage.us/serie
+ s/jim-hensons-world-2020/
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://movingimage.us/series/jim-hensons-world-2020/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Citizen Ruth @ NITEHAWK CINEMA PROSPECT PARK
@@ -9776,12 +8354,21 @@ URL:https://www.moma.org/calendar/film/5911
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2001: A Space Odyssey @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260816T140000
+DTEND:20260816T160000
+DESCRIPTION:Dir: WILL BRADEN (2026)\nhttps://movingimage.org/series/new-re
+ leases/
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://movingimage.org/series/new-releases/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2001: A Space Odyssey @ MUSEUM OF THE MOVING IMAGE
 DTSTART:20260816T160000
 DTEND:20260816T180000
-DESCRIPTION:Dir: STANLEY KUBRICK (1968)\nhttps://movingimage.org/series/se
- e-it-big-70mm-2026/
+DESCRIPTION:Dir: WILL BRADEN (2026)\nhttps://movingimage.org/series/new-re
+ leases/
 LOCATION:MUSEUM OF THE MOVING IMAGE
-URL:https://movingimage.org/series/see-it-big-70mm-2026/
+URL:https://movingimage.org/series/new-releases/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bottle Rocket @ NITEHAWK CINEMA PROSPECT PARK
@@ -15514,6 +14101,33 @@ LOCATION:PARIS THEATER
 URL:https://www.paristheaternyc.com/series/big-loud-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:What Godmilow Taught @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260904T184500
+DTEND:20260904T204500
+DESCRIPTION:Dir: MIREIA SALLARÈS (2014)\nhttps://www.anthologyfilmarchive
+ s.org/film_screenings/series/61934
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61934
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What Godmilow Taught @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260904T204500
+DTEND:20260904T224500
+DESCRIPTION:Dir: MIREIA SALLARÈS (2014)\nhttps://www.anthologyfilmarchive
+ s.org/film_screenings/series/61934
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61934
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What Farocki Taught @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260904T204500
+DTEND:20260904T224500
+DESCRIPTION:Dir: JILL GODMILOW (1997)\nhttps://www.anthologyfilmarchives.o
+ rg/film_screenings/series/61934
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61934
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Conversation @ FILM FORUM
 DTSTART:20260904T130000
 DTEND:20260904T150000
@@ -15613,6 +14227,33 @@ LOCATION:PARIS THEATER
 URL:https://www.paristheaternyc.com/series/big-loud-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:What Godmilow Taught @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260905T180000
+DTEND:20260905T200000
+DESCRIPTION:Dir: MIREIA SALLARÈS (2014)\nhttps://www.anthologyfilmarchive
+ s.org/film_screenings/series/61934
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61934
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What Godmilow Taught @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260905T200000
+DTEND:20260905T220000
+DESCRIPTION:Dir: MIREIA SALLARÈS (2014)\nhttps://www.anthologyfilmarchive
+ s.org/film_screenings/series/61934
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61934
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Roy Cohn/Jack Smith @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260905T200000
+DTEND:20260905T220000
+DESCRIPTION:Dir: JILL GODMILOW (1995)\nhttps://www.anthologyfilmarchives.o
+ rg/film_screenings/series/61934
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61934
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gardens of Stone @ FILM FORUM
 DTSTART:20260905T122000
 DTEND:20260905T142000
@@ -15710,6 +14351,53 @@ DESCRIPTION:Dir: STANLEY KUBRICK (1968)\nhttps://www.paristheaternyc.com/s
  eries/big-loud-2026
 LOCATION:PARIS THEATER
 URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Deaths @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260906T160000
+DTEND:20260906T180000
+DESCRIPTION:Dir: MIREIA SALLARÈS (2009)\nhttps://www.anthologyfilmarchive
+ s.org/film_screenings/series/61934
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61934
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Deaths @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260906T171500
+DTEND:20260906T191500
+DESCRIPTION:Dir: MIREIA SALLARÈS (2009)\nhttps://www.anthologyfilmarchive
+ s.org/film_screenings/series/61934
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61934
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Deaths @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260906T193000
+DTEND:20260906T213000
+DESCRIPTION:Dir: MIREIA SALLARÈS (2009)\nhttps://www.anthologyfilmarchive
+ s.org/film_screenings/series/61934
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61934
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zvenigora @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260906T171500
+DTEND:20260906T191500
+DESCRIPTION:Dir: ALEKSANDR DOVZHENKO (1928)\nhttp://anthologyfilmarchives.
+ org/film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arsenal @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260906T193000
+DTEND:20260906T213000
+DESCRIPTION:Dir: ALEKSANDR DOVZHENKO (1929)\nhttp://anthologyfilmarchives.
+ org/film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Youth Without Youth @ FILM FORUM
@@ -15893,6 +14581,17 @@ URL:https://www.roxycinemanewyork.com/stories/2006-movies-you-must-see-bef
  ore-you-die/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dandelions @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260908T190000
+DTEND:20260908T210000
+DESCRIPTION:Dir: DAWN WILKINSON (1995)\nhttps://www.anthologyfilmarchives.
+ org/film_screenings/calendar?view=list&amp\;month=09&amp\;year=2026#showin
+ g-61985
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=09&amp;year=2026#showing-61985
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Between the Ditches and Ramparts @ CZECH CENTER
 DTSTART:20260908T190000
 DTEND:20260908T210000
@@ -15993,6 +14692,52 @@ LOCATION:PARIS THEATER
 URL:https://www.paristheaternyc.com/series/big-loud-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Teach Our Children @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260909T184500
+DTEND:20260909T204500
+DESCRIPTION:Dir: SUSAN ROBESON\, CHRISTINE CHOY (1972)\nhttps://www.screen
+ slate.com/series/christine-choy
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/christine-choy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teach Our Children @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260909T191500
+DTEND:20260909T211500
+DESCRIPTION:Dir: SUSAN ROBESON\, CHRISTINE CHOY (1972)\nhttps://www.screen
+ slate.com/series/christine-choy
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/christine-choy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teach Our Children @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260909T203000
+DTEND:20260909T223000
+DESCRIPTION:Dir: SUSAN ROBESON\, CHRISTINE CHOY (1972)\nhttps://www.screen
+ slate.com/series/christine-choy
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/christine-choy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Earth @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260909T191500
+DTEND:20260909T211500
+DESCRIPTION:Dir: ALEKSANDR DOVZHENKO (1930)\nhttp://anthologyfilmarchives.
+ org/film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Spikes to Spindles @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260909T203000
+DTEND:20260909T223000
+DESCRIPTION:Dir: CHRISTINE CHOY (1976)\nhttps://www.screenslate.com/series
+ /christine-choy
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/christine-choy
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tetro @ FILM FORUM
 DTSTART:20260909T130000
 DTEND:20260909T150000
@@ -16082,6 +14827,74 @@ DESCRIPTION:Dir: EMILIE THALUND (2025)\nhttp://www.scandinaviahouse.org/ev
  ent/films/
 LOCATION:SCANDINAVIA HOUSE
 URL:http://www.scandinaviahouse.org/event/films/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Parson's Widow @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260910T183000
+DTEND:20260910T203000
+DESCRIPTION:Dir: CARL THEODOR DREYER (1921)\nhttp://anthologyfilmarchives.
+ org/film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Parson's Widow @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260910T184500
+DTEND:20260910T204500
+DESCRIPTION:Dir: CARL THEODOR DREYER (1921)\nhttp://anthologyfilmarchives.
+ org/film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Parson's Widow @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260910T203000
+DTEND:20260910T223000
+DESCRIPTION:Dir: CARL THEODOR DREYER (1921)\nhttp://anthologyfilmarchives.
+ org/film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Parson's Widow @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260910T204500
+DTEND:20260910T224500
+DESCRIPTION:Dir: CARL THEODOR DREYER (1921)\nhttp://anthologyfilmarchives.
+ org/film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:To Love\, Honor and Obey @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260910T184500
+DTEND:20260910T204500
+DESCRIPTION:Dir: CHRISTINE CHOY & MARLENE DANN (1980)\nhttps://www.screens
+ late.com/series/christine-choy
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/christine-choy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Namibia: Independence Now! @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260910T203000
+DTEND:20260910T223000
+DESCRIPTION:Dir: CHRISTINE CHOY\, PEARL BOWSER (1985)\nhttps://www.screens
+ late.com/series/christine-choy
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/christine-choy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Michael @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260910T204500
+DTEND:20260910T224500
+DESCRIPTION:Dir: CARL THEODOR DREYER (1924)\nhttp://anthologyfilmarchives.
+ org/film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dementia 13: Director's Cut @ FILM FORUM
@@ -16175,6 +14988,52 @@ URL:https://www.roxycinemanewyork.com/stories/2006-movies-you-must-see-bef
  ore-you-die/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Who Killed Vincent Chin? @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260911T184500
+DTEND:20260911T204500
+DESCRIPTION:Dir: RENEE TAJIMA-PEÑA\, CHRISTINE CHOY (1987)\nhttps://www.s
+ creenslate.com/series/christine-choy
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/christine-choy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Who Killed Vincent Chin? @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260911T193000
+DTEND:20260911T213000
+DESCRIPTION:Dir: RENEE TAJIMA-PEÑA\, CHRISTINE CHOY (1987)\nhttps://www.s
+ creenslate.com/series/christine-choy
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/christine-choy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Who Killed Vincent Chin? @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260911T210000
+DTEND:20260911T230000
+DESCRIPTION:Dir: RENEE TAJIMA-PEÑA\, CHRISTINE CHOY (1987)\nhttps://www.s
+ creenslate.com/series/christine-choy
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/christine-choy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Passion of Joan of Arc @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260911T193000
+DTEND:20260911T213000
+DESCRIPTION:Dir: CARL THEODOR DREYER (1927)\nhttp://anthologyfilmarchives.
+ org/film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teach Our Children @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260911T210000
+DTEND:20260911T230000
+DESCRIPTION:Dir: SUSAN ROBESON\, CHRISTINE CHOY (1972)\nhttps://www.screen
+ slate.com/series/christine-choy
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/christine-choy
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Powwow People @ BAM
 DTSTART:20260911T141000
 DTEND:20260911T161000
@@ -16220,6 +15079,71 @@ LOCATION:PARIS THEATER
 URL:https://www.paristheaternyc.com/series/big-loud-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Namibia: Independence Now! @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260912T164500
+DTEND:20260912T184500
+DESCRIPTION:Dir: CHRISTINE CHOY\, PEARL BOWSER (1985)\nhttps://www.screens
+ late.com/series/christine-choy
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/christine-choy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Namibia: Independence Now! @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260912T180000
+DTEND:20260912T200000
+DESCRIPTION:Dir: CHRISTINE CHOY\, PEARL BOWSER (1985)\nhttps://www.screens
+ late.com/series/christine-choy
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/christine-choy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Namibia: Independence Now! @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260912T190000
+DTEND:20260912T210000
+DESCRIPTION:Dir: CHRISTINE CHOY\, PEARL BOWSER (1985)\nhttps://www.screens
+ late.com/series/christine-choy
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/christine-choy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Namibia: Independence Now! @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260912T200000
+DTEND:20260912T220000
+DESCRIPTION:Dir: CHRISTINE CHOY\, PEARL BOWSER (1985)\nhttps://www.screens
+ late.com/series/christine-choy
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/christine-choy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vampyr @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260912T180000
+DTEND:20260912T200000
+DESCRIPTION:Dir: CARL THEODOR DREYER (1932)\nhttp://anthologyfilmarchives.
+ org/film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ha Ha Shanghai @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260912T190000
+DTEND:20260912T210000
+DESCRIPTION:Dir: CHRISTINE CHOY (2001)\nhttps://www.screenslate.com/series
+ /christine-choy
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/christine-choy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day of Wrath @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260912T200000
+DTEND:20260912T220000
+DESCRIPTION:Dir: CARL THEODOR DREYER (1943)\nhttp://anthologyfilmarchives.
+ org/film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Powwow People @ BAM
 DTSTART:20260912T141000
 DTEND:20260912T161000
@@ -16263,6 +15187,74 @@ DESCRIPTION:Dir: DAVID LEAN (1962)\nhttps://www.paristheaternyc.com/series
  /big-loud-2026
 LOCATION:PARIS THEATER
 URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ordet @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260913T170000
+DTEND:20260913T190000
+DESCRIPTION:Dir: CARL THEODOR DREYER (1955)\nhttp://anthologyfilmarchives.
+ org/film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ordet @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260913T183000
+DTEND:20260913T203000
+DESCRIPTION:Dir: CARL THEODOR DREYER (1955)\nhttp://anthologyfilmarchives.
+ org/film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ordet @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260913T200000
+DTEND:20260913T220000
+DESCRIPTION:Dir: CARL THEODOR DREYER (1955)\nhttp://anthologyfilmarchives.
+ org/film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ordet @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260913T203000
+DTEND:20260913T223000
+DESCRIPTION:Dir: CARL THEODOR DREYER (1955)\nhttp://anthologyfilmarchives.
+ org/film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Spikes to Spindles @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260913T183000
+DTEND:20260913T203000
+DESCRIPTION:Dir: CHRISTINE CHOY (1976)\nhttps://www.screenslate.com/series
+ /christine-choy
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/christine-choy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gertrud @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260913T200000
+DTEND:20260913T220000
+DESCRIPTION:Dir: CARL THEODOR DREYER (1964)\nhttp://anthologyfilmarchives.
+ org/film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Who Killed Vincent Chin? @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260913T203000
+DTEND:20260913T223000
+DESCRIPTION:Dir: RENEE TAJIMA-PEÑA\, CHRISTINE CHOY (1987)\nhttps://www.s
+ creenslate.com/series/christine-choy
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/christine-choy
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Powwow People @ BAM
@@ -16346,6 +15338,34 @@ LOCATION:BAM
 URL:https://www.bam.org/film/2026/powwow-people
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Deux fois @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260915T190000
+DTEND:20260915T210000
+DESCRIPTION:Dir: JACKIE RAYNAL (1968)\nhttps://www.screenslate.com/series/
+ jackie-raynal-presents
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/jackie-raynal-presents
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deux fois @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260915T210000
+DTEND:20260915T230000
+DESCRIPTION:Dir: JACKIE RAYNAL (1968)\nhttps://www.screenslate.com/series/
+ jackie-raynal-presents
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/jackie-raynal-presents
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day of Wrath @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260915T210000
+DTEND:20260915T230000
+DESCRIPTION:Dir: CARL THEODOR DREYER (1943)\nhttp://anthologyfilmarchives.
+ org/film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Powwow People @ BAM
 DTSTART:20260915T164000
 DTEND:20260915T184000
@@ -16389,6 +15409,53 @@ DESCRIPTION:Dir: LARRY PEERCE (1967)\nhttps://filmforum.org/series/nyc-in-
  transit
 LOCATION:FILM FORUM
 URL:https://filmforum.org/series/nyc-in-transit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Last Interview with Éric Rohmer @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260916T183000
+DTEND:20260916T203000
+DESCRIPTION:Dir: JACKIE RAYNAL (2010)\nhttps://www.screenslate.com/series/
+ jackie-raynal-presents
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/jackie-raynal-presents
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Last Interview with Éric Rohmer @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260916T193000
+DTEND:20260916T213000
+DESCRIPTION:Dir: JACKIE RAYNAL (2010)\nhttps://www.screenslate.com/series/
+ jackie-raynal-presents
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/jackie-raynal-presents
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Last Interview with Éric Rohmer @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260916T203000
+DTEND:20260916T223000
+DESCRIPTION:Dir: JACKIE RAYNAL (2010)\nhttps://www.screenslate.com/series/
+ jackie-raynal-presents
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/jackie-raynal-presents
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Day of Wrath @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260916T193000
+DTEND:20260916T213000
+DESCRIPTION:Dir: CARL THEODOR DREYER (1943)\nhttp://anthologyfilmarchives.
+ org/film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Six in Paris (Paris vu par… ) @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260916T203000
+DTEND:20260916T223000
+DESCRIPTION:Dir: ERIC ROHMER\, JEAN-DANIEL POLLET\, JEAN DOUCHET\, JEAN-LU
+ C GODARD\, JEAN ROUCH\, CLAUDE CHABROL (1965)\nhttps://www.screenslate.com
+ /series/jackie-raynal-presents
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/jackie-raynal-presents
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Powwow People @ BAM
@@ -16437,6 +15504,24 @@ LOCATION:SCANDINAVIA HOUSE
 URL:http://www.scandinaviahouse.org/event/films/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Paparazzi @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260917T190000
+DTEND:20260917T210000
+DESCRIPTION:Dir: JACQUES ROZIER (1963)\nhttps://www.screenslate.com/series
+ /jackie-raynal-presents
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/jackie-raynal-presents
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paparazzi @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260917T193000
+DTEND:20260917T213000
+DESCRIPTION:Dir: JACQUES ROZIER (1963)\nhttps://www.screenslate.com/series
+ /jackie-raynal-presents
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.screenslate.com/series/jackie-raynal-presents
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Powwow People @ BAM
 DTSTART:20260917T164000
 DTEND:20260917T184000
@@ -16473,6 +15558,33 @@ LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://nitehawkcinema.com/williamsburg/film-series/visual-vengeance/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Work in Progress @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260918T190000
+DTEND:20260918T210000
+DESCRIPTION:Dir: JOSÉ LUIS GUERÍN (2001)\nhttps://www.anthologyfilmarchi
+ ves.org/film_screenings/series/61953
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61953
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Work in Progress @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260918T193000
+DTEND:20260918T213000
+DESCRIPTION:Dir: JOSÉ LUIS GUERÍN (2001)\nhttps://www.anthologyfilmarchi
+ ves.org/film_screenings/series/61953
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61953
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Gloria of Your Imagination @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260918T193000
+DTEND:20260918T213000
+DESCRIPTION:Dir: JENNIFER REEVES (2024)\nhttps://www.anthologyfilmarchives
+ .org/film_screenings/series/61944
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61944
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dancehall Queen @ FLATBUSH REFORMED CHURCH
 DTSTART:20260918T193000
 DTEND:20260918T213000
@@ -16480,6 +15592,123 @@ DESCRIPTION:Dir: DON LETTS AND RICK ELGOOD (1997)\nhttps://www.eventbrite.
  com/o/8387562806
 LOCATION:FLATBUSH REFORMED CHURCH
 URL:https://www.eventbrite.com/o/8387562806
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Gloria of Your Imagination @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260919T171500
+DTEND:20260919T191500
+DESCRIPTION:Dir: JENNIFER REEVES (2024)\nhttps://www.anthologyfilmarchives
+ .org/film_screenings/series/61944
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61944
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Gloria of Your Imagination @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260919T173000
+DTEND:20260919T193000
+DESCRIPTION:Dir: JENNIFER REEVES (2024)\nhttps://www.anthologyfilmarchives
+ .org/film_screenings/series/61944
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61944
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Gloria of Your Imagination @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260919T200000
+DTEND:20260919T220000
+DESCRIPTION:Dir: JENNIFER REEVES (2024)\nhttps://www.anthologyfilmarchives
+ .org/film_screenings/series/61944
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61944
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Gloria of Your Imagination @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260919T201500
+DTEND:20260919T221500
+DESCRIPTION:Dir: JENNIFER REEVES (2024)\nhttps://www.anthologyfilmarchives
+ .org/film_screenings/series/61944
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61944
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meishi Street @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260919T173000
+DTEND:20260919T193000
+DESCRIPTION:Dir: OU NING (2006)\nhttps://www.anthologyfilmarchives.org/fil
+ m_screenings/series/61953
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61953
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Land @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260919T200000
+DTEND:20260919T220000
+DESCRIPTION:Dir: BASEL ADRA\, HAMDAN BALLAL\, YUVAL ABRAHAM\, RACHEL SZOR 
+ (2024)\nhttps://www.anthologyfilmarchives.org/film_screenings/series/61953
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61953
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:When It Was Blue @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260919T201500
+DTEND:20260919T221500
+DESCRIPTION:Dir: JENNIFER REEVES (2008)\nhttps://www.anthologyfilmarchives
+ .org/film_screenings/series/61944
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61944
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In Vanda's Room @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260920T161500
+DTEND:20260920T181500
+DESCRIPTION:Dir: PEDRO COSTA (2000)\nhttps://www.anthologyfilmarchives.org
+ /film_screenings/series/61953
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61953
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In Vanda's Room @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260920T171500
+DTEND:20260920T191500
+DESCRIPTION:Dir: PEDRO COSTA (2000)\nhttps://www.anthologyfilmarchives.org
+ /film_screenings/series/61953
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61953
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In Vanda's Room @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260920T194500
+DTEND:20260920T214500
+DESCRIPTION:Dir: PEDRO COSTA (2000)\nhttps://www.anthologyfilmarchives.org
+ /film_screenings/series/61953
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61953
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In Vanda's Room @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260920T200000
+DTEND:20260920T220000
+DESCRIPTION:Dir: PEDRO COSTA (2000)\nhttps://www.anthologyfilmarchives.org
+ /film_screenings/series/61953
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61953
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Gloria of Your Imagination @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260920T194500
+DTEND:20260920T214500
+DESCRIPTION:Dir: JENNIFER REEVES (2024)\nhttps://www.anthologyfilmarchives
+ .org/film_screenings/series/61944
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61944
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Demolition @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260920T200000
+DTEND:20260920T220000
+DESCRIPTION:Dir: J.P. SNIADECKI (2008)\nhttps://www.anthologyfilmarchives.
+ org/film_screenings/series/61953
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61953
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Cameraman @ FILM FORUM
@@ -16509,6 +15738,69 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/wild-style
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Still Life @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260921T190000
+DTEND:20260921T210000
+DESCRIPTION:Dir: JIA ZHANGKE (2006)\nhttps://www.anthologyfilmarchives.org
+ /film_screenings/series/61953
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61953
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Still Life @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260921T193000
+DTEND:20260921T213000
+DESCRIPTION:Dir: JIA ZHANGKE (2006)\nhttps://www.anthologyfilmarchives.org
+ /film_screenings/series/61953
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61953
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Time Stepping @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260922T183000
+DTEND:20260922T203000
+DESCRIPTION:Dir: WILLIAM RABAN (1974)\nhttps://www.anthologyfilmarchives.o
+ rg/film_screenings/series/61953
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61953
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Time Stepping @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260922T190000
+DTEND:20260922T210000
+DESCRIPTION:Dir: WILLIAM RABAN (1974)\nhttps://www.anthologyfilmarchives.o
+ rg/film_screenings/series/61953
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61953
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Time Stepping @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260922T203000
+DTEND:20260922T223000
+DESCRIPTION:Dir: WILLIAM RABAN (1974)\nhttps://www.anthologyfilmarchives.o
+ rg/film_screenings/series/61953
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61953
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oceania @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260922T190000
+DTEND:20260922T210000
+DESCRIPTION:Dir: VALENTIN NOUJAÏM (2024)\nhttps://www.anthologyfilmarchiv
+ es.org/film_screenings/series/61988
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61988
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Demolition @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260922T203000
+DTEND:20260922T223000
+DESCRIPTION:Dir: J.P. SNIADECKI (2008)\nhttps://www.anthologyfilmarchives.
+ org/film_screenings/series/61953
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61953
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The "El" Seen By Kirchheimer\, Brakhage\, & Pennebaker @ FILM FORU
  M
 DTSTART:20260922T180000
@@ -16519,6 +15811,203 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/nyc-in-transit
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:No Other Land @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260923T183000
+DTEND:20260923T203000
+DESCRIPTION:Dir: BASEL ADRA\, HAMDAN BALLAL\, YUVAL ABRAHAM\, RACHEL SZOR 
+ (2024)\nhttps://www.anthologyfilmarchives.org/film_screenings/series/61953
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61953
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Land @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260923T190000
+DTEND:20260923T210000
+DESCRIPTION:Dir: BASEL ADRA\, HAMDAN BALLAL\, YUVAL ABRAHAM\, RACHEL SZOR 
+ (2024)\nhttps://www.anthologyfilmarchives.org/film_screenings/series/61953
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61953
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Land @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260923T210000
+DTEND:20260923T230000
+DESCRIPTION:Dir: BASEL ADRA\, HAMDAN BALLAL\, YUVAL ABRAHAM\, RACHEL SZOR 
+ (2024)\nhttps://www.anthologyfilmarchives.org/film_screenings/series/61953
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61953
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Before She Forgets Heliopolis @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260923T190000
+DTEND:20260923T210000
+DESCRIPTION:Dir: VALENTIN NOUJAÏM (2018)\nhttps://www.anthologyfilmarchiv
+ es.org/film_screenings/series/61988
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61988
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Still Life @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260923T210000
+DTEND:20260923T230000
+DESCRIPTION:Dir: JIA ZHANGKE (2006)\nhttps://www.anthologyfilmarchives.org
+ /film_screenings/series/61953
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61953
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In Vanda's Room @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260924T190000
+DTEND:20260924T210000
+DESCRIPTION:Dir: PEDRO COSTA (2000)\nhttps://www.anthologyfilmarchives.org
+ /film_screenings/series/61953
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61953
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In Vanda's Room @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260924T193000
+DTEND:20260924T213000
+DESCRIPTION:Dir: PEDRO COSTA (2000)\nhttps://www.anthologyfilmarchives.org
+ /film_screenings/series/61953
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61953
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jerker @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260924T193000
+DTEND:20260924T213000
+DESCRIPTION:Dir: HUGH HARRISON (1991)\nhttp://anthologyfilmarchives.org/fi
+ lm_screenings/series/55003
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/series/55003
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screamplay @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260925T183000
+DTEND:20260925T203000
+DESCRIPTION:Dir: Screamplay (RUFUS BUTLER SEDER)\nhttps://www.anthologyfil
+ marchives.org/film_screenings/series/61925
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61925
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screamplay @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260925T184500
+DTEND:20260925T204500
+DESCRIPTION:Dir: Screamplay (RUFUS BUTLER SEDER)\nhttps://www.anthologyfil
+ marchives.org/film_screenings/series/61925
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61925
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screamplay @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260925T210000
+DTEND:20260925T230000
+DESCRIPTION:Dir: Screamplay (RUFUS BUTLER SEDER)\nhttps://www.anthologyfil
+ marchives.org/film_screenings/series/61925
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61925
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screamplay @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260925T203000
+DTEND:20260925T223000
+DESCRIPTION:Dir: Screamplay (RUFUS BUTLER SEDER)\nhttps://www.anthologyfil
+ marchives.org/film_screenings/series/61925
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61925
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screamplay @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260926T160000
+DTEND:20260926T180000
+DESCRIPTION:Dir: Screamplay (RUFUS BUTLER SEDER)\nhttps://www.anthologyfil
+ marchives.org/film_screenings/series/61925
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61925
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screamplay @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260926T163000
+DTEND:20260926T183000
+DESCRIPTION:Dir: Screamplay (RUFUS BUTLER SEDER)\nhttps://www.anthologyfil
+ marchives.org/film_screenings/series/61925
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61925
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screamplay @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260926T184500
+DTEND:20260926T204500
+DESCRIPTION:Dir: Screamplay (RUFUS BUTLER SEDER)\nhttps://www.anthologyfil
+ marchives.org/film_screenings/series/61925
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61925
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screamplay @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260926T210000
+DTEND:20260926T230000
+DESCRIPTION:Dir: Screamplay (RUFUS BUTLER SEDER)\nhttps://www.anthologyfil
+ marchives.org/film_screenings/series/61925
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61925
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screamplay @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260926T180000
+DTEND:20260926T200000
+DESCRIPTION:Dir: Screamplay (RUFUS BUTLER SEDER)\nhttps://www.anthologyfil
+ marchives.org/film_screenings/series/61925
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61925
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screamplay @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260927T163000
+DTEND:20260927T183000
+DESCRIPTION:Dir: RUFUS BUTLER SEDER (1984)\nhttps://www.anthologyfilmarchi
+ ves.org/film_screenings/calendar?view=list&amp\;month=09&amp\;year=2026#sh
+ owing-61878
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=09&amp;year=2026#showing-61878
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screamplay @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260927T184500
+DTEND:20260927T204500
+DESCRIPTION:Dir: RUFUS BUTLER SEDER (1984)\nhttps://www.anthologyfilmarchi
+ ves.org/film_screenings/calendar?view=list&amp\;month=09&amp\;year=2026#sh
+ owing-61878
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=09&amp;year=2026#showing-61878
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screamplay @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260927T210000
+DTEND:20260927T230000
+DESCRIPTION:Dir: RUFUS BUTLER SEDER (1984)\nhttps://www.anthologyfilmarchi
+ ves.org/film_screenings/calendar?view=list&amp\;month=09&amp\;year=2026#sh
+ owing-61878
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=09&amp;year=2026#showing-61878
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screamplay @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260927T190000
+DTEND:20260927T210000
+DESCRIPTION:Dir: RUFUS BUTLER SEDER (1984)\nhttps://www.anthologyfilmarchi
+ ves.org/film_screenings/calendar?view=list&amp\;month=09&amp\;year=2026#sh
+ owing-61878
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=09&amp;year=2026#showing-61878
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Def by Temptation @ SARATOGA PARK
 DTSTART:20260927T200000
 DTEND:20260927T220000
@@ -16526,6 +16015,28 @@ DESCRIPTION:Dir: JAMES BOND III (1990)\nhttps://www.eventbrite.com/o/83875
  62806
 LOCATION:SARATOGA PARK
 URL:https://www.eventbrite.com/o/8387562806
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screamplay @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260928T184500
+DTEND:20260928T204500
+DESCRIPTION:Dir: RUFUS BUTLER SEDER (1984)\nhttps://www.anthologyfilmarchi
+ ves.org/film_screenings/calendar?view=list&amp\;month=09&amp\;year=2026#sh
+ owing-61878
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=09&amp;year=2026#showing-61878
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screamplay @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260928T210000
+DTEND:20260928T230000
+DESCRIPTION:Dir: RUFUS BUTLER SEDER (1984)\nhttps://www.anthologyfilmarchi
+ ves.org/film_screenings/calendar?view=list&amp\;month=09&amp\;year=2026#sh
+ owing-61878
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=09&amp;year=2026#showing-61878
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Idlewild @ ROXY CINEMA NEW YORK
@@ -16547,6 +16058,28 @@ LOCATION:UNITED PALACE
 URL:https://unitedpalace.boletosexpress.com/event.php?event_id=87319
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Screamplay @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260929T184500
+DTEND:20260929T204500
+DESCRIPTION:Dir: RUFUS BUTLER SEDER (1984)\nhttps://www.anthologyfilmarchi
+ ves.org/film_screenings/calendar?view=list&amp\;month=09&amp\;year=2026#sh
+ owing-61878
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=09&amp;year=2026#showing-61878
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screamplay @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260929T210000
+DTEND:20260929T230000
+DESCRIPTION:Dir: RUFUS BUTLER SEDER (1984)\nhttps://www.anthologyfilmarchi
+ ves.org/film_screenings/calendar?view=list&amp\;month=09&amp\;year=2026#sh
+ owing-61878
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=09&amp;year=2026#showing-61878
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dutchman @ FILM FORUM
 DTSTART:20260929T180000
 DTEND:20260929T200000
@@ -16554,6 +16087,28 @@ DESCRIPTION:Dir: ANTHONY HARVEY (1966)\nhttps://filmforum.org/series/nyc-i
  n-transit
 LOCATION:FILM FORUM
 URL:https://filmforum.org/series/nyc-in-transit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screamplay @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260930T184500
+DTEND:20260930T204500
+DESCRIPTION:Dir: RUFUS BUTLER SEDER (1984)\nhttps://www.anthologyfilmarchi
+ ves.org/film_screenings/calendar?view=list&amp\;month=09&amp\;year=2026#sh
+ owing-61878
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=09&amp;year=2026#showing-61878
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screamplay @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20260930T210000
+DTEND:20260930T230000
+DESCRIPTION:Dir: RUFUS BUTLER SEDER (1984)\nhttps://www.anthologyfilmarchi
+ ves.org/film_screenings/calendar?view=list&amp\;month=09&amp\;year=2026#sh
+ owing-61878
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=09&amp;year=2026#showing-61878
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Light That Never Goes Out @ SCANDINAVIA HOUSE
@@ -16565,6 +16120,308 @@ LOCATION:SCANDINAVIA HOUSE
 URL:http://www.scandinaviahouse.org/event/films/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Screamplay @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261001T183000
+DTEND:20261001T203000
+DESCRIPTION:Dir: TONY COKES (2012)\nhttps://www.anthologyfilmarchives.org/
+ film_screenings/series/62103
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screamplay @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261001T184500
+DTEND:20261001T204500
+DESCRIPTION:Dir: TONY COKES (2012)\nhttps://www.anthologyfilmarchives.org/
+ film_screenings/series/62103
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screamplay @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261001T210000
+DTEND:20261001T230000
+DESCRIPTION:Dir: TONY COKES (2012)\nhttps://www.anthologyfilmarchives.org/
+ film_screenings/series/62103
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alanis @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261002T184500
+DTEND:20261002T204500
+DESCRIPTION:Dir: ANAHÍ BERNERI (2017)\nhttps://www.anthologyfilmarchives.
+ org/film_screenings/series/62080
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62080
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alanis @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261002T190000
+DTEND:20261002T210000
+DESCRIPTION:Dir: ANAHÍ BERNERI (2017)\nhttps://www.anthologyfilmarchives.
+ org/film_screenings/series/62080
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62080
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alanis @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261002T210000
+DTEND:20261002T230000
+DESCRIPTION:Dir: ANAHÍ BERNERI (2017)\nhttps://www.anthologyfilmarchives.
+ org/film_screenings/series/62080
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62080
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mommy is Coming @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261002T210000
+DTEND:20261002T230000
+DESCRIPTION:Dir: CHERYL DUNYE (2012)\nhttps://www.anthologyfilmarchives.or
+ g/film_screenings/series/62080
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62080
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ciné-Guerrilas: Scenes from the Labudović Reels @ ANTHOLOGY FILM
+  ARCHIVES
+DTSTART:20261003T160000
+DTEND:20261003T180000
+DESCRIPTION:Dir: MILA TURAJLIC (2022)\nhttps://www.anthologyfilmarchives.o
+ rg/film_screenings/series/62103
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ciné-Guerrilas: Scenes from the Labudović Reels @ ANTHOLOGY FILM
+  ARCHIVES
+DTSTART:20261003T164500
+DTEND:20261003T184500
+DESCRIPTION:Dir: MILA TURAJLIC (2022)\nhttps://www.anthologyfilmarchives.o
+ rg/film_screenings/series/62103
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ciné-Guerrilas: Scenes from the Labudović Reels @ ANTHOLOGY FILM
+  ARCHIVES
+DTSTART:20261003T183000
+DTEND:20261003T203000
+DESCRIPTION:Dir: MILA TURAJLIC (2022)\nhttps://www.anthologyfilmarchives.o
+ rg/film_screenings/series/62103
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ciné-Guerrilas: Scenes from the Labudović Reels @ ANTHOLOGY FILM
+  ARCHIVES
+DTSTART:20261003T193000
+DTEND:20261003T213000
+DESCRIPTION:Dir: MILA TURAJLIC (2022)\nhttps://www.anthologyfilmarchives.o
+ rg/film_screenings/series/62103
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ciné-Guerrilas: Scenes from the Labudović Reels @ ANTHOLOGY FILM
+  ARCHIVES
+DTSTART:20261003T203000
+DTEND:20261003T223000
+DESCRIPTION:Dir: MILA TURAJLIC (2022)\nhttps://www.anthologyfilmarchives.o
+ rg/film_screenings/series/62103
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kama Sutra: A Tale of Love @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261003T164500
+DTEND:20261003T184500
+DESCRIPTION:Dir: MIRA NAIR (1996)\nhttps://www.anthologyfilmarchives.org/f
+ ilm_screenings/series/62080
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62080
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Testament @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261003T183000
+DTEND:20261003T203000
+DESCRIPTION:Dir: JOHN AKOMFRAH (1988)\nhttps://www.anthologyfilmarchives.o
+ rg/film_screenings/series/62103
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fucktoys @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261003T193000
+DTEND:20261003T213000
+DESCRIPTION:Dir: ANNAPURNA SRIRAM (2025)\nhttps://www.anthologyfilmarchive
+ s.org/film_screenings/series/62080
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62080
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Perpetual Recurrences @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261003T203000
+DTEND:20261003T223000
+DESCRIPTION:Dir: REEM SHILLEH (2016)\nhttps://www.anthologyfilmarchives.or
+ g/film_screenings/series/62103
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Name Ain't Suzie @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261004T160000
+DTEND:20261004T180000
+DESCRIPTION:Dir: AZIAN NURUDIN (1988)\nhttps://www.anthologyfilmarchives.o
+ rg/film_screenings/series/62080
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62080
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Name Ain't Suzie @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261004T161500
+DTEND:20261004T181500
+DESCRIPTION:Dir: AZIAN NURUDIN (1988)\nhttps://www.anthologyfilmarchives.o
+ rg/film_screenings/series/62080
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62080
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Name Ain't Suzie @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261004T181500
+DTEND:20261004T201500
+DESCRIPTION:Dir: AZIAN NURUDIN (1988)\nhttps://www.anthologyfilmarchives.o
+ rg/film_screenings/series/62080
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62080
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Name Ain't Suzie @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261004T183000
+DTEND:20261004T203000
+DESCRIPTION:Dir: AZIAN NURUDIN (1988)\nhttps://www.anthologyfilmarchives.o
+ rg/film_screenings/series/62080
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62080
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Name Ain't Suzie @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261004T210000
+DTEND:20261004T230000
+DESCRIPTION:Dir: AZIAN NURUDIN (1988)\nhttps://www.anthologyfilmarchives.o
+ rg/film_screenings/series/62080
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62080
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amussu @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261004T183000
+DTEND:20261004T203000
+DESCRIPTION:Dir: NADIR BOUHMOUCH (2019)\nhttps://www.anthologyfilmarchives
+ .org/film_screenings/series/62103
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seduction: The Cruel Woman @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261004T210000
+DTEND:20261004T230000
+DESCRIPTION:Dir: MONICA TREUT\, ELFI MIKESCH (1985)\nhttps://www.anthology
+ filmarchives.org/film_screenings/series/62080
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62080
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mommy is Coming @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261005T184500
+DTEND:20261005T204500
+DESCRIPTION:Dir: CHERYL DUNYE (2012)\nhttps://www.anthologyfilmarchives.or
+ g/film_screenings/series/62080
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62080
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mommy is Coming @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261005T190000
+DTEND:20261005T210000
+DESCRIPTION:Dir: CHERYL DUNYE (2012)\nhttps://www.anthologyfilmarchives.or
+ g/film_screenings/series/62080
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62080
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mommy is Coming @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261005T204500
+DTEND:20261005T224500
+DESCRIPTION:Dir: CHERYL DUNYE (2012)\nhttps://www.anthologyfilmarchives.or
+ g/film_screenings/series/62080
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62080
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alanis @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261005T204500
+DTEND:20261005T224500
+DESCRIPTION:Dir: ANAHÍ BERNERI (2017)\nhttps://www.anthologyfilmarchives.
+ org/film_screenings/series/62080
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62080
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mommy is Coming @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261006T183000
+DTEND:20261006T203000
+DESCRIPTION:Dir: SARA GÓMEZ (1973)\nhttps://www.anthologyfilmarchives.org
+ /film_screenings/series/62103
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mommy is Coming @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261006T184500
+DTEND:20261006T204500
+DESCRIPTION:Dir: SARA GÓMEZ (1973)\nhttps://www.anthologyfilmarchives.org
+ /film_screenings/series/62103
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mommy is Coming @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261006T201500
+DTEND:20261006T221500
+DESCRIPTION:Dir: SARA GÓMEZ (1973)\nhttps://www.anthologyfilmarchives.org
+ /film_screenings/series/62103
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mommy is Coming @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261006T203000
+DTEND:20261006T223000
+DESCRIPTION:Dir: SARA GÓMEZ (1973)\nhttps://www.anthologyfilmarchives.org
+ /film_screenings/series/62103
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sicilia! @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261006T201500
+DTEND:20261006T221500
+DESCRIPTION:Dir: JEAN-MARIE STRAUB\, DANIÈLE HUILLET (1999)\nhttps://www.
+ anthologyfilmarchives.org/film_screenings/series/62103
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kama Sutra: A Tale of Love @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261006T203000
+DTEND:20261006T223000
+DESCRIPTION:Dir: MIRA NAIR (1996)\nhttps://www.anthologyfilmarchives.org/f
+ ilm_screenings/series/62080
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62080
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Death Wish @ FILM FORUM
 DTSTART:20261006T182000
 DTEND:20261006T202000
@@ -16572,6 +16429,42 @@ DESCRIPTION:Dir: MICHAEL WINNER (1974)\nhttps://filmforum.org/series/nyc-i
  n-transit
 LOCATION:FILM FORUM
 URL:https://filmforum.org/series/nyc-in-transit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Name Ain't Suzie @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261007T183000
+DTEND:20261007T203000
+DESCRIPTION:Dir: ANGIE CHEN (1985)\nhttps://www.anthologyfilmarchives.org/
+ film_screenings/series/62080
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62080
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Name Ain't Suzie @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261007T193000
+DTEND:20261007T213000
+DESCRIPTION:Dir: ANGIE CHEN (1985)\nhttps://www.anthologyfilmarchives.org/
+ film_screenings/series/62080
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62080
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Name Ain't Suzie @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261007T210000
+DTEND:20261007T230000
+DESCRIPTION:Dir: ANGIE CHEN (1985)\nhttps://www.anthologyfilmarchives.org/
+ film_screenings/series/62080
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62080
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seduction: The Cruel Woman @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261007T210000
+DTEND:20261007T230000
+DESCRIPTION:Dir: MONICA TREUT\, ELFI MIKESCH (1985)\nhttps://www.anthology
+ filmarchives.org/film_screenings/series/62080
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62080
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Solomamma @ SCANDINAVIA HOUSE
@@ -16583,6 +16476,212 @@ LOCATION:SCANDINAVIA HOUSE
 URL:http://www.scandinaviahouse.org/event/films/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vacances @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261009T190000
+DTEND:20261009T210000
+DESCRIPTION:Dir: VICTORIA HELY-HUTCHINSON (2025)\nhttps://www.anthologyfil
+ marchives.org/film_screenings/calendar?view=list&amp\;month=10&amp\;year=2
+ 026#showing-62127
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=10&amp;year=2026#showing-62127
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vacances @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261009T193000
+DTEND:20261009T213000
+DESCRIPTION:Dir: VICTORIA HELY-HUTCHINSON (2025)\nhttps://www.anthologyfil
+ marchives.org/film_screenings/calendar?view=list&amp\;month=10&amp\;year=2
+ 026#showing-62127
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=10&amp;year=2026#showing-62127
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vacances @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261010T173000
+DTEND:20261010T193000
+DESCRIPTION:Dir: VICTORIA HELY-HUTCHINSON (2025)\nhttps://www.anthologyfil
+ marchives.org/film_screenings/calendar?view=list&amp\;month=10&amp\;year=2
+ 026#showing-62127
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=10&amp;year=2026#showing-62127
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vacances @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261010T200000
+DTEND:20261010T220000
+DESCRIPTION:Dir: VICTORIA HELY-HUTCHINSON (2025)\nhttps://www.anthologyfil
+ marchives.org/film_screenings/calendar?view=list&amp\;month=10&amp\;year=2
+ 026#showing-62127
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=10&amp;year=2026#showing-62127
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vacances @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261010T193000
+DTEND:20261010T213000
+DESCRIPTION:Dir: VICTORIA HELY-HUTCHINSON (2025)\nhttps://www.anthologyfil
+ marchives.org/film_screenings/calendar?view=list&amp\;month=10&amp\;year=2
+ 026#showing-62127
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=10&amp;year=2026#showing-62127
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Playing with Fire: An Ecosexual Emergency @ ANTHOLOGY FILM ARCHIVE
+ S
+DTSTART:20261010T193000
+DTEND:20261010T213000
+DESCRIPTION:Dir: ANNIE SPRINKLE\, BETH STEPHENS (2025)\nhttps://www.anthol
+ ogyfilmarchives.org/film_screenings/series/61618
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/61618
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Playing with Fire: An Ecosexual Emergency @ ANTHOLOGY FILM ARCHIVE
+ S
+DTSTART:20261011T150000
+DTEND:20261011T170000
+DESCRIPTION:Dir: Playing with Fire: An Ecosexual Emergency (ANNIE SPRINKLE
+  BETH STEPHENS)\nhttps://www.anthologyfilmarchives.org/film_screenings/ser
+ ies/62063
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62063
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Playing with Fire: An Ecosexual Emergency @ ANTHOLOGY FILM ARCHIVE
+ S
+DTSTART:20261011T160000
+DTEND:20261011T180000
+DESCRIPTION:Dir: Playing with Fire: An Ecosexual Emergency (ANNIE SPRINKLE
+  BETH STEPHENS)\nhttps://www.anthologyfilmarchives.org/film_screenings/ser
+ ies/62063
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62063
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Playing with Fire: An Ecosexual Emergency @ ANTHOLOGY FILM ARCHIVE
+ S
+DTSTART:20261011T173000
+DTEND:20261011T193000
+DESCRIPTION:Dir: Playing with Fire: An Ecosexual Emergency (ANNIE SPRINKLE
+  BETH STEPHENS)\nhttps://www.anthologyfilmarchives.org/film_screenings/ser
+ ies/62063
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62063
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Playing with Fire: An Ecosexual Emergency @ ANTHOLOGY FILM ARCHIVE
+ S
+DTSTART:20261011T200000
+DTEND:20261011T220000
+DESCRIPTION:Dir: Playing with Fire: An Ecosexual Emergency (ANNIE SPRINKLE
+  BETH STEPHENS)\nhttps://www.anthologyfilmarchives.org/film_screenings/ser
+ ies/62063
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62063
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Playing with Fire: An Ecosexual Emergency @ ANTHOLOGY FILM ARCHIVE
+ S
+DTSTART:20261011T181500
+DTEND:20261011T201500
+DESCRIPTION:Dir: Playing with Fire: An Ecosexual Emergency (ANNIE SPRINKLE
+  BETH STEPHENS)\nhttps://www.anthologyfilmarchives.org/film_screenings/ser
+ ies/62063
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62063
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Playing with Fire: An Ecosexual Emergency @ ANTHOLOGY FILM ARCHIVE
+ S
+DTSTART:20261011T201500
+DTEND:20261011T221500
+DESCRIPTION:Dir: Playing with Fire: An Ecosexual Emergency (ANNIE SPRINKLE
+  BETH STEPHENS)\nhttps://www.anthologyfilmarchives.org/film_screenings/ser
+ ies/62063
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62063
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vacances @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261011T173000
+DTEND:20261011T193000
+DESCRIPTION:Dir: VICTORIA HELY-HUTCHINSON (2025)\nhttps://www.anthologyfil
+ marchives.org/film_screenings/calendar?view=list&amp\;month=10&amp\;year=2
+ 026#showing-62127
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=10&amp;year=2026#showing-62127
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vacances @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261011T200000
+DTEND:20261011T220000
+DESCRIPTION:Dir: VICTORIA HELY-HUTCHINSON (2025)\nhttps://www.anthologyfil
+ marchives.org/film_screenings/calendar?view=list&amp\;month=10&amp\;year=2
+ 026#showing-62127
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=10&amp;year=2026#showing-62127
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vacances @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261013T183000
+DTEND:20261013T203000
+DESCRIPTION:Dir: VICTORIA HELY-HUTCHINSON (2025)\nhttps://www.anthologyfil
+ marchives.org/film_screenings/calendar?view=list&amp\;month=10&amp\;year=2
+ 026#showing-62127
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=10&amp;year=2026#showing-62127
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vacances @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261013T210000
+DTEND:20261013T230000
+DESCRIPTION:Dir: VICTORIA HELY-HUTCHINSON (2025)\nhttps://www.anthologyfil
+ marchives.org/film_screenings/calendar?view=list&amp\;month=10&amp\;year=2
+ 026#showing-62127
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=10&amp;year=2026#showing-62127
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vacances @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261013T190000
+DTEND:20261013T210000
+DESCRIPTION:Dir: VICTORIA HELY-HUTCHINSON (2025)\nhttps://www.anthologyfil
+ marchives.org/film_screenings/calendar?view=list&amp\;month=10&amp\;year=2
+ 026#showing-62127
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=10&amp;year=2026#showing-62127
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vacances @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261013T211500
+DTEND:20261013T231500
+DESCRIPTION:Dir: VICTORIA HELY-HUTCHINSON (2025)\nhttps://www.anthologyfil
+ marchives.org/film_screenings/calendar?view=list&amp\;month=10&amp\;year=2
+ 026#showing-62127
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
+ st&amp;month=10&amp;year=2026#showing-62127
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seduction: The Cruel Woman @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261013T211500
+DTEND:20261013T231500
+DESCRIPTION:Dir: MONICA TREUT\, ELFI MIKESCH (1985)\nhttps://www.anthology
+ filmarchives.org/film_screenings/series/62080
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62080
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gloria @ FILM FORUM
 DTSTART:20261013T190000
 DTEND:20261013T210000
@@ -16590,6 +16689,76 @@ DESCRIPTION:Dir: JOHN CASSAVETES (1980)\nhttps://filmforum.org/series/nyc-
  in-transit
 LOCATION:FILM FORUM
 URL:https://filmforum.org/series/nyc-in-transit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les fantômes Du Hard\, Chapter 1 @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261015T190000
+DTEND:20261015T210000
+DESCRIPTION:Dir: ALICE COHEN\, ESTHER CROW\, RACHAEL GUMA\, ALEXIS OUTLAW-
+ CLARK\, AMARI OUTLAW-CLARK\, KELLY SPIVEY (2026)\nhttps://www.anthologyfil
+ marchives.org/film_screenings/series/62063
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62063
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les fantômes Du Hard\, Chapter 1 @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261015T193000
+DTEND:20261015T213000
+DESCRIPTION:Dir: ALICE COHEN\, ESTHER CROW\, RACHAEL GUMA\, ALEXIS OUTLAW-
+ CLARK\, AMARI OUTLAW-CLARK\, KELLY SPIVEY (2026)\nhttps://www.anthologyfil
+ marchives.org/film_screenings/series/62063
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:https://www.anthologyfilmarchives.org/film_screenings/series/62063
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Strike @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261017T173000
+DTEND:20261017T193000
+DESCRIPTION:Dir: SERGEI EISENSTEIN (1925)\nhttp://anthologyfilmarchives.or
+ g/film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Strike @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261017T174500
+DTEND:20261017T194500
+DESCRIPTION:Dir: SERGEI EISENSTEIN (1925)\nhttp://anthologyfilmarchives.or
+ g/film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Strike @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261017T200000
+DTEND:20261017T220000
+DESCRIPTION:Dir: SERGEI EISENSTEIN (1925)\nhttp://anthologyfilmarchives.or
+ g/film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Strike @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261017T203000
+DTEND:20261017T223000
+DESCRIPTION:Dir: SERGEI EISENSTEIN (1925)\nhttp://anthologyfilmarchives.or
+ g/film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Battleship Potemkin @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261017T200000
+DTEND:20261017T220000
+DESCRIPTION:Dir: SERGEI EISENSTEIN (1925)\nhttp://anthologyfilmarchives.or
+ g/film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ghostbusters In Concert @ UNITED PALACE
@@ -16601,6 +16770,36 @@ LOCATION:UNITED PALACE
 URL:https://unitedpalace.boletosexpress.com/ghostbusters-in-concert/86903/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Old and New @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261018T164500
+DTEND:20261018T184500
+DESCRIPTION:Dir: SERGEI EISENSTEIN (1929)\nhttp://anthologyfilmarchives.or
+ g/film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Old and New @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261018T193000
+DTEND:20261018T213000
+DESCRIPTION:Dir: SERGEI EISENSTEIN (1929)\nhttp://anthologyfilmarchives.or
+ g/film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:October (Ten Days that Shook the World) @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261018T193000
+DTEND:20261018T213000
+DESCRIPTION:Dir: SERGEI EISENSTEIN (1928)\nhttp://anthologyfilmarchives.or
+ g/film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Carlito's Way @ FILM FORUM
 DTSTART:20261020T195000
 DTEND:20261020T215000
@@ -16608,6 +16807,16 @@ DESCRIPTION:Dir: BRIAN DE PALMA (1993)\nhttps://filmforum.org/series/nyc-i
  n-transit
 LOCATION:FILM FORUM
 URL:https://filmforum.org/series/nyc-in-transit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ivan the Terrible\, Part I @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261021T190000
+DTEND:20261021T210000
+DESCRIPTION:Dir: SERGEI EISENSTEIN (1944)\nhttp://anthologyfilmarchives.or
+ g/film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tell Everyone @ SCANDINAVIA HOUSE
@@ -16637,29 +16846,39 @@ LOCATION:SCANDINAVIA HOUSE
 URL:http://www.scandinaviahouse.org/event/films/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:After Dark\, My Sweet - 35MM + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20270806T190000
-DTEND:20270806T210000
-DESCRIPTION:Dir: N/A (1990)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 635?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7635?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
+SUMMARY:Nanook of the North @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261030T183000
+DTEND:20261030T203000
+DESCRIPTION:Dir: ROBERT FLAHERTY (1922)\nhttp://anthologyfilmarchives.org/
+ film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barrio Triste @ ROXY CINEMA NEW YORK
-DTSTART:20270806T214500
-DTEND:20270806T234500
-DESCRIPTION:Dir: N/A (2025)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 715?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7715?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
+SUMMARY:Nanook of the North @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261030T204500
+DTEND:20261030T224500
+DESCRIPTION:Dir: ROBERT FLAHERTY (1922)\nhttp://anthologyfilmarchives.org/
+ film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Man of Aran @ ANTHOLOGY FILM ARCHIVES
+DTSTART:20261030T204500
+DTEND:20261030T224500
+DESCRIPTION:Dir: ROBERT FLAHERTY (1934)\nhttp://anthologyfilmarchives.org/
+ film_screenings/programs/essential-cinema
+LOCATION:ANTHOLOGY FILM ARCHIVES
+URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
+ nema
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:American Movie - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20260807T170000
-DTEND:20260807T190000
+DTSTART:20270807T170000
+DTEND:20270807T190000
 DESCRIPTION:Dir: N/A (1999)\nhttps://ticketing.uswest.veezi.com/purchase/7
  623?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
@@ -16668,8 +16887,8 @@ URL:https://ticketing.uswest.veezi.com/purchase/7623?siteToken=tt17e5ajy3v
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Fountain - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20260807T190000
-DTEND:20260807T210000
+DTSTART:20270807T190000
+DTEND:20270807T210000
 DESCRIPTION:Dir: N/A (2006)\nhttps://ticketing.uswest.veezi.com/purchase/7
  660?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
@@ -16678,8 +16897,8 @@ URL:https://ticketing.uswest.veezi.com/purchase/7660?siteToken=tt17e5ajy3v
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:In the Glow of Darkness + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20260807T213000
-DTEND:20260807T233000
+DTSTART:20270807T213000
+DTEND:20270807T233000
 DESCRIPTION:Dir: N/A (2025)\nhttps://ticketing.uswest.veezi.com/purchase/7
  625?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
