@@ -2,1063 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:It's a Summer Film! @ BAM
-DTSTART:20260817T161500
-DTEND:20260817T181500
-DESCRIPTION:Dir: SOUSHI MATSUMOTO (2021)\nhttps://www.bam.org/film/2026/su
- mmer-in-japan
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/summer-in-japan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It's a Summer Film! @ BAM
-DTSTART:20260817T183000
-DTEND:20260817T203000
-DESCRIPTION:Dir: SOUSHI MATSUMOTO (2021)\nhttps://www.bam.org/film/2026/su
- mmer-in-japan
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/summer-in-japan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It's a Summer Film! @ BAM
-DTSTART:20260817T213000
-DTEND:20260817T233000
-DESCRIPTION:Dir: SOUSHI MATSUMOTO (2021)\nhttps://www.bam.org/film/2026/su
- mmer-in-japan
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/summer-in-japan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All About Lily Chou-Chou @ BAM
-DTSTART:20260817T183000
-DTEND:20260817T203000
-DESCRIPTION:Dir: IWAI SHUNJI (2001)\nhttps://www.bam.org/film/2026/summer-
- in-japan
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/summer-in-japan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ BAM
-DTSTART:20260817T183000
-DTEND:20260817T203000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.bam.org/film/2026/th
- e-samurai-and-the-prisoner
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/the-samurai-and-the-prisoner
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Main Theme @ BAM
-DTSTART:20260817T213000
-DTEND:20260817T233000
-DESCRIPTION:Dir: YOSHIMITSU MORITA (1984)\nhttps://www.bam.org/film/2026/s
- ummer-in-japan
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/summer-in-japan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260817T121500
-DTEND:20260817T141500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260817T142500
-DTEND:20260817T162500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260817T164000
-DTEND:20260817T184000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260817T185000
-DTEND:20260817T205000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260817T210000
-DTEND:20260817T230000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260817T122000
-DTEND:20260817T142000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260817T141500
-DTEND:20260817T161500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260817T161000
-DTEND:20260817T181000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260817T181000
-DTEND:20260817T201000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260817T201000
-DTEND:20260817T221000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260817T123000
-DTEND:20260817T143000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260817T144000
-DTEND:20260817T164000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260817T165000
-DTEND:20260817T185000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260817T190000
-DTEND:20260817T210000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260817T211000
-DTEND:20260817T231000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260817T130000
-DTEND:20260817T150000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260817T192000
-DTEND:20260817T212000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bend In The River @ FILM FORUM
-DTSTART:20260817T122000
-DTEND:20260817T142000
-DESCRIPTION:Dir: ROBB MOSS (2025)\nhttps://filmforum.org/film/the-bend-in-
- the-river
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-bend-in-the-river
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bend In The River @ FILM FORUM
-DTSTART:20260817T141500
-DTEND:20260817T161500
-DESCRIPTION:Dir: ROBB MOSS (2025)\nhttps://filmforum.org/film/the-bend-in-
- the-river
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-bend-in-the-river
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bend In The River @ FILM FORUM
-DTSTART:20260817T161000
-DTEND:20260817T181000
-DESCRIPTION:Dir: ROBB MOSS (2025)\nhttps://filmforum.org/film/the-bend-in-
- the-river
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-bend-in-the-river
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bend In The River @ FILM FORUM
-DTSTART:20260817T181000
-DTEND:20260817T201000
-DESCRIPTION:Dir: ROBB MOSS (2025)\nhttps://filmforum.org/film/the-bend-in-
- the-river
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-bend-in-the-river
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bend In The River @ FILM FORUM
-DTSTART:20260817T201000
-DTEND:20260817T221000
-DESCRIPTION:Dir: ROBB MOSS (2025)\nhttps://filmforum.org/film/the-bend-in-
- the-river
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-bend-in-the-river
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Billy Liar @ FILM FORUM
-DTSTART:20260817T123000
-DTEND:20260817T143000
-DESCRIPTION:Dir: JOHN SCHLESINGER (1963)\nhttps://filmforum.org/film/billy
- -liar
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/billy-liar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Billy Liar @ FILM FORUM
-DTSTART:20260817T144000
-DTEND:20260817T164000
-DESCRIPTION:Dir: JOHN SCHLESINGER (1963)\nhttps://filmforum.org/film/billy
- -liar
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/billy-liar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Billy Liar @ FILM FORUM
-DTSTART:20260817T165000
-DTEND:20260817T185000
-DESCRIPTION:Dir: JOHN SCHLESINGER (1963)\nhttps://filmforum.org/film/billy
- -liar
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/billy-liar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Billy Liar @ FILM FORUM
-DTSTART:20260817T190000
-DTEND:20260817T210000
-DESCRIPTION:Dir: JOHN SCHLESINGER (1963)\nhttps://filmforum.org/film/billy
- -liar
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/billy-liar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Billy Liar @ FILM FORUM
-DTSTART:20260817T211000
-DTEND:20260817T231000
-DESCRIPTION:Dir: JOHN SCHLESINGER (1963)\nhttps://filmforum.org/film/billy
- -liar
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/billy-liar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Center Stage @ FILM FORUM
-DTSTART:20260817T130000
-DTEND:20260817T150000
-DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
- age
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/center-stage
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Center Stage @ FILM FORUM
-DTSTART:20260817T161000
-DTEND:20260817T181000
-DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
- age
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/center-stage
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Center Stage @ FILM FORUM
-DTSTART:20260817T192000
-DTEND:20260817T212000
-DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
- age
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/center-stage
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260817T120000
-DTEND:20260817T140000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260817T150000
-DTEND:20260817T170000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260817T180000
-DTEND:20260817T200000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260817T210000
-DTEND:20260817T230000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260817T130000
-DTEND:20260817T150000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260817T153000
-DTEND:20260817T173000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260817T131500
-DTEND:20260817T151500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260817T154500
-DTEND:20260817T174500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260817T181500
-DTEND:20260817T201500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260817T204500
-DTEND:20260817T224500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260817T183000
-DTEND:20260817T203000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Piano @ FILM AT LINCOLN CENTER
-DTSTART:20260817T130000
-DTEND:20260817T150000
-DESCRIPTION:Dir: JANE CAMPION (1993)\nhttps://www.filmlinc.org/films/the-p
- iano/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-piano/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Piano @ FILM AT LINCOLN CENTER
-DTSTART:20260817T153000
-DTEND:20260817T173000
-DESCRIPTION:Dir: JANE CAMPION (1993)\nhttps://www.filmlinc.org/films/the-p
- iano/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-piano/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
-DTSTART:20260817T131500
-DTEND:20260817T151500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
- me/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/late-fame/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
-DTSTART:20260817T154500
-DTEND:20260817T174500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
- me/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/late-fame/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
-DTSTART:20260817T181500
-DTEND:20260817T201500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
- me/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/late-fame/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
-DTSTART:20260817T204500
-DTEND:20260817T224500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
- me/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/late-fame/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wendigo @ FILM AT LINCOLN CENTER
-DTSTART:20260817T183000
-DTEND:20260817T203000
-DESCRIPTION:Dir: LARRY FESSENDEN (2001)\nhttps://www.filmlinc.org/festival
- s/scary-movies-xiv/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/festivals/scary-movies-xiv/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goody Goody @ FILM AT LINCOLN CENTER
-DTSTART:20260817T210000
-DTEND:20260817T230000
-DESCRIPTION:Dir: RAYMOND CREAMER (2026)\nhttps://www.filmlinc.org/festival
- s/scary-movies-xiv/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/festivals/scary-movies-xiv/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CatVideoFest 2026 @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FIL
- M
-DTSTART:20260817T180000
-DTEND:20260817T200000
-DESCRIPTION:Dir: WILL BRADEN (2026)\nhttps://www.dctvny.org/s/firehouse-fi
- lm/catvideofest-2026-MCJRR43CLQQZD5PESSTHV6M2DDQY
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/catvideofest-2026-MCJRR43CLQQZ
- D5PESSTHV6M2DDQY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CatVideoFest 2026 @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FIL
- M
-DTSTART:20260817T200000
-DTEND:20260817T220000
-DESCRIPTION:Dir: WILL BRADEN (2026)\nhttps://www.dctvny.org/s/firehouse-fi
- lm/catvideofest-2026-MCJRR43CLQQZD5PESSTHV6M2DDQY
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/catvideofest-2026-MCJRR43CLQQZ
- D5PESSTHV6M2DDQY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260817T104500
-DTEND:20260817T124500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260817T133000
-DTEND:20260817T153000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260817T113000
-DTEND:20260817T133000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260817T143000
-DTEND:20260817T163000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260817T164500
-DTEND:20260817T184500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260817T191000
-DTEND:20260817T211000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260817T213500
-DTEND:20260817T233500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260817T124000
-DTEND:20260817T144000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260817T213000
-DTEND:20260817T233000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260817T140500
-DTEND:20260817T160500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260817T164000
-DTEND:20260817T184000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260817T191500
-DTEND:20260817T211500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260817T214500
-DTEND:20260817T234500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260817T142000
-DTEND:20260817T162000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260817T224500
-DTEND:20260818T004500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260817T154500
-DTEND:20260817T174500
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260817T160000
-DTEND:20260817T180000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260817T185000
-DTEND:20260817T205000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260817T214000
-DTEND:20260817T234000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union County @ IFC CENTER
-DTSTART:20260817T113000
-DTEND:20260817T133000
-DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
- ounty/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/union-county/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union County @ IFC CENTER
-DTSTART:20260817T143000
-DTEND:20260817T163000
-DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
- ounty/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/union-county/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union County @ IFC CENTER
-DTSTART:20260817T164500
-DTEND:20260817T184500
-DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
- ounty/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/union-county/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union County @ IFC CENTER
-DTSTART:20260817T191000
-DTEND:20260817T211000
-DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
- ounty/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/union-county/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union County @ IFC CENTER
-DTSTART:20260817T213500
-DTEND:20260817T233500
-DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
- ounty/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/union-county/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260817T124000
-DTEND:20260817T144000
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Big Cheese @ IFC CENTER
-DTSTART:20260817T213000
-DTEND:20260817T233000
-DESCRIPTION:Dir: SARA JOE WOLANSKY (2025)\nhttps://www.ifccenter.com/films
- /the-big-cheese/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-big-cheese/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Skin @ IFC CENTER
-DTSTART:20260817T140500
-DTEND:20260817T160500
-DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
- rious-skin/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mysterious-skin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Skin @ IFC CENTER
-DTSTART:20260817T164000
-DTEND:20260817T184000
-DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
- rious-skin/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mysterious-skin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Skin @ IFC CENTER
-DTSTART:20260817T191500
-DTEND:20260817T211500
-DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
- rious-skin/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mysterious-skin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Skin @ IFC CENTER
-DTSTART:20260817T214500
-DTEND:20260817T234500
-DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
- rious-skin/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mysterious-skin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside @ IFC CENTER
-DTSTART:20260817T142000
-DTEND:20260817T162000
-DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
- nside/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside @ IFC CENTER
-DTSTART:20260817T224500
-DTEND:20260818T004500
-DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
- nside/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manhunter @ IFC CENTER
-DTSTART:20260817T154500
-DTEND:20260817T174500
-DESCRIPTION:Dir: MICHAEL MANN (1986)\nhttps://www.ifccenter.com/films/mich
- ael-manns-manhunter-the-final-cut/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/michael-manns-manhunter-the-final-cut/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Train to Busan @ IFC CENTER
-DTSTART:20260817T160000
-DTEND:20260817T180000
-DESCRIPTION:Dir: YEON SANG-HO (2016)\nhttps://www.ifccenter.com/films/trai
- n-to-busan-2/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/train-to-busan-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Train to Busan @ IFC CENTER
-DTSTART:20260817T185000
-DTEND:20260817T205000
-DESCRIPTION:Dir: YEON SANG-HO (2016)\nhttps://www.ifccenter.com/films/trai
- n-to-busan-2/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/train-to-busan-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Train to Busan @ IFC CENTER
-DTSTART:20260817T214000
-DTEND:20260817T234000
-DESCRIPTION:Dir: YEON SANG-HO (2016)\nhttps://www.ifccenter.com/films/trai
- n-to-busan-2/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/train-to-busan-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 Women @ METROGRAPH
-DTSTART:20260817T150000
-DTEND:20260817T170000
-DESCRIPTION:Dir: ROBERT ALTMAN (1977)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000563
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000563
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 Women @ METROGRAPH
-DTSTART:20260817T151000
-DTEND:20260817T171000
-DESCRIPTION:Dir: ROBERT ALTMAN (1977)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000563
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000563
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 Women @ METROGRAPH
-DTSTART:20260817T173000
-DTEND:20260817T193000
-DESCRIPTION:Dir: ROBERT ALTMAN (1977)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000563
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000563
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 Women @ METROGRAPH
-DTSTART:20260817T173500
-DTEND:20260817T193500
-DESCRIPTION:Dir: ROBERT ALTMAN (1977)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000563
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000563
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 Women @ METROGRAPH
-DTSTART:20260817T192500
-DTEND:20260817T212500
-DESCRIPTION:Dir: ROBERT ALTMAN (1977)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000563
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000563
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 Women @ METROGRAPH
-DTSTART:20260817T193000
-DTEND:20260817T213000
-DESCRIPTION:Dir: ROBERT ALTMAN (1977)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000563
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000563
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 Women @ METROGRAPH
-DTSTART:20260817T214500
-DTEND:20260817T234500
-DESCRIPTION:Dir: ROBERT ALTMAN (1977)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000563
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000563
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 Women @ METROGRAPH
-DTSTART:20260817T215000
-DTEND:20260817T235000
-DESCRIPTION:Dir: ROBERT ALTMAN (1977)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000563
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000563
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:My Little Loves @ METROGRAPH
-DTSTART:20260817T151000
-DTEND:20260817T171000
-DESCRIPTION:Dir: JEAN EUSTACHE (1974)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000570
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000570
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Good Morning @ METROGRAPH
-DTSTART:20260817T173000
-DTEND:20260817T193000
-DESCRIPTION:Dir: YASUJIRŌ OZU (1959)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000310
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000310
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'Argent @ METROGRAPH
-DTSTART:20260817T173500
-DTEND:20260817T193500
-DESCRIPTION:Dir: ROBERT BRESSON (1983)\nhttps://metrograph.com/series/?vis
- ta_series_id=0000000570
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000570
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jacob's Ladder @ METROGRAPH
-DTSTART:20260817T192500
-DTEND:20260817T212500
-DESCRIPTION:Dir: ADRIAN LYNE (1990)\nhttps://metrograph.com/series/?vista_
- series_id=0000000557
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000557
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tampopo @ METROGRAPH
-DTSTART:20260817T193000
-DTEND:20260817T213000
-DESCRIPTION:Dir: JUZO ITAMI (1985)\nhttps://metrograph.com/series/?vista_s
- eries_id=0000000551
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000551
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dumplings @ METROGRAPH
-DTSTART:20260817T214500
-DTEND:20260817T234500
-DESCRIPTION:Dir: FRUIT CHAN (2004)\nhttps://metrograph.com/series/?vista_s
- eries_id=0000000558
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000558
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Happy Together @ METROGRAPH
-DTSTART:20260817T215000
-DTEND:20260817T235000
-DESCRIPTION:Dir: WONG KAR-WAI (1997)\nhttps://metrograph.com/series/?vista
- _series_id=0000000558
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000558
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atlantiques @ MUSEUM OF MODERN ART
-DTSTART:20260817T160000
-DTEND:20260817T180000
-DESCRIPTION:Dir: MATI DIOP (2009)\nhttps://www.moma.org/calendar/film/5911
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5911
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atlantiques @ MUSEUM OF MODERN ART
-DTSTART:20260817T183000
-DTEND:20260817T203000
-DESCRIPTION:Dir: MATI DIOP (2009)\nhttps://www.moma.org/calendar/film/5911
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5911
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atlantiques @ MUSEUM OF MODERN ART
-DTSTART:20260817T190000
-DTEND:20260817T210000
-DESCRIPTION:Dir: MATI DIOP (2009)\nhttps://www.moma.org/calendar/film/5911
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5911
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FAST @ MUSEUM OF MODERN ART
-DTSTART:20260817T183000
-DTEND:20260817T203000
-DESCRIPTION:Dir: ROB TREGENZA (2026)\nhttps://www.moma.org/calendar/film/5
- 913
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5913
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ali in Wonderland @ MUSEUM OF MODERN ART
-DTSTART:20260817T190000
-DTEND:20260817T210000
-DESCRIPTION:Dir: DJOUHRA ABOUDA\, ALAIN BONNAMY (1976)\nhttps://www.moma.o
- rg/calendar/film/5911
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5911
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Woman's Torment @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260817T213000
-DTEND:20260817T233000
-DESCRIPTION:Dir: ROBERTA FINDLAY (1977)\nhttps://nitehawkcinema.com/willia
- msburg/film-series/skin-deep/
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://nitehawkcinema.com/williamsburg/film-series/skin-deep/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Without You I'm Nothing @ ORNITHOLOGY JAZZ CLUB
-DTSTART:20260817T203000
-DTEND:20260817T223000
-DESCRIPTION:Dir: JOHN S. BOSKOVICH (1990)\nhttps://www.eventbrite.com/e/sa
- ndra-bernhard-without-you-im-nothing-one-woman-shows-ornithology-tickets-1
- 993934311200
-LOCATION:ORNITHOLOGY JAZZ CLUB
-URL:https://www.eventbrite.com/e/sandra-bernhard-without-you-im-nothing-on
- e-woman-shows-ornithology-tickets-1993934311200
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dead Souls @ ROXY CINEMA NEW YORK
-DTSTART:20260817T210000
-DTEND:20260817T230000
-DESCRIPTION:Dir: ALEX COX (2025)\nhttps://www.roxycinemanewyork.com/screen
- ings/dead-souls/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/screenings/dead-souls/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Game of Pleasure @ SPECTACLE
-DTSTART:20260817T193000
-DTEND:20260817T213000
-DESCRIPTION:Dir: DALE E. FRANTZ (1998)\nhttps://www.spectacletheater.com/g
- ame-of-pleasure/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/game-of-pleasure/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Game of Pleasure @ SPECTACLE
-DTSTART:20260817T220000
-DTEND:20260818T000000
-DESCRIPTION:Dir: DALE E. FRANTZ (1998)\nhttps://www.spectacletheater.com/g
- ame-of-pleasure/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/game-of-pleasure/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Roller Junkies @ SPECTACLE
-DTSTART:20260817T220000
-DTEND:20260818T000000
-DESCRIPTION:Dir: JARED MASTERS (2022)\nhttps://www.spectacletheater.com/in
- troducing-jared-masters/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/introducing-jared-masters/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:White Sun of the Desert / Beloye Solntse Pustyni @ ANTHOLOGY FILM 
  ARCHIVES
 DTSTART:20260818T184500
@@ -4438,6 +3381,96 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/coppola
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260821T120000
+DTEND:20260821T140000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260821T150000
+DTEND:20260821T170000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260821T180000
+DTEND:20260821T200000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260821T210000
+DTEND:20260821T230000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260821T123000
+DTEND:20260821T143000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260821T151500
+DTEND:20260821T171500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260821T204500
+DTEND:20260821T224500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260821T131500
+DTEND:20260821T151500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260821T154500
+DTEND:20260821T174500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260821T181500
+DTEND:20260821T201500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Franz @ FILM AT LINCOLN CENTER
 DTSTART:20260821T123000
 DTEND:20260821T143000
@@ -4472,6 +3505,42 @@ DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
  franz/
 LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/films/franz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260821T131500
+DTEND:20260821T151500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260821T154500
+DTEND:20260821T174500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260821T181500
+DTEND:20260821T201500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260821T204500
+DTEND:20260821T224500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Daylight @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
@@ -4515,6 +3584,15 @@ URL:https://metrograph.com/series/?vista_series_id=0000000558
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chungking Express @ METROGRAPH
+DTSTART:20260821T131500
+DTEND:20260821T151500
+DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://metrograph.com/series/?vista
+ _series_id=0000000558
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000558
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chungking Express @ METROGRAPH
 DTSTART:20260821T150000
 DTEND:20260821T170000
 DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://metrograph.com/series/?vista
@@ -4548,6 +3626,51 @@ DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://metrograph.com/series/?vista
  _series_id=0000000558
 LOCATION:METROGRAPH
 URL:https://metrograph.com/series/?vista_series_id=0000000558
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chungking Express @ METROGRAPH
+DTSTART:20260821T201500
+DTEND:20260821T221500
+DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://metrograph.com/series/?vista
+ _series_id=0000000558
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000558
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chungking Express @ METROGRAPH
+DTSTART:20260821T203000
+DTEND:20260821T223000
+DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://metrograph.com/series/?vista
+ _series_id=0000000558
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000558
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chungking Express @ METROGRAPH
+DTSTART:20260821T225000
+DTEND:20260822T005000
+DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://metrograph.com/series/?vista
+ _series_id=0000000558
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000558
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chungking Express @ METROGRAPH
+DTSTART:20260821T230000
+DTEND:20260822T010000
+DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://metrograph.com/series/?vista
+ _series_id=0000000558
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000558
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Withnail & I @ METROGRAPH
+DTSTART:20260821T131500
+DTEND:20260821T151500
+DESCRIPTION:Dir: BRUCE ROBINSON (1987)\nhttps://metrograph.com/going-up-th
+ e-country/
+LOCATION:METROGRAPH
+URL:https://metrograph.com/going-up-the-country/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:In the Mood for Love @ METROGRAPH
@@ -4584,6 +3707,42 @@ DESCRIPTION:Dir: MICHAELANGELO ANTONIONI (1961)\nhttps://metrograph.com/se
  ries/?vista_series_id=0000000555
 LOCATION:METROGRAPH
 URL:https://metrograph.com/series/?vista_series_id=0000000555
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What Lies Beneath @ METROGRAPH
+DTSTART:20260821T201500
+DTEND:20260821T221500
+DESCRIPTION:Dir: ROBERT ZEMECKIS (2000)\nhttps://metrograph.com/series/?vi
+ sta_series_id=0000000566
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000566
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:True Romance @ METROGRAPH
+DTSTART:20260821T203000
+DTEND:20260821T223000
+DESCRIPTION:Dir: TONY SCOTT (1993)\nhttps://metrograph.com/series/?vista_s
+ eries_id=0000000559
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000559
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raw @ METROGRAPH
+DTSTART:20260821T225000
+DTEND:20260822T005000
+DESCRIPTION:Dir: JULIA DUCOURNAU (2016)\nhttps://metrograph.com/series/?vi
+ sta_series_id=0000000569
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000569
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:House @ METROGRAPH
+DTSTART:20260821T230000
+DTEND:20260822T010000
+DESCRIPTION:Dir: NOBUHIKO OBAYASHI (1977)\nhttps://metrograph.com/series/?
+ vista_series_id=0000000569
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000569
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bushman @ MUSEUM OF MODERN ART
@@ -4974,6 +4133,96 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/coppola
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260822T120000
+DTEND:20260822T140000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260822T150000
+DTEND:20260822T170000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260822T180000
+DTEND:20260822T200000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260822T210000
+DTEND:20260822T230000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260822T123000
+DTEND:20260822T143000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260822T151500
+DTEND:20260822T171500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260822T204500
+DTEND:20260822T224500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260822T131500
+DTEND:20260822T151500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260822T154500
+DTEND:20260822T174500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260822T181500
+DTEND:20260822T201500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Franz @ FILM AT LINCOLN CENTER
 DTSTART:20260822T123000
 DTEND:20260822T143000
@@ -5008,6 +4257,42 @@ DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
  franz/
 LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/films/franz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260822T131500
+DTEND:20260822T151500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260822T154500
+DTEND:20260822T174500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260822T181500
+DTEND:20260822T201500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260822T204500
+DTEND:20260822T224500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Daylight @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
@@ -5062,6 +4347,87 @@ URL:https://www.dctvny.org/s/firehouse-film/to-use-a-mountain-MCJJHJERFNRF
  AFVM556FN5AHGQDI
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:When Marnie Was There @ METROGRAPH
+DTSTART:20260822T120000
+DTEND:20260822T140000
+DESCRIPTION:Dir: HIROMASA YONEBAYASHI (2014)\nhttps://metrograph.com/serie
+ s/?vista_series_id=0000000566
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000566
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:When Marnie Was There @ METROGRAPH
+DTSTART:20260822T121500
+DTEND:20260822T141500
+DESCRIPTION:Dir: HIROMASA YONEBAYASHI (2014)\nhttps://metrograph.com/serie
+ s/?vista_series_id=0000000566
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000566
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:When Marnie Was There @ METROGRAPH
+DTSTART:20260822T141000
+DTEND:20260822T161000
+DESCRIPTION:Dir: HIROMASA YONEBAYASHI (2014)\nhttps://metrograph.com/serie
+ s/?vista_series_id=0000000566
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000566
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:When Marnie Was There @ METROGRAPH
+DTSTART:20260822T143000
+DTEND:20260822T163000
+DESCRIPTION:Dir: HIROMASA YONEBAYASHI (2014)\nhttps://metrograph.com/serie
+ s/?vista_series_id=0000000566
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000566
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:When Marnie Was There @ METROGRAPH
+DTSTART:20260822T170000
+DTEND:20260822T190000
+DESCRIPTION:Dir: HIROMASA YONEBAYASHI (2014)\nhttps://metrograph.com/serie
+ s/?vista_series_id=0000000566
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000566
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:When Marnie Was There @ METROGRAPH
+DTSTART:20260822T194500
+DTEND:20260822T214500
+DESCRIPTION:Dir: HIROMASA YONEBAYASHI (2014)\nhttps://metrograph.com/serie
+ s/?vista_series_id=0000000566
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000566
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:When Marnie Was There @ METROGRAPH
+DTSTART:20260822T195000
+DTEND:20260822T215000
+DESCRIPTION:Dir: HIROMASA YONEBAYASHI (2014)\nhttps://metrograph.com/serie
+ s/?vista_series_id=0000000566
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000566
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:When Marnie Was There @ METROGRAPH
+DTSTART:20260822T223000
+DTEND:20260823T003000
+DESCRIPTION:Dir: HIROMASA YONEBAYASHI (2014)\nhttps://metrograph.com/serie
+ s/?vista_series_id=0000000566
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000566
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:When Marnie Was There @ METROGRAPH
+DTSTART:20260822T223500
+DTEND:20260823T003500
+DESCRIPTION:Dir: HIROMASA YONEBAYASHI (2014)\nhttps://metrograph.com/serie
+ s/?vista_series_id=0000000566
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000566
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bugs We Love(?) @ METROGRAPH
 DTSTART:20260822T121500
 DTEND:20260822T141500
@@ -5069,6 +4435,69 @@ DESCRIPTION:Dir: MULTIPLE DIRECTORS (1950)\nhttps://metrograph.com/screen-
  time/
 LOCATION:METROGRAPH
 URL:https://metrograph.com/screen-time/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Happy Hour @ METROGRAPH
+DTSTART:20260822T141000
+DTEND:20260822T161000
+DESCRIPTION:Dir: RYUSUKE HAMAGUCHI (2015)\nhttps://metrograph.com/series/?
+ vista_series_id=0000000563
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000563
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Days and Nights in the Forest @ METROGRAPH
+DTSTART:20260822T143000
+DTEND:20260822T163000
+DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://metrograph.com/going-up-the-
+ country/
+LOCATION:METROGRAPH
+URL:https://metrograph.com/going-up-the-country/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:True Romance @ METROGRAPH
+DTSTART:20260822T170000
+DTEND:20260822T190000
+DESCRIPTION:Dir: TONY SCOTT (1993)\nhttps://metrograph.com/series/?vista_s
+ eries_id=0000000559
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000559
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bram Stoker's Dracula @ METROGRAPH
+DTSTART:20260822T194500
+DTEND:20260822T214500
+DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1992)\nhttps://metrograph.com/serie
+ s/?vista_series_id=0000000559
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000559
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What Lies Beneath @ METROGRAPH
+DTSTART:20260822T195000
+DTEND:20260822T215000
+DESCRIPTION:Dir: ROBERT ZEMECKIS (2000)\nhttps://metrograph.com/series/?vi
+ sta_series_id=0000000566
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000566
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women on the Verge of a Nervous Breakdown @ METROGRAPH
+DTSTART:20260822T223000
+DTEND:20260823T003000
+DESCRIPTION:Dir: PEDRO ALMODÓVAR (1988)\nhttps://metrograph.com/series/?v
+ ista_series_id=0000000563
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000563
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider Baby @ METROGRAPH
+DTSTART:20260822T223500
+DTEND:20260823T003500
+DESCRIPTION:Dir: JACK HILL (1967)\nhttps://metrograph.com/series/?vista_se
+ ries_id=0000000569
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000569
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soleil Ô @ MUSEUM OF MODERN ART
@@ -5618,6 +5047,96 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/coppola
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260823T120000
+DTEND:20260823T140000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260823T150000
+DTEND:20260823T170000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260823T180000
+DTEND:20260823T200000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260823T210000
+DTEND:20260823T230000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260823T123000
+DTEND:20260823T143000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260823T151500
+DTEND:20260823T171500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260823T204500
+DTEND:20260823T224500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260823T131500
+DTEND:20260823T151500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260823T154500
+DTEND:20260823T174500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260823T181500
+DTEND:20260823T201500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Franz @ FILM AT LINCOLN CENTER
 DTSTART:20260823T123000
 DTEND:20260823T143000
@@ -5652,6 +5171,42 @@ DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
  franz/
 LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/films/franz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260823T131500
+DTEND:20260823T151500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260823T154500
+DTEND:20260823T174500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260823T181500
+DTEND:20260823T201500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260823T204500
+DTEND:20260823T224500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Daylight @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
@@ -5733,12 +5288,102 @@ URL:https://metrograph.com/series/?vista_series_id=0000000473
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Jungle Book @ METROGRAPH
+DTSTART:20260823T124000
+DTEND:20260823T144000
+DESCRIPTION:Dir: WOLFGANG REITHERMAN (1967)\nhttps://metrograph.com/series
+ /?vista_series_id=0000000473
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000473
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Jungle Book @ METROGRAPH
 DTSTART:20260823T133000
 DTEND:20260823T153000
 DESCRIPTION:Dir: WOLFGANG REITHERMAN (1967)\nhttps://metrograph.com/series
  /?vista_series_id=0000000473
 LOCATION:METROGRAPH
 URL:https://metrograph.com/series/?vista_series_id=0000000473
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Jungle Book @ METROGRAPH
+DTSTART:20260823T144500
+DTEND:20260823T164500
+DESCRIPTION:Dir: WOLFGANG REITHERMAN (1967)\nhttps://metrograph.com/series
+ /?vista_series_id=0000000473
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000473
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Jungle Book @ METROGRAPH
+DTSTART:20260823T162500
+DTEND:20260823T182500
+DESCRIPTION:Dir: WOLFGANG REITHERMAN (1967)\nhttps://metrograph.com/series
+ /?vista_series_id=0000000473
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000473
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Jungle Book @ METROGRAPH
+DTSTART:20260823T163000
+DTEND:20260823T183000
+DESCRIPTION:Dir: WOLFGANG REITHERMAN (1967)\nhttps://metrograph.com/series
+ /?vista_series_id=0000000473
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000473
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Jungle Book @ METROGRAPH
+DTSTART:20260823T184000
+DTEND:20260823T204000
+DESCRIPTION:Dir: WOLFGANG REITHERMAN (1967)\nhttps://metrograph.com/series
+ /?vista_series_id=0000000473
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000473
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Jungle Book @ METROGRAPH
+DTSTART:20260823T184500
+DTEND:20260823T204500
+DESCRIPTION:Dir: WOLFGANG REITHERMAN (1967)\nhttps://metrograph.com/series
+ /?vista_series_id=0000000473
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000473
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Jungle Book @ METROGRAPH
+DTSTART:20260823T211500
+DTEND:20260823T231500
+DESCRIPTION:Dir: WOLFGANG REITHERMAN (1967)\nhttps://metrograph.com/series
+ /?vista_series_id=0000000473
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000473
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Jungle Book @ METROGRAPH
+DTSTART:20260823T212000
+DTEND:20260823T232000
+DESCRIPTION:Dir: WOLFGANG REITHERMAN (1967)\nhttps://metrograph.com/series
+ /?vista_series_id=0000000473
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000473
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E.T. the Extra-Terrestrial @ METROGRAPH
+DTSTART:20260823T110000
+DTEND:20260823T130000
+DESCRIPTION:Dir: STEVEN SPIELBERG (1982)\nhttps://metrograph.com/series/?v
+ ista_series_id=0000000310
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000310
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:When Marnie Was There @ METROGRAPH
+DTSTART:20260823T124000
+DTEND:20260823T144000
+DESCRIPTION:Dir: HIROMASA YONEBAYASHI (2014)\nhttps://metrograph.com/serie
+ s/?vista_series_id=0000000566
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000566
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Dark Knight @ METROGRAPH
@@ -5748,6 +5393,69 @@ DESCRIPTION:Dir: CHRISTOPHER NOLAN (2008)\nhttps://metrograph.com/series/?
  vista_series_id=0000000559
 LOCATION:METROGRAPH
 URL:https://metrograph.com/series/?vista_series_id=0000000559
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Petite Maman @ METROGRAPH
+DTSTART:20260823T144500
+DTEND:20260823T164500
+DESCRIPTION:Dir: CÉLINE SCIAMMA (2021)\nhttps://metrograph.com/series/?vi
+ sta_series_id=0000000566
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000566
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Withnail & I @ METROGRAPH
+DTSTART:20260823T162500
+DTEND:20260823T182500
+DESCRIPTION:Dir: BRUCE ROBINSON (1987)\nhttps://metrograph.com/going-up-th
+ e-country/
+LOCATION:METROGRAPH
+URL:https://metrograph.com/going-up-the-country/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pastorale @ METROGRAPH
+DTSTART:20260823T163000
+DTEND:20260823T183000
+DESCRIPTION:Dir: OTAR IOSSELIANI (1975)\nhttps://asiasociety.org/new-york/
+ otar-iosseliani-fables-modern-life
+LOCATION:METROGRAPH
+URL:https://asiasociety.org/new-york/otar-iosseliani-fables-modern-life
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bram Stoker's Dracula @ METROGRAPH
+DTSTART:20260823T184000
+DTEND:20260823T204000
+DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1992)\nhttps://metrograph.com/serie
+ s/?vista_series_id=0000000559
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000559
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chasing Butterflies @ METROGRAPH
+DTSTART:20260823T184500
+DTEND:20260823T204500
+DESCRIPTION:Dir: OTAR IOSSELIANI (1992)\nhttps://asiasociety.org/new-york/
+ otar-iosseliani-fables-modern-life
+LOCATION:METROGRAPH
+URL:https://asiasociety.org/new-york/otar-iosseliani-fables-modern-life
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In My Skin @ METROGRAPH
+DTSTART:20260823T211500
+DTEND:20260823T231500
+DESCRIPTION:Dir: MARINA DE VAN (2002)\nhttps://metrograph.com/series/?vist
+ a_series_id=0000000569
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000569
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After Hours @ METROGRAPH
+DTSTART:20260823T212000
+DTEND:20260823T232000
+DESCRIPTION:Dir: MARTIN SCORSESE (1985)\nhttps://metrograph.com/series/?vi
+ sta_series_id=0000000555
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000555
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ali in Wonderland @ MUSEUM OF MODERN ART
@@ -6107,6 +5815,123 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/coppola
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260824T120000
+DTEND:20260824T140000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260824T150000
+DTEND:20260824T170000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260824T203000
+DTEND:20260824T223000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260824T121500
+DTEND:20260824T141500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260824T144500
+DTEND:20260824T164500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260824T181500
+DTEND:20260824T201500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260824T123000
+DTEND:20260824T143000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260824T151500
+DTEND:20260824T171500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260824T180000
+DTEND:20260824T200000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260824T204500
+DTEND:20260824T224500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260824T121500
+DTEND:20260824T141500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260824T144500
+DTEND:20260824T164500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260824T181500
+DTEND:20260824T201500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Franz @ FILM AT LINCOLN CENTER
 DTSTART:20260824T123000
 DTEND:20260824T143000
@@ -6172,6 +5997,141 @@ DESCRIPTION:Dir: CASEY CARTER (2025)\nhttps://www.dctvny.org/s/firehouse-f
 LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
 URL:https://www.dctvny.org/s/firehouse-film/to-use-a-mountain-MCJJHJERFNRF
  AFVM556FN5AHGQDI
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vertigo @ METROGRAPH
+DTSTART:20260824T150000
+DTEND:20260824T170000
+DESCRIPTION:Dir: ALFRED HITCHCOCK (1958)\nhttps://metrograph.com/series/?v
+ ista_series_id=0000000566
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000566
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vertigo @ METROGRAPH
+DTSTART:20260824T153000
+DTEND:20260824T173000
+DESCRIPTION:Dir: ALFRED HITCHCOCK (1958)\nhttps://metrograph.com/series/?v
+ ista_series_id=0000000566
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000566
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vertigo @ METROGRAPH
+DTSTART:20260824T174000
+DTEND:20260824T194000
+DESCRIPTION:Dir: ALFRED HITCHCOCK (1958)\nhttps://metrograph.com/series/?v
+ ista_series_id=0000000566
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000566
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vertigo @ METROGRAPH
+DTSTART:20260824T174500
+DTEND:20260824T194500
+DESCRIPTION:Dir: ALFRED HITCHCOCK (1958)\nhttps://metrograph.com/series/?v
+ ista_series_id=0000000566
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000566
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vertigo @ METROGRAPH
+DTSTART:20260824T194000
+DTEND:20260824T214000
+DESCRIPTION:Dir: ALFRED HITCHCOCK (1958)\nhttps://metrograph.com/series/?v
+ ista_series_id=0000000566
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000566
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vertigo @ METROGRAPH
+DTSTART:20260824T194500
+DTEND:20260824T214500
+DESCRIPTION:Dir: ALFRED HITCHCOCK (1958)\nhttps://metrograph.com/series/?v
+ ista_series_id=0000000566
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000566
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vertigo @ METROGRAPH
+DTSTART:20260824T214000
+DTEND:20260824T234000
+DESCRIPTION:Dir: ALFRED HITCHCOCK (1958)\nhttps://metrograph.com/series/?v
+ ista_series_id=0000000566
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000566
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vertigo @ METROGRAPH
+DTSTART:20260824T214500
+DTEND:20260824T234500
+DESCRIPTION:Dir: ALFRED HITCHCOCK (1958)\nhttps://metrograph.com/series/?v
+ ista_series_id=0000000566
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000566
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Great Silence @ METROGRAPH
+DTSTART:20260824T153000
+DTEND:20260824T173000
+DESCRIPTION:Dir: SERGIO CORBUCCI (1968)\nhttps://metrograph.com/series/?vi
+ sta_series_id=0000000556
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000556
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Haine @ METROGRAPH
+DTSTART:20260824T174000
+DTEND:20260824T194000
+DESCRIPTION:Dir: MATHIEW KASSOVITZ (1995)\nhttps://metrograph.com/series/?
+ vista_series_id=0000000555
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000555
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falling Leaves @ METROGRAPH
+DTSTART:20260824T174500
+DTEND:20260824T194500
+DESCRIPTION:Dir: OTAR IOSSELIANI (1966)\nhttps://asiasociety.org/new-york/
+ otar-iosseliani-fables-modern-life
+LOCATION:METROGRAPH
+URL:https://asiasociety.org/new-york/otar-iosseliani-fables-modern-life
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ancient Georgian Songs @ METROGRAPH
+DTSTART:20260824T194000
+DTEND:20260824T214000
+DESCRIPTION:Dir: OTAR IOSSELIANI (1969)\nhttps://asiasociety.org/new-york/
+ otar-iosseliani-fables-modern-life
+LOCATION:METROGRAPH
+URL:https://asiasociety.org/new-york/otar-iosseliani-fables-modern-life
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:House @ METROGRAPH
+DTSTART:20260824T194500
+DTEND:20260824T214500
+DESCRIPTION:Dir: NOBUHIKO OBAYASHI (1977)\nhttps://metrograph.com/series/?
+ vista_series_id=0000000569
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000569
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wake in Fright @ METROGRAPH
+DTSTART:20260824T214000
+DTEND:20260824T234000
+DESCRIPTION:Dir: TED KOTCHEFF (1971)\nhttps://metrograph.com/series/?vista
+ _series_id=0000000556
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000556
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fallen Angels @ METROGRAPH
+DTSTART:20260824T214500
+DTEND:20260824T234500
+DESCRIPTION:Dir: WONG KAR WAI (1995)\nhttps://metrograph.com/the-last-drea
+ mers/
+LOCATION:METROGRAPH
+URL:https://metrograph.com/the-last-dreamers/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soleil Ô @ MUSEUM OF MODERN ART
@@ -6398,6 +6358,96 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/coppola
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260825T120000
+DTEND:20260825T140000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260825T150000
+DTEND:20260825T170000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260825T180000
+DTEND:20260825T200000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260825T210000
+DTEND:20260825T230000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260825T123000
+DTEND:20260825T143000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260825T151500
+DTEND:20260825T171500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260825T204500
+DTEND:20260825T224500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260825T131500
+DTEND:20260825T151500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260825T154500
+DTEND:20260825T174500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260825T181500
+DTEND:20260825T201500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Franz @ FILM AT LINCOLN CENTER
 DTSTART:20260825T123000
 DTEND:20260825T143000
@@ -6432,6 +6482,42 @@ DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
  franz/
 LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/films/franz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260825T131500
+DTEND:20260825T151500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260825T154500
+DTEND:20260825T174500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260825T181500
+DTEND:20260825T201500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260825T204500
+DTEND:20260825T224500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:To Use a Mountain @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FIL
@@ -6481,6 +6567,15 @@ DTEND:20260825T210000
 DESCRIPTION:Dir: DAVID CRONENBERG (1996)\nhttps://nitehawkcinema.com/willi
  amsburg/film-series/the-class-of-96/
 LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://nitehawkcinema.com/williamsburg/film-series/the-class-of-96/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Rock @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260825T213000
+DTEND:20260825T233000
+DESCRIPTION:Dir: MICHAEL BAY (1996)\nhttps://nitehawkcinema.com/williamsbu
+ rg/film-series/the-class-of-96/
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://nitehawkcinema.com/williamsburg/film-series/the-class-of-96/
 END:VEVENT
 BEGIN:VEVENT
@@ -6755,6 +6850,96 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/coppola
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260826T120000
+DTEND:20260826T140000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260826T150000
+DTEND:20260826T170000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260826T180000
+DTEND:20260826T200000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260826T210000
+DTEND:20260826T230000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260826T123000
+DTEND:20260826T143000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260826T151500
+DTEND:20260826T171500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260826T204500
+DTEND:20260826T224500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260826T131500
+DTEND:20260826T151500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260826T154500
+DTEND:20260826T174500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260826T181500
+DTEND:20260826T201500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Franz @ FILM AT LINCOLN CENTER
 DTSTART:20260826T123000
 DTEND:20260826T143000
@@ -6791,6 +6976,42 @@ LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/films/franz/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260826T131500
+DTEND:20260826T151500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260826T154500
+DTEND:20260826T174500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260826T181500
+DTEND:20260826T201500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260826T204500
+DTEND:20260826T224500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:To Use a Mountain @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FIL
  M
 DTSTART:20260826T190000
@@ -6821,6 +7042,150 @@ DESCRIPTION:Dir: JON KASBE (2026)\nhttps://www.dctvny.org/s/firehouse-film
 LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
 URL:https://www.dctvny.org/s/firehouse-film/daylight-MCYYB57MXLVRDPPLNMWUN
  52T67WY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girlhood @ METROGRAPH
+DTSTART:20260826T140000
+DTEND:20260826T160000
+DESCRIPTION:Dir: CÉLINE SCIAMMA (2014)\nhttps://metrograph.com/series/?vi
+ sta_series_id=0000000563
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000563
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girlhood @ METROGRAPH
+DTSTART:20260826T161500
+DTEND:20260826T181500
+DESCRIPTION:Dir: CÉLINE SCIAMMA (2014)\nhttps://metrograph.com/series/?vi
+ sta_series_id=0000000563
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000563
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girlhood @ METROGRAPH
+DTSTART:20260826T163000
+DTEND:20260826T183000
+DESCRIPTION:Dir: CÉLINE SCIAMMA (2014)\nhttps://metrograph.com/series/?vi
+ sta_series_id=0000000563
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000563
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girlhood @ METROGRAPH
+DTSTART:20260826T182000
+DTEND:20260826T202000
+DESCRIPTION:Dir: CÉLINE SCIAMMA (2014)\nhttps://metrograph.com/series/?vi
+ sta_series_id=0000000563
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000563
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girlhood @ METROGRAPH
+DTSTART:20260826T184500
+DTEND:20260826T204500
+DESCRIPTION:Dir: CÉLINE SCIAMMA (2014)\nhttps://metrograph.com/series/?vi
+ sta_series_id=0000000563
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000563
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girlhood @ METROGRAPH
+DTSTART:20260826T203000
+DTEND:20260826T223000
+DESCRIPTION:Dir: CÉLINE SCIAMMA (2014)\nhttps://metrograph.com/series/?vi
+ sta_series_id=0000000563
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000563
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girlhood @ METROGRAPH
+DTSTART:20260826T210000
+DTEND:20260826T230000
+DESCRIPTION:Dir: CÉLINE SCIAMMA (2014)\nhttps://metrograph.com/series/?vi
+ sta_series_id=0000000563
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000563
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girlhood @ METROGRAPH
+DTSTART:20260826T222000
+DTEND:20260827T002000
+DESCRIPTION:Dir: CÉLINE SCIAMMA (2014)\nhttps://metrograph.com/series/?vi
+ sta_series_id=0000000563
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000563
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Notte @ METROGRAPH
+DTSTART:20260826T140000
+DTEND:20260826T160000
+DESCRIPTION:Dir: MICHAELANGELO ANTONIONI (1961)\nhttps://metrograph.com/se
+ ries/?vista_series_id=0000000555
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000555
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Bonnes Femmes @ METROGRAPH
+DTSTART:20260826T161500
+DTEND:20260826T181500
+DESCRIPTION:Dir: CLAUDE CHABROL (1960)\nhttps://metrograph.com/series/?vis
+ ta_series_id=0000000563
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000563
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Before Sunrise @ METROGRAPH
+DTSTART:20260826T163000
+DTEND:20260826T183000
+DESCRIPTION:Dir: RICHARD LINKLATER (1995)\nhttps://metrograph.com/series/?
+ vista_series_id=0000000555
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000555
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:And Then There Was Light @ METROGRAPH
+DTSTART:20260826T182000
+DTEND:20260826T202000
+DESCRIPTION:Dir: OTAR IOSSELIANI (1989)\nhttps://asiasociety.org/new-york/
+ otar-iosseliani-fables-modern-life
+LOCATION:METROGRAPH
+URL:https://asiasociety.org/new-york/otar-iosseliani-fables-modern-life
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hunger @ METROGRAPH
+DTSTART:20260826T184500
+DTEND:20260826T204500
+DESCRIPTION:Dir: TONY SCOTT (1983)\nhttps://metrograph.com/series/?vista_s
+ eries_id=0000000564
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000564
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Je Tu Il Elle @ METROGRAPH
+DTSTART:20260826T203000
+DTEND:20260826T223000
+DESCRIPTION:Dir: CHANTAL AKERMAN (1974)\nhttps://metrograph.com/film/?vist
+ a_film_id=9999002615
+LOCATION:METROGRAPH
+URL:https://metrograph.com/film/?vista_film_id=9999002615
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solaris @ METROGRAPH
+DTSTART:20260826T210000
+DTEND:20260826T230000
+DESCRIPTION:Dir: ANDREI TARKOVSKY (1972)\nhttps://metrograph.com/series/?v
+ ista_series_id=0000000531
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000531
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obsession @ METROGRAPH
+DTSTART:20260826T222000
+DTEND:20260827T002000
+DESCRIPTION:Dir: BRIAN DE PALMA (1976)\nhttps://metrograph.com/series/?vis
+ ta_series_id=0000000566
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000566
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bushman @ MUSEUM OF MODERN ART
@@ -7160,6 +7525,96 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/coppola
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260827T120000
+DTEND:20260827T140000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260827T150000
+DTEND:20260827T170000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260827T180000
+DTEND:20260827T200000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260827T210000
+DTEND:20260827T230000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260827T123000
+DTEND:20260827T143000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260827T151500
+DTEND:20260827T171500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260827T204500
+DTEND:20260827T224500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260827T131500
+DTEND:20260827T151500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260827T154500
+DTEND:20260827T174500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260827T181500
+DTEND:20260827T201500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Franz @ FILM AT LINCOLN CENTER
 DTSTART:20260827T123000
 DTEND:20260827T143000
@@ -7194,6 +7649,42 @@ DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
  franz/
 LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/films/franz/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260827T131500
+DTEND:20260827T151500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260827T154500
+DTEND:20260827T174500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260827T181500
+DTEND:20260827T201500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260827T204500
+DTEND:20260827T224500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Daylight @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
@@ -7234,6 +7725,141 @@ DESCRIPTION:Dir: MULTIPLE DIRECTORS (1998)\nhttps://www.eventbrite.com/o/8
  387562806
 LOCATION:FLATBUSH REFORMED CHURCH
 URL:https://www.eventbrite.com/o/8387562806
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deliverance @ METROGRAPH
+DTSTART:20260827T141500
+DTEND:20260827T161500
+DESCRIPTION:Dir: JOHN BOORMAN (1972)\nhttps://metrograph.com/going-up-the-
+ country/
+LOCATION:METROGRAPH
+URL:https://metrograph.com/going-up-the-country/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deliverance @ METROGRAPH
+DTSTART:20260827T142500
+DTEND:20260827T162500
+DESCRIPTION:Dir: JOHN BOORMAN (1972)\nhttps://metrograph.com/going-up-the-
+ country/
+LOCATION:METROGRAPH
+URL:https://metrograph.com/going-up-the-country/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deliverance @ METROGRAPH
+DTSTART:20260827T163000
+DTEND:20260827T183000
+DESCRIPTION:Dir: JOHN BOORMAN (1972)\nhttps://metrograph.com/going-up-the-
+ country/
+LOCATION:METROGRAPH
+URL:https://metrograph.com/going-up-the-country/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deliverance @ METROGRAPH
+DTSTART:20260827T164500
+DTEND:20260827T184500
+DESCRIPTION:Dir: JOHN BOORMAN (1972)\nhttps://metrograph.com/going-up-the-
+ country/
+LOCATION:METROGRAPH
+URL:https://metrograph.com/going-up-the-country/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deliverance @ METROGRAPH
+DTSTART:20260827T190000
+DTEND:20260827T210000
+DESCRIPTION:Dir: JOHN BOORMAN (1972)\nhttps://metrograph.com/going-up-the-
+ country/
+LOCATION:METROGRAPH
+URL:https://metrograph.com/going-up-the-country/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deliverance @ METROGRAPH
+DTSTART:20260827T191500
+DTEND:20260827T211500
+DESCRIPTION:Dir: JOHN BOORMAN (1972)\nhttps://metrograph.com/going-up-the-
+ country/
+LOCATION:METROGRAPH
+URL:https://metrograph.com/going-up-the-country/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deliverance @ METROGRAPH
+DTSTART:20260827T213000
+DTEND:20260827T233000
+DESCRIPTION:Dir: JOHN BOORMAN (1972)\nhttps://metrograph.com/going-up-the-
+ country/
+LOCATION:METROGRAPH
+URL:https://metrograph.com/going-up-the-country/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deliverance @ METROGRAPH
+DTSTART:20260827T213500
+DTEND:20260827T233500
+DESCRIPTION:Dir: JOHN BOORMAN (1972)\nhttps://metrograph.com/going-up-the-
+ country/
+LOCATION:METROGRAPH
+URL:https://metrograph.com/going-up-the-country/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chocolat @ METROGRAPH
+DTSTART:20260827T142500
+DTEND:20260827T162500
+DESCRIPTION:Dir: CLAIRE DENIS (1988)\nhttps://metrograph.com/series/?vista
+ _series_id=0000000570
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000570
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3 Women @ METROGRAPH
+DTSTART:20260827T163000
+DTEND:20260827T183000
+DESCRIPTION:Dir: ROBERT ALTMAN (1977)\nhttps://metrograph.com/series/?vist
+ a_series_id=0000000563
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000563
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conversation Piece @ METROGRAPH
+DTSTART:20260827T164500
+DTEND:20260827T184500
+DESCRIPTION:Dir: LUCHINO VISCONTI (1977)\nhttps://metrograph.com/series/?v
+ ista_series_id=0000000564
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000564
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Collateral @ METROGRAPH
+DTSTART:20260827T190000
+DTEND:20260827T210000
+DESCRIPTION:Dir: MICHAEL MANN (2004)\nhttps://metrograph.com/series/?vista
+ _series_id=0000000555
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000555
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Night at Maud’s @ METROGRAPH
+DTSTART:20260827T191500
+DTEND:20260827T211500
+DESCRIPTION:Dir: ERIC ROHMER (1969)\nhttps://metrograph.com/rohmers-elisab
+ eth/
+LOCATION:METROGRAPH
+URL:https://metrograph.com/rohmers-elisabeth/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drunken Master II @ METROGRAPH
+DTSTART:20260827T213000
+DTEND:20260827T233000
+DESCRIPTION:Dir: LAU KAR-LEUNG (1994)\nhttps://metrograph.com/series/?vist
+ a_series_id=0000000562
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000562
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love in the Afternoon @ METROGRAPH
+DTSTART:20260827T213500
+DTEND:20260827T233500
+DESCRIPTION:Dir: ERIC ROHMER (1972)\nhttps://metrograph.com/rohmers-elisab
+ eth/
+LOCATION:METROGRAPH
+URL:https://metrograph.com/rohmers-elisabeth/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nationalite: Immigre @ MUSEUM OF MODERN ART
@@ -7660,6 +8286,78 @@ DESCRIPTION:Dir: CHRISTOPHER NOLAN (2008)\nhttps://metrograph.com/series/?
  vista_series_id=0000000559
 LOCATION:METROGRAPH
 URL:https://metrograph.com/series/?vista_series_id=0000000559
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Dark Knight @ METROGRAPH
+DTSTART:20260828T160000
+DTEND:20260828T180000
+DESCRIPTION:Dir: CHRISTOPHER NOLAN (2008)\nhttps://metrograph.com/series/?
+ vista_series_id=0000000559
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000559
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Dark Knight @ METROGRAPH
+DTSTART:20260828T183000
+DTEND:20260828T203000
+DESCRIPTION:Dir: CHRISTOPHER NOLAN (2008)\nhttps://metrograph.com/series/?
+ vista_series_id=0000000559
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000559
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Dark Knight @ METROGRAPH
+DTSTART:20260828T223000
+DTEND:20260829T003000
+DESCRIPTION:Dir: CHRISTOPHER NOLAN (2008)\nhttps://metrograph.com/series/?
+ vista_series_id=0000000559
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000559
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Dark Knight @ METROGRAPH
+DTSTART:20260828T223500
+DTEND:20260829T003500
+DESCRIPTION:Dir: CHRISTOPHER NOLAN (2008)\nhttps://metrograph.com/series/?
+ vista_series_id=0000000559
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000559
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Days and Nights in the Forest @ METROGRAPH
+DTSTART:20260828T160000
+DTEND:20260828T180000
+DESCRIPTION:Dir: SATYAJIT RAY (1970)\nhttps://metrograph.com/going-up-the-
+ country/
+LOCATION:METROGRAPH
+URL:https://metrograph.com/going-up-the-country/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women on the Verge of a Nervous Breakdown @ METROGRAPH
+DTSTART:20260828T183000
+DTEND:20260828T203000
+DESCRIPTION:Dir: PEDRO ALMODÓVAR (1988)\nhttps://metrograph.com/series/?v
+ ista_series_id=0000000563
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000563
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:House @ METROGRAPH
+DTSTART:20260828T223000
+DTEND:20260829T003000
+DESCRIPTION:Dir: NOBUHIKO OBAYASHI (1977)\nhttps://metrograph.com/series/?
+ vista_series_id=0000000569
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000569
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Raw @ METROGRAPH
+DTSTART:20260828T223500
+DTEND:20260829T003500
+DESCRIPTION:Dir: JULIA DUCOURNAU (2016)\nhttps://metrograph.com/series/?vi
+ sta_series_id=0000000569
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000569
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lingua Franca @ MUSEUM OF MODERN ART
@@ -8152,6 +8850,42 @@ URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
  tab=films
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Petite Maman @ METROGRAPH
+DTSTART:20260829T114500
+DTEND:20260829T134500
+DESCRIPTION:Dir: CÉLINE SCIAMMA (2021)\nhttps://metrograph.com/series/?vi
+ sta_series_id=0000000566
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000566
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Petite Maman @ METROGRAPH
+DTSTART:20260829T133000
+DTEND:20260829T153000
+DESCRIPTION:Dir: CÉLINE SCIAMMA (2021)\nhttps://metrograph.com/series/?vi
+ sta_series_id=0000000566
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000566
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Petite Maman @ METROGRAPH
+DTSTART:20260829T155000
+DTEND:20260829T175000
+DESCRIPTION:Dir: CÉLINE SCIAMMA (2021)\nhttps://metrograph.com/series/?vi
+ sta_series_id=0000000566
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000566
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Petite Maman @ METROGRAPH
+DTSTART:20260829T224500
+DTEND:20260830T004500
+DESCRIPTION:Dir: CÉLINE SCIAMMA (2021)\nhttps://metrograph.com/series/?vi
+ sta_series_id=0000000566
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000566
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chungking Express @ METROGRAPH
 DTSTART:20260829T133000
 DTEND:20260829T153000
@@ -8159,6 +8893,24 @@ DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://metrograph.com/series/?vista
  _series_id=0000000558
 LOCATION:METROGRAPH
 URL:https://metrograph.com/series/?vista_series_id=0000000558
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In My Skin @ METROGRAPH
+DTSTART:20260829T155000
+DTEND:20260829T175000
+DESCRIPTION:Dir: MARINA DE VAN (2002)\nhttps://metrograph.com/series/?vist
+ a_series_id=0000000569
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000569
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:True Romance @ METROGRAPH
+DTSTART:20260829T224500
+DTEND:20260830T004500
+DESCRIPTION:Dir: TONY SCOTT (1993)\nhttps://metrograph.com/series/?vista_s
+ eries_id=0000000559
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000559
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Untouchables @ MUSEUM OF THE MOVING IMAGE
@@ -8697,6 +9449,69 @@ DESCRIPTION:Dir: PHILLIP NOYCE (1999)\nhttps://www.filmlinc.org/series/bib
 LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
  tab=films
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E.T. the Extra-Terrestrial @ METROGRAPH
+DTSTART:20260830T110000
+DTEND:20260830T130000
+DESCRIPTION:Dir: STEVEN SPIELBERG (1982)\nhttps://metrograph.com/series/?v
+ ista_series_id=0000000310
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000310
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E.T. the Extra-Terrestrial @ METROGRAPH
+DTSTART:20260830T132500
+DTEND:20260830T152500
+DESCRIPTION:Dir: STEVEN SPIELBERG (1982)\nhttps://metrograph.com/series/?v
+ ista_series_id=0000000310
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000310
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E.T. the Extra-Terrestrial @ METROGRAPH
+DTSTART:20260830T214000
+DTEND:20260830T234000
+DESCRIPTION:Dir: STEVEN SPIELBERG (1982)\nhttps://metrograph.com/series/?v
+ ista_series_id=0000000310
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000310
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E.T. the Extra-Terrestrial @ METROGRAPH
+DTSTART:20260830T214500
+DTEND:20260830T234500
+DESCRIPTION:Dir: STEVEN SPIELBERG (1982)\nhttps://metrograph.com/series/?v
+ ista_series_id=0000000310
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000310
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bram Stoker's Dracula @ METROGRAPH
+DTSTART:20260830T132500
+DTEND:20260830T152500
+DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1992)\nhttps://metrograph.com/serie
+ s/?vista_series_id=0000000559
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000559
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:After Hours @ METROGRAPH
+DTSTART:20260830T214000
+DTEND:20260830T234000
+DESCRIPTION:Dir: MARTIN SCORSESE (1985)\nhttps://metrograph.com/series/?vi
+ sta_series_id=0000000555
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000555
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In My Skin @ METROGRAPH
+DTSTART:20260830T214500
+DTEND:20260830T234500
+DESCRIPTION:Dir: MARINA DE VAN (2002)\nhttps://metrograph.com/series/?vist
+ a_series_id=0000000569
+LOCATION:METROGRAPH
+URL:https://metrograph.com/series/?vista_series_id=0000000569
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stroszek @ MUSEUM OF MODERN ART
@@ -10822,6 +11637,45 @@ LOCATION:NITEHAWK CINEMA PROSPECT PARK
 URL:https://nitehawkcinema.com/williamsburg/film-series/anniversary-party/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Three Amigos @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260905T121500
+DTEND:20260905T141500
+DESCRIPTION:Dir: JOHN LANDIS (1986)\nhttps://nitehawkcinema.com/williamsbu
+ rg/film-series/anniversary-party/
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://nitehawkcinema.com/williamsburg/film-series/anniversary-party/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poetic Justice @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260905T121500
+DTEND:20260905T141500
+DESCRIPTION:Dir: JOHN SINGLETON (1993)\nhttps://nitehawkcinema.com/prospec
+ tpark/film-series/a-tribute-to-tupac/
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://nitehawkcinema.com/prospectpark/film-series/a-tribute-to-tupac
+ /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Who Framed Roger Rabbit @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260905T110000
+DTEND:20260905T130000
+DESCRIPTION:Dir: ROBERT ZEMECKIS (1988)\nhttps://nitehawkcinema.com/willia
+ msburg/film-series/80s-bombshell-kathleen-turner/
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://nitehawkcinema.com/williamsburg/film-series/80s-bombshell-kath
+ leen-turner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Who Framed Roger Rabbit @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260905T111500
+DTEND:20260905T131500
+DESCRIPTION:Dir: ROBERT ZEMECKIS (1988)\nhttps://nitehawkcinema.com/willia
+ msburg/film-series/80s-bombshell-kathleen-turner/
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://nitehawkcinema.com/williamsburg/film-series/80s-bombshell-kath
+ leen-turner/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Last Picture Show @ NITEHAWK CINEMA WILLIAMSBURG
 DTSTART:20260905T111500
 DTEND:20260905T131500
@@ -11115,6 +11969,45 @@ DESCRIPTION:Dir: JOHN LANDIS (1986)\nhttps://nitehawkcinema.com/williamsbu
  rg/film-series/anniversary-party/
 LOCATION:NITEHAWK CINEMA PROSPECT PARK
 URL:https://nitehawkcinema.com/williamsburg/film-series/anniversary-party/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Three Amigos @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260906T121500
+DTEND:20260906T141500
+DESCRIPTION:Dir: JOHN LANDIS (1986)\nhttps://nitehawkcinema.com/williamsbu
+ rg/film-series/anniversary-party/
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://nitehawkcinema.com/williamsburg/film-series/anniversary-party/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poetic Justice @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260906T121500
+DTEND:20260906T141500
+DESCRIPTION:Dir: JOHN SINGLETON (1993)\nhttps://nitehawkcinema.com/prospec
+ tpark/film-series/a-tribute-to-tupac/
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://nitehawkcinema.com/prospectpark/film-series/a-tribute-to-tupac
+ /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Who Framed Roger Rabbit @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260906T110000
+DTEND:20260906T130000
+DESCRIPTION:Dir: ROBERT ZEMECKIS (1988)\nhttps://nitehawkcinema.com/willia
+ msburg/film-series/80s-bombshell-kathleen-turner/
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://nitehawkcinema.com/williamsburg/film-series/80s-bombshell-kath
+ leen-turner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Who Framed Roger Rabbit @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260906T111500
+DTEND:20260906T131500
+DESCRIPTION:Dir: ROBERT ZEMECKIS (1988)\nhttps://nitehawkcinema.com/willia
+ msburg/film-series/80s-bombshell-kathleen-turner/
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://nitehawkcinema.com/williamsburg/film-series/80s-bombshell-kath
+ leen-turner/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Last Picture Show @ NITEHAWK CINEMA WILLIAMSBURG
@@ -11758,6 +12651,16 @@ LOCATION:MUSEUM OF MODERN ART
 URL:https://www.moma.org/calendar/film/5911
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gang Related @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260909T211500
+DTEND:20260909T231500
+DESCRIPTION:Dir: JIM KOUF (1997)\nhttps://nitehawkcinema.com/prospectpark/
+ film-series/a-tribute-to-tupac/
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://nitehawkcinema.com/prospectpark/film-series/a-tribute-to-tupac
+ /
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Departed @ ROXY CINEMA NEW YORK
 DTSTART:20260909T190000
 DTEND:20260909T210000
@@ -12114,6 +13017,17 @@ LOCATION:BAM
 URL:https://www.bam.org/film/2026/powwow-people
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Michael Mann's Manhunter: The Final Cut @ NITEHAWK CINEMA WILLIAMS
+ BURG
+DTSTART:20260911T235500
+DTEND:20260912T015500
+DESCRIPTION:Dir: MICHAEL MANN (1986 / 2026)\nhttps://nitehawkcinema.com/pr
+ ospectpark/film-series/recent-restorations/
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://nitehawkcinema.com/prospectpark/film-series/recent-restoration
+ s/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Lord of the Rings: The Return of the King @ PARIS THEATER
 DTSTART:20260911T104500
 DTEND:20260911T124500
@@ -12242,6 +13156,24 @@ LOCATION:BAM
 URL:https://www.bam.org/film/2026/powwow-people
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Shrek @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260912T110000
+DTEND:20260912T130000
+DESCRIPTION:Dir: ANDREW ADAMSON\, VICKY JENSON (2001)\nhttps://nitehawkcin
+ ema.com/williamsburg/film-series/anniversary-party/
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://nitehawkcinema.com/williamsburg/film-series/anniversary-party/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shrek @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260912T120000
+DTEND:20260912T140000
+DESCRIPTION:Dir: ANDREW ADAMSON\, VICKY JENSON (2001)\nhttps://nitehawkcin
+ ema.com/williamsburg/film-series/anniversary-party/
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://nitehawkcinema.com/williamsburg/film-series/anniversary-party/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Departed @ NITEHAWK CINEMA PROSPECT PARK
 DTSTART:20260912T120000
 DTEND:20260912T140000
@@ -12249,6 +13181,34 @@ DESCRIPTION:Dir: MARTIN SCORSESE (2006)\nhttps://nitehawkcinema.com/willia
  msburg/film-series/anniversary-party/
 LOCATION:NITEHAWK CINEMA PROSPECT PARK
 URL:https://nitehawkcinema.com/williamsburg/film-series/anniversary-party/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghost World @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260912T110000
+DTEND:20260912T130000
+DESCRIPTION:Dir: TERRY ZWIGOFF (2001)\nhttps://nitehawkcinema.com/williams
+ burg/film-series/anniversary-party/
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://nitehawkcinema.com/williamsburg/film-series/anniversary-party/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghost World @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260912T111500
+DTEND:20260912T131500
+DESCRIPTION:Dir: TERRY ZWIGOFF (2001)\nhttps://nitehawkcinema.com/williams
+ burg/film-series/anniversary-party/
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://nitehawkcinema.com/williamsburg/film-series/anniversary-party/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Body Heat @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260912T111500
+DTEND:20260912T131500
+DESCRIPTION:Dir: LAWRENCE KASDAN (1981)\nhttps://nitehawkcinema.com/willia
+ msburg/film-series/80s-bombshell-kathleen-turner/
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://nitehawkcinema.com/williamsburg/film-series/80s-bombshell-kath
+ leen-turner/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lawrence of Arabia @ PARIS THEATER
@@ -12409,6 +13369,52 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/nyc-in-transit
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Shrek @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260913T110000
+DTEND:20260913T130000
+DESCRIPTION:Dir: ANDREW ADAMSON\, VICKY JENSON (2001)\nhttps://nitehawkcin
+ ema.com/williamsburg/film-series/anniversary-party/
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://nitehawkcinema.com/williamsburg/film-series/anniversary-party/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shrek @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260913T120000
+DTEND:20260913T140000
+DESCRIPTION:Dir: ANDREW ADAMSON\, VICKY JENSON (2001)\nhttps://nitehawkcin
+ ema.com/williamsburg/film-series/anniversary-party/
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://nitehawkcinema.com/williamsburg/film-series/anniversary-party/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghost World @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260913T110000
+DTEND:20260913T130000
+DESCRIPTION:Dir: TERRY ZWIGOFF (2001)\nhttps://nitehawkcinema.com/williams
+ burg/film-series/anniversary-party/
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://nitehawkcinema.com/williamsburg/film-series/anniversary-party/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghost World @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260913T111500
+DTEND:20260913T131500
+DESCRIPTION:Dir: TERRY ZWIGOFF (2001)\nhttps://nitehawkcinema.com/williams
+ burg/film-series/anniversary-party/
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://nitehawkcinema.com/williamsburg/film-series/anniversary-party/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Body Heat @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260913T111500
+DTEND:20260913T131500
+DESCRIPTION:Dir: LAWRENCE KASDAN (1981)\nhttps://nitehawkcinema.com/willia
+ msburg/film-series/80s-bombshell-kathleen-turner/
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://nitehawkcinema.com/williamsburg/film-series/80s-bombshell-kath
+ leen-turner/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vertigo @ PARIS THEATER
 DTSTART:20260913T111500
 DTEND:20260913T131500
@@ -12508,6 +13514,17 @@ DESCRIPTION:Dir: BEEBAN KIDRON (1995)\nhttps://nitehawkcinema.com/prospect
 LOCATION:NITEHAWK CINEMA PROSPECT PARK
 URL:https://nitehawkcinema.com/prospectpark/film-series/miss-malice-presen
  ts/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Michael Mann's Manhunter: The Final Cut @ NITEHAWK CINEMA WILLIAMS
+ BURG
+DTSTART:20260914T213000
+DTEND:20260914T233000
+DESCRIPTION:Dir: MICHAEL MANN (1986 / 2026)\nhttps://nitehawkcinema.com/pr
+ ospectpark/film-series/recent-restorations/
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://nitehawkcinema.com/prospectpark/film-series/recent-restoration
+ s/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Phantom of the Paradise @ PARIS THEATER
@@ -12774,6 +13791,16 @@ LOCATION:BAM
 URL:https://www.bam.org/film/2026/powwow-people
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gridlock'd @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260916T210000
+DTEND:20260916T230000
+DESCRIPTION:Dir: VONDIE CURTIS HALL (1997)\nhttps://nitehawkcinema.com/pro
+ spectpark/film-series/a-tribute-to-tupac/
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://nitehawkcinema.com/prospectpark/film-series/a-tribute-to-tupac
+ /
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A Scanner Darkly @ ROXY CINEMA NEW YORK
 DTSTART:20260916T210000
 DTEND:20260916T230000
@@ -12836,6 +13863,15 @@ DESCRIPTION:Dir: SKY HOPINKA (2025)\nhttps://www.bam.org/film/2026/powwow-
  people
 LOCATION:BAM
 URL:https://www.bam.org/film/2026/powwow-people
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red Stars Upon the Field @ GOETHE-INSTITUT NEW YORK
+DTSTART:20260917T190000
+DTEND:20260917T210000
+DESCRIPTION:Dir: LAURA LAABS (2025)\nhttps://www.eventbrite.com/cc/german-
+ movie-nights-462669
+LOCATION:GOETHE-INSTITUT NEW YORK
+URL:https://www.eventbrite.com/cc/german-movie-nights-462669
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Werewolf in a Women's Prison @ NITEHAWK CINEMA WILLIAMSBURG
@@ -12946,6 +13982,26 @@ LOCATION:ANTHOLOGY FILM ARCHIVES
 URL:https://www.anthologyfilmarchives.org/film_screenings/series/61944
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Above the Rim @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260919T120000
+DTEND:20260919T140000
+DESCRIPTION:Dir: JEFF POLLACK (1994)\nhttps://nitehawkcinema.com/prospectp
+ ark/film-series/a-tribute-to-tupac/
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://nitehawkcinema.com/prospectpark/film-series/a-tribute-to-tupac
+ /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peggy Sue Got Married @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260919T110000
+DTEND:20260919T130000
+DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1986)\nhttps://nitehawkcinema.com/w
+ illiamsburg/film-series/80s-bombshell-kathleen-turner/
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://nitehawkcinema.com/williamsburg/film-series/80s-bombshell-kath
+ leen-turner/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:In Vanda's Room @ ANTHOLOGY FILM ARCHIVES
 DTSTART:20260920T161500
 DTEND:20260920T181500
@@ -13027,6 +14083,16 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/wild-style
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Peggy Sue Got Married @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260920T110000
+DTEND:20260920T130000
+DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1986)\nhttps://nitehawkcinema.com/w
+ illiamsburg/film-series/80s-bombshell-kathleen-turner/
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://nitehawkcinema.com/williamsburg/film-series/80s-bombshell-kath
+ leen-turner/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Still Life @ ANTHOLOGY FILM ARCHIVES
 DTSTART:20260921T190000
 DTEND:20260921T210000
@@ -13034,6 +14100,16 @@ DESCRIPTION:Dir: JIA ZHANGKE (2006)\nhttps://www.anthologyfilmarchives.org
  /film_screenings/series/61953
 LOCATION:ANTHOLOGY FILM ARCHIVES
 URL:https://www.anthologyfilmarchives.org/film_screenings/series/61953
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bullet @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260921T213000
+DTEND:20260921T233000
+DESCRIPTION:Dir: JULIEN TEMPLE (1996)\nhttps://nitehawkcinema.com/prospect
+ park/film-series/a-tribute-to-tupac/
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://nitehawkcinema.com/prospectpark/film-series/a-tribute-to-tupac
+ /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Day Night Day Night @ ROXY CINEMA NEW YORK
@@ -13099,6 +14175,16 @@ DESCRIPTION:Dir: MANFRED KIRCHHEIMER (1981)\nhttps://filmforum.org/series/
  nyc-in-transit
 LOCATION:FILM FORUM
 URL:https://filmforum.org/series/nyc-in-transit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crimes of Passion @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260922T213000
+DTEND:20260922T233000
+DESCRIPTION:Dir: KEN RUSSELL (1984)\nhttps://nitehawkcinema.com/williamsbu
+ rg/film-series/80s-bombshell-kathleen-turner/
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://nitehawkcinema.com/williamsburg/film-series/80s-bombshell-kath
+ leen-turner/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Still Life @ ANTHOLOGY FILM ARCHIVES
@@ -13245,6 +14331,26 @@ LOCATION:ANTHOLOGY FILM ARCHIVES
 URL:https://www.anthologyfilmarchives.org/film_screenings/series/61925
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Juice @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260926T121500
+DTEND:20260926T141500
+DESCRIPTION:Dir: ERNEST R. DICKERSON (1992)\nhttps://nitehawkcinema.com/pr
+ ospectpark/film-series/a-tribute-to-tupac/
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://nitehawkcinema.com/prospectpark/film-series/a-tribute-to-tupac
+ /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Romancing The Stone @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260926T110000
+DTEND:20260926T130000
+DESCRIPTION:Dir: ROBERT ZEMECKIS (1984)\nhttps://nitehawkcinema.com/willia
+ msburg/film-series/80s-bombshell-kathleen-turner/
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://nitehawkcinema.com/williamsburg/film-series/80s-bombshell-kath
+ leen-turner/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Screamplay @ ANTHOLOGY FILM ARCHIVES
 DTSTART:20260927T163000
 DTEND:20260927T183000
@@ -13287,6 +14393,26 @@ DESCRIPTION:Dir: RUFUS BUTLER SEDER (1984)\nhttps://www.anthologyfilmarchi
 LOCATION:ANTHOLOGY FILM ARCHIVES
 URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
  st&amp;month=09&amp;year=2026#showing-61878
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juice @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260927T121500
+DTEND:20260927T141500
+DESCRIPTION:Dir: ERNEST R. DICKERSON (1992)\nhttps://nitehawkcinema.com/pr
+ ospectpark/film-series/a-tribute-to-tupac/
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://nitehawkcinema.com/prospectpark/film-series/a-tribute-to-tupac
+ /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Romancing The Stone @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260927T110000
+DTEND:20260927T130000
+DESCRIPTION:Dir: ROBERT ZEMECKIS (1984)\nhttps://nitehawkcinema.com/willia
+ msburg/film-series/80s-bombshell-kathleen-turner/
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://nitehawkcinema.com/williamsburg/film-series/80s-bombshell-kath
+ leen-turner/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Def by Temptation @ SARATOGA PARK
@@ -13370,6 +14496,15 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/nyc-in-transit
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pretty Peaches @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260929T213000
+DTEND:20260929T233000
+DESCRIPTION:Dir: ALEX DE RENZY (1978)\nhttps://nitehawkcinema.com/williams
+ burg/film-series/skin-deep/
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://nitehawkcinema.com/williamsburg/film-series/skin-deep/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Screamplay @ ANTHOLOGY FILM ARCHIVES
 DTSTART:20260930T184500
 DTEND:20260930T204500
@@ -13410,6 +14545,16 @@ DESCRIPTION:Dir: DIEGO SOTO (2025)\nhttps://www.anthologyfilmarchives.org/
  film_screenings/series/59363
 LOCATION:ANTHOLOGY FILM ARCHIVES
 URL:https://www.anthologyfilmarchives.org/film_screenings/series/59363
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Mama @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260930T204500
+DTEND:20260930T224500
+DESCRIPTION:Dir: ALLEN HUGHES (2023)\nhttps://nitehawkcinema.com/prospectp
+ ark/film-series/a-tribute-to-tupac/
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://nitehawkcinema.com/prospectpark/film-series/a-tribute-to-tupac
+ /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Light That Never Goes Out @ SCANDINAVIA HOUSE
@@ -14663,33 +15808,13 @@ LOCATION:ANTHOLOGY FILM ARCHIVES
 URL:https://www.anthologyfilmarchives.org/film_screenings/series/62026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Fountain - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20270816T171500
-DTEND:20270816T191500
-DESCRIPTION:Dir: N/A (2006)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 716?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+SUMMARY:Dead Souls @ ROXY CINEMA NEW YORK
+DTSTART:20270817T210000
+DTEND:20270817T230000
+DESCRIPTION:Dir: N/A (2025)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 731?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7716?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Incorrectional: A Memorial Service @ ROXY CINEMA NEW YORK
-DTSTART:20270816T193000
-DTEND:20270816T213000
-DESCRIPTION:Dir: N/A (2018)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 621?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7621?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crank - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20260817T190000
-DTEND:20260817T210000
-DESCRIPTION:Dir: N/A (2006)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 679?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7679?siteToken=tt17e5ajy3v
+URL:https://ticketing.uswest.veezi.com/purchase/7731?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
@@ -15154,6 +16279,26 @@ URL:https://ticketing.uswest.veezi.com/purchase/7725?siteToken=tt17e5ajy3v
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Out of the Blue @ ROXY CINEMA NEW YORK
+DTSTART:20260910T190000
+DTEND:20260910T210000
+DESCRIPTION:Dir: N/A (1980)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 773?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7773?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Departed - 35MM @ ROXY CINEMA NEW YORK
+DTSTART:20260910T213000
+DTEND:20260910T233000
+DESCRIPTION:Dir: N/A (2006)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 774?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7774?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Out of the Blue @ ROXY CINEMA NEW YORK
 DTSTART:20260911T170000
 DTEND:20260911T190000
 DESCRIPTION:Dir: N/A (1980)\nhttps://ticketing.uswest.veezi.com/purchase/7
@@ -15235,17 +16380,6 @@ URL:https://ticketing.uswest.veezi.com/purchase/7756?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hell’s Highway: The True Story of Highway Safety Films @ ROXY CI
- NEMA NEW YORK
-DTSTART:20260916T190000
-DTEND:20260916T210000
-DESCRIPTION:Dir: N/A (2003)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 763?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7763?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:A Scanner Darkly - 35MM @ ROXY CINEMA NEW YORK
 DTSTART:20260916T210000
 DTEND:20260916T230000
@@ -15295,6 +16429,16 @@ DESCRIPTION:Dir: N/A (2025)\nhttps://ticketing.uswest.veezi.com/purchase/7
  755?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7755?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paint Me a Road Out of Here + Q&A @ ROXY CINEMA NEW YORK
+DTSTART:20260920T173000
+DTEND:20260920T193000
+DESCRIPTION:Dir: N/A (2024)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 769?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7769?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
