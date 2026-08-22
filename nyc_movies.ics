@@ -2,1172 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:The Frontier Experience @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260821T190000
-DTEND:20260821T210000
-DESCRIPTION:Dir: BARBARA LODEN (1975)\nhttps://www.anthologyfilmarchives.o
- rg/film_screenings/series/61653
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/series/61653
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Frontier Experience @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260821T210000
-DTEND:20260821T230000
-DESCRIPTION:Dir: BARBARA LODEN (1975)\nhttps://www.anthologyfilmarchives.o
- rg/film_screenings/series/61653
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/series/61653
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:White Sun of the Desert @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260821T210000
-DTEND:20260821T230000
-DESCRIPTION:Dir: VLADIMIR MOTYL (1970)\nhttps://www.anthologyfilmarchives.
- org/film_screenings/series/61653
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/series/61653
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alphaville @ BAM
-DTSTART:20260821T140000
-DTEND:20260821T160000
-DESCRIPTION:Dir: JEAN-LUC GODARD (1965)\nhttps://www.bam.org/film/2026/art
- house-scifi
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/arthouse-scifi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alphaville @ BAM
-DTSTART:20260821T163000
-DTEND:20260821T183000
-DESCRIPTION:Dir: JEAN-LUC GODARD (1965)\nhttps://www.bam.org/film/2026/art
- house-scifi
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/arthouse-scifi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alphaville @ BAM
-DTSTART:20260821T184500
-DTEND:20260821T204500
-DESCRIPTION:Dir: JEAN-LUC GODARD (1965)\nhttps://www.bam.org/film/2026/art
- house-scifi
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/arthouse-scifi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alphaville @ BAM
-DTSTART:20260821T190000
-DTEND:20260821T210000
-DESCRIPTION:Dir: JEAN-LUC GODARD (1965)\nhttps://www.bam.org/film/2026/art
- house-scifi
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/arthouse-scifi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Space is the Place @ BAM
-DTSTART:20260821T163000
-DTEND:20260821T183000
-DESCRIPTION:Dir: JOHN CONEY (1974)\nhttps://www.bam.org/film/2026/arthouse
- -scifi
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/arthouse-scifi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solaris @ BAM
-DTSTART:20260821T184500
-DTEND:20260821T204500
-DESCRIPTION:Dir: ANDREI TARKOVSKY (1972)\nhttps://www.bam.org/film/2026/ar
- thouse-scifi
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/arthouse-scifi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union County @ BAM
-DTSTART:20260821T190000
-DTEND:20260821T210000
-DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.bam.org/film/2026/union-cou
- nty
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/union-county
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dementia 13: Director's Cut @ FILM FORUM
-DTSTART:20260821T130000
-DTEND:20260821T150000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1963)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dementia 13: Director's Cut @ FILM FORUM
-DTSTART:20260821T150000
-DTEND:20260821T170000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1963)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dementia 13: Director's Cut @ FILM FORUM
-DTSTART:20260821T171000
-DTEND:20260821T191000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1963)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dementia 13: Director's Cut @ FILM FORUM
-DTSTART:20260821T194000
-DTEND:20260821T214000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1963)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Rain People @ FILM FORUM
-DTSTART:20260821T150000
-DTEND:20260821T170000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1969)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Conversation @ FILM FORUM
-DTSTART:20260821T171000
-DTEND:20260821T191000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1974)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Godfather @ FILM FORUM
-DTSTART:20260821T194000
-DTEND:20260821T214000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1972)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260821T120000
-DTEND:20260821T140000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260821T150000
-DTEND:20260821T170000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260821T180000
-DTEND:20260821T200000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260821T210000
-DTEND:20260821T230000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260821T123000
-DTEND:20260821T143000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260821T151500
-DTEND:20260821T171500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260821T204500
-DTEND:20260821T224500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260821T131500
-DTEND:20260821T151500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260821T154500
-DTEND:20260821T174500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260821T181500
-DTEND:20260821T201500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260821T123000
-DTEND:20260821T143000
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260821T151500
-DTEND:20260821T171500
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260821T180000
-DTEND:20260821T200000
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260821T204500
-DTEND:20260821T224500
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
-DTSTART:20260821T131500
-DTEND:20260821T151500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
- me/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/late-fame/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
-DTSTART:20260821T154500
-DTEND:20260821T174500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
- me/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/late-fame/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
-DTSTART:20260821T181500
-DTEND:20260821T201500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
- me/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/late-fame/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
-DTSTART:20260821T204500
-DTEND:20260821T224500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
- me/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/late-fame/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Daylight @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-DTSTART:20260821T180000
-DTEND:20260821T200000
-DESCRIPTION:Dir: JON KASBE (2026)\nhttps://www.dctvny.org/s/firehouse-film
- /daylight-MCYYB57MXLVRDPPLNMWUN52T67WY
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/daylight-MCYYB57MXLVRDPPLNMWUN
- 52T67WY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Daylight @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-DTSTART:20260821T190000
-DTEND:20260821T210000
-DESCRIPTION:Dir: JON KASBE (2026)\nhttps://www.dctvny.org/s/firehouse-film
- /daylight-MCYYB57MXLVRDPPLNMWUN52T67WY
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/daylight-MCYYB57MXLVRDPPLNMWUN
- 52T67WY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:To Use a Mountain @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FIL
- M
-DTSTART:20260821T190000
-DTEND:20260821T210000
-DESCRIPTION:Dir: CASEY CARTER (2025)\nhttps://www.dctvny.org/s/firehouse-f
- ilm/to-use-a-mountain-MCJJHJERFNRFAFVM556FN5AHGQDI
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/to-use-a-mountain-MCJJHJERFNRF
- AFVM556FN5AHGQDI
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260821T105500
-DTEND:20260821T125500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260821T132500
-DTEND:20260821T152500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260821T160000
-DTEND:20260821T180000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260821T184000
-DTEND:20260821T204000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260821T123500
-DTEND:20260821T143500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260821T144000
-DTEND:20260821T164000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260821T165000
-DTEND:20260821T185000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260821T191000
-DTEND:20260821T211000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260821T213000
-DTEND:20260821T233000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260821T133000
-DTEND:20260821T153000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260821T155500
-DTEND:20260821T175500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260821T183000
-DTEND:20260821T203000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260821T212000
-DTEND:20260821T232000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260821T230500
-DTEND:20260822T010500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260821T135000
-DTEND:20260821T155000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260821T190500
-DTEND:20260821T210500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260821T135500
-DTEND:20260821T155500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260821T191500
-DTEND:20260821T211500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260821T214500
-DTEND:20260821T234500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260821T231500
-DTEND:20260822T011500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260821T162500
-DTEND:20260821T182500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260821T211500
-DTEND:20260821T231500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260821T232000
-DTEND:20260822T012000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260821T234000
-DTEND:20260822T014000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260821T234500
-DTEND:20260822T014500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260821T235000
-DTEND:20260822T015000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260821T235900
-DTEND:20260822T015900
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends @ IFC CENTER
-DTSTART:20260821T123500
-DTEND:20260821T143500
-DESCRIPTION:Dir: ALEXANDER ULLOM (2025)\nhttps://www.ifccenter.com/films/i
- t-ends/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/it-ends/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends @ IFC CENTER
-DTSTART:20260821T144000
-DTEND:20260821T164000
-DESCRIPTION:Dir: ALEXANDER ULLOM (2025)\nhttps://www.ifccenter.com/films/i
- t-ends/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/it-ends/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends @ IFC CENTER
-DTSTART:20260821T165000
-DTEND:20260821T185000
-DESCRIPTION:Dir: ALEXANDER ULLOM (2025)\nhttps://www.ifccenter.com/films/i
- t-ends/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/it-ends/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends @ IFC CENTER
-DTSTART:20260821T191000
-DTEND:20260821T211000
-DESCRIPTION:Dir: ALEXANDER ULLOM (2025)\nhttps://www.ifccenter.com/films/i
- t-ends/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/it-ends/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends @ IFC CENTER
-DTSTART:20260821T213000
-DTEND:20260821T233000
-DESCRIPTION:Dir: ALEXANDER ULLOM (2025)\nhttps://www.ifccenter.com/films/i
- t-ends/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/it-ends/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union County @ IFC CENTER
-DTSTART:20260821T133000
-DTEND:20260821T153000
-DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
- ounty/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/union-county/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union County @ IFC CENTER
-DTSTART:20260821T155500
-DTEND:20260821T175500
-DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
- ounty/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/union-county/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union County @ IFC CENTER
-DTSTART:20260821T183000
-DTEND:20260821T203000
-DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
- ounty/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/union-county/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union County @ IFC CENTER
-DTSTART:20260821T212000
-DTEND:20260821T232000
-DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
- ounty/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/union-county/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union County @ IFC CENTER
-DTSTART:20260821T230500
-DTEND:20260822T010500
-DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
- ounty/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/union-county/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside @ IFC CENTER
-DTSTART:20260821T135000
-DTEND:20260821T155000
-DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
- nside/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside @ IFC CENTER
-DTSTART:20260821T190500
-DTEND:20260821T210500
-DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
- nside/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Skin @ IFC CENTER
-DTSTART:20260821T135500
-DTEND:20260821T155500
-DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
- rious-skin/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mysterious-skin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Skin @ IFC CENTER
-DTSTART:20260821T191500
-DTEND:20260821T211500
-DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
- rious-skin/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mysterious-skin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Skin @ IFC CENTER
-DTSTART:20260821T214500
-DTEND:20260821T234500
-DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
- rious-skin/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mysterious-skin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Skin @ IFC CENTER
-DTSTART:20260821T231500
-DTEND:20260822T011500
-DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
- rious-skin/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mysterious-skin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Train to Busan @ IFC CENTER
-DTSTART:20260821T162500
-DTEND:20260821T182500
-DESCRIPTION:Dir: YEON SANG-HO (2016)\nhttps://www.ifccenter.com/films/trai
- n-to-busan-2/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/train-to-busan-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Train to Busan @ IFC CENTER
-DTSTART:20260821T211500
-DTEND:20260821T231500
-DESCRIPTION:Dir: YEON SANG-HO (2016)\nhttps://www.ifccenter.com/films/trai
- n-to-busan-2/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/train-to-busan-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Departed @ IFC CENTER
-DTSTART:20260821T232000
-DTEND:20260822T012000
-DESCRIPTION:Dir: MARTIN SCORSESE (2006)\nhttps://www.ifccenter.com/series/
- late-night-favorites-summer-2026/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/series/late-night-favorites-summer-2026/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Battle Royale @ IFC CENTER
-DTSTART:20260821T234000
-DTEND:20260822T014000
-DESCRIPTION:Dir: KINJI FUKASAKU (2000)\nhttps://www.ifccenter.com/series/l
- ate-night-favorites-summer-2026/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/series/late-night-favorites-summer-2026/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manhunter @ IFC CENTER
-DTSTART:20260821T234500
-DTEND:20260822T014500
-DESCRIPTION:Dir: MICHAEL MANN (1986)\nhttps://www.ifccenter.com/series/wav
- erly-midnights-mann-splaining/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/series/waverly-midnights-mann-splaining/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Panic in Needle Park @ IFC CENTER
-DTSTART:20260821T235000
-DTEND:20260822T015000
-DESCRIPTION:Dir: JERRY SCHATZBERG (1971)\nhttps://www.ifccenter.com/series
- /staff-picks-2026/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/series/staff-picks-2026/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jawbreaker @ IFC CENTER
-DTSTART:20260821T235900
-DTEND:20260822T015900
-DESCRIPTION:Dir: DARREN STEIN (1999)\nhttps://www.ifccenter.com/series/sta
- ff-picks-2026/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/series/staff-picks-2026/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Human Machine @ LOW CINEMA
-DTSTART:20260821T180000
-DTEND:20260821T200000
-DESCRIPTION:Dir: RICH REMSBERG\, SHAWN ROSENHEIM (90M)\nhttps://lowcinema.
- com/movie/cinema-ephemera/
-LOCATION:LOW CINEMA
-URL:https://lowcinema.com/movie/cinema-ephemera/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Human Machine @ LOW CINEMA
-DTSTART:20260821T201500
-DTEND:20260821T221500
-DESCRIPTION:Dir: RICH REMSBERG\, SHAWN ROSENHEIM (90M)\nhttps://lowcinema.
- com/movie/cinema-ephemera/
-LOCATION:LOW CINEMA
-URL:https://lowcinema.com/movie/cinema-ephemera/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ METROGRAPH
-DTSTART:20260821T124500
-DTEND:20260821T144500
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://metrograph.com/series/?vista
- _series_id=0000000558
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000558
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ METROGRAPH
-DTSTART:20260821T131500
-DTEND:20260821T151500
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://metrograph.com/series/?vista
- _series_id=0000000558
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000558
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ METROGRAPH
-DTSTART:20260821T150000
-DTEND:20260821T170000
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://metrograph.com/series/?vista
- _series_id=0000000558
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000558
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ METROGRAPH
-DTSTART:20260821T153000
-DTEND:20260821T173000
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://metrograph.com/series/?vista
- _series_id=0000000558
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000558
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ METROGRAPH
-DTSTART:20260821T171500
-DTEND:20260821T191500
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://metrograph.com/series/?vista
- _series_id=0000000558
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000558
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ METROGRAPH
-DTSTART:20260821T174500
-DTEND:20260821T194500
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://metrograph.com/series/?vista
- _series_id=0000000558
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000558
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ METROGRAPH
-DTSTART:20260821T201500
-DTEND:20260821T221500
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://metrograph.com/series/?vista
- _series_id=0000000558
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000558
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ METROGRAPH
-DTSTART:20260821T203000
-DTEND:20260821T223000
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://metrograph.com/series/?vista
- _series_id=0000000558
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000558
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ METROGRAPH
-DTSTART:20260821T225000
-DTEND:20260822T005000
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://metrograph.com/series/?vista
- _series_id=0000000558
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000558
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ METROGRAPH
-DTSTART:20260821T230000
-DTEND:20260822T010000
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://metrograph.com/series/?vista
- _series_id=0000000558
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000558
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Withnail & I @ METROGRAPH
-DTSTART:20260821T131500
-DTEND:20260821T151500
-DESCRIPTION:Dir: BRUCE ROBINSON (1987)\nhttps://metrograph.com/going-up-th
- e-country/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/going-up-the-country/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In the Mood for Love @ METROGRAPH
-DTSTART:20260821T150000
-DTEND:20260821T170000
-DESCRIPTION:Dir: WONG KAR-WAI (2000)\nhttps://metrograph.com/maggie-cheung
- /
-LOCATION:METROGRAPH
-URL:https://metrograph.com/maggie-cheung/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Others @ METROGRAPH
-DTSTART:20260821T153000
-DTEND:20260821T173000
-DESCRIPTION:Dir: ALEJANDRO AMENABAR (2001)\nhttps://metrograph.com/series/
- ?vista_series_id=0000000566
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000566
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Dark Knight @ METROGRAPH
-DTSTART:20260821T171500
-DTEND:20260821T191500
-DESCRIPTION:Dir: CHRISTOPHER NOLAN (2008)\nhttps://metrograph.com/series/?
- vista_series_id=0000000559
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000559
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Notte @ METROGRAPH
-DTSTART:20260821T174500
-DTEND:20260821T194500
-DESCRIPTION:Dir: MICHAELANGELO ANTONIONI (1961)\nhttps://metrograph.com/se
- ries/?vista_series_id=0000000555
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000555
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:What Lies Beneath @ METROGRAPH
-DTSTART:20260821T201500
-DTEND:20260821T221500
-DESCRIPTION:Dir: ROBERT ZEMECKIS (2000)\nhttps://metrograph.com/series/?vi
- sta_series_id=0000000566
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000566
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:True Romance @ METROGRAPH
-DTSTART:20260821T203000
-DTEND:20260821T223000
-DESCRIPTION:Dir: TONY SCOTT (1993)\nhttps://metrograph.com/series/?vista_s
- eries_id=0000000559
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000559
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Raw @ METROGRAPH
-DTSTART:20260821T225000
-DTEND:20260822T005000
-DESCRIPTION:Dir: JULIA DUCOURNAU (2016)\nhttps://metrograph.com/series/?vi
- sta_series_id=0000000569
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000569
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:House @ METROGRAPH
-DTSTART:20260821T230000
-DTEND:20260822T010000
-DESCRIPTION:Dir: NOBUHIKO OBAYASHI (1977)\nhttps://metrograph.com/series/?
- vista_series_id=0000000569
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000569
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bushman @ MUSEUM OF MODERN ART
-DTSTART:20260821T190000
-DTEND:20260821T210000
-DESCRIPTION:Dir: DAVID SCHICKELE (1971)\nhttps://www.moma.org/calendar/fil
- m/5911
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5911
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lawrence of Arabia @ MUSEUM OF THE MOVING IMAGE
-DTSTART:20260821T180000
-DTEND:20260821T200000
-DESCRIPTION:Dir: DAVID LEAN (1962)\nhttps://movingimage.org/series/see-it-
- big-70mm-2026/
-LOCATION:MUSEUM OF THE MOVING IMAGE
-URL:https://movingimage.org/series/see-it-big-70mm-2026/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sleepaway Camp @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260821T235500
-DTEND:20260822T015500
-DESCRIPTION:Dir: ROBERT HILTZIK (1983)\nhttps://nitehawkcinema.com/william
- sburg/movies/sleepaway-camp/
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://nitehawkcinema.com/williamsburg/movies/sleepaway-camp/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Back to the Future @ PARIS THEATER
-DTSTART:20260821T120000
-DTEND:20260821T140000
-DESCRIPTION:Dir: ROBERT ZEMECKIS (1985)\nhttps://www.paristheaternyc.com/s
- eries/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Back to the Future @ PARIS THEATER
-DTSTART:20260821T150000
-DTEND:20260821T170000
-DESCRIPTION:Dir: ROBERT ZEMECKIS (1985)\nhttps://www.paristheaternyc.com/s
- eries/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Back to the Future @ PARIS THEATER
-DTSTART:20260821T183000
-DTEND:20260821T203000
-DESCRIPTION:Dir: ROBERT ZEMECKIS (1985)\nhttps://www.paristheaternyc.com/s
- eries/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Back to the Future @ PARIS THEATER
-DTSTART:20260821T221500
-DTEND:20260822T001500
-DESCRIPTION:Dir: ROBERT ZEMECKIS (1985)\nhttps://www.paristheaternyc.com/s
- eries/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Speed Racer @ PARIS THEATER
-DTSTART:20260821T150000
-DTEND:20260821T170000
-DESCRIPTION:Dir: LANA WACHOWSKI & LILLY WACHOWSKI (2008)\nhttps://www.pari
- stheaternyc.com/series/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:West Side Story @ PARIS THEATER
-DTSTART:20260821T183000
-DTEND:20260821T203000
-DESCRIPTION:Dir: ROBERT WISE\, JEROME ROBBINS (1961)\nhttps://www.paristhe
- aternyc.com/series/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fight Club @ PARIS THEATER
-DTSTART:20260821T221500
-DTEND:20260822T001500
-DESCRIPTION:Dir: DAVID FINCHER (1999)\nhttps://www.paristheaternyc.com/ser
- ies/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lockjaw @ ROXY CINEMA NEW YORK
-DTSTART:20260821T190000
-DTEND:20260821T210000
-DESCRIPTION:Dir: SABRINA GRECO (2025)\nhttps://www.roxycinemanewyork.com/s
- creenings/lockjaw-qa/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/screenings/lockjaw-qa/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lockjaw @ ROXY CINEMA NEW YORK
-DTSTART:20260821T213000
-DTEND:20260821T233000
-DESCRIPTION:Dir: SABRINA GRECO (2025)\nhttps://www.roxycinemanewyork.com/s
- creenings/lockjaw-qa/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/screenings/lockjaw-qa/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crank @ ROXY CINEMA NEW YORK
-DTSTART:20260821T213000
-DTEND:20260821T233000
-DESCRIPTION:Dir: NEVELDINE/TAYLOR (2006)\nhttps://www.roxycinemanewyork.co
- m/stories/2006-movies-you-must-see-before-you-die/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/stories/2006-movies-you-must-see-bef
- ore-you-die/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Scenic Route @ SPECTACLE
-DTSTART:20260821T170000
-DTEND:20260821T190000
-DESCRIPTION:Dir: MARK RAPPAPORT (1978)\nhttps://www.screenslate.com/series
- /best-best-spectacle-theater
-LOCATION:SPECTACLE
-URL:https://www.screenslate.com/series/best-best-spectacle-theater
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Scenic Route @ SPECTACLE
-DTSTART:20260821T193000
-DTEND:20260821T213000
-DESCRIPTION:Dir: MARK RAPPAPORT (1978)\nhttps://www.screenslate.com/series
- /best-best-spectacle-theater
-LOCATION:SPECTACLE
-URL:https://www.screenslate.com/series/best-best-spectacle-theater
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Scenic Route @ SPECTACLE
-DTSTART:20260821T220000
-DTEND:20260822T000000
-DESCRIPTION:Dir: MARK RAPPAPORT (1978)\nhttps://www.screenslate.com/series
- /best-best-spectacle-theater
-LOCATION:SPECTACLE
-URL:https://www.screenslate.com/series/best-best-spectacle-theater
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Scenic Route @ SPECTACLE
-DTSTART:20260821T235500
-DTEND:20260822T015500
-DESCRIPTION:Dir: MARK RAPPAPORT (1978)\nhttps://www.screenslate.com/series
- /best-best-spectacle-theater
-LOCATION:SPECTACLE
-URL:https://www.screenslate.com/series/best-best-spectacle-theater
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Flying Dutchman @ SPECTACLE
-DTSTART:20260821T193000
-DTEND:20260821T213000
-DESCRIPTION:Dir: JOACHIM HERZ (1964)\nhttps://www.spectacletheater.com/mus
- ik-kino-drama/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/musik-kino-drama/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Roller Junkies @ SPECTACLE
-DTSTART:20260821T220000
-DTEND:20260822T000000
-DESCRIPTION:Dir: JARED MASTERS (2022)\nhttps://www.spectacletheater.com/in
- troducing-jared-masters/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/introducing-jared-masters/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Game of Pleasure @ SPECTACLE
-DTSTART:20260821T235500
-DTEND:20260822T015500
-DESCRIPTION:Dir: DALE E. FRANTZ (1998)\nhttps://www.spectacletheater.com/g
- ame-of-pleasure/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/game-of-pleasure/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:A Girl is a Gun @ ANTHOLOGY FILM ARCHIVES
 DTSTART:20260822T161500
 DTEND:20260822T181500
@@ -2658,6 +1492,162 @@ LOCATION:BAM
 URL:https://www.bam.org/film/2026/arthouse-scifi
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260823T121500
+DTEND:20260823T141500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260823T142500
+DTEND:20260823T162500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260823T164000
+DTEND:20260823T184000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260823T185000
+DTEND:20260823T205000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260823T210000
+DTEND:20260823T230000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260823T174500
+DTEND:20260823T194500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260823T122000
+DTEND:20260823T142000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260823T180000
+DTEND:20260823T200000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260823T123000
+DTEND:20260823T143000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260823T143500
+DTEND:20260823T163500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260823T201000
+DTEND:20260823T221000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260823T144000
+DTEND:20260823T164000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260823T201500
+DTEND:20260823T221500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260823T190000
+DTEND:20260823T210000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260823T211000
+DTEND:20260823T231000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Same River Twice @ FILM FORUM
+DTSTART:20260823T121500
+DTEND:20260823T141500
+DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
+ er-twice
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/the-same-river-twice
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Same River Twice @ FILM FORUM
+DTSTART:20260823T174500
+DTEND:20260823T194500
+DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
+ er-twice
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/the-same-river-twice
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billy Liar @ FILM FORUM
+DTSTART:20260823T122000
+DTEND:20260823T142000
+DESCRIPTION:Dir: JOHN SCHLESINGER (1963)\nhttps://filmforum.org/film/billy
+ -liar
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/billy-liar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billy Liar @ FILM FORUM
+DTSTART:20260823T180000
+DTEND:20260823T200000
+DESCRIPTION:Dir: JOHN SCHLESINGER (1963)\nhttps://filmforum.org/film/billy
+ -liar
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/billy-liar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:One from the Heart: Reprise @ FILM FORUM
 DTSTART:20260823T123000
 DTEND:20260823T143000
@@ -2667,40 +1657,40 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/coppola
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:One from the Heart: Reprise @ FILM FORUM
+SUMMARY:Sherman's March @ FILM FORUM
+DTSTART:20260823T143500
+DTEND:20260823T163500
+DESCRIPTION:Dir: ROSS MCELWEE (1985)\nhttps://filmforum.org/film/shermans-
+ march
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/shermans-march
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sherman's March @ FILM FORUM
+DTSTART:20260823T201000
+DTEND:20260823T221000
+DESCRIPTION:Dir: ROSS MCELWEE (1985)\nhttps://filmforum.org/film/shermans-
+ march
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/shermans-march
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Center Stage @ FILM FORUM
 DTSTART:20260823T144000
 DTEND:20260823T164000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1981)\nhttps://filmforum.org/series
- /coppola
+DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
+ age
 LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
+URL:https://filmforum.org/film/center-stage
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:One from the Heart: Reprise @ FILM FORUM
-DTSTART:20260823T162000
-DTEND:20260823T182000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1981)\nhttps://filmforum.org/series
- /coppola
+SUMMARY:Center Stage @ FILM FORUM
+DTSTART:20260823T201500
+DTEND:20260823T221500
+DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
+ age
 LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One from the Heart: Reprise @ FILM FORUM
-DTSTART:20260823T185000
-DTEND:20260823T205000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1981)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One from the Heart: Reprise @ FILM FORUM
-DTSTART:20260823T210000
-DTEND:20260823T230000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1981)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
+URL:https://filmforum.org/film/center-stage
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Son Of The Sheik @ FILM FORUM
@@ -2713,8 +1703,8 @@ URL:https://filmforum.org/film/the-son-of-the-sheik
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Conversation @ FILM FORUM
-DTSTART:20260823T162000
-DTEND:20260823T182000
+DTSTART:20260823T164000
+DTEND:20260823T184000
 DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1974)\nhttps://filmforum.org/series
  /coppola
 LOCATION:FILM FORUM
@@ -2722,8 +1712,8 @@ URL:https://filmforum.org/series/coppola
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Rain People @ FILM FORUM
-DTSTART:20260823T185000
-DTEND:20260823T205000
+DTSTART:20260823T190000
+DTEND:20260823T210000
 DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1969)\nhttps://filmforum.org/series
  /coppola
 LOCATION:FILM FORUM
@@ -2731,8 +1721,8 @@ URL:https://filmforum.org/series/coppola
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dementia 13: Director's Cut @ FILM FORUM
-DTSTART:20260823T210000
-DTEND:20260823T230000
+DTSTART:20260823T211000
+DTEND:20260823T231000
 DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1963)\nhttps://filmforum.org/series
  /coppola
 LOCATION:FILM FORUM
@@ -3501,6 +2491,24 @@ LOCATION:MUSEUM OF MODERN ART
 URL:https://www.moma.org/calendar/film/5911
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Umbrellas of Cherbourg @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260823T130000
+DTEND:20260823T150000
+DESCRIPTION:Dir: JACQUES DEMY (1964)\nhttps://movingimage.org/series/song-
+ dance/
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://movingimage.org/series/song-dance/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Umbrellas of Cherbourg @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260823T150000
+DTEND:20260823T170000
+DESCRIPTION:Dir: JACQUES DEMY (1964)\nhttps://movingimage.org/series/song-
+ dance/
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://movingimage.org/series/song-dance/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lawrence of Arabia @ MUSEUM OF THE MOVING IMAGE
 DTSTART:20260823T150000
 DTEND:20260823T170000
@@ -3560,8 +2568,8 @@ BEGIN:VEVENT
 SUMMARY:The Hunchback of Notre Dame @ NITEHAWK CINEMA WILLIAMSBURG
 DTSTART:20260823T111500
 DTEND:20260823T131500
-DESCRIPTION:Dir: JEAN DELANNOY (1956)\nhttps://nitehawkcinema.com/williams
- burg/film-series/the-class-of-96/
+DESCRIPTION:Dir: GARY TROUSDALE\, KIRK WISE (1996)\nhttps://nitehawkcinema
+ .com/williamsburg/film-series/the-class-of-96/
 LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://nitehawkcinema.com/williamsburg/film-series/the-class-of-96/
 END:VEVENT
@@ -3786,6 +2794,154 @@ LOCATION:BAM
 URL:https://www.bam.org/film/2026/arthouse-scifi
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260824T121500
+DTEND:20260824T141500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260824T142500
+DTEND:20260824T162500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260824T164000
+DTEND:20260824T184000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260824T185000
+DTEND:20260824T205000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260824T210000
+DTEND:20260824T230000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260824T174500
+DTEND:20260824T194500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260824T122000
+DTEND:20260824T142000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260824T180000
+DTEND:20260824T200000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260824T143500
+DTEND:20260824T163500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260824T201000
+DTEND:20260824T221000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260824T144000
+DTEND:20260824T164000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260824T201500
+DTEND:20260824T221500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260824T155000
+DTEND:20260824T175000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260824T202000
+DTEND:20260824T222000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Same River Twice @ FILM FORUM
+DTSTART:20260824T121500
+DTEND:20260824T141500
+DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
+ er-twice
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/the-same-river-twice
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Same River Twice @ FILM FORUM
+DTSTART:20260824T174500
+DTEND:20260824T194500
+DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
+ er-twice
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/the-same-river-twice
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billy Liar @ FILM FORUM
+DTSTART:20260824T122000
+DTEND:20260824T142000
+DESCRIPTION:Dir: JOHN SCHLESINGER (1963)\nhttps://filmforum.org/film/billy
+ -liar
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/billy-liar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billy Liar @ FILM FORUM
+DTSTART:20260824T180000
+DTEND:20260824T200000
+DESCRIPTION:Dir: JOHN SCHLESINGER (1963)\nhttps://filmforum.org/film/billy
+ -liar
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/billy-liar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Godfather @ FILM FORUM
 DTSTART:20260824T122000
 DTEND:20260824T142000
@@ -3795,31 +2951,40 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/coppola
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Godfather @ FILM FORUM
-DTSTART:20260824T155000
-DTEND:20260824T175000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1972)\nhttps://filmforum.org/series
- /coppola
+SUMMARY:Sherman's March @ FILM FORUM
+DTSTART:20260824T143500
+DTEND:20260824T163500
+DESCRIPTION:Dir: ROSS MCELWEE (1985)\nhttps://filmforum.org/film/shermans-
+ march
 LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
+URL:https://filmforum.org/film/shermans-march
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Godfather @ FILM FORUM
-DTSTART:20260824T180000
-DTEND:20260824T200000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1972)\nhttps://filmforum.org/series
- /coppola
+SUMMARY:Sherman's March @ FILM FORUM
+DTSTART:20260824T201000
+DTEND:20260824T221000
+DESCRIPTION:Dir: ROSS MCELWEE (1985)\nhttps://filmforum.org/film/shermans-
+ march
 LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
+URL:https://filmforum.org/film/shermans-march
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Godfather @ FILM FORUM
-DTSTART:20260824T202000
-DTEND:20260824T222000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1972)\nhttps://filmforum.org/series
- /coppola
+SUMMARY:Center Stage @ FILM FORUM
+DTSTART:20260824T144000
+DTEND:20260824T164000
+DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
+ age
 LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
+URL:https://filmforum.org/film/center-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Center Stage @ FILM FORUM
+DTSTART:20260824T201500
+DTEND:20260824T221500
+DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
+ age
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/center-stage
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rumble Fish @ FILM FORUM
@@ -4663,6 +3828,132 @@ LOCATION:BAM
 URL:https://www.bam.org/film/2026/arthouse-scifi
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Same River Twice @ FILM FORUM
+DTSTART:20260825T121500
+DTEND:20260825T141500
+DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
+ er-twice
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/the-same-river-twice
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Same River Twice @ FILM FORUM
+DTSTART:20260825T174500
+DTEND:20260825T194500
+DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
+ er-twice
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/the-same-river-twice
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Same River Twice @ FILM FORUM
+DTSTART:20260825T122000
+DTEND:20260825T142000
+DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
+ er-twice
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/the-same-river-twice
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Same River Twice @ FILM FORUM
+DTSTART:20260825T180000
+DTEND:20260825T200000
+DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
+ er-twice
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/the-same-river-twice
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Same River Twice @ FILM FORUM
+DTSTART:20260825T124500
+DTEND:20260825T144500
+DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
+ er-twice
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/the-same-river-twice
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Same River Twice @ FILM FORUM
+DTSTART:20260825T153000
+DTEND:20260825T173000
+DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
+ er-twice
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/the-same-river-twice
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Same River Twice @ FILM FORUM
+DTSTART:20260825T203000
+DTEND:20260825T223000
+DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
+ er-twice
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/the-same-river-twice
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Same River Twice @ FILM FORUM
+DTSTART:20260825T143000
+DTEND:20260825T163000
+DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
+ er-twice
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/the-same-river-twice
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Same River Twice @ FILM FORUM
+DTSTART:20260825T143500
+DTEND:20260825T163500
+DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
+ er-twice
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/the-same-river-twice
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Same River Twice @ FILM FORUM
+DTSTART:20260825T201000
+DTEND:20260825T221000
+DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
+ er-twice
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/the-same-river-twice
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Same River Twice @ FILM FORUM
+DTSTART:20260825T144000
+DTEND:20260825T164000
+DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
+ er-twice
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/the-same-river-twice
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Same River Twice @ FILM FORUM
+DTSTART:20260825T201500
+DTEND:20260825T221500
+DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
+ er-twice
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/the-same-river-twice
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billy Liar @ FILM FORUM
+DTSTART:20260825T122000
+DTEND:20260825T142000
+DESCRIPTION:Dir: JOHN SCHLESINGER (1963)\nhttps://filmforum.org/film/billy
+ -liar
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/billy-liar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billy Liar @ FILM FORUM
+DTSTART:20260825T180000
+DTEND:20260825T200000
+DESCRIPTION:Dir: JOHN SCHLESINGER (1963)\nhttps://filmforum.org/film/billy
+ -liar
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/billy-liar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:You're A Big Boy Now @ FILM FORUM
 DTSTART:20260825T122000
 DTEND:20260825T142000
@@ -4672,31 +3963,36 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/coppola
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:You're A Big Boy Now @ FILM FORUM
-DTSTART:20260825T143000
-DTEND:20260825T163000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1966)\nhttps://filmforum.org/series
- /coppola
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260825T124500
+DTEND:20260825T144500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
 LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
+URL:https://filmforum.org/film/late-fame
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:You're A Big Boy Now @ FILM FORUM
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260825T153000
+DTEND:20260825T173000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
 DTSTART:20260825T180000
 DTEND:20260825T200000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1966)\nhttps://filmforum.org/series
- /coppola
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
 LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
+URL:https://filmforum.org/film/late-fame
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:You're A Big Boy Now @ FILM FORUM
-DTSTART:20260825T200000
-DTEND:20260825T220000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1966)\nhttps://filmforum.org/series
- /coppola
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260825T203000
+DTEND:20260825T223000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
 LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
+URL:https://filmforum.org/film/late-fame
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Apocalypse Now: Final Cut @ FILM FORUM
@@ -4708,6 +4004,42 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/coppola
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sherman's March @ FILM FORUM
+DTSTART:20260825T143500
+DTEND:20260825T163500
+DESCRIPTION:Dir: ROSS MCELWEE (1985)\nhttps://filmforum.org/film/shermans-
+ march
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/shermans-march
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sherman's March @ FILM FORUM
+DTSTART:20260825T201000
+DTEND:20260825T221000
+DESCRIPTION:Dir: ROSS MCELWEE (1985)\nhttps://filmforum.org/film/shermans-
+ march
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/shermans-march
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Center Stage @ FILM FORUM
+DTSTART:20260825T144000
+DTEND:20260825T164000
+DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
+ age
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/center-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Center Stage @ FILM FORUM
+DTSTART:20260825T201500
+DTEND:20260825T221500
+DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
+ age
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/center-stage
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Interior N.Y. Subway\, 14th Street To 42nd Street @ FILM FORUM
 DTSTART:20260825T180000
 DTEND:20260825T200000
@@ -4717,8 +4049,8 @@ URL:https://filmforum.org/series/nyc-in-transit
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Cotton Club Encore @ FILM FORUM
-DTSTART:20260825T200000
-DTEND:20260825T220000
+DTSTART:20260825T201000
+DTEND:20260825T221000
 DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1984)\nhttps://filmforum.org/series
  /coppola
 LOCATION:FILM FORUM
@@ -5487,6 +4819,152 @@ LOCATION:BAM
 URL:https://www.bam.org/film/2026/arthouse-scifi
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260826T121500
+DTEND:20260826T141500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260826T142500
+DTEND:20260826T162500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260826T164000
+DTEND:20260826T184000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260826T185000
+DTEND:20260826T205000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260826T203000
+DTEND:20260826T223000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260826T174500
+DTEND:20260826T194500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260826T122000
+DTEND:20260826T142000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260826T130000
+DTEND:20260826T150000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260826T180000
+DTEND:20260826T200000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260826T143500
+DTEND:20260826T163500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260826T201000
+DTEND:20260826T221000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260826T144500
+DTEND:20260826T164500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260826T150000
+DTEND:20260826T170000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260826T201500
+DTEND:20260826T221500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260826T184500
+DTEND:20260826T204500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260826T205000
+DTEND:20260826T225000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Same River Twice @ FILM FORUM
+DTSTART:20260826T121500
+DTEND:20260826T141500
+DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
+ er-twice
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/the-same-river-twice
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Same River Twice @ FILM FORUM
+DTSTART:20260826T174500
+DTEND:20260826T194500
+DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
+ er-twice
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/the-same-river-twice
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Outsiders @ FILM FORUM
 DTSTART:20260826T122000
 DTEND:20260826T142000
@@ -5496,31 +4974,40 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/coppola
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Outsiders @ FILM FORUM
-DTSTART:20260826T144500
-DTEND:20260826T164500
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1983)\nhttps://filmforum.org/series
- /coppola
+SUMMARY:Billy Liar @ FILM FORUM
+DTSTART:20260826T130000
+DTEND:20260826T150000
+DESCRIPTION:Dir: JOHN SCHLESINGER (1963)\nhttps://filmforum.org/film/billy
+ -liar
 LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
+URL:https://filmforum.org/film/billy-liar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Outsiders @ FILM FORUM
-DTSTART:20260826T184500
-DTEND:20260826T204500
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1983)\nhttps://filmforum.org/series
- /coppola
+SUMMARY:Billy Liar @ FILM FORUM
+DTSTART:20260826T180000
+DTEND:20260826T200000
+DESCRIPTION:Dir: JOHN SCHLESINGER (1963)\nhttps://filmforum.org/film/billy
+ -liar
 LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
+URL:https://filmforum.org/film/billy-liar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Outsiders @ FILM FORUM
-DTSTART:20260826T205000
-DTEND:20260826T225000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1983)\nhttps://filmforum.org/series
- /coppola
+SUMMARY:Sherman's March @ FILM FORUM
+DTSTART:20260826T143500
+DTEND:20260826T163500
+DESCRIPTION:Dir: ROSS MCELWEE (1985)\nhttps://filmforum.org/film/shermans-
+ march
 LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
+URL:https://filmforum.org/film/shermans-march
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sherman's March @ FILM FORUM
+DTSTART:20260826T201000
+DTEND:20260826T221000
+DESCRIPTION:Dir: ROSS MCELWEE (1985)\nhttps://filmforum.org/film/shermans-
+ march
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/shermans-march
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Godfather\, Part II @ FILM FORUM
@@ -5530,6 +5017,24 @@ DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1974)\nhttps://filmforum.org/series
  /coppola
 LOCATION:FILM FORUM
 URL:https://filmforum.org/series/coppola
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Center Stage @ FILM FORUM
+DTSTART:20260826T150000
+DTEND:20260826T170000
+DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
+ age
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/center-stage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Center Stage @ FILM FORUM
+DTSTART:20260826T201500
+DTEND:20260826T221500
+DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
+ age
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/center-stage
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:You're A Big Boy Now @ FILM FORUM
@@ -6522,6 +6027,170 @@ LOCATION:BAM
 URL:https://www.bam.org/film/2026/arthouse-scifi
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260827T121500
+DTEND:20260827T141500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260827T142500
+DTEND:20260827T162500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260827T164000
+DTEND:20260827T184000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260827T185000
+DTEND:20260827T205000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260827T203000
+DTEND:20260827T223000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260827T174500
+DTEND:20260827T194500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260827T122000
+DTEND:20260827T142000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260827T204000
+DTEND:20260827T224000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260827T123000
+DTEND:20260827T143000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260827T143500
+DTEND:20260827T163500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260827T201000
+DTEND:20260827T221000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260827T144000
+DTEND:20260827T164000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260827T145000
+DTEND:20260827T165000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260827T173000
+DTEND:20260827T193000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260827T180000
+DTEND:20260827T200000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260827T202000
+DTEND:20260827T222000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Same River Twice @ FILM FORUM
+DTSTART:20260827T121500
+DTEND:20260827T141500
+DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
+ er-twice
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/the-same-river-twice
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Same River Twice @ FILM FORUM
+DTSTART:20260827T174500
+DTEND:20260827T194500
+DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
+ er-twice
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/the-same-river-twice
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billy Liar @ FILM FORUM
+DTSTART:20260827T122000
+DTEND:20260827T142000
+DESCRIPTION:Dir: JOHN SCHLESINGER (1963)\nhttps://filmforum.org/film/billy
+ -liar
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/billy-liar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billy Liar @ FILM FORUM
+DTSTART:20260827T204000
+DTEND:20260827T224000
+DESCRIPTION:Dir: JOHN SCHLESINGER (1963)\nhttps://filmforum.org/film/billy
+ -liar
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/billy-liar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tucker: The Man and His Dream @ FILM FORUM
 DTSTART:20260827T123000
 DTEND:20260827T143000
@@ -6531,31 +6200,31 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/coppola
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tucker: The Man and His Dream @ FILM FORUM
-DTSTART:20260827T145000
-DTEND:20260827T165000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1988)\nhttps://filmforum.org/series
- /coppola
+SUMMARY:Sherman's March @ FILM FORUM
+DTSTART:20260827T143500
+DTEND:20260827T163500
+DESCRIPTION:Dir: ROSS MCELWEE (1985)\nhttps://filmforum.org/film/shermans-
+ march
 LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
+URL:https://filmforum.org/film/shermans-march
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tucker: The Man and His Dream @ FILM FORUM
-DTSTART:20260827T173000
-DTEND:20260827T193000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1988)\nhttps://filmforum.org/series
- /coppola
+SUMMARY:Sherman's March @ FILM FORUM
+DTSTART:20260827T201000
+DTEND:20260827T221000
+DESCRIPTION:Dir: ROSS MCELWEE (1985)\nhttps://filmforum.org/film/shermans-
+ march
 LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
+URL:https://filmforum.org/film/shermans-march
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tucker: The Man and His Dream @ FILM FORUM
-DTSTART:20260827T202000
-DTEND:20260827T222000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1988)\nhttps://filmforum.org/series
- /coppola
+SUMMARY:Center Stage @ FILM FORUM
+DTSTART:20260827T144000
+DTEND:20260827T164000
+DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
+ age
 LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
+URL:https://filmforum.org/film/center-stage
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Peggy Sue Got Married @ FILM FORUM
@@ -6574,6 +6243,15 @@ DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1968)\nhttps://filmforum.org/series
  /coppola
 LOCATION:FILM FORUM
 URL:https://filmforum.org/series/coppola
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FILIPIÑANA @ FILM FORUM
+DTSTART:20260827T180000
+DTEND:20260827T200000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One from the Heart: Reprise @ FILM FORUM
@@ -7654,6 +7332,36 @@ URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
  tab=films
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Runa Simi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260828T140000
+DTEND:20260828T160000
+DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
+ e-film/runa-simi-MC3ZZIJUIKMBE6BBQG74KLTOFRM4
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
+ KLTOFRM4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Runa Simi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260828T160000
+DTEND:20260828T180000
+DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
+ e-film/runa-simi-MC3ZZIJUIKMBE6BBQG74KLTOFRM4
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
+ KLTOFRM4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Runa Simi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260828T200000
+DTEND:20260828T220000
+DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
+ e-film/runa-simi-MC3ZZIJUIKMBE6BBQG74KLTOFRM4
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
+ KLTOFRM4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Dark Knight @ METROGRAPH
 DTSTART:20260828T152500
 DTEND:20260828T172500
@@ -8223,6 +7931,36 @@ DESCRIPTION:Dir: ALEJANDRO AMENABAR (1996)\nhttps://www.filmlinc.org/serie
 LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
  tab=films
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Runa Simi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260829T033000
+DTEND:20260829T053000
+DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
+ e-film/runa-simi-MC3ZZIJUIKMBE6BBQG74KLTOFRM4
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
+ KLTOFRM4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Runa Simi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260829T073000
+DTEND:20260829T093000
+DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
+ e-film/runa-simi-MC3ZZIJUIKMBE6BBQG74KLTOFRM4
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
+ KLTOFRM4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Runa Simi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260829T133000
+DTEND:20260829T153000
+DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
+ e-film/runa-simi-MC3ZZIJUIKMBE6BBQG74KLTOFRM4
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
+ KLTOFRM4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Petite Maman @ METROGRAPH
@@ -8826,6 +8564,36 @@ URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
  tab=films
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Runa Simi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260830T123000
+DTEND:20260830T143000
+DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
+ e-film/runa-simi-MC3ZZIJUIKMBE6BBQG74KLTOFRM4
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
+ KLTOFRM4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Runa Simi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260830T170000
+DTEND:20260830T190000
+DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
+ e-film/runa-simi-MC3ZZIJUIKMBE6BBQG74KLTOFRM4
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
+ KLTOFRM4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Runa Simi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260830T190000
+DTEND:20260830T210000
+DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
+ e-film/runa-simi-MC3ZZIJUIKMBE6BBQG74KLTOFRM4
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
+ KLTOFRM4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:E.T. the Extra-Terrestrial @ METROGRAPH
 DTSTART:20260830T110000
 DTEND:20260830T130000
@@ -9333,6 +9101,36 @@ URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
  tab=films
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Runa Simi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260831T133000
+DTEND:20260831T153000
+DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
+ e-film/runa-simi-MC3ZZIJUIKMBE6BBQG74KLTOFRM4
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
+ KLTOFRM4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Runa Simi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260831T153000
+DTEND:20260831T173000
+DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
+ e-film/runa-simi-MC3ZZIJUIKMBE6BBQG74KLTOFRM4
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
+ KLTOFRM4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Runa Simi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260831T180000
+DTEND:20260831T200000
+DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
+ e-film/runa-simi-MC3ZZIJUIKMBE6BBQG74KLTOFRM4
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
+ KLTOFRM4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ghost Tropic @ MUSEUM OF MODERN ART
 DTSTART:20260831T160000
 DTEND:20260831T180000
@@ -9776,6 +9574,36 @@ URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
  tab=films
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Runa Simi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260901T133000
+DTEND:20260901T153000
+DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
+ e-film/runa-simi-MC3ZZIJUIKMBE6BBQG74KLTOFRM4
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
+ KLTOFRM4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Runa Simi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260901T153000
+DTEND:20260901T173000
+DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
+ e-film/runa-simi-MC3ZZIJUIKMBE6BBQG74KLTOFRM4
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
+ KLTOFRM4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Runa Simi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260901T213000
+DTEND:20260901T233000
+DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
+ e-film/runa-simi-MC3ZZIJUIKMBE6BBQG74KLTOFRM4
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
+ KLTOFRM4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:From the Other Side @ MUSEUM OF MODERN ART
 DTSTART:20260901T163000
 DTEND:20260901T183000
@@ -10161,6 +9989,36 @@ URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
  tab=films
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Runa Simi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260902T150000
+DTEND:20260902T170000
+DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
+ e-film/runa-simi-MC3ZZIJUIKMBE6BBQG74KLTOFRM4
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
+ KLTOFRM4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Runa Simi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260902T170000
+DTEND:20260902T190000
+DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
+ e-film/runa-simi-MC3ZZIJUIKMBE6BBQG74KLTOFRM4
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
+ KLTOFRM4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Runa Simi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260902T190000
+DTEND:20260902T210000
+DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
+ e-film/runa-simi-MC3ZZIJUIKMBE6BBQG74KLTOFRM4
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
+ KLTOFRM4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Le Havre @ MUSEUM OF MODERN ART
 DTSTART:20260902T190000
 DTEND:20260902T210000
@@ -10518,6 +10376,36 @@ URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
  tab=films
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Runa Simi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260903T140000
+DTEND:20260903T160000
+DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
+ e-film/runa-simi-MC3ZZIJUIKMBE6BBQG74KLTOFRM4
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
+ KLTOFRM4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Runa Simi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260903T160000
+DTEND:20260903T180000
+DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
+ e-film/runa-simi-MC3ZZIJUIKMBE6BBQG74KLTOFRM4
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
+ KLTOFRM4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Runa Simi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260903T180000
+DTEND:20260903T200000
+DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
+ e-film/runa-simi-MC3ZZIJUIKMBE6BBQG74KLTOFRM4
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
+ KLTOFRM4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:First Cow @ MUSEUM OF MODERN ART
 DTSTART:20260903T190000
 DTEND:20260903T210000
@@ -10644,36 +10532,81 @@ LOCATION:ANTHOLOGY FILM ARCHIVES
 URL:https://www.anthologyfilmarchives.org/film_screenings/series/61934
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260904T124500
+DTEND:20260904T144500
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260904T151000
+DTEND:20260904T171000
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260904T173000
+DTEND:20260904T193000
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260904T194500
+DTEND:20260904T214500
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260904T130000
+DTEND:20260904T150000
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260904T153000
+DTEND:20260904T173000
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260904T180000
+DTEND:20260904T200000
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260904T201000
+DTEND:20260904T221000
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Conversation @ FILM FORUM
 DTSTART:20260904T130000
 DTEND:20260904T150000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1974)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Conversation @ FILM FORUM
-DTSTART:20260904T153000
-DTEND:20260904T173000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1974)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Conversation @ FILM FORUM
-DTSTART:20260904T180000
-DTEND:20260904T200000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1974)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Conversation @ FILM FORUM
-DTSTART:20260904T201000
-DTEND:20260904T221000
 DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1974)\nhttps://filmforum.org/series
  /coppola
 LOCATION:FILM FORUM
@@ -10911,6 +10844,33 @@ URL:https://filmforum.org/series/coppola
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gardens of Stone @ FILM FORUM
+DTSTART:20260905T124500
+DTEND:20260905T144500
+DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1987)\nhttps://filmforum.org/series
+ /coppola
+LOCATION:FILM FORUM
+URL:https://filmforum.org/series/coppola
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gardens of Stone @ FILM FORUM
+DTSTART:20260905T151000
+DTEND:20260905T171000
+DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1987)\nhttps://filmforum.org/series
+ /coppola
+LOCATION:FILM FORUM
+URL:https://filmforum.org/series/coppola
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gardens of Stone @ FILM FORUM
+DTSTART:20260905T193000
+DTEND:20260905T213000
+DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1987)\nhttps://filmforum.org/series
+ /coppola
+LOCATION:FILM FORUM
+URL:https://filmforum.org/series/coppola
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gardens of Stone @ FILM FORUM
 DTSTART:20260905T144000
 DTEND:20260905T164000
 DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1987)\nhttps://filmforum.org/series
@@ -10935,6 +10895,33 @@ DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1987)\nhttps://filmforum.org/series
  /coppola
 LOCATION:FILM FORUM
 URL:https://filmforum.org/series/coppola
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260905T124500
+DTEND:20260905T144500
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260905T151000
+DTEND:20260905T171000
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260905T193000
+DTEND:20260905T213000
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hearts of Darkness: A Filmmaker's Apocalypse @ FILM FORUM
@@ -11254,6 +11241,15 @@ URL:https://filmforum.org/series/coppola
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Youth Without Youth @ FILM FORUM
+DTSTART:20260906T124500
+DTEND:20260906T144500
+DESCRIPTION:Dir: FRANCIS FORD COPPOLA (2007)\nhttps://filmforum.org/series
+ /coppola
+LOCATION:FILM FORUM
+URL:https://filmforum.org/series/coppola
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Youth Without Youth @ FILM FORUM
 DTSTART:20260906T151000
 DTEND:20260906T171000
 DESCRIPTION:Dir: FRANCIS FORD COPPOLA (2007)\nhttps://filmforum.org/series
@@ -11272,12 +11268,57 @@ URL:https://filmforum.org/series/coppola
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Youth Without Youth @ FILM FORUM
+DTSTART:20260906T194500
+DTEND:20260906T214500
+DESCRIPTION:Dir: FRANCIS FORD COPPOLA (2007)\nhttps://filmforum.org/series
+ /coppola
+LOCATION:FILM FORUM
+URL:https://filmforum.org/series/coppola
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Youth Without Youth @ FILM FORUM
 DTSTART:20260906T202000
 DTEND:20260906T222000
 DESCRIPTION:Dir: FRANCIS FORD COPPOLA (2007)\nhttps://filmforum.org/series
  /coppola
 LOCATION:FILM FORUM
 URL:https://filmforum.org/series/coppola
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260906T124500
+DTEND:20260906T144500
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260906T151000
+DTEND:20260906T171000
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260906T173000
+DTEND:20260906T193000
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260906T194500
+DTEND:20260906T214500
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Peggy Sue Got Married @ FILM FORUM
@@ -11382,6 +11423,15 @@ DESCRIPTION:Dir: CHRISTIAN PETZOLD (2018)\nhttps://www.moma.org/calendar/f
  ilm/5911
 LOCATION:MUSEUM OF MODERN ART
 URL:https://www.moma.org/calendar/film/5911
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Umbrellas of Cherbourg @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260906T133000
+DTEND:20260906T153000
+DESCRIPTION:Dir: JACQUES DEMY (1964)\nhttps://movingimage.org/series/song-
+ dance/
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://movingimage.org/series/song-dance/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Three Amigos @ NITEHAWK CINEMA PROSPECT PARK
@@ -11513,27 +11563,72 @@ LOCATION:UNIONDOCS
 URL:https://uniondocs.org/wisemans-new-york/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260907T124500
+DTEND:20260907T144500
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260907T151000
+DTEND:20260907T171000
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260907T173000
+DTEND:20260907T193000
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260907T194500
+DTEND:20260907T214500
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260907T130000
+DTEND:20260907T150000
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260907T153000
+DTEND:20260907T173000
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260907T190000
+DTEND:20260907T210000
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Conversation @ FILM FORUM
 DTSTART:20260907T130000
 DTEND:20260907T150000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1974)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Conversation @ FILM FORUM
-DTSTART:20260907T153000
-DTEND:20260907T173000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1974)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Conversation @ FILM FORUM
-DTSTART:20260907T190000
-DTEND:20260907T210000
 DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1974)\nhttps://filmforum.org/series
  /coppola
 LOCATION:FILM FORUM
@@ -11739,6 +11834,42 @@ URL:https://filmforum.org/series/coppola
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tucker: The Man and His Dream @ FILM FORUM
+DTSTART:20260908T124500
+DTEND:20260908T144500
+DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1988)\nhttps://filmforum.org/series
+ /coppola
+LOCATION:FILM FORUM
+URL:https://filmforum.org/series/coppola
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tucker: The Man and His Dream @ FILM FORUM
+DTSTART:20260908T151000
+DTEND:20260908T171000
+DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1988)\nhttps://filmforum.org/series
+ /coppola
+LOCATION:FILM FORUM
+URL:https://filmforum.org/series/coppola
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tucker: The Man and His Dream @ FILM FORUM
+DTSTART:20260908T173000
+DTEND:20260908T193000
+DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1988)\nhttps://filmforum.org/series
+ /coppola
+LOCATION:FILM FORUM
+URL:https://filmforum.org/series/coppola
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tucker: The Man and His Dream @ FILM FORUM
+DTSTART:20260908T194500
+DTEND:20260908T214500
+DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1988)\nhttps://filmforum.org/series
+ /coppola
+LOCATION:FILM FORUM
+URL:https://filmforum.org/series/coppola
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tucker: The Man and His Dream @ FILM FORUM
 DTSTART:20260908T150000
 DTEND:20260908T170000
 DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1988)\nhttps://filmforum.org/series
@@ -11772,6 +11903,42 @@ DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1988)\nhttps://filmforum.org/series
  /coppola
 LOCATION:FILM FORUM
 URL:https://filmforum.org/series/coppola
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260908T124500
+DTEND:20260908T144500
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260908T151000
+DTEND:20260908T171000
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260908T173000
+DTEND:20260908T193000
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260908T194500
+DTEND:20260908T214500
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:You're A Big Boy Now @ FILM FORUM
@@ -11980,36 +12147,81 @@ LOCATION:ANTHOLOGY FILM ARCHIVES
 URL:https://www.screenslate.com/series/christine-choy
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260909T124500
+DTEND:20260909T144500
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260909T151000
+DTEND:20260909T171000
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260909T173000
+DTEND:20260909T193000
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260909T194500
+DTEND:20260909T214500
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260909T130000
+DTEND:20260909T150000
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260909T154000
+DTEND:20260909T174000
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260909T181000
+DTEND:20260909T201000
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260909T202000
+DTEND:20260909T222000
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tetro @ FILM FORUM
 DTSTART:20260909T130000
 DTEND:20260909T150000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (2009)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tetro @ FILM FORUM
-DTSTART:20260909T154000
-DTEND:20260909T174000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (2009)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tetro @ FILM FORUM
-DTSTART:20260909T181000
-DTEND:20260909T201000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (2009)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tetro @ FILM FORUM
-DTSTART:20260909T202000
-DTEND:20260909T222000
 DESCRIPTION:Dir: FRANCIS FORD COPPOLA (2009)\nhttps://filmforum.org/series
  /coppola
 LOCATION:FILM FORUM
@@ -12218,6 +12430,42 @@ URL:https://filmforum.org/series/coppola
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dementia 13: Director's Cut @ FILM FORUM
+DTSTART:20260910T124500
+DTEND:20260910T144500
+DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1963)\nhttps://filmforum.org/series
+ /coppola
+LOCATION:FILM FORUM
+URL:https://filmforum.org/series/coppola
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dementia 13: Director's Cut @ FILM FORUM
+DTSTART:20260910T151000
+DTEND:20260910T171000
+DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1963)\nhttps://filmforum.org/series
+ /coppola
+LOCATION:FILM FORUM
+URL:https://filmforum.org/series/coppola
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dementia 13: Director's Cut @ FILM FORUM
+DTSTART:20260910T173000
+DTEND:20260910T193000
+DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1963)\nhttps://filmforum.org/series
+ /coppola
+LOCATION:FILM FORUM
+URL:https://filmforum.org/series/coppola
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dementia 13: Director's Cut @ FILM FORUM
+DTSTART:20260910T194500
+DTEND:20260910T214500
+DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1963)\nhttps://filmforum.org/series
+ /coppola
+LOCATION:FILM FORUM
+URL:https://filmforum.org/series/coppola
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dementia 13: Director's Cut @ FILM FORUM
 DTSTART:20260910T140000
 DTEND:20260910T160000
 DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1963)\nhttps://filmforum.org/series
@@ -12242,6 +12490,42 @@ DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1963)\nhttps://filmforum.org/series
  /coppola
 LOCATION:FILM FORUM
 URL:https://filmforum.org/series/coppola
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260910T124500
+DTEND:20260910T144500
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260910T151000
+DTEND:20260910T171000
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260910T173000
+DTEND:20260910T193000
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbara Forever @ FILM FORUM
+DTSTART:20260910T194500
+DTEND:20260910T214500
+DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
+ ara-forever
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/barbara-forever
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Conversation @ FILM FORUM
@@ -13703,6 +13987,15 @@ DESCRIPTION:Dir: CHARLIE AHEARN (1983)\nhttps://filmforum.org/film/wild-st
  yle
 LOCATION:FILM FORUM
 URL:https://filmforum.org/film/wild-style
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghosts of Mars @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260920T120000
+DTEND:20260920T140000
+DESCRIPTION:Dir: JOHN CARPENTER (2001)\nhttp://www.nitehawkcinema.com/seri
+ es/the-deuce/
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:http://www.nitehawkcinema.com/series/the-deuce/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Peggy Sue Got Married @ NITEHAWK CINEMA WILLIAMSBURG
@@ -15451,8 +15744,8 @@ URL:https://nitehawkcinema.com/prospectpark/movies/little-amelie-or-the-ch
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gail Daughtry and the Celebrity Sex Pass @ ROXY CINEMA NEW YORK
-DTSTART:20260821T170000
-DTEND:20260821T190000
+DTSTART:20270821T170000
+DTEND:20270821T190000
 DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
  654?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
@@ -15461,8 +15754,8 @@ URL:https://ticketing.uswest.veezi.com/purchase/7654?siteToken=tt17e5ajy3v
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lockjaw + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20260821T190000
-DTEND:20260821T210000
+DTSTART:20270821T190000
+DTEND:20270821T210000
 DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
  644?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
@@ -15471,8 +15764,8 @@ URL:https://ticketing.uswest.veezi.com/purchase/7644?siteToken=tt17e5ajy3v
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crank - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20260821T213000
-DTEND:20260821T233000
+DTSTART:20270821T213000
+DTEND:20270821T233000
 DESCRIPTION:Dir: N/A (2006)\nhttps://ticketing.uswest.veezi.com/purchase/7
  680?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
