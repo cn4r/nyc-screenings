@@ -2,990 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:Mad Dog Morgan @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260825T183000
-DTEND:20260825T203000
-DESCRIPTION:Dir: PHILIPPE MORA (1976)\nhttps://www.anthologyfilmarchives.o
- rg/film_screenings/series/61653
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/series/61653
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mad Dog Morgan @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260825T210000
-DTEND:20260825T230000
-DESCRIPTION:Dir: PHILIPPE MORA (1976)\nhttps://www.anthologyfilmarchives.o
- rg/film_screenings/series/61653
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/series/61653
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deadlock @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260825T210000
-DTEND:20260825T230000
-DESCRIPTION:Dir: ROLAND KLICK (1970)\nhttps://www.anthologyfilmarchives.or
- g/film_screenings/series/61653
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/series/61653
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tetsuo: The Iron Man @ BAM
-DTSTART:20260825T184500
-DTEND:20260825T204500
-DESCRIPTION:Dir: SHINYA TSUKAMOTO (1989)\nhttps://www.bam.org/film/2026/ar
- thouse-scifi
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/arthouse-scifi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tetsuo: The Iron Man @ BAM
-DTSTART:20260825T190000
-DTEND:20260825T210000
-DESCRIPTION:Dir: SHINYA TSUKAMOTO (1989)\nhttps://www.bam.org/film/2026/ar
- thouse-scifi
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/arthouse-scifi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tetsuo: The Iron Man @ BAM
-DTSTART:20260825T203000
-DTEND:20260825T223000
-DESCRIPTION:Dir: SHINYA TSUKAMOTO (1989)\nhttps://www.bam.org/film/2026/ar
- thouse-scifi
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/arthouse-scifi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union County @ BAM
-DTSTART:20260825T190000
-DTEND:20260825T210000
-DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.bam.org/film/2026/union-cou
- nty
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/union-county
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solaris @ BAM
-DTSTART:20260825T203000
-DTEND:20260825T223000
-DESCRIPTION:Dir: ANDREI TARKOVSKY (1972)\nhttps://www.bam.org/film/2026/ar
- thouse-scifi
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/arthouse-scifi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Same River Twice @ FILM FORUM
-DTSTART:20260825T121500
-DTEND:20260825T141500
-DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
- er-twice
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-same-river-twice
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Same River Twice @ FILM FORUM
-DTSTART:20260825T174500
-DTEND:20260825T194500
-DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
- er-twice
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-same-river-twice
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Same River Twice @ FILM FORUM
-DTSTART:20260825T122000
-DTEND:20260825T142000
-DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
- er-twice
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-same-river-twice
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Same River Twice @ FILM FORUM
-DTSTART:20260825T180000
-DTEND:20260825T200000
-DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
- er-twice
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-same-river-twice
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Same River Twice @ FILM FORUM
-DTSTART:20260825T124500
-DTEND:20260825T144500
-DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
- er-twice
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-same-river-twice
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Same River Twice @ FILM FORUM
-DTSTART:20260825T153000
-DTEND:20260825T173000
-DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
- er-twice
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-same-river-twice
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Same River Twice @ FILM FORUM
-DTSTART:20260825T203000
-DTEND:20260825T223000
-DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
- er-twice
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-same-river-twice
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Same River Twice @ FILM FORUM
-DTSTART:20260825T143000
-DTEND:20260825T163000
-DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
- er-twice
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-same-river-twice
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Same River Twice @ FILM FORUM
-DTSTART:20260825T143500
-DTEND:20260825T163500
-DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
- er-twice
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-same-river-twice
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Same River Twice @ FILM FORUM
-DTSTART:20260825T201000
-DTEND:20260825T221000
-DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
- er-twice
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-same-river-twice
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Same River Twice @ FILM FORUM
-DTSTART:20260825T144000
-DTEND:20260825T164000
-DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
- er-twice
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-same-river-twice
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Same River Twice @ FILM FORUM
-DTSTART:20260825T201500
-DTEND:20260825T221500
-DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
- er-twice
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-same-river-twice
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Billy Liar @ FILM FORUM
-DTSTART:20260825T122000
-DTEND:20260825T142000
-DESCRIPTION:Dir: JOHN SCHLESINGER (1963)\nhttps://filmforum.org/film/billy
- -liar
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/billy-liar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Billy Liar @ FILM FORUM
-DTSTART:20260825T180000
-DTEND:20260825T200000
-DESCRIPTION:Dir: JOHN SCHLESINGER (1963)\nhttps://filmforum.org/film/billy
- -liar
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/billy-liar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You're A Big Boy Now @ FILM FORUM
-DTSTART:20260825T122000
-DTEND:20260825T142000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1966)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260825T124500
-DTEND:20260825T144500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260825T153000
-DTEND:20260825T173000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260825T180000
-DTEND:20260825T200000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260825T203000
-DTEND:20260825T223000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Apocalypse Now: Final Cut @ FILM FORUM
-DTSTART:20260825T143000
-DTEND:20260825T163000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1979)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sherman's March @ FILM FORUM
-DTSTART:20260825T143500
-DTEND:20260825T163500
-DESCRIPTION:Dir: ROSS MCELWEE (1985)\nhttps://filmforum.org/film/shermans-
- march
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/shermans-march
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sherman's March @ FILM FORUM
-DTSTART:20260825T201000
-DTEND:20260825T221000
-DESCRIPTION:Dir: ROSS MCELWEE (1985)\nhttps://filmforum.org/film/shermans-
- march
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/shermans-march
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Center Stage @ FILM FORUM
-DTSTART:20260825T144000
-DTEND:20260825T164000
-DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
- age
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/center-stage
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Center Stage @ FILM FORUM
-DTSTART:20260825T201500
-DTEND:20260825T221500
-DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
- age
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/center-stage
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Interior N.Y. Subway\, 14th Street To 42nd Street @ FILM FORUM
-DTSTART:20260825T180000
-DTEND:20260825T200000
-DESCRIPTION:Dir: 1905 (4M)\nhttps://filmforum.org/series/nyc-in-transit
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/nyc-in-transit
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Cotton Club Encore @ FILM FORUM
-DTSTART:20260825T201000
-DTEND:20260825T221000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1984)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260825T120000
-DTEND:20260825T140000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260825T150000
-DTEND:20260825T170000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260825T180000
-DTEND:20260825T200000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260825T210000
-DTEND:20260825T230000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260825T123000
-DTEND:20260825T143000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260825T151500
-DTEND:20260825T171500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260825T204500
-DTEND:20260825T224500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260825T131500
-DTEND:20260825T151500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260825T154500
-DTEND:20260825T174500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260825T181500
-DTEND:20260825T201500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260825T123000
-DTEND:20260825T143000
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260825T151500
-DTEND:20260825T171500
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260825T180000
-DTEND:20260825T200000
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260825T204500
-DTEND:20260825T224500
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
-DTSTART:20260825T131500
-DTEND:20260825T151500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
- me/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/late-fame/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
-DTSTART:20260825T154500
-DTEND:20260825T174500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
- me/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/late-fame/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
-DTSTART:20260825T181500
-DTEND:20260825T201500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
- me/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/late-fame/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
-DTSTART:20260825T204500
-DTEND:20260825T224500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
- me/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/late-fame/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:To Use a Mountain @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FIL
- M
-DTSTART:20260825T163000
-DTEND:20260825T183000
-DESCRIPTION:Dir: CASEY CARTER (2025)\nhttps://www.dctvny.org/s/firehouse-f
- ilm/to-use-a-mountain-MCJJHJERFNRFAFVM556FN5AHGQDI
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/to-use-a-mountain-MCJJHJERFNRF
- AFVM556FN5AHGQDI
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:To Use a Mountain @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FIL
- M
-DTSTART:20260825T190000
-DTEND:20260825T210000
-DESCRIPTION:Dir: CASEY CARTER (2025)\nhttps://www.dctvny.org/s/firehouse-f
- ilm/to-use-a-mountain-MCJJHJERFNRFAFVM556FN5AHGQDI
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/to-use-a-mountain-MCJJHJERFNRF
- AFVM556FN5AHGQDI
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Daylight @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-DTSTART:20260825T190000
-DTEND:20260825T210000
-DESCRIPTION:Dir: JON KASBE (2026)\nhttps://www.dctvny.org/s/firehouse-film
- /daylight-MCYYB57MXLVRDPPLNMWUN52T67WY
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/daylight-MCYYB57MXLVRDPPLNMWUN
- 52T67WY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260825T105500
-DTEND:20260825T125500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260825T132500
-DTEND:20260825T152500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260825T160000
-DTEND:20260825T180000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260825T184000
-DTEND:20260825T204000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260825T120500
-DTEND:20260825T140500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260825T140500
-DTEND:20260825T160500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260825T191500
-DTEND:20260825T211500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260825T214500
-DTEND:20260825T234500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260825T135000
-DTEND:20260825T155000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260825T190500
-DTEND:20260825T210500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260825T160500
-DTEND:20260825T180500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260825T183000
-DTEND:20260825T203000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260825T212000
-DTEND:20260825T232000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260825T235500
-DTEND:20260826T015500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260825T144000
-DTEND:20260825T164000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260825T165000
-DTEND:20260825T185000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260825T191000
-DTEND:20260825T211000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260825T213000
-DTEND:20260825T233000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260825T163000
-DTEND:20260825T183000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260825T211500
-DTEND:20260825T231500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Skin @ IFC CENTER
-DTSTART:20260825T120500
-DTEND:20260825T140500
-DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
- rious-skin/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mysterious-skin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Skin @ IFC CENTER
-DTSTART:20260825T140500
-DTEND:20260825T160500
-DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
- rious-skin/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mysterious-skin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Skin @ IFC CENTER
-DTSTART:20260825T191500
-DTEND:20260825T211500
-DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
- rious-skin/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mysterious-skin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Skin @ IFC CENTER
-DTSTART:20260825T214500
-DTEND:20260825T234500
-DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
- rious-skin/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mysterious-skin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside @ IFC CENTER
-DTSTART:20260825T135000
-DTEND:20260825T155000
-DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
- nside/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside @ IFC CENTER
-DTSTART:20260825T190500
-DTEND:20260825T210500
-DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
- nside/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union County @ IFC CENTER
-DTSTART:20260825T135000
-DTEND:20260825T155000
-DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
- ounty/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/union-county/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union County @ IFC CENTER
-DTSTART:20260825T160500
-DTEND:20260825T180500
-DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
- ounty/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/union-county/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union County @ IFC CENTER
-DTSTART:20260825T183000
-DTEND:20260825T203000
-DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
- ounty/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/union-county/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union County @ IFC CENTER
-DTSTART:20260825T212000
-DTEND:20260825T232000
-DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
- ounty/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/union-county/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union County @ IFC CENTER
-DTSTART:20260825T235500
-DTEND:20260826T015500
-DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
- ounty/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/union-county/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends @ IFC CENTER
-DTSTART:20260825T144000
-DTEND:20260825T164000
-DESCRIPTION:Dir: ALEXANDER ULLOM (2025)\nhttps://www.ifccenter.com/films/i
- t-ends/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/it-ends/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends @ IFC CENTER
-DTSTART:20260825T165000
-DTEND:20260825T185000
-DESCRIPTION:Dir: ALEXANDER ULLOM (2025)\nhttps://www.ifccenter.com/films/i
- t-ends/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/it-ends/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends @ IFC CENTER
-DTSTART:20260825T191000
-DTEND:20260825T211000
-DESCRIPTION:Dir: ALEXANDER ULLOM (2025)\nhttps://www.ifccenter.com/films/i
- t-ends/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/it-ends/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends @ IFC CENTER
-DTSTART:20260825T213000
-DTEND:20260825T233000
-DESCRIPTION:Dir: ALEXANDER ULLOM (2025)\nhttps://www.ifccenter.com/films/i
- t-ends/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/it-ends/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Train to Busan @ IFC CENTER
-DTSTART:20260825T163000
-DTEND:20260825T183000
-DESCRIPTION:Dir: YEON SANG-HO (2016)\nhttps://www.ifccenter.com/films/trai
- n-to-busan-2/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/train-to-busan-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Train to Busan @ IFC CENTER
-DTSTART:20260825T211500
-DTEND:20260825T231500
-DESCRIPTION:Dir: YEON SANG-HO (2016)\nhttps://www.ifccenter.com/films/trai
- n-to-busan-2/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/train-to-busan-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stroszek @ MUSEUM OF MODERN ART
-DTSTART:20260825T190000
-DTEND:20260825T210000
-DESCRIPTION:Dir: WERNER HERZOG (1977)\nhttps://www.moma.org/calendar/film/
- 5911
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5911
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crash @ NITEHAWK CINEMA PROSPECT PARK
-DTSTART:20260825T190000
-DTEND:20260825T210000
-DESCRIPTION:Dir: DAVID CRONENBERG (1996)\nhttps://nitehawkcinema.com/willi
- amsburg/film-series/the-class-of-96/
-LOCATION:NITEHAWK CINEMA PROSPECT PARK
-URL:https://nitehawkcinema.com/williamsburg/film-series/the-class-of-96/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Rock @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260825T213000
-DTEND:20260825T233000
-DESCRIPTION:Dir: MICHAEL BAY (1996)\nhttps://nitehawkcinema.com/williamsbu
- rg/film-series/the-class-of-96/
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://nitehawkcinema.com/williamsburg/film-series/the-class-of-96/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fight Club @ PARIS THEATER
-DTSTART:20260825T120000
-DTEND:20260825T140000
-DESCRIPTION:Dir: DAVID FINCHER (1999)\nhttps://www.paristheaternyc.com/ser
- ies/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fight Club @ PARIS THEATER
-DTSTART:20260825T153000
-DTEND:20260825T173000
-DESCRIPTION:Dir: DAVID FINCHER (1999)\nhttps://www.paristheaternyc.com/ser
- ies/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fight Club @ PARIS THEATER
-DTSTART:20260825T190000
-DTEND:20260825T210000
-DESCRIPTION:Dir: DAVID FINCHER (1999)\nhttps://www.paristheaternyc.com/ser
- ies/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fight Club @ PARIS THEATER
-DTSTART:20260825T215500
-DTEND:20260825T235500
-DESCRIPTION:Dir: DAVID FINCHER (1999)\nhttps://www.paristheaternyc.com/ser
- ies/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Die Hard @ PARIS THEATER
-DTSTART:20260825T153000
-DTEND:20260825T173000
-DESCRIPTION:Dir: JOHN MCTIERNAN (1988)\nhttps://www.paristheaternyc.com/se
- ries/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Michael Mann's Manhunter: The Final Cut @ PARIS THEATER
-DTSTART:20260825T190000
-DTEND:20260825T210000
-DESCRIPTION:Dir: MICHAEL MANN (1986 / 2026)\nhttps://www.paristheaternyc.c
- om/series/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mad Max: Fury Road @ PARIS THEATER
-DTSTART:20260825T215500
-DTEND:20260825T235500
-DESCRIPTION:Dir: GEORGE MILLER (2015)\nhttps://www.paristheaternyc.com/ser
- ies/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chinatown @ QUAD CINEMA
-DTSTART:20260825T193000
-DTEND:20260825T213000
-DESCRIPTION:Dir: ROMAN POLANSKI (1974)\nhttps://quadcinema.com/program/joh
- n-huston-hollywood-maverick/
-LOCATION:QUAD CINEMA
-URL:https://quadcinema.com/program/john-huston-hollywood-maverick/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:When We Saw Each Other More Often @ ROXY CINEMA NEW YORK
-DTSTART:20260825T190000
-DTEND:20260825T210000
-DESCRIPTION:Dir: WILLIAM WRUBEL (2025)\nhttps://www.roxycinemanewyork.com/
- screenings/when-we-saw-each-other-more-often-qa/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/screenings/when-we-saw-each-other-mo
- re-often-qa/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:When We Saw Each Other More Often @ ROXY CINEMA NEW YORK
-DTSTART:20260825T213000
-DTEND:20260825T233000
-DESCRIPTION:Dir: WILLIAM WRUBEL (2025)\nhttps://www.roxycinemanewyork.com/
- screenings/when-we-saw-each-other-more-often-qa/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/screenings/when-we-saw-each-other-mo
- re-often-qa/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Black Dahlia @ ROXY CINEMA NEW YORK
-DTSTART:20260825T213000
-DTEND:20260825T233000
-DESCRIPTION:Dir: BRIAN DE PALMA (2006)\nhttps://www.roxycinemanewyork.com/
- stories/2006-movies-you-must-see-before-you-die/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/stories/2006-movies-you-must-see-bef
- ore-you-die/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garchaster's Cornblade @ SPECTACLE
-DTSTART:20260825T193000
-DTEND:20260825T213000
-DESCRIPTION:Dir: KASPER MELTEDHAIR (2026)\nhttps://www.spectacletheater.co
- m/garchasters-cornblade/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/garchasters-cornblade/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garchaster's Cornblade @ SPECTACLE
-DTSTART:20260825T220000
-DTEND:20260826T000000
-DESCRIPTION:Dir: KASPER MELTEDHAIR (2026)\nhttps://www.spectacletheater.co
- m/garchasters-cornblade/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/garchasters-cornblade/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Sami Song of Survival @ SPECTACLE
-DTSTART:20260825T220000
-DTEND:20260826T000000
-DESCRIPTION:Dir: IARA LEE (2025)\nhttps://www.spectacletheater.com/art-cou
- ld-be-a-weapon/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/art-could-be-a-weapon/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cherry 2000 @ ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
 DTSTART:20260826T213000
 DTEND:20260826T233000
@@ -7244,6 +6260,24 @@ LOCATION:ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
 URL:https://drafthouse.com/nyc/show/mothra-vs-godzilla
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mothra vs. Godzilla @ ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
+DTSTART:20260902T213000
+DTEND:20260902T233000
+DESCRIPTION:Dir: ISHIRO HONDA (1964)\nhttps://drafthouse.com/nyc/show/moth
+ ra-vs-godzilla
+LOCATION:ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
+URL:https://drafthouse.com/nyc/show/mothra-vs-godzilla
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Four Times That Night @ ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
+DTSTART:20260902T213000
+DTEND:20260902T233000
+DESCRIPTION:Dir: MARIO BAVA (1971)\nhttps://drafthouse.com/nyc/series/weir
+ d-wednesday
+LOCATION:ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
+URL:https://drafthouse.com/nyc/series/weird-wednesday
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Welfare @ ANTHOLOGY FILM ARCHIVES
 DTSTART:20260902T183000
 DTEND:20260902T203000
@@ -8468,6 +7502,16 @@ DESCRIPTION:Dir: Hospital (FREDERICK WISEMAN)\nhttps://uniondocs.org/wisem
  ans-new-york/
 LOCATION:UNIONDOCS
 URL:https://uniondocs.org/wisemans-new-york/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Star Trek: The Motion Picture @ ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
+DTSTART:20260904T150000
+DTEND:20260904T170000
+DESCRIPTION:Dir: ROBERT WISE (1979)\nhttps://drafthouse.com/nyc/show/speci
+ al-event-star-trek-the-motion-picture-directors-edition-the-changeling
+LOCATION:ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
+URL:https://drafthouse.com/nyc/show/special-event-star-trek-the-motion-pic
+ ture-directors-edition-the-changeling
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:What Godmilow Taught @ ANTHOLOGY FILM ARCHIVES
@@ -13357,6 +12401,15 @@ URL:https://nitehawkcinema.com/prospectpark/film-series/masc-at-the-movies
  /
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:City Wide Fever @ NITEHAWK CINEMA WILLIAMSBURG
+DTSTART:20260923T190000
+DTEND:20260923T210000
+DESCRIPTION:Dir: JOSH HEAPS (2025)\nhttps://nitehawkcinema.com/williamsbur
+ g/film-series/local-color/
+LOCATION:NITEHAWK CINEMA WILLIAMSBURG
+URL:https://nitehawkcinema.com/williamsburg/film-series/local-color/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:In Vanda's Room @ ANTHOLOGY FILM ARCHIVES
 DTSTART:20260924T190000
 DTEND:20260924T210000
@@ -13409,6 +12462,16 @@ DESCRIPTION:Dir: JIA ZHANGKE (2024)\nhttps://www.bam.org/film/2026/a-pure-
  person
 LOCATION:BAM
 URL:https://www.bam.org/film/2026/a-pure-person
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Perfume: The Story of a Murderer @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20260924T204500
+DTEND:20260924T224500
+DESCRIPTION:Dir: TOM TYKWER (2006)\nhttps://nitehawkcinema.com/prospectpar
+ k/film-series/ridiculous-sublime/
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://nitehawkcinema.com/prospectpark/film-series/ridiculous-sublime
+ /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Screamplay @ ANTHOLOGY FILM ARCHIVES
@@ -16582,8 +15645,8 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:When We Saw Each Other More Often + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20260825T190000
-DTEND:20260825T210000
+DTSTART:20270825T190000
+DTEND:20270825T210000
 DESCRIPTION:Dir: N/A (2025)\nhttps://ticketing.uswest.veezi.com/purchase/7
  676?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
@@ -16592,8 +15655,8 @@ URL:https://ticketing.uswest.veezi.com/purchase/7676?siteToken=tt17e5ajy3v
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Black Dahlia - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20260825T213000
-DTEND:20260825T233000
+DTSTART:20270825T213000
+DTEND:20270825T233000
 DESCRIPTION:Dir: N/A (2006)\nhttps://ticketing.uswest.veezi.com/purchase/7
  707?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
@@ -17385,6 +16448,16 @@ DESCRIPTION:Dir: N/A (1991)\nhttps://ticketing.uswest.veezi.com/purchase/7
  809?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7809?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On a String + Q&A @ ROXY CINEMA NEW YORK
+DTSTART:20261020T190000
+DTEND:20261020T210000
+DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 819?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7819?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 END:VCALENDAR
