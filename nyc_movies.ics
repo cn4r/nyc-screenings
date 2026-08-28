@@ -2,1187 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:Dead Man @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260827T181500
-DTEND:20260827T201500
-DESCRIPTION:Dir: ALBERTO CAVALCANTI (1926)\nhttp://anthologyfilmarchives.o
- rg/film_screenings/programs/essential-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
- nema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dead Man @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260827T183000
-DTEND:20260827T203000
-DESCRIPTION:Dir: ALBERTO CAVALCANTI (1926)\nhttp://anthologyfilmarchives.o
- rg/film_screenings/programs/essential-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
- nema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dead Man @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260827T201500
-DTEND:20260827T221500
-DESCRIPTION:Dir: ALBERTO CAVALCANTI (1926)\nhttp://anthologyfilmarchives.o
- rg/film_screenings/programs/essential-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
- nema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dead Man @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260827T211500
-DTEND:20260827T231500
-DESCRIPTION:Dir: ALBERTO CAVALCANTI (1926)\nhttp://anthologyfilmarchives.o
- rg/film_screenings/programs/essential-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
- nema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Searchers / Maliglutit @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260827T211500
-DTEND:20260827T231500
-DESCRIPTION:Dir: ZACHARIAS KUNUK\, NATAR UNGALAAQ (2016)\nhttps://www.anth
- ologyfilmarchives.org/film_screenings/series/61653
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/series/61653
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ BAM
-DTSTART:20260827T160000
-DTEND:20260827T180000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.bam.org/film/2026/th
- e-samurai-and-the-prisoner
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/the-samurai-and-the-prisoner
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ BAM
-DTSTART:20260827T163000
-DTEND:20260827T183000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.bam.org/film/2026/th
- e-samurai-and-the-prisoner
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/the-samurai-and-the-prisoner
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ BAM
-DTSTART:20260827T184500
-DTEND:20260827T204500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.bam.org/film/2026/th
- e-samurai-and-the-prisoner
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/the-samurai-and-the-prisoner
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ BAM
-DTSTART:20260827T190000
-DTEND:20260827T210000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.bam.org/film/2026/th
- e-samurai-and-the-prisoner
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/the-samurai-and-the-prisoner
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ BAM
-DTSTART:20260827T213000
-DTEND:20260827T233000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.bam.org/film/2026/th
- e-samurai-and-the-prisoner
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/the-samurai-and-the-prisoner
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:eXistenZ @ BAM
-DTSTART:20260827T163000
-DTEND:20260827T183000
-DESCRIPTION:Dir: DAVID CRONENBERG (1999)\nhttps://www.bam.org/film/2026/ar
- thouse-scifi
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/arthouse-scifi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Memoria @ BAM
-DTSTART:20260827T184500
-DTEND:20260827T204500
-DESCRIPTION:Dir: APICHATPONG WEERASETHAKUL (2021)\nhttps://www.bam.org/fil
- m/2026/arthouse-scifi
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/arthouse-scifi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union County @ BAM
-DTSTART:20260827T190000
-DTEND:20260827T210000
-DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.bam.org/film/2026/union-cou
- nty
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/union-county
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union County @ BAM
-DTSTART:20260827T213000
-DTEND:20260827T233000
-DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.bam.org/film/2026/union-cou
- nty
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/union-county
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2046 @ BAM
-DTSTART:20260827T213000
-DTEND:20260827T233000
-DESCRIPTION:Dir: WONG KAR-WAI (2004)\nhttps://www.bam.org/film/2026/arthou
- se-scifi
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/arthouse-scifi
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260827T121500
-DTEND:20260827T141500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260827T142500
-DTEND:20260827T162500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260827T164000
-DTEND:20260827T184000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260827T185000
-DTEND:20260827T205000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260827T203000
-DTEND:20260827T223000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260827T174500
-DTEND:20260827T194500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260827T122000
-DTEND:20260827T142000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260827T204000
-DTEND:20260827T224000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260827T123000
-DTEND:20260827T143000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260827T143500
-DTEND:20260827T163500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260827T201000
-DTEND:20260827T221000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260827T144000
-DTEND:20260827T164000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260827T145000
-DTEND:20260827T165000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260827T173000
-DTEND:20260827T193000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260827T180000
-DTEND:20260827T200000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260827T202000
-DTEND:20260827T222000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Same River Twice @ FILM FORUM
-DTSTART:20260827T121500
-DTEND:20260827T141500
-DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
- er-twice
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-same-river-twice
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Same River Twice @ FILM FORUM
-DTSTART:20260827T174500
-DTEND:20260827T194500
-DESCRIPTION:Dir: ROBB MOSS (2003)\nhttps://filmforum.org/film/the-same-riv
- er-twice
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-same-river-twice
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Billy Liar @ FILM FORUM
-DTSTART:20260827T122000
-DTEND:20260827T142000
-DESCRIPTION:Dir: JOHN SCHLESINGER (1963)\nhttps://filmforum.org/film/billy
- -liar
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/billy-liar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Billy Liar @ FILM FORUM
-DTSTART:20260827T204000
-DTEND:20260827T224000
-DESCRIPTION:Dir: JOHN SCHLESINGER (1963)\nhttps://filmforum.org/film/billy
- -liar
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/billy-liar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tucker: The Man and His Dream @ FILM FORUM
-DTSTART:20260827T123000
-DTEND:20260827T143000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1988)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sherman's March @ FILM FORUM
-DTSTART:20260827T143500
-DTEND:20260827T163500
-DESCRIPTION:Dir: ROSS MCELWEE (1985)\nhttps://filmforum.org/film/shermans-
- march
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/shermans-march
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sherman's March @ FILM FORUM
-DTSTART:20260827T201000
-DTEND:20260827T221000
-DESCRIPTION:Dir: ROSS MCELWEE (1985)\nhttps://filmforum.org/film/shermans-
- march
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/shermans-march
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Center Stage @ FILM FORUM
-DTSTART:20260827T144000
-DTEND:20260827T164000
-DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
- age
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/center-stage
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Peggy Sue Got Married @ FILM FORUM
-DTSTART:20260827T145000
-DTEND:20260827T165000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1986)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Finian's Rainbow @ FILM FORUM
-DTSTART:20260827T173000
-DTEND:20260827T193000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1968)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FILIPIÑANA @ FILM FORUM
-DTSTART:20260827T180000
-DTEND:20260827T200000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One from the Heart: Reprise @ FILM FORUM
-DTSTART:20260827T202000
-DTEND:20260827T222000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1981)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260827T120000
-DTEND:20260827T140000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260827T150000
-DTEND:20260827T170000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260827T180000
-DTEND:20260827T200000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260827T210000
-DTEND:20260827T230000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260827T123000
-DTEND:20260827T143000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260827T151500
-DTEND:20260827T171500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260827T204500
-DTEND:20260827T224500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260827T131500
-DTEND:20260827T151500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260827T154500
-DTEND:20260827T174500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260827T181500
-DTEND:20260827T201500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260827T123000
-DTEND:20260827T143000
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260827T151500
-DTEND:20260827T171500
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260827T180000
-DTEND:20260827T200000
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260827T204500
-DTEND:20260827T224500
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
-DTSTART:20260827T131500
-DTEND:20260827T151500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
- me/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/late-fame/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
-DTSTART:20260827T154500
-DTEND:20260827T174500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
- me/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/late-fame/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
-DTSTART:20260827T181500
-DTEND:20260827T201500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
- me/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/late-fame/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
-DTSTART:20260827T204500
-DTEND:20260827T224500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
- me/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/late-fame/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Daylight @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-DTSTART:20260827T163000
-DTEND:20260827T183000
-DESCRIPTION:Dir: JON KASBE (2026)\nhttps://www.dctvny.org/s/firehouse-film
- /daylight-MCYYB57MXLVRDPPLNMWUN52T67WY
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/daylight-MCYYB57MXLVRDPPLNMWUN
- 52T67WY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Daylight @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-DTSTART:20260827T173000
-DTEND:20260827T193000
-DESCRIPTION:Dir: JON KASBE (2026)\nhttps://www.dctvny.org/s/firehouse-film
- /daylight-MCYYB57MXLVRDPPLNMWUN52T67WY
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/daylight-MCYYB57MXLVRDPPLNMWUN
- 52T67WY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:To Use a Mountain @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FIL
- M
-DTSTART:20260827T173000
-DTEND:20260827T193000
-DESCRIPTION:Dir: CASEY CARTER (2025)\nhttps://www.dctvny.org/s/firehouse-f
- ilm/to-use-a-mountain-MCJJHJERFNRFAFVM556FN5AHGQDI
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/to-use-a-mountain-MCJJHJERFNRF
- AFVM556FN5AHGQDI
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Prince of Egypt @ FLATBUSH REFORMED CHURCH
-DTSTART:20260827T203000
-DTEND:20260827T223000
-DESCRIPTION:Dir: MULTIPLE DIRECTORS (1998)\nhttps://www.eventbrite.com/o/8
- 387562806
-LOCATION:FLATBUSH REFORMED CHURCH
-URL:https://www.eventbrite.com/o/8387562806
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260827T105500
-DTEND:20260827T125500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260827T132500
-DTEND:20260827T152500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260827T160000
-DTEND:20260827T180000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260827T184000
-DTEND:20260827T204000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260827T123500
-DTEND:20260827T143500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260827T144000
-DTEND:20260827T164000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260827T165000
-DTEND:20260827T185000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260827T191000
-DTEND:20260827T211000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260827T213000
-DTEND:20260827T233000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260827T130000
-DTEND:20260827T150000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260827T191500
-DTEND:20260827T211500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260827T214500
-DTEND:20260827T234500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260827T230000
-DTEND:20260828T010000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260827T133000
-DTEND:20260827T153000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260827T155500
-DTEND:20260827T175500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260827T212000
-DTEND:20260827T232000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260827T135000
-DTEND:20260827T155000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260827T190500
-DTEND:20260827T210500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260827T211500
-DTEND:20260827T231500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends @ IFC CENTER
-DTSTART:20260827T123500
-DTEND:20260827T143500
-DESCRIPTION:Dir: ALEXANDER ULLOM (2025)\nhttps://www.ifccenter.com/films/i
- t-ends/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/it-ends/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends @ IFC CENTER
-DTSTART:20260827T144000
-DTEND:20260827T164000
-DESCRIPTION:Dir: ALEXANDER ULLOM (2025)\nhttps://www.ifccenter.com/films/i
- t-ends/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/it-ends/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends @ IFC CENTER
-DTSTART:20260827T165000
-DTEND:20260827T185000
-DESCRIPTION:Dir: ALEXANDER ULLOM (2025)\nhttps://www.ifccenter.com/films/i
- t-ends/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/it-ends/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends @ IFC CENTER
-DTSTART:20260827T191000
-DTEND:20260827T211000
-DESCRIPTION:Dir: ALEXANDER ULLOM (2025)\nhttps://www.ifccenter.com/films/i
- t-ends/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/it-ends/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends @ IFC CENTER
-DTSTART:20260827T213000
-DTEND:20260827T233000
-DESCRIPTION:Dir: ALEXANDER ULLOM (2025)\nhttps://www.ifccenter.com/films/i
- t-ends/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/it-ends/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Skin @ IFC CENTER
-DTSTART:20260827T130000
-DTEND:20260827T150000
-DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
- rious-skin/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mysterious-skin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Skin @ IFC CENTER
-DTSTART:20260827T191500
-DTEND:20260827T211500
-DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
- rious-skin/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mysterious-skin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Skin @ IFC CENTER
-DTSTART:20260827T214500
-DTEND:20260827T234500
-DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
- rious-skin/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mysterious-skin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Skin @ IFC CENTER
-DTSTART:20260827T230000
-DTEND:20260828T010000
-DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
- rious-skin/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mysterious-skin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union County @ IFC CENTER
-DTSTART:20260827T133000
-DTEND:20260827T153000
-DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
- ounty/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/union-county/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union County @ IFC CENTER
-DTSTART:20260827T155500
-DTEND:20260827T175500
-DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
- ounty/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/union-county/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union County @ IFC CENTER
-DTSTART:20260827T212000
-DTEND:20260827T232000
-DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
- ounty/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/union-county/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside @ IFC CENTER
-DTSTART:20260827T135000
-DTEND:20260827T155000
-DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
- nside/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside @ IFC CENTER
-DTSTART:20260827T190500
-DTEND:20260827T210500
-DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
- nside/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Train to Busan @ IFC CENTER
-DTSTART:20260827T165000
-DTEND:20260827T185000
-DESCRIPTION:Dir: YEON SANG-HO (2016)\nhttps://www.ifccenter.com/films/trai
- n-to-busan-2/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/train-to-busan-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Train to Busan @ IFC CENTER
-DTSTART:20260827T211500
-DTEND:20260827T231500
-DESCRIPTION:Dir: YEON SANG-HO (2016)\nhttps://www.ifccenter.com/films/trai
- n-to-busan-2/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/train-to-busan-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf Nazis Must Die @ LOW CINEMA
-DTSTART:20260827T180000
-DTEND:20260827T200000
-DESCRIPTION:Dir: PETER GEORGE (1987)\nhttps://lowcinema.com/movie/surf-naz
- is-must-die-3/
-LOCATION:LOW CINEMA
-URL:https://lowcinema.com/movie/surf-nazis-must-die-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surf Nazis Must Die @ LOW CINEMA
-DTSTART:20260827T203000
-DTEND:20260827T223000
-DESCRIPTION:Dir: PETER GEORGE (1987)\nhttps://lowcinema.com/movie/surf-naz
- is-must-die-3/
-LOCATION:LOW CINEMA
-URL:https://lowcinema.com/movie/surf-nazis-must-die-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deliverance @ METROGRAPH
-DTSTART:20260827T141500
-DTEND:20260827T161500
-DESCRIPTION:Dir: JOHN BOORMAN (1972)\nhttps://metrograph.com/going-up-the-
- country/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/going-up-the-country/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deliverance @ METROGRAPH
-DTSTART:20260827T142500
-DTEND:20260827T162500
-DESCRIPTION:Dir: JOHN BOORMAN (1972)\nhttps://metrograph.com/going-up-the-
- country/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/going-up-the-country/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deliverance @ METROGRAPH
-DTSTART:20260827T163000
-DTEND:20260827T183000
-DESCRIPTION:Dir: JOHN BOORMAN (1972)\nhttps://metrograph.com/going-up-the-
- country/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/going-up-the-country/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deliverance @ METROGRAPH
-DTSTART:20260827T164500
-DTEND:20260827T184500
-DESCRIPTION:Dir: JOHN BOORMAN (1972)\nhttps://metrograph.com/going-up-the-
- country/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/going-up-the-country/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deliverance @ METROGRAPH
-DTSTART:20260827T190000
-DTEND:20260827T210000
-DESCRIPTION:Dir: JOHN BOORMAN (1972)\nhttps://metrograph.com/going-up-the-
- country/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/going-up-the-country/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deliverance @ METROGRAPH
-DTSTART:20260827T191500
-DTEND:20260827T211500
-DESCRIPTION:Dir: JOHN BOORMAN (1972)\nhttps://metrograph.com/going-up-the-
- country/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/going-up-the-country/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deliverance @ METROGRAPH
-DTSTART:20260827T213000
-DTEND:20260827T233000
-DESCRIPTION:Dir: JOHN BOORMAN (1972)\nhttps://metrograph.com/going-up-the-
- country/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/going-up-the-country/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deliverance @ METROGRAPH
-DTSTART:20260827T213500
-DTEND:20260827T233500
-DESCRIPTION:Dir: JOHN BOORMAN (1972)\nhttps://metrograph.com/going-up-the-
- country/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/going-up-the-country/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chocolat @ METROGRAPH
-DTSTART:20260827T142500
-DTEND:20260827T162500
-DESCRIPTION:Dir: CLAIRE DENIS (1988)\nhttps://metrograph.com/series/?vista
- _series_id=0000000570
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000570
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3 Women @ METROGRAPH
-DTSTART:20260827T163000
-DTEND:20260827T183000
-DESCRIPTION:Dir: ROBERT ALTMAN (1977)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000563
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000563
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Conversation Piece @ METROGRAPH
-DTSTART:20260827T164500
-DTEND:20260827T184500
-DESCRIPTION:Dir: LUCHINO VISCONTI (1977)\nhttps://metrograph.com/series/?v
- ista_series_id=0000000564
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000564
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Collateral @ METROGRAPH
-DTSTART:20260827T190000
-DTEND:20260827T210000
-DESCRIPTION:Dir: MICHAEL MANN (2004)\nhttps://metrograph.com/series/?vista
- _series_id=0000000555
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000555
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:My Night at Maud’s @ METROGRAPH
-DTSTART:20260827T191500
-DTEND:20260827T211500
-DESCRIPTION:Dir: ERIC ROHMER (1969)\nhttps://metrograph.com/rohmers-elisab
- eth/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/rohmers-elisabeth/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drunken Master II @ METROGRAPH
-DTSTART:20260827T213000
-DTEND:20260827T233000
-DESCRIPTION:Dir: LAU KAR-LEUNG (1994)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000562
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000562
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Love in the Afternoon @ METROGRAPH
-DTSTART:20260827T213500
-DTEND:20260827T233500
-DESCRIPTION:Dir: ERIC ROHMER (1972)\nhttps://metrograph.com/rohmers-elisab
- eth/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/rohmers-elisabeth/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nationalite: Immigre @ MUSEUM OF MODERN ART
-DTSTART:20260827T163000
-DTEND:20260827T183000
-DESCRIPTION:Dir: SIDNEY SOKHONA (1975)\nhttps://www.moma.org/calendar/film
- /5911
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5911
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nationalite: Immigre @ MUSEUM OF MODERN ART
-DTSTART:20260827T190000
-DTEND:20260827T210000
-DESCRIPTION:Dir: SIDNEY SOKHONA (1975)\nhttps://www.moma.org/calendar/film
- /5911
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5911
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:From the Other Side @ MUSEUM OF MODERN ART
-DTSTART:20260827T190000
-DTEND:20260827T210000
-DESCRIPTION:Dir: CHANTAL AKERMAN (2002)\nhttps://www.moma.org/calendar/fil
- m/5911
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5911
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Escape from LA @ NITEHAWK CINEMA PROSPECT PARK
-DTSTART:20260827T211500
-DTEND:20260827T231500
-DESCRIPTION:Dir: JOHN CARPENTER (1996)\nhttps://nitehawkcinema.com/william
- sburg/film-series/the-class-of-96/
-LOCATION:NITEHAWK CINEMA PROSPECT PARK
-URL:https://nitehawkcinema.com/williamsburg/film-series/the-class-of-96/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Set It Off @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260827T213000
-DTEND:20260827T233000
-DESCRIPTION:Dir: F. GARY GRAY (1996)\nhttps://nitehawkcinema.com/williamsb
- urg/film-series/the-class-of-96/
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://nitehawkcinema.com/williamsburg/film-series/the-class-of-96/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alice in Wonderland @ PARIS THEATER
-DTSTART:20260827T130000
-DTEND:20260827T150000
-DESCRIPTION:Dir: CLYDE GERONIMI\, WILFRED JACKSON\, HAMILTON LUSKE (1951)\
- nhttps://www.paristheaternyc.com/series/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alice in Wonderland @ PARIS THEATER
-DTSTART:20260827T153000
-DTEND:20260827T173000
-DESCRIPTION:Dir: CLYDE GERONIMI\, WILFRED JACKSON\, HAMILTON LUSKE (1951)\
- nhttps://www.paristheaternyc.com/series/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alice in Wonderland @ PARIS THEATER
-DTSTART:20260827T184500
-DTEND:20260827T204500
-DESCRIPTION:Dir: CLYDE GERONIMI\, WILFRED JACKSON\, HAMILTON LUSKE (1951)\
- nhttps://www.paristheaternyc.com/series/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atomic Blonde @ PARIS THEATER
-DTSTART:20260827T153000
-DTEND:20260827T173000
-DESCRIPTION:Dir: DAVID LEITCH (2017)\nhttps://www.paristheaternyc.com/seri
- es/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lawrence of Arabia @ PARIS THEATER
-DTSTART:20260827T184500
-DTEND:20260827T204500
-DESCRIPTION:Dir: DAVID LEAN (1962)\nhttps://www.paristheaternyc.com/series
- /big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chinatown @ QUAD CINEMA
-DTSTART:20260827T193000
-DTEND:20260827T213000
-DESCRIPTION:Dir: ROMAN POLANSKI (1974)\nhttps://quadcinema.com/program/joh
- n-huston-hollywood-maverick/
-LOCATION:QUAD CINEMA
-URL:https://quadcinema.com/program/john-huston-hollywood-maverick/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Straight Story @ ROXY CINEMA NEW YORK
-DTSTART:20260827T210000
-DTEND:20260827T230000
-DESCRIPTION:Dir: DAVID LYNCH (1999)\nhttps://www.roxycinemanewyork.com/scr
- eenings/the-straight-story-35mm-2/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/screenings/the-straight-story-35mm-2
- /
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheila and the Brainstem @ SPECTACLE
-DTSTART:20260827T193000
-DTEND:20260827T213000
-DESCRIPTION:Dir: MATT MCDOWELL AND RUSSELL BATES (1989)\nhttps://www.scree
- nslate.com/series/best-best-spectacle-theater
-LOCATION:SPECTACLE
-URL:https://www.screenslate.com/series/best-best-spectacle-theater
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheila and the Brainstem @ SPECTACLE
-DTSTART:20260827T220000
-DTEND:20260828T000000
-DESCRIPTION:Dir: MATT MCDOWELL AND RUSSELL BATES (1989)\nhttps://www.scree
- nslate.com/series/best-best-spectacle-theater
-LOCATION:SPECTACLE
-URL:https://www.screenslate.com/series/best-best-spectacle-theater
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Surfer: Teen Confronts Fear @ SPECTACLE
-DTSTART:20260827T220000
-DTEND:20260828T000000
-DESCRIPTION:Dir: DOUGLAS BURKE (2019)\nhttps://www.screenslate.com/series/
- best-best-spectacle-theater
-LOCATION:SPECTACLE
-URL:https://www.screenslate.com/series/best-best-spectacle-theater
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Meek's Cutoff @ ANTHOLOGY FILM ARCHIVES
 DTSTART:20260828T183000
 DTEND:20260828T203000
@@ -1720,6 +539,267 @@ DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
 LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
 URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
  KLTOFRM4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260828T104500
+DTEND:20260828T124500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260828T144500
+DTEND:20260828T164500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260828T172000
+DTEND:20260828T192000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260828T190500
+DTEND:20260828T210500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260828T211500
+DTEND:20260828T231500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260828T123500
+DTEND:20260828T143500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260828T161000
+DTEND:20260828T181000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260828T212000
+DTEND:20260828T232000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260828T132000
+DTEND:20260828T152000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260828T160500
+DTEND:20260828T180500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260828T185500
+DTEND:20260828T205500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260828T214000
+DTEND:20260828T234000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260828T231500
+DTEND:20260829T011500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260828T233500
+DTEND:20260829T013500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260828T234000
+DTEND:20260829T014000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260828T234500
+DTEND:20260829T014500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260828T235900
+DTEND:20260829T015900
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260828T123500
+DTEND:20260828T143500
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260828T161000
+DTEND:20260828T181000
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260828T212000
+DTEND:20260828T232000
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260828T132000
+DTEND:20260828T152000
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260828T160500
+DTEND:20260828T180500
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260828T185500
+DTEND:20260828T205500
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260828T214000
+DTEND:20260828T234000
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Departed @ IFC CENTER
+DTSTART:20260828T231500
+DTEND:20260829T011500
+DESCRIPTION:Dir: MARTIN SCORSESE (2006)\nhttps://www.ifccenter.com/series/
+ late-night-favorites-summer-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/late-night-favorites-summer-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jawbreaker @ IFC CENTER
+DTSTART:20260828T233500
+DTEND:20260829T013500
+DESCRIPTION:Dir: DARREN STEIN (1999)\nhttps://www.ifccenter.com/series/sta
+ ff-picks-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/staff-picks-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manhunter @ IFC CENTER
+DTSTART:20260828T234000
+DTEND:20260829T014000
+DESCRIPTION:Dir: MICHAEL MANN (1986)\nhttps://www.ifccenter.com/series/wav
+ erly-midnights-mann-splaining/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/waverly-midnights-mann-splaining/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dead Ringers @ IFC CENTER
+DTSTART:20260828T234500
+DTEND:20260829T014500
+DESCRIPTION:Dir: DAVID CRONENBERG (1988)\nhttps://www.ifccenter.com/series
+ /late-night-favorites-summer-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/late-night-favorites-summer-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clue @ IFC CENTER
+DTSTART:20260828T235900
+DTEND:20260829T015900
+DESCRIPTION:Dir: JONATHAN LYNN (1985)\nhttps://www.ifccenter.com/series/st
+ aff-picks-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/staff-picks-2026/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surf Nazis Must Die @ LOW CINEMA
@@ -2622,6 +1702,267 @@ URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
  KLTOFRM4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260829T104500
+DTEND:20260829T124500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260829T144500
+DTEND:20260829T164500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260829T172000
+DTEND:20260829T192000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260829T190500
+DTEND:20260829T210500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260829T211500
+DTEND:20260829T231500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260829T123500
+DTEND:20260829T143500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260829T161000
+DTEND:20260829T181000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260829T212000
+DTEND:20260829T232000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260829T132000
+DTEND:20260829T152000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260829T160500
+DTEND:20260829T180500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260829T185500
+DTEND:20260829T205500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260829T214000
+DTEND:20260829T234000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260829T231500
+DTEND:20260830T011500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260829T233500
+DTEND:20260830T013500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260829T234000
+DTEND:20260830T014000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260829T234500
+DTEND:20260830T014500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260829T235900
+DTEND:20260830T015900
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260829T123500
+DTEND:20260829T143500
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260829T161000
+DTEND:20260829T181000
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260829T212000
+DTEND:20260829T232000
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260829T132000
+DTEND:20260829T152000
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260829T160500
+DTEND:20260829T180500
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260829T185500
+DTEND:20260829T205500
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260829T214000
+DTEND:20260829T234000
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Departed @ IFC CENTER
+DTSTART:20260829T231500
+DTEND:20260830T011500
+DESCRIPTION:Dir: MARTIN SCORSESE (2006)\nhttps://www.ifccenter.com/series/
+ late-night-favorites-summer-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/late-night-favorites-summer-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jawbreaker @ IFC CENTER
+DTSTART:20260829T233500
+DTEND:20260830T013500
+DESCRIPTION:Dir: DARREN STEIN (1999)\nhttps://www.ifccenter.com/series/sta
+ ff-picks-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/staff-picks-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manhunter @ IFC CENTER
+DTSTART:20260829T234000
+DTEND:20260830T014000
+DESCRIPTION:Dir: MICHAEL MANN (1986)\nhttps://www.ifccenter.com/series/wav
+ erly-midnights-mann-splaining/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/waverly-midnights-mann-splaining/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dead Ringers @ IFC CENTER
+DTSTART:20260829T234500
+DTEND:20260830T014500
+DESCRIPTION:Dir: DAVID CRONENBERG (1988)\nhttps://www.ifccenter.com/series
+ /late-night-favorites-summer-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/late-night-favorites-summer-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clue @ IFC CENTER
+DTSTART:20260829T235900
+DTEND:20260830T015900
+DESCRIPTION:Dir: JONATHAN LYNN (1985)\nhttps://www.ifccenter.com/series/st
+ aff-picks-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/staff-picks-2026/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Guyver @ LOW CINEMA
 DTSTART:20260829T180000
 DTEND:20260829T200000
@@ -2855,6 +2196,33 @@ LOCATION:METROGRAPH
 URL:https://metrograph.com/series/?vista_series_id=0000000559
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pacific Rim @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260829T123000
+DTEND:20260829T143000
+DESCRIPTION:Dir: GUILLERMO DEL TORO (2013)\nhttps://movingimage.org/series
+ /atmos-summer/
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://movingimage.org/series/atmos-summer/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pacific Rim @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260829T160000
+DTEND:20260829T180000
+DESCRIPTION:Dir: GUILLERMO DEL TORO (2013)\nhttps://movingimage.org/series
+ /atmos-summer/
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://movingimage.org/series/atmos-summer/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pacific Rim @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260829T180000
+DTEND:20260829T200000
+DESCRIPTION:Dir: GUILLERMO DEL TORO (2013)\nhttps://movingimage.org/series
+ /atmos-summer/
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://movingimage.org/series/atmos-summer/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Untouchables @ MUSEUM OF THE MOVING IMAGE
 DTSTART:20260829T160000
 DTEND:20260829T180000
@@ -2862,6 +2230,15 @@ DESCRIPTION:Dir: BRIAN DE PALMA (1987)\nhttps://movingimage.org/series/de-
  palma-summer-of-suspense/
 LOCATION:MUSEUM OF THE MOVING IMAGE
 URL:https://movingimage.org/series/de-palma-summer-of-suspense/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frances Ha @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260829T180000
+DTEND:20260829T200000
+DESCRIPTION:Dir: NOAH BAUMBACH (2012)\nhttps://movingimage.org/series/new-
+ york-stories/
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://movingimage.org/series/new-york-stories/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tommy @ NITEHAWK CINEMA PROSPECT PARK
@@ -2938,8 +2315,8 @@ URL:https://www.paristheaternyc.com/series/big-loud-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Back to the Future @ PARIS THEATER
-DTSTART:20260829T203000
-DTEND:20260829T223000
+DTSTART:20260829T204500
+DTEND:20260829T224500
 DESCRIPTION:Dir: ROBERT ZEMECKIS (1985)\nhttps://www.paristheaternyc.com/s
  eries/big-loud-2026
 LOCATION:PARIS THEATER
@@ -2956,8 +2333,8 @@ URL:https://www.paristheaternyc.com/series/big-loud-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Heat @ PARIS THEATER
-DTSTART:20260829T203000
-DTEND:20260829T223000
+DTSTART:20260829T204500
+DTEND:20260829T224500
 DESCRIPTION:Dir: MICHAEL MANN (1995)\nhttps://www.paristheaternyc.com/seri
  es/big-loud-2026
 LOCATION:PARIS THEATER
@@ -3625,6 +3002,177 @@ URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
  KLTOFRM4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260830T104500
+DTEND:20260830T124500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260830T144500
+DTEND:20260830T164500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260830T172000
+DTEND:20260830T192000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260830T190500
+DTEND:20260830T210500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260830T210500
+DTEND:20260830T230500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260830T123500
+DTEND:20260830T143500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260830T161000
+DTEND:20260830T181000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260830T212000
+DTEND:20260830T232000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260830T132000
+DTEND:20260830T152000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260830T160500
+DTEND:20260830T180500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260830T185500
+DTEND:20260830T205500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260830T214000
+DTEND:20260830T234000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260830T123500
+DTEND:20260830T143500
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260830T161000
+DTEND:20260830T181000
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260830T212000
+DTEND:20260830T232000
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260830T132000
+DTEND:20260830T152000
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260830T160500
+DTEND:20260830T180500
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260830T185500
+DTEND:20260830T205500
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260830T214000
+DTEND:20260830T234000
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Society @ LOW CINEMA
 DTSTART:20260830T180000
 DTEND:20260830T200000
@@ -3864,6 +3412,24 @@ DESCRIPTION:Dir: JULIUS-AMÉDÉE LAOU (1983)\nhttps://www.moma.org/calenda
  r/film/5911
 LOCATION:MUSEUM OF MODERN ART
 URL:https://www.moma.org/calendar/film/5911
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's a Mad\, Mad\, Mad\, Mad World @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260830T120000
+DTEND:20260830T140000
+DESCRIPTION:Dir: STANLEY KRAMER (1963)\nhttp://movingimage.us/programs/202
+ 1/08/20/detail/see-it-big-70mm/
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:http://movingimage.us/programs/2021/08/20/detail/see-it-big-70mm/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's a Mad\, Mad\, Mad\, Mad World @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260830T160000
+DTEND:20260830T180000
+DESCRIPTION:Dir: STANLEY KRAMER (1963)\nhttp://movingimage.us/programs/202
+ 1/08/20/detail/see-it-big-70mm/
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:http://movingimage.us/programs/2021/08/20/detail/see-it-big-70mm/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2001: A Space Odyssey @ MUSEUM OF THE MOVING IMAGE
@@ -4567,6 +4133,159 @@ DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
 LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
 URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
  KLTOFRM4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260831T104500
+DTEND:20260831T124500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260831T144500
+DTEND:20260831T164500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260831T173000
+DTEND:20260831T193000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260831T190500
+DTEND:20260831T210500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260831T212500
+DTEND:20260831T232500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260831T132000
+DTEND:20260831T152000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260831T160500
+DTEND:20260831T180500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260831T185500
+DTEND:20260831T205500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260831T214000
+DTEND:20260831T234000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260831T161000
+DTEND:20260831T181000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260831T212000
+DTEND:20260831T232000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260831T132000
+DTEND:20260831T152000
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260831T160500
+DTEND:20260831T180500
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260831T185500
+DTEND:20260831T205500
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260831T214000
+DTEND:20260831T234000
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260831T161000
+DTEND:20260831T181000
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260831T212000
+DTEND:20260831T232000
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rebecca @ METROGRAPH
@@ -5382,6 +5101,177 @@ URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
  KLTOFRM4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260901T104500
+DTEND:20260901T124500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260901T144500
+DTEND:20260901T164500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260901T172000
+DTEND:20260901T192000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260901T190500
+DTEND:20260901T210500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260901T211500
+DTEND:20260901T231500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260901T123500
+DTEND:20260901T143500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260901T161000
+DTEND:20260901T181000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260901T213500
+DTEND:20260901T233500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260901T132000
+DTEND:20260901T152000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260901T160500
+DTEND:20260901T180500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260901T185500
+DTEND:20260901T205500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260901T214000
+DTEND:20260901T234000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260901T123500
+DTEND:20260901T143500
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260901T161000
+DTEND:20260901T181000
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260901T213500
+DTEND:20260901T233500
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260901T132000
+DTEND:20260901T152000
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260901T160500
+DTEND:20260901T180500
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260901T185500
+DTEND:20260901T205500
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260901T214000
+DTEND:20260901T234000
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vertigo @ METROGRAPH
 DTSTART:20260901T160000
 DTEND:20260901T180000
@@ -5621,12 +5511,10 @@ BEGIN:VEVENT
 SUMMARY:Welfare @ ANTHOLOGY FILM ARCHIVES
 DTSTART:20260902T183000
 DTEND:20260902T203000
-DESCRIPTION:Dir: FREDERICK WISEMAN (1975)\nhttps://www.anthologyfilmarchiv
- es.org/film_screenings/calendar?view=list&amp\;month=09&amp\;year=2026#sho
- wing-61981
+DESCRIPTION:Dir: FREDERICK WISEMAN (1975)\nhttps://uniondocs.org/wisemans-
+ new-york/
 LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
- st&amp;month=09&amp;year=2026#showing-61981
+URL:https://uniondocs.org/wisemans-new-york/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Umberto D @ BAM
@@ -6107,6 +5995,150 @@ DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
 LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
 URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
  KLTOFRM4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260902T104500
+DTEND:20260902T124500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260902T144500
+DTEND:20260902T164500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260902T190500
+DTEND:20260902T210500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260902T211500
+DTEND:20260902T231500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260902T132000
+DTEND:20260902T152000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260902T160500
+DTEND:20260902T180500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260902T185500
+DTEND:20260902T205500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260902T214000
+DTEND:20260902T234000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260902T161000
+DTEND:20260902T181000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260902T212000
+DTEND:20260902T232000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260902T132000
+DTEND:20260902T152000
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260902T160500
+DTEND:20260902T180500
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260902T185500
+DTEND:20260902T205500
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260902T214000
+DTEND:20260902T234000
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260902T161000
+DTEND:20260902T181000
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260902T212000
+DTEND:20260902T232000
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:True Romance @ METROGRAPH
@@ -6848,6 +6880,150 @@ DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
 LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
 URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
  KLTOFRM4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260903T104500
+DTEND:20260903T124500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260903T144500
+DTEND:20260903T164500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260903T190500
+DTEND:20260903T210500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260903T211500
+DTEND:20260903T231500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260903T132000
+DTEND:20260903T152000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260903T160500
+DTEND:20260903T180500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260903T185500
+DTEND:20260903T205500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260903T214000
+DTEND:20260903T234000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260903T161000
+DTEND:20260903T181000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260903T212000
+DTEND:20260903T232000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260903T132000
+DTEND:20260903T152000
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260903T160500
+DTEND:20260903T180500
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260903T185500
+DTEND:20260903T205500
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260903T214000
+DTEND:20260903T234000
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260903T161000
+DTEND:20260903T181000
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260903T212000
+DTEND:20260903T232000
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chungking Express @ METROGRAPH
@@ -8680,6 +8856,24 @@ LOCATION:MUSEUM OF THE MOVING IMAGE
 URL:https://movingimage.org/series/song-dance/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Umbrellas of Cherbourg @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260906T153000
+DTEND:20260906T173000
+DESCRIPTION:Dir: JACQUES DEMY (1964)\nhttps://movingimage.org/series/song-
+ dance/
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://movingimage.org/series/song-dance/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frances Ha @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260906T153000
+DTEND:20260906T173000
+DESCRIPTION:Dir: NOAH BAUMBACH (2012)\nhttps://movingimage.org/series/new-
+ york-stories/
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://movingimage.org/series/new-york-stories/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Three Amigos @ NITEHAWK CINEMA PROSPECT PARK
 DTSTART:20260906T110000
 DTEND:20260906T130000
@@ -9607,6 +9801,15 @@ LOCATION:PARIS THEATER
 URL:https://www.paristheaternyc.com/series/big-loud-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Virgin Suicides @ QUAD CINEMA
+DTSTART:20260908T201500
+DTEND:20260908T221500
+DESCRIPTION:Dir: SOFIA COPPOLA (1999)\nhttps://quadcinema.com/program/teen
+ age-malady/
+LOCATION:QUAD CINEMA
+URL:https://quadcinema.com/program/teenage-malady/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sonic Detection: Necessary Notes for Arts and Performance @ UNIOND
  OCS
 DTSTART:20260908T190000
@@ -9903,6 +10106,15 @@ DESCRIPTION:Dir: JIM KOUF (1997)\nhttps://nitehawkcinema.com/prospectpark/
 LOCATION:NITEHAWK CINEMA PROSPECT PARK
 URL:https://nitehawkcinema.com/prospectpark/film-series/a-tribute-to-tupac
  /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Virgin Suicides @ QUAD CINEMA
+DTSTART:20260909T201500
+DTEND:20260909T221500
+DESCRIPTION:Dir: SOFIA COPPOLA (1999)\nhttps://quadcinema.com/program/teen
+ age-malady/
+LOCATION:QUAD CINEMA
+URL:https://quadcinema.com/program/teenage-malady/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Departed @ ROXY CINEMA NEW YORK
@@ -10323,6 +10535,15 @@ LOCATION:PARIS THEATER
 URL:https://www.paristheaternyc.com/series/big-loud-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Virgin Suicides @ QUAD CINEMA
+DTSTART:20260910T201500
+DTEND:20260910T221500
+DESCRIPTION:Dir: SOFIA COPPOLA (1999)\nhttps://quadcinema.com/program/teen
+ age-malady/
+LOCATION:QUAD CINEMA
+URL:https://quadcinema.com/program/teenage-malady/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A Scanner Darkly @ ROXY CINEMA NEW YORK
 DTSTART:20260910T170000
 DTEND:20260910T190000
@@ -10525,11 +10746,29 @@ LOCATION:PARIS THEATER
 URL:https://www.paristheaternyc.com/series/big-loud-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Lord of the Rings: The Return of the King @ PARIS THEATER
+DTSTART:20260911T190000
+DTEND:20260911T210000
+DESCRIPTION:Dir: PETER JACKSON (2003)\nhttps://www.paristheaternyc.com/ser
+ ies/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:West Side Story @ PARIS THEATER
 DTSTART:20260911T150000
 DTEND:20260911T170000
 DESCRIPTION:Dir: ROBERT WISE\, JEROME ROBBINS (1961)\nhttps://www.paristhe
  aternyc.com/series/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lawrence of Arabia @ PARIS THEATER
+DTSTART:20260911T190000
+DTEND:20260911T210000
+DESCRIPTION:Dir: DAVID LEAN (1962)\nhttps://www.paristheaternyc.com/series
+ /big-loud-2026
 LOCATION:PARIS THEATER
 URL:https://www.paristheaternyc.com/series/big-loud-2026
 END:VEVENT
@@ -14654,8 +14893,8 @@ URL:https://ticketing.uswest.veezi.com/purchase/7700?siteToken=tt17e5ajy3v
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maddie's Secret @ ROXY CINEMA NEW YORK
-DTSTART:20260827T190000
-DTEND:20260827T210000
+DTSTART:20270827T190000
+DTEND:20270827T210000
 DESCRIPTION:Dir: N/A (2025)\nhttps://ticketing.uswest.veezi.com/purchase/7
  698?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
@@ -14664,8 +14903,8 @@ URL:https://ticketing.uswest.veezi.com/purchase/7698?siteToken=tt17e5ajy3v
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Straight Story - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20260827T210000
-DTEND:20260827T230000
+DTSTART:20270827T210000
+DTEND:20270827T230000
 DESCRIPTION:Dir: N/A (1999)\nhttps://ticketing.uswest.veezi.com/purchase/7
  726?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
