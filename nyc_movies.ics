@@ -2,917 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:The Outsiders @ ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
-DTSTART:20260901T181500
-DTEND:20260901T201500
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1983)\nhttps://drafthouse.com/nyc/s
- how/movie-party-the-outsiders-the-complete-novel
-LOCATION:ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
-URL:https://drafthouse.com/nyc/show/movie-party-the-outsiders-the-complete
- -novel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Outsiders @ ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
-DTSTART:20260901T213000
-DTEND:20260901T233000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1983)\nhttps://drafthouse.com/nyc/s
- how/movie-party-the-outsiders-the-complete-novel
-LOCATION:ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
-URL:https://drafthouse.com/nyc/show/movie-party-the-outsiders-the-complete
- -novel
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Exorcist III @ ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
-DTSTART:20260901T213000
-DTEND:20260901T233000
-DESCRIPTION:Dir: WILLIAM PETER BLATTY (1990)\nhttps://drafthouse.com/serie
- s/terror-tuesday
-LOCATION:ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
-URL:https://drafthouse.com/series/terror-tuesday
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mothra vs. Godzilla @ ALAMO DRAFTHOUSE LOWER MANHATTAN
-DTSTART:20260901T190000
-DTEND:20260901T210000
-DESCRIPTION:Dir: ISHIRO HONDA (1964)\nhttps://drafthouse.com/nyc/show/moth
- ra-vs-godzilla
-LOCATION:ALAMO DRAFTHOUSE LOWER MANHATTAN
-URL:https://drafthouse.com/nyc/show/mothra-vs-godzilla
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wizard of Oz @ BAM
-DTSTART:20260901T170000
-DTEND:20260901T190000
-DESCRIPTION:Dir: VICTOR FLEMING (1939)\nhttps://www.bam.org/film/2026/kino
- -canines
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/kino-canines
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wizard of Oz @ BAM
-DTSTART:20260901T213000
-DTEND:20260901T233000
-DESCRIPTION:Dir: VICTOR FLEMING (1939)\nhttps://www.bam.org/film/2026/kino
- -canines
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/kino-canines
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wendy and Lucy @ BAM
-DTSTART:20260901T213000
-DTEND:20260901T233000
-DESCRIPTION:Dir: KELLY REICHARDT (2008)\nhttps://www.bam.org/film/2026/kin
- o-canines
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/kino-canines
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260901T121500
-DTEND:20260901T141500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260901T142500
-DTEND:20260901T162500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260901T164000
-DTEND:20260901T184000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260901T185000
-DTEND:20260901T205000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260901T210000
-DTEND:20260901T230000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260901T122000
-DTEND:20260901T142000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260901T174500
-DTEND:20260901T194500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260901T143000
-DTEND:20260901T163000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260901T164500
-DTEND:20260901T184500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260901T190000
-DTEND:20260901T210000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260901T200000
-DTEND:20260901T220000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260901T211000
-DTEND:20260901T231000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260901T135000
-DTEND:20260901T155000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260901T143500
-DTEND:20260901T163500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260901T155000
-DTEND:20260901T175000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260901T180000
-DTEND:20260901T200000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dementia 13: Director's Cut @ FILM FORUM
-DTSTART:20260901T121500
-DTEND:20260901T141500
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1963)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Billy Liar @ FILM FORUM
-DTSTART:20260901T122000
-DTEND:20260901T142000
-DESCRIPTION:Dir: JOHN SCHLESINGER (1963)\nhttps://filmforum.org/film/billy
- -liar
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/billy-liar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Billy Liar @ FILM FORUM
-DTSTART:20260901T174500
-DTEND:20260901T194500
-DESCRIPTION:Dir: JOHN SCHLESINGER (1963)\nhttps://filmforum.org/film/billy
- -liar
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/billy-liar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FILIPIÑANA @ FILM FORUM
-DTSTART:20260901T122000
-DTEND:20260901T142000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FILIPIÑANA @ FILM FORUM
-DTSTART:20260901T143000
-DTEND:20260901T163000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FILIPIÑANA @ FILM FORUM
-DTSTART:20260901T164500
-DTEND:20260901T184500
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FILIPIÑANA @ FILM FORUM
-DTSTART:20260901T190000
-DTEND:20260901T210000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FILIPIÑANA @ FILM FORUM
-DTSTART:20260901T200000
-DTEND:20260901T220000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FILIPIÑANA @ FILM FORUM
-DTSTART:20260901T211000
-DTEND:20260901T231000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:B'Twixt Now and Sunrise @ FILM FORUM
-DTSTART:20260901T135000
-DTEND:20260901T155000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (2011)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Center Stage @ FILM FORUM
-DTSTART:20260901T143500
-DTEND:20260901T163500
-DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
- age
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/center-stage
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hearts of Darkness: A Filmmaker's Apocalypse @ FILM FORUM
-DTSTART:20260901T155000
-DTEND:20260901T175000
-DESCRIPTION:Dir: GEORGE HICKENLOOPER\, FAX BAHR\, ELEANOR COPPOLA (1991)\n
- https://filmforum.org/series/coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Apocalypse Now: 1979 Roadshow Version @ FILM FORUM
-DTSTART:20260901T180000
-DTEND:20260901T200000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1979)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Warriors @ FILM FORUM
-DTSTART:20260901T210000
-DTEND:20260901T230000
-DESCRIPTION:Dir: WALTER HILL (1979)\nhttps://filmforum.org/series/nyc-in-t
- ransit
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/nyc-in-transit
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260901T120000
-DTEND:20260901T140000
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260901T201500
-DTEND:20260901T221500
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260901T123000
-DTEND:20260901T143000
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260901T143000
-DTEND:20260901T163000
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260901T163000
-DTEND:20260901T183000
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260901T183000
-DTEND:20260901T203000
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260901T203000
-DTEND:20260901T223000
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260901T150000
-DTEND:20260901T170000
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260901T154500
-DTEND:20260901T174500
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260901T180000
-DTEND:20260901T200000
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260901T200000
-DTEND:20260901T220000
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Samba Traoré @ FILM AT LINCOLN CENTER
-DTSTART:20260901T123000
-DTEND:20260901T143000
-DESCRIPTION:Dir: IDRISSA OUÉDRAOGO (1992)\nhttps://www.filmlinc.org/films
- /samba-traore/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/samba-traore/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Samba Traoré @ FILM AT LINCOLN CENTER
-DTSTART:20260901T143000
-DTEND:20260901T163000
-DESCRIPTION:Dir: IDRISSA OUÉDRAOGO (1992)\nhttps://www.filmlinc.org/films
- /samba-traore/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/samba-traore/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Samba Traoré @ FILM AT LINCOLN CENTER
-DTSTART:20260901T163000
-DTEND:20260901T183000
-DESCRIPTION:Dir: IDRISSA OUÉDRAOGO (1992)\nhttps://www.filmlinc.org/films
- /samba-traore/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/samba-traore/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Samba Traoré @ FILM AT LINCOLN CENTER
-DTSTART:20260901T183000
-DTEND:20260901T203000
-DESCRIPTION:Dir: IDRISSA OUÉDRAOGO (1992)\nhttps://www.filmlinc.org/films
- /samba-traore/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/samba-traore/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Samba Traoré @ FILM AT LINCOLN CENTER
-DTSTART:20260901T203000
-DTEND:20260901T223000
-DESCRIPTION:Dir: IDRISSA OUÉDRAOGO (1992)\nhttps://www.filmlinc.org/films
- /samba-traore/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/samba-traore/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260901T150000
-DTEND:20260901T170000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Changeling @ FILM AT LINCOLN CENTER
-DTSTART:20260901T154500
-DTEND:20260901T174500
-DESCRIPTION:Dir: PETER MEDAK (1980)\nhttps://www.filmlinc.org/series/bibli
- omania-a-preface-to-chronovisor/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
- tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
-DTSTART:20260901T180000
-DTEND:20260901T200000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
- me/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/late-fame/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Classical Period @ FILM AT LINCOLN CENTER
-DTSTART:20260901T180000
-DTEND:20260901T200000
-DESCRIPTION:Dir: TED FENDT (2018)\nhttps://www.filmlinc.org/series/bibliom
- ania-a-preface-to-chronovisor/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
- tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Last Crusade @ FILM AT LINCOLN CENTER
-DTSTART:20260901T200000
-DTEND:20260901T220000
-DESCRIPTION:Dir: STEVEN SPIELBERG (1989)\nhttps://www.filmlinc.org/series/
- bibliomania-a-preface-to-chronovisor/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
- tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Runa Simi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-DTSTART:20260901T133000
-DTEND:20260901T153000
-DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
- e-film/runa-simi-MC3ZZIJUIKMBE6BBQG74KLTOFRM4
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
- KLTOFRM4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Runa Simi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-DTSTART:20260901T153000
-DTEND:20260901T173000
-DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
- e-film/runa-simi-MC3ZZIJUIKMBE6BBQG74KLTOFRM4
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
- KLTOFRM4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Runa Simi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-DTSTART:20260901T213000
-DTEND:20260901T233000
-DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
- e-film/runa-simi-MC3ZZIJUIKMBE6BBQG74KLTOFRM4
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
- KLTOFRM4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260901T104500
-DTEND:20260901T124500
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260901T144500
-DTEND:20260901T164500
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260901T172000
-DTEND:20260901T192000
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260901T190500
-DTEND:20260901T210500
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260901T211500
-DTEND:20260901T231500
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260901T123500
-DTEND:20260901T143500
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260901T161000
-DTEND:20260901T181000
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260901T213500
-DTEND:20260901T233500
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260901T132000
-DTEND:20260901T152000
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260901T160500
-DTEND:20260901T180500
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260901T185500
-DTEND:20260901T205500
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260901T214000
-DTEND:20260901T234000
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Skin @ IFC CENTER
-DTSTART:20260901T123500
-DTEND:20260901T143500
-DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
- rious-skin/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mysterious-skin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Skin @ IFC CENTER
-DTSTART:20260901T161000
-DTEND:20260901T181000
-DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
- rious-skin/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mysterious-skin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Skin @ IFC CENTER
-DTSTART:20260901T213500
-DTEND:20260901T233500
-DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
- rious-skin/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mysterious-skin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Colony @ IFC CENTER
-DTSTART:20260901T132000
-DTEND:20260901T152000
-DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
- ny-3/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/colony-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Colony @ IFC CENTER
-DTSTART:20260901T160500
-DTEND:20260901T180500
-DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
- ny-3/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/colony-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Colony @ IFC CENTER
-DTSTART:20260901T185500
-DTEND:20260901T205500
-DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
- ny-3/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/colony-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Colony @ IFC CENTER
-DTSTART:20260901T214000
-DTEND:20260901T234000
-DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
- ny-3/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/colony-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vertigo @ METROGRAPH
-DTSTART:20260901T160000
-DTEND:20260901T180000
-DESCRIPTION:Dir: ALFRED HITCHCOCK (1958)\nhttps://metrograph.com/series/?v
- ista_series_id=0000000566
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000566
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vertigo @ METROGRAPH
-DTSTART:20260901T180000
-DTEND:20260901T200000
-DESCRIPTION:Dir: ALFRED HITCHCOCK (1958)\nhttps://metrograph.com/series/?v
- ista_series_id=0000000566
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000566
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vertigo @ METROGRAPH
-DTSTART:20260901T184000
-DTEND:20260901T204000
-DESCRIPTION:Dir: ALFRED HITCHCOCK (1958)\nhttps://metrograph.com/series/?v
- ista_series_id=0000000566
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000566
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vertigo @ METROGRAPH
-DTSTART:20260901T194500
-DTEND:20260901T214500
-DESCRIPTION:Dir: ALFRED HITCHCOCK (1958)\nhttps://metrograph.com/series/?v
- ista_series_id=0000000566
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000566
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vertigo @ METROGRAPH
-DTSTART:20260901T214500
-DTEND:20260901T234500
-DESCRIPTION:Dir: ALFRED HITCHCOCK (1958)\nhttps://metrograph.com/series/?v
- ista_series_id=0000000566
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000566
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vertigo @ METROGRAPH
-DTSTART:20260901T220000
-DTEND:20260902T000000
-DESCRIPTION:Dir: ALFRED HITCHCOCK (1958)\nhttps://metrograph.com/series/?v
- ista_series_id=0000000566
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000566
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Walkabout @ METROGRAPH
-DTSTART:20260901T160000
-DTEND:20260901T180000
-DESCRIPTION:Dir: NICOLAS ROEG (1971)\nhttps://metrograph.com/going-up-the-
- country/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/going-up-the-country/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Triplets Of Belleville @ METROGRAPH
-DTSTART:20260901T180000
-DTEND:20260901T200000
-DESCRIPTION:Dir: 2003 (78M)\nhttps://metrograph.com/series/?vista_series_i
- d=0000000310
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000310
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Dark Knight @ METROGRAPH
-DTSTART:20260901T184000
-DTEND:20260901T204000
-DESCRIPTION:Dir: CHRISTOPHER NOLAN (2008)\nhttps://metrograph.com/series/?
- vista_series_id=0000000559
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000559
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Claire’s Knee @ METROGRAPH
-DTSTART:20260901T194500
-DTEND:20260901T214500
-DESCRIPTION:Dir: ERIC ROHMER (1970)\nhttps://metrograph.com/rohmers-elisab
- eth/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/rohmers-elisabeth/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tampopo @ METROGRAPH
-DTSTART:20260901T214500
-DTEND:20260901T234500
-DESCRIPTION:Dir: JUZO ITAMI (1985)\nhttps://metrograph.com/series/?vista_s
- eries_id=0000000551
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000551
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Der Fan @ METROGRAPH
-DTSTART:20260901T220000
-DTEND:20260902T000000
-DESCRIPTION:Dir: ECKHART SCHMIDT (1982)\nhttps://metrograph.com/series/?vi
- sta_series_id=0000000569
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000569
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:From the Other Side @ MUSEUM OF MODERN ART
-DTSTART:20260901T163000
-DTEND:20260901T183000
-DESCRIPTION:Dir: CHANTAL AKERMAN (2002)\nhttps://www.moma.org/calendar/fil
- m/5911
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5911
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:New York\, New York @ NITEHAWK CINEMA PROSPECT PARK
-DTSTART:20260901T204500
-DTEND:20260901T224500
-DESCRIPTION:Dir: MARTIN SCORSESE (1977)\nhttps://nitehawkcinema.com/prospe
- ctpark/film-series/blank-check-selects/
-LOCATION:NITEHAWK CINEMA PROSPECT PARK
-URL:https://nitehawkcinema.com/prospectpark/film-series/blank-check-select
- s/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sorcerer @ PARIS THEATER
-DTSTART:20260901T123000
-DTEND:20260901T143000
-DESCRIPTION:Dir: WILLIAM FRIEDKIN (1977)\nhttps://www.paristheaternyc.com/
- series/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sorcerer @ PARIS THEATER
-DTSTART:20260901T153000
-DTEND:20260901T173000
-DESCRIPTION:Dir: WILLIAM FRIEDKIN (1977)\nhttps://www.paristheaternyc.com/
- series/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sorcerer @ PARIS THEATER
-DTSTART:20260901T184500
-DTEND:20260901T204500
-DESCRIPTION:Dir: WILLIAM FRIEDKIN (1977)\nhttps://www.paristheaternyc.com/
- series/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sorcerer @ PARIS THEATER
-DTSTART:20260901T221500
-DTEND:20260902T001500
-DESCRIPTION:Dir: WILLIAM FRIEDKIN (1977)\nhttps://www.paristheaternyc.com/
- series/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie @ PARIS THEATER
-DTSTART:20260901T153000
-DTEND:20260901T173000
-DESCRIPTION:Dir: GRETA GERWIG (2023)\nhttps://www.paristheaternyc.com/seri
- es/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Razor's Edge @ PARIS THEATER
-DTSTART:20260901T184500
-DTEND:20260901T204500
-DESCRIPTION:Dir: JOHN BYRUM (1984)\nhttps://www.paristheaternyc.com/series
- /big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blade Runner: The Final Cut @ PARIS THEATER
-DTSTART:20260901T221500
-DTEND:20260902T001500
-DESCRIPTION:Dir: RIDLEY SCOTT (1982/2007)\nhttps://www.paristheaternyc.com
- /series/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:River's Edge @ QUAD CINEMA
-DTSTART:20260901T201500
-DTEND:20260901T221500
-DESCRIPTION:Dir: TIM HUNTER (1987)\nhttps://quadcinema.com/program/teenage
- -malady/
-LOCATION:QUAD CINEMA
-URL:https://quadcinema.com/program/teenage-malady/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mothra vs. Godzilla @ ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
 DTSTART:20260902T184500
 DTEND:20260902T204500
@@ -2013,7 +1102,7 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/billy-liar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FILIPIÑANA @ FILM FORUM
+SUMMARY:Filipiñana @ FILM FORUM
 DTSTART:20260903T122000
 DTEND:20260903T142000
 DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
@@ -2022,7 +1111,7 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/filipinana
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FILIPIÑANA @ FILM FORUM
+SUMMARY:Filipiñana @ FILM FORUM
 DTSTART:20260903T143000
 DTEND:20260903T163000
 DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
@@ -2031,7 +1120,7 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/filipinana
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FILIPIÑANA @ FILM FORUM
+SUMMARY:Filipiñana @ FILM FORUM
 DTSTART:20260903T164500
 DTEND:20260903T184500
 DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
@@ -2040,7 +1129,7 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/filipinana
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FILIPIÑANA @ FILM FORUM
+SUMMARY:Filipiñana @ FILM FORUM
 DTSTART:20260903T190000
 DTEND:20260903T210000
 DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
@@ -2049,7 +1138,7 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/filipinana
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FILIPIÑANA @ FILM FORUM
+SUMMARY:Filipiñana @ FILM FORUM
 DTSTART:20260903T200000
 DTEND:20260903T220000
 DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
@@ -2058,7 +1147,7 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/filipinana
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FILIPIÑANA @ FILM FORUM
+SUMMARY:Filipiñana @ FILM FORUM
 DTSTART:20260903T211000
 DTEND:20260903T231000
 DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
@@ -2390,6 +1479,87 @@ URL:https://www.ifccenter.com/films/gandahar/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260903T105000
+DTEND:20260903T125000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260903T150000
+DTEND:20260903T170000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260903T110000
+DTEND:20260903T130000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260903T110500
+DTEND:20260903T130500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260903T154500
+DTEND:20260903T174500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260903T184000
+DTEND:20260903T204000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260903T123500
+DTEND:20260903T143500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260903T165000
+DTEND:20260903T185000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260903T210500
+DTEND:20260903T230500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
 DTSTART:20260903T132000
 DTEND:20260903T152000
 DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
@@ -2426,6 +1596,15 @@ URL:https://www.ifccenter.com/films/gandahar/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260903T133000
+DTEND:20260903T153000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
 DTSTART:20260903T161000
 DTEND:20260903T181000
 DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
@@ -2441,6 +1620,105 @@ DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
  ahar/
 LOCATION:IFC CENTER
 URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260903T183000
+DTEND:20260903T203000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260903T184500
+DTEND:20260903T204500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union County @ IFC CENTER
+DTSTART:20260903T105000
+DTEND:20260903T125000
+DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
+ ounty/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/union-county/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union County @ IFC CENTER
+DTSTART:20260903T150000
+DTEND:20260903T170000
+DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
+ ounty/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/union-county/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret @ IFC CENTER
+DTSTART:20260903T110000
+DTEND:20260903T130000
+DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
+ s-secret/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/maddies-secret/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260903T110500
+DTEND:20260903T130500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260903T154500
+DTEND:20260903T174500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260903T184000
+DTEND:20260903T204000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Ends @ IFC CENTER
+DTSTART:20260903T123500
+DTEND:20260903T143500
+DESCRIPTION:Dir: ALEXANDER ULLOM (2025)\nhttps://www.ifccenter.com/films/i
+ t-ends/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/it-ends/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Ends @ IFC CENTER
+DTSTART:20260903T165000
+DTEND:20260903T185000
+DESCRIPTION:Dir: ALEXANDER ULLOM (2025)\nhttps://www.ifccenter.com/films/i
+ t-ends/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/it-ends/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Ends @ IFC CENTER
+DTSTART:20260903T210500
+DTEND:20260903T230500
+DESCRIPTION:Dir: ALEXANDER ULLOM (2025)\nhttps://www.ifccenter.com/films/i
+ t-ends/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/it-ends/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colony @ IFC CENTER
@@ -2479,6 +1757,15 @@ LOCATION:IFC CENTER
 URL:https://www.ifccenter.com/films/colony-3/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wild Inside @ IFC CENTER
+DTSTART:20260903T133000
+DTEND:20260903T153000
+DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
+ nside/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/wild-inside/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mysterious Skin @ IFC CENTER
 DTSTART:20260903T161000
 DTEND:20260903T181000
@@ -2495,6 +1782,25 @@ DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
  rious-skin/
 LOCATION:IFC CENTER
 URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hundreds of Beavers @ IFC CENTER
+DTSTART:20260903T183000
+DTEND:20260903T203000
+DESCRIPTION:Dir: MIKE CHESLIK (2024)\nhttps://www.ifccenter.com/films/hund
+ reds-of-beavers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/hundreds-of-beavers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260903T184500
+DTEND:20260903T204500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chungking Express @ METROGRAPH
@@ -2742,6 +2048,15 @@ LOCATION:ROXY CINEMA NEW YORK
 URL:https://www.roxycinemanewyork.com/stories/musclefest/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Crocodile Dose @ ROXY CINEMA NEW YORK
+DTSTART:20260903T220000
+DTEND:20260904T000000
+DESCRIPTION:Dir: JASON WATERS (2026)\nhttps://www.roxycinemanewyork.com/st
+ ories/musclefest/
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.roxycinemanewyork.com/stories/musclefest/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A Speck in the Water @ SPECTACLE
 DTSTART:20260903T193000
 DTEND:20260903T213000
@@ -2914,6 +2229,132 @@ LOCATION:BAM
 URL:https://www.bam.org/film/2026/sweat2
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260904T122000
+DTEND:20260904T142000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260904T143000
+DTEND:20260904T163000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260904T164500
+DTEND:20260904T184500
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260904T190000
+DTEND:20260904T210000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260904T201000
+DTEND:20260904T221000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260904T211000
+DTEND:20260904T231000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260904T124500
+DTEND:20260904T144500
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260904T151000
+DTEND:20260904T171000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260904T173000
+DTEND:20260904T193000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260904T194500
+DTEND:20260904T214500
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260904T130000
+DTEND:20260904T150000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260904T151500
+DTEND:20260904T171500
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260904T180000
+DTEND:20260904T200000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260904T153000
+DTEND:20260904T173000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Barbara Forever @ FILM FORUM
 DTSTART:20260904T124500
 DTEND:20260904T144500
@@ -2950,40 +2391,28 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/barbara-forever
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barbara Forever @ FILM FORUM
+SUMMARY:Late Fame @ FILM FORUM
 DTSTART:20260904T130000
 DTEND:20260904T150000
-DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
- ara-forever
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
 LOCATION:FILM FORUM
-URL:https://filmforum.org/film/barbara-forever
+URL:https://filmforum.org/film/late-fame
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barbara Forever @ FILM FORUM
-DTSTART:20260904T153000
-DTEND:20260904T173000
-DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
- ara-forever
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260904T151500
+DTEND:20260904T171500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
 LOCATION:FILM FORUM
-URL:https://filmforum.org/film/barbara-forever
+URL:https://filmforum.org/film/late-fame
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barbara Forever @ FILM FORUM
+SUMMARY:Late Fame @ FILM FORUM
 DTSTART:20260904T180000
 DTEND:20260904T200000
-DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
- ara-forever
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
 LOCATION:FILM FORUM
-URL:https://filmforum.org/film/barbara-forever
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbara Forever @ FILM FORUM
-DTSTART:20260904T201000
-DTEND:20260904T221000
-DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
- ara-forever
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/barbara-forever
+URL:https://filmforum.org/film/late-fame
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Conversation @ FILM FORUM
@@ -3133,6 +2562,394 @@ DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://firehousecinema.dctvny.org
  /bloodlines
 LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
 URL:https://firehousecinema.dctvny.org/bloodlines
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260904T105500
+DTEND:20260904T125500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260904T161500
+DTEND:20260904T181500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260904T110000
+DTEND:20260904T130000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260904T110500
+DTEND:20260904T130500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260904T160500
+DTEND:20260904T180500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260904T132500
+DTEND:20260904T152500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260904T185000
+DTEND:20260904T205000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260904T135000
+DTEND:20260904T155000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260904T211500
+DTEND:20260904T231500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260904T140000
+DTEND:20260904T160000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260904T161000
+DTEND:20260904T181000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260904T184500
+DTEND:20260904T204500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260904T212000
+DTEND:20260904T232000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260904T163000
+DTEND:20260904T183000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260904T190000
+DTEND:20260904T210000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260904T213000
+DTEND:20260904T233000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260904T184000
+DTEND:20260904T204000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260904T185500
+DTEND:20260904T205500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260904T234000
+DTEND:20260905T014000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260904T234500
+DTEND:20260905T014500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260904T235000
+DTEND:20260905T015000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260904T235500
+DTEND:20260905T015500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret @ IFC CENTER
+DTSTART:20260904T110000
+DTEND:20260904T130000
+DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
+ s-secret/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/maddies-secret/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Inside @ IFC CENTER
+DTSTART:20260904T110500
+DTEND:20260904T130500
+DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
+ nside/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/wild-inside/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Inside @ IFC CENTER
+DTSTART:20260904T160500
+DTEND:20260904T180500
+DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
+ nside/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/wild-inside/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260904T132500
+DTEND:20260904T152500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260904T185000
+DTEND:20260904T205000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260904T135000
+DTEND:20260904T155000
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260904T211500
+DTEND:20260904T231500
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260904T140000
+DTEND:20260904T160000
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260904T161000
+DTEND:20260904T181000
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260904T184500
+DTEND:20260904T204500
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260904T212000
+DTEND:20260904T232000
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260904T140000
+DTEND:20260904T160000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260904T163000
+DTEND:20260904T183000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260904T190000
+DTEND:20260904T210000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260904T213000
+DTEND:20260904T233000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union County @ IFC CENTER
+DTSTART:20260904T184000
+DTEND:20260904T204000
+DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
+ ounty/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/union-county/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260904T185500
+DTEND:20260904T205500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260904T234000
+DTEND:20260905T014000
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Making Sense @ IFC CENTER
+DTSTART:20260904T234500
+DTEND:20260905T014500
+DESCRIPTION:Dir: JONATHAN DEMME (1984)\nhttps://www.ifccenter.com/series/l
+ ate-night-favorites-summer-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/late-night-favorites-summer-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bully @ IFC CENTER
+DTSTART:20260904T235000
+DTEND:20260905T015000
+DESCRIPTION:Dir: LARRY CLARK (2001)\nhttps://www.ifccenter.com/series/staf
+ f-picks-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/staff-picks-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dead Ringers @ IFC CENTER
+DTSTART:20260904T235500
+DTEND:20260905T015500
+DESCRIPTION:Dir: DAVID CRONENBERG (1988)\nhttps://www.ifccenter.com/series
+ /late-night-favorites-summer-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/late-night-favorites-summer-2026/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:High School II @ LOW CINEMA
@@ -3597,6 +3414,150 @@ LOCATION:BAM
 URL:https://www.bam.org/film/2026/sweat2
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260905T122000
+DTEND:20260905T142000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260905T143000
+DTEND:20260905T163000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260905T164500
+DTEND:20260905T184500
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260905T190000
+DTEND:20260905T210000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260905T201000
+DTEND:20260905T221000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260905T211000
+DTEND:20260905T231000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260905T124500
+DTEND:20260905T144500
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260905T151000
+DTEND:20260905T171000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260905T193000
+DTEND:20260905T213000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260905T130000
+DTEND:20260905T150000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260905T151500
+DTEND:20260905T171500
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260905T180000
+DTEND:20260905T200000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260905T144000
+DTEND:20260905T164000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260905T165000
+DTEND:20260905T185000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260905T173000
+DTEND:20260905T193000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260905T203000
+DTEND:20260905T223000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gardens of Stone @ FILM FORUM
 DTSTART:20260905T122000
 DTEND:20260905T142000
@@ -3606,69 +3567,6 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/coppola
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gardens of Stone @ FILM FORUM
-DTSTART:20260905T124500
-DTEND:20260905T144500
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1987)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gardens of Stone @ FILM FORUM
-DTSTART:20260905T151000
-DTEND:20260905T171000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1987)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gardens of Stone @ FILM FORUM
-DTSTART:20260905T193000
-DTEND:20260905T213000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1987)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gardens of Stone @ FILM FORUM
-DTSTART:20260905T144000
-DTEND:20260905T164000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1987)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gardens of Stone @ FILM FORUM
-DTSTART:20260905T165000
-DTEND:20260905T185000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1987)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gardens of Stone @ FILM FORUM
-DTSTART:20260905T173000
-DTEND:20260905T193000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1987)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gardens of Stone @ FILM FORUM
-DTSTART:20260905T203000
-DTEND:20260905T223000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1987)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Barbara Forever @ FILM FORUM
 DTSTART:20260905T124500
 DTEND:20260905T144500
@@ -3694,6 +3592,30 @@ DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
  ara-forever
 LOCATION:FILM FORUM
 URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260905T130000
+DTEND:20260905T150000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260905T151500
+DTEND:20260905T171500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260905T180000
+DTEND:20260905T200000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hearts of Darkness: A Filmmaker's Apocalypse @ FILM FORUM
@@ -3834,6 +3756,367 @@ DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://firehousecinema.dctvny.org
  /bloodlines
 LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
 URL:https://firehousecinema.dctvny.org/bloodlines
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260905T105500
+DTEND:20260905T125500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260905T161500
+DTEND:20260905T181500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260905T110000
+DTEND:20260905T130000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260905T132500
+DTEND:20260905T152500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260905T185000
+DTEND:20260905T205000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260905T135000
+DTEND:20260905T155000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260905T211500
+DTEND:20260905T231500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260905T140000
+DTEND:20260905T160000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260905T163000
+DTEND:20260905T183000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260905T190000
+DTEND:20260905T210000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260905T213000
+DTEND:20260905T233000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260905T160500
+DTEND:20260905T180500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260905T161000
+DTEND:20260905T181000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260905T184500
+DTEND:20260905T204500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260905T212000
+DTEND:20260905T232000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260905T183500
+DTEND:20260905T203500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260905T185500
+DTEND:20260905T205500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260905T234000
+DTEND:20260906T014000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260905T234500
+DTEND:20260906T014500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260905T235000
+DTEND:20260906T015000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260905T235500
+DTEND:20260906T015500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret @ IFC CENTER
+DTSTART:20260905T110000
+DTEND:20260905T130000
+DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
+ s-secret/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/maddies-secret/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260905T132500
+DTEND:20260905T152500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260905T185000
+DTEND:20260905T205000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260905T135000
+DTEND:20260905T155000
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260905T211500
+DTEND:20260905T231500
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260905T140000
+DTEND:20260905T160000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260905T163000
+DTEND:20260905T183000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260905T190000
+DTEND:20260905T210000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260905T213000
+DTEND:20260905T233000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Inside @ IFC CENTER
+DTSTART:20260905T160500
+DTEND:20260905T180500
+DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
+ nside/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/wild-inside/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260905T161000
+DTEND:20260905T181000
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260905T184500
+DTEND:20260905T204500
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260905T212000
+DTEND:20260905T232000
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union County @ IFC CENTER
+DTSTART:20260905T183500
+DTEND:20260905T203500
+DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
+ ounty/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/union-county/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260905T185500
+DTEND:20260905T205500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260905T234000
+DTEND:20260906T014000
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Making Sense @ IFC CENTER
+DTSTART:20260905T234500
+DTEND:20260906T014500
+DESCRIPTION:Dir: JONATHAN DEMME (1984)\nhttps://www.ifccenter.com/series/l
+ ate-night-favorites-summer-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/late-night-favorites-summer-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bully @ IFC CENTER
+DTSTART:20260905T235000
+DTEND:20260906T015000
+DESCRIPTION:Dir: LARRY CLARK (2001)\nhttps://www.ifccenter.com/series/staf
+ f-picks-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/staff-picks-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dead Ringers @ IFC CENTER
+DTSTART:20260905T235500
+DTEND:20260906T015500
+DESCRIPTION:Dir: DAVID CRONENBERG (1988)\nhttps://www.ifccenter.com/series
+ /late-night-favorites-summer-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/late-night-favorites-summer-2026/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Playtime @ METROGRAPH
@@ -4395,6 +4678,141 @@ LOCATION:BAM
 URL:https://www.bam.org/film/2026/sweat2
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260906T122000
+DTEND:20260906T142000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260906T143000
+DTEND:20260906T163000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260906T164500
+DTEND:20260906T184500
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260906T190000
+DTEND:20260906T210000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260906T201000
+DTEND:20260906T221000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260906T211000
+DTEND:20260906T231000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260906T123000
+DTEND:20260906T143000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260906T124500
+DTEND:20260906T144500
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260906T151000
+DTEND:20260906T171000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260906T173000
+DTEND:20260906T193000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260906T194500
+DTEND:20260906T214500
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260906T130000
+DTEND:20260906T150000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260906T151500
+DTEND:20260906T171500
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260906T180000
+DTEND:20260906T200000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260906T202000
+DTEND:20260906T222000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Youth Without Youth @ FILM FORUM
 DTSTART:20260906T123000
 DTEND:20260906T143000
@@ -4404,51 +4822,6 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/coppola
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Youth Without Youth @ FILM FORUM
-DTSTART:20260906T124500
-DTEND:20260906T144500
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (2007)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Youth Without Youth @ FILM FORUM
-DTSTART:20260906T151000
-DTEND:20260906T171000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (2007)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Youth Without Youth @ FILM FORUM
-DTSTART:20260906T173000
-DTEND:20260906T193000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (2007)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Youth Without Youth @ FILM FORUM
-DTSTART:20260906T194500
-DTEND:20260906T214500
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (2007)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Youth Without Youth @ FILM FORUM
-DTSTART:20260906T202000
-DTEND:20260906T222000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (2007)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Barbara Forever @ FILM FORUM
 DTSTART:20260906T124500
 DTEND:20260906T144500
@@ -4483,6 +4856,30 @@ DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
  ara-forever
 LOCATION:FILM FORUM
 URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260906T130000
+DTEND:20260906T150000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260906T151500
+DTEND:20260906T171500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260906T180000
+DTEND:20260906T200000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Peggy Sue Got Married @ FILM FORUM
@@ -4623,6 +5020,313 @@ DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://firehousecinema.dctvny.org
  /bloodlines
 LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
 URL:https://firehousecinema.dctvny.org/bloodlines
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260906T105500
+DTEND:20260906T125500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260906T161500
+DTEND:20260906T181500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260906T110000
+DTEND:20260906T130000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260906T132500
+DTEND:20260906T152500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260906T185000
+DTEND:20260906T205000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260906T135000
+DTEND:20260906T155000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260906T211500
+DTEND:20260906T231500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260906T140000
+DTEND:20260906T160000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260906T163000
+DTEND:20260906T183000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260906T190000
+DTEND:20260906T210000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260906T213000
+DTEND:20260906T233000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260906T160500
+DTEND:20260906T180500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260906T161000
+DTEND:20260906T181000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260906T184500
+DTEND:20260906T204500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260906T212000
+DTEND:20260906T232000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260906T183500
+DTEND:20260906T203500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260906T185500
+DTEND:20260906T205500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260906T210500
+DTEND:20260906T230500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret @ IFC CENTER
+DTSTART:20260906T110000
+DTEND:20260906T130000
+DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
+ s-secret/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/maddies-secret/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260906T132500
+DTEND:20260906T152500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260906T185000
+DTEND:20260906T205000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260906T135000
+DTEND:20260906T155000
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260906T211500
+DTEND:20260906T231500
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260906T140000
+DTEND:20260906T160000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260906T163000
+DTEND:20260906T183000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260906T190000
+DTEND:20260906T210000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260906T213000
+DTEND:20260906T233000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Inside @ IFC CENTER
+DTSTART:20260906T160500
+DTEND:20260906T180500
+DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
+ nside/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/wild-inside/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260906T161000
+DTEND:20260906T181000
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260906T184500
+DTEND:20260906T204500
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260906T212000
+DTEND:20260906T232000
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union County @ IFC CENTER
+DTSTART:20260906T183500
+DTEND:20260906T203500
+DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
+ ounty/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/union-county/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260906T185500
+DTEND:20260906T205500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260906T210500
+DTEND:20260906T230500
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shanghai Blues @ METROGRAPH
@@ -5053,6 +5757,132 @@ LOCATION:BAM
 URL:https://www.bam.org/film/2026/sweat2
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260907T122000
+DTEND:20260907T142000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260907T143000
+DTEND:20260907T163000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260907T164500
+DTEND:20260907T184500
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260907T190000
+DTEND:20260907T210000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260907T201000
+DTEND:20260907T221000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260907T211000
+DTEND:20260907T231000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260907T124500
+DTEND:20260907T144500
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260907T151000
+DTEND:20260907T171000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260907T173000
+DTEND:20260907T193000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260907T194500
+DTEND:20260907T214500
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260907T130000
+DTEND:20260907T150000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260907T151500
+DTEND:20260907T171500
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260907T180000
+DTEND:20260907T200000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260907T153000
+DTEND:20260907T173000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Barbara Forever @ FILM FORUM
 DTSTART:20260907T124500
 DTEND:20260907T144500
@@ -5089,31 +5919,28 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/barbara-forever
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barbara Forever @ FILM FORUM
+SUMMARY:Late Fame @ FILM FORUM
 DTSTART:20260907T130000
 DTEND:20260907T150000
-DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
- ara-forever
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
 LOCATION:FILM FORUM
-URL:https://filmforum.org/film/barbara-forever
+URL:https://filmforum.org/film/late-fame
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barbara Forever @ FILM FORUM
-DTSTART:20260907T153000
-DTEND:20260907T173000
-DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
- ara-forever
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260907T151500
+DTEND:20260907T171500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
 LOCATION:FILM FORUM
-URL:https://filmforum.org/film/barbara-forever
+URL:https://filmforum.org/film/late-fame
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barbara Forever @ FILM FORUM
-DTSTART:20260907T190000
-DTEND:20260907T210000
-DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
- ara-forever
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260907T180000
+DTEND:20260907T200000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
 LOCATION:FILM FORUM
-URL:https://filmforum.org/film/barbara-forever
+URL:https://filmforum.org/film/late-fame
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Conversation @ FILM FORUM
@@ -5254,6 +6081,350 @@ DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://firehousecinema.dctvny.org
  /bloodlines
 LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
 URL:https://firehousecinema.dctvny.org/bloodlines
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260907T105500
+DTEND:20260907T125500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260907T161500
+DTEND:20260907T181500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260907T110000
+DTEND:20260907T130000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260907T113000
+DTEND:20260907T133000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260907T185500
+DTEND:20260907T205500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260907T130500
+DTEND:20260907T150500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260907T161000
+DTEND:20260907T181000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260907T184500
+DTEND:20260907T204500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260907T212000
+DTEND:20260907T232000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260907T132500
+DTEND:20260907T152500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260907T185000
+DTEND:20260907T205000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260907T135000
+DTEND:20260907T155000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260907T211500
+DTEND:20260907T231500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260907T140000
+DTEND:20260907T160000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260907T163000
+DTEND:20260907T183000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260907T190000
+DTEND:20260907T210000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260907T213000
+DTEND:20260907T233000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260907T160500
+DTEND:20260907T180500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260907T184000
+DTEND:20260907T204000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260907T210500
+DTEND:20260907T230500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret @ IFC CENTER
+DTSTART:20260907T110000
+DTEND:20260907T130000
+DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
+ s-secret/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/maddies-secret/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260907T113000
+DTEND:20260907T133000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260907T185500
+DTEND:20260907T205500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260907T130500
+DTEND:20260907T150500
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260907T161000
+DTEND:20260907T181000
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260907T184500
+DTEND:20260907T204500
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260907T212000
+DTEND:20260907T232000
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260907T132500
+DTEND:20260907T152500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260907T185000
+DTEND:20260907T205000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260907T135000
+DTEND:20260907T155000
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260907T211500
+DTEND:20260907T231500
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260907T140000
+DTEND:20260907T160000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260907T163000
+DTEND:20260907T183000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260907T190000
+DTEND:20260907T210000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260907T213000
+DTEND:20260907T233000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Inside @ IFC CENTER
+DTSTART:20260907T160500
+DTEND:20260907T180500
+DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
+ nside/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/wild-inside/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union County @ IFC CENTER
+DTSTART:20260907T184000
+DTEND:20260907T204000
+DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
+ ounty/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/union-county/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260907T210500
+DTEND:20260907T230500
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Playtime @ METROGRAPH
@@ -5594,6 +6765,159 @@ URL:https://new-york.czechcentres.cz/en/program/mezi-prikopy-a-valy-film-d
  iskuze
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260908T122000
+DTEND:20260908T142000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260908T143000
+DTEND:20260908T163000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260908T164500
+DTEND:20260908T184500
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260908T190000
+DTEND:20260908T210000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260908T211000
+DTEND:20260908T231000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260908T124000
+DTEND:20260908T144000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260908T124500
+DTEND:20260908T144500
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260908T151000
+DTEND:20260908T171000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260908T173000
+DTEND:20260908T193000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260908T194500
+DTEND:20260908T214500
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260908T130000
+DTEND:20260908T150000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260908T151500
+DTEND:20260908T171500
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260908T195000
+DTEND:20260908T215000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260908T150000
+DTEND:20260908T170000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260908T171000
+DTEND:20260908T191000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260908T174000
+DTEND:20260908T194000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260908T191000
+DTEND:20260908T211000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tucker: The Man and His Dream @ FILM FORUM
 DTSTART:20260908T124000
 DTEND:20260908T144000
@@ -5603,78 +6927,6 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/coppola
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tucker: The Man and His Dream @ FILM FORUM
-DTSTART:20260908T124500
-DTEND:20260908T144500
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1988)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tucker: The Man and His Dream @ FILM FORUM
-DTSTART:20260908T151000
-DTEND:20260908T171000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1988)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tucker: The Man and His Dream @ FILM FORUM
-DTSTART:20260908T173000
-DTEND:20260908T193000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1988)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tucker: The Man and His Dream @ FILM FORUM
-DTSTART:20260908T194500
-DTEND:20260908T214500
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1988)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tucker: The Man and His Dream @ FILM FORUM
-DTSTART:20260908T150000
-DTEND:20260908T170000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1988)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tucker: The Man and His Dream @ FILM FORUM
-DTSTART:20260908T171000
-DTEND:20260908T191000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1988)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tucker: The Man and His Dream @ FILM FORUM
-DTSTART:20260908T174000
-DTEND:20260908T194000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1988)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tucker: The Man and His Dream @ FILM FORUM
-DTSTART:20260908T191000
-DTEND:20260908T211000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1988)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Barbara Forever @ FILM FORUM
 DTSTART:20260908T124500
 DTEND:20260908T144500
@@ -5709,6 +6961,30 @@ DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
  ara-forever
 LOCATION:FILM FORUM
 URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260908T130000
+DTEND:20260908T150000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260908T151500
+DTEND:20260908T171500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260908T195000
+DTEND:20260908T215000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:You're A Big Boy Now @ FILM FORUM
@@ -5858,6 +7134,285 @@ DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://firehousecinema.dctvny.org
  /bloodlines
 LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
 URL:https://firehousecinema.dctvny.org/bloodlines
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260908T105500
+DTEND:20260908T125500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260908T161500
+DTEND:20260908T181500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260908T110000
+DTEND:20260908T130000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260908T132500
+DTEND:20260908T152500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260908T185000
+DTEND:20260908T205000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260908T135000
+DTEND:20260908T155000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260908T211500
+DTEND:20260908T231500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260908T140000
+DTEND:20260908T160000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260908T163000
+DTEND:20260908T183000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260908T190000
+DTEND:20260908T210000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260908T213000
+DTEND:20260908T233000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260908T155000
+DTEND:20260908T175000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260908T161000
+DTEND:20260908T181000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260908T184500
+DTEND:20260908T204500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260908T212000
+DTEND:20260908T232000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260908T210500
+DTEND:20260908T230500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret @ IFC CENTER
+DTSTART:20260908T110000
+DTEND:20260908T130000
+DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
+ s-secret/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/maddies-secret/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260908T132500
+DTEND:20260908T152500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260908T185000
+DTEND:20260908T205000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260908T135000
+DTEND:20260908T155000
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260908T211500
+DTEND:20260908T231500
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260908T140000
+DTEND:20260908T160000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260908T163000
+DTEND:20260908T183000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260908T190000
+DTEND:20260908T210000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260908T213000
+DTEND:20260908T233000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Inside @ IFC CENTER
+DTSTART:20260908T155000
+DTEND:20260908T175000
+DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
+ nside/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/wild-inside/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260908T161000
+DTEND:20260908T181000
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260908T184500
+DTEND:20260908T204500
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260908T212000
+DTEND:20260908T232000
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260908T210500
+DTEND:20260908T230500
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wrestling @ LIGHT INDUSTRY
+DTSTART:20260908T190000
+DTEND:20260908T210000
+DESCRIPTION:Dir: MARIE MENKEN (1964)\nhttps://www.lightindustry.org/menken
+ -walsh
+LOCATION:LIGHT INDUSTRY
+URL:https://www.lightindustry.org/menken-walsh
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Merrily We Go to Hell @ NITEHAWK CINEMA PROSPECT PARK
@@ -6034,6 +7589,159 @@ LOCATION:BAM
 URL:https://www.bam.org/film/2026/ougie-pak
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260909T122000
+DTEND:20260909T142000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260909T143000
+DTEND:20260909T163000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260909T164500
+DTEND:20260909T184500
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260909T190000
+DTEND:20260909T210000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260909T201000
+DTEND:20260909T221000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260909T211000
+DTEND:20260909T231000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260909T124500
+DTEND:20260909T144500
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260909T151000
+DTEND:20260909T171000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260909T173000
+DTEND:20260909T193000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260909T194500
+DTEND:20260909T214500
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260909T130000
+DTEND:20260909T150000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260909T151500
+DTEND:20260909T171500
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260909T180000
+DTEND:20260909T200000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260909T154000
+DTEND:20260909T174000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260909T181000
+DTEND:20260909T201000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260909T191000
+DTEND:20260909T211000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260909T202000
+DTEND:20260909T222000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Barbara Forever @ FILM FORUM
 DTSTART:20260909T124500
 DTEND:20260909T144500
@@ -6070,49 +7778,28 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/barbara-forever
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barbara Forever @ FILM FORUM
+SUMMARY:Late Fame @ FILM FORUM
 DTSTART:20260909T130000
 DTEND:20260909T150000
-DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
- ara-forever
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
 LOCATION:FILM FORUM
-URL:https://filmforum.org/film/barbara-forever
+URL:https://filmforum.org/film/late-fame
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barbara Forever @ FILM FORUM
-DTSTART:20260909T154000
-DTEND:20260909T174000
-DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
- ara-forever
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260909T151500
+DTEND:20260909T171500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
 LOCATION:FILM FORUM
-URL:https://filmforum.org/film/barbara-forever
+URL:https://filmforum.org/film/late-fame
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barbara Forever @ FILM FORUM
-DTSTART:20260909T181000
-DTEND:20260909T201000
-DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
- ara-forever
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260909T180000
+DTEND:20260909T200000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
 LOCATION:FILM FORUM
-URL:https://filmforum.org/film/barbara-forever
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbara Forever @ FILM FORUM
-DTSTART:20260909T191000
-DTEND:20260909T211000
-DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
- ara-forever
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/barbara-forever
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbara Forever @ FILM FORUM
-DTSTART:20260909T202000
-DTEND:20260909T222000
-DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
- ara-forever
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/barbara-forever
+URL:https://filmforum.org/film/late-fame
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tetro @ FILM FORUM
@@ -6218,6 +7905,304 @@ DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://firehousecinema.dctvny.org
  /bloodlines
 LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
 URL:https://firehousecinema.dctvny.org/bloodlines
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260909T105500
+DTEND:20260909T125500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260909T110000
+DTEND:20260909T130000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260909T110500
+DTEND:20260909T130500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260909T113000
+DTEND:20260909T133000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260909T114000
+DTEND:20260909T134000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260909T214500
+DTEND:20260909T234500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260909T132000
+DTEND:20260909T152000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260909T132500
+DTEND:20260909T152500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260909T185000
+DTEND:20260909T205000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260909T133500
+DTEND:20260909T153500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260909T161000
+DTEND:20260909T181000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260909T212000
+DTEND:20260909T232000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260909T140000
+DTEND:20260909T160000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260909T163000
+DTEND:20260909T183000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260909T190000
+DTEND:20260909T210000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260909T213000
+DTEND:20260909T233000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260909T210500
+DTEND:20260909T230500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret @ IFC CENTER
+DTSTART:20260909T110000
+DTEND:20260909T130000
+DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
+ s-secret/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/maddies-secret/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union County @ IFC CENTER
+DTSTART:20260909T110500
+DTEND:20260909T130500
+DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
+ ounty/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/union-county/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260909T113000
+DTEND:20260909T133000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260909T114000
+DTEND:20260909T134000
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260909T214500
+DTEND:20260909T234500
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Inside @ IFC CENTER
+DTSTART:20260909T132000
+DTEND:20260909T152000
+DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
+ nside/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/wild-inside/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260909T132500
+DTEND:20260909T152500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260909T185000
+DTEND:20260909T205000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260909T133500
+DTEND:20260909T153500
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260909T161000
+DTEND:20260909T181000
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260909T212000
+DTEND:20260909T232000
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260909T140000
+DTEND:20260909T160000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260909T163000
+DTEND:20260909T183000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260909T190000
+DTEND:20260909T210000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260909T213000
+DTEND:20260909T233000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260909T210500
+DTEND:20260909T230500
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nenette and Boni @ METROGRAPH
@@ -6498,6 +8483,150 @@ LOCATION:BAM
 URL:https://www.bam.org/film/2026/sweat2
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260910T122000
+DTEND:20260910T142000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260910T143000
+DTEND:20260910T163000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260910T164500
+DTEND:20260910T184500
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260910T190000
+DTEND:20260910T210000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260910T201000
+DTEND:20260910T221000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260910T211000
+DTEND:20260910T231000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260910T124500
+DTEND:20260910T144500
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260910T151000
+DTEND:20260910T171000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260910T173000
+DTEND:20260910T193000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260910T194500
+DTEND:20260910T214500
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260910T130000
+DTEND:20260910T150000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260910T151500
+DTEND:20260910T171500
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260910T180000
+DTEND:20260910T200000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260910T140000
+DTEND:20260910T160000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260910T162000
+DTEND:20260910T182000
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Filipiñana @ FILM FORUM
+DTSTART:20260910T201500
+DTEND:20260910T221500
+DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
+ na
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/filipinana
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dementia 13: Director's Cut @ FILM FORUM
 DTSTART:20260910T122000
 DTEND:20260910T142000
@@ -6507,69 +8636,6 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/coppola
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dementia 13: Director's Cut @ FILM FORUM
-DTSTART:20260910T124500
-DTEND:20260910T144500
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1963)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dementia 13: Director's Cut @ FILM FORUM
-DTSTART:20260910T151000
-DTEND:20260910T171000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1963)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dementia 13: Director's Cut @ FILM FORUM
-DTSTART:20260910T173000
-DTEND:20260910T193000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1963)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dementia 13: Director's Cut @ FILM FORUM
-DTSTART:20260910T194500
-DTEND:20260910T214500
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1963)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dementia 13: Director's Cut @ FILM FORUM
-DTSTART:20260910T140000
-DTEND:20260910T160000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1963)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dementia 13: Director's Cut @ FILM FORUM
-DTSTART:20260910T162000
-DTEND:20260910T182000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1963)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dementia 13: Director's Cut @ FILM FORUM
-DTSTART:20260910T201500
-DTEND:20260910T221500
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1963)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Barbara Forever @ FILM FORUM
 DTSTART:20260910T124500
 DTEND:20260910T144500
@@ -6604,6 +8670,30 @@ DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
  ara-forever
 LOCATION:FILM FORUM
 URL:https://filmforum.org/film/barbara-forever
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260910T130000
+DTEND:20260910T150000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260910T151500
+DTEND:20260910T171500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM FORUM
+DTSTART:20260910T180000
+DTEND:20260910T200000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
+LOCATION:FILM FORUM
+URL:https://filmforum.org/film/late-fame
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Conversation @ FILM FORUM
@@ -6700,6 +8790,304 @@ DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://firehousecinema.dctvny.org
  /bloodlines
 LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
 URL:https://firehousecinema.dctvny.org/bloodlines
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260910T105500
+DTEND:20260910T125500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260910T110000
+DTEND:20260910T130000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260910T110500
+DTEND:20260910T130500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260910T113000
+DTEND:20260910T133000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260910T114000
+DTEND:20260910T134000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260910T210000
+DTEND:20260910T230000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260910T131500
+DTEND:20260910T151500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260910T132000
+DTEND:20260910T152000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260910T133500
+DTEND:20260910T153500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260910T161000
+DTEND:20260910T181000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260910T184500
+DTEND:20260910T204500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260910T212000
+DTEND:20260910T232000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260910T140000
+DTEND:20260910T160000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260910T163000
+DTEND:20260910T183000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260910T190000
+DTEND:20260910T210000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260910T213000
+DTEND:20260910T233000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260910T210500
+DTEND:20260910T230500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret @ IFC CENTER
+DTSTART:20260910T110000
+DTEND:20260910T130000
+DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
+ s-secret/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/maddies-secret/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union County @ IFC CENTER
+DTSTART:20260910T110500
+DTEND:20260910T130500
+DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
+ ounty/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/union-county/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260910T113000
+DTEND:20260910T133000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260910T114000
+DTEND:20260910T134000
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260910T210000
+DTEND:20260910T230000
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260910T131500
+DTEND:20260910T151500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild Inside @ IFC CENTER
+DTSTART:20260910T132000
+DTEND:20260910T152000
+DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
+ nside/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/wild-inside/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260910T133500
+DTEND:20260910T153500
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260910T161000
+DTEND:20260910T181000
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260910T184500
+DTEND:20260910T204500
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260910T212000
+DTEND:20260910T232000
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260910T140000
+DTEND:20260910T160000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260910T163000
+DTEND:20260910T183000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260910T190000
+DTEND:20260910T210000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260910T213000
+DTEND:20260910T233000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260910T210500
+DTEND:20260910T230500
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:In Jackson Heights @ MAYSLES CINEMA
@@ -12056,6 +14444,15 @@ LOCATION:ANTHOLOGY FILM ARCHIVES
 URL:https://www.anthologyfilmarchives.org/film_screenings/series/62026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Place in the Sun @ PARIS THEATER
+DTSTART:20261031T120000
+DTEND:20261031T140000
+DESCRIPTION:Dir: GEORGE STEVENS (1951)\nhttps://www.paristheaternyc.com/se
+ ries/you-must-remember-this-paris
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/you-must-remember-this-paris
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tromeo and Juliet @ ANTHOLOGY FILM ARCHIVES
 DTSTART:20261101T153000
 DTEND:20261101T173000
@@ -12101,6 +14498,15 @@ LOCATION:ANTHOLOGY FILM ARCHIVES
 URL:https://www.anthologyfilmarchives.org/film_screenings/series/62026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wild River @ PARIS THEATER
+DTSTART:20261101T181500
+DTEND:20261101T201500
+DESCRIPTION:Dir: ELIA KAZAN (1960)\nhttps://www.paristheaternyc.com/series
+ /you-must-remember-this-paris
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/you-must-remember-this-paris
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Little Amélie or the Character of Rain @ NITEHAWK CINEMA PROSPECT
   PARK
 DTSTART:20261117T110000
@@ -12121,29 +14527,9 @@ LOCATION:SCANDINAVIA HOUSE
 URL:http://www.scandinaviahouse.org/event/films/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Lake House - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20270831T190000
-DTEND:20270831T210000
-DESCRIPTION:Dir: N/A (2006)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 709?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7709?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Straight Story - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20270831T210000
-DTEND:20270831T230000
-DESCRIPTION:Dir: N/A (1999)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 727?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7727?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Invite @ ROXY CINEMA NEW YORK
-DTSTART:20260901T190000
-DTEND:20260901T210000
+DTSTART:20270901T190000
+DTEND:20270901T210000
 DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
  805?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
@@ -12152,8 +14538,8 @@ URL:https://ticketing.uswest.veezi.com/purchase/7805?siteToken=tt17e5ajy3v
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Her Private Hell @ ROXY CINEMA NEW YORK
-DTSTART:20260901T211500
-DTEND:20260901T231500
+DTSTART:20270901T211500
+DTEND:20270901T231500
 DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
  749?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
@@ -12369,6 +14755,16 @@ DESCRIPTION:Dir: N/A (1980)\nhttps://ticketing.uswest.veezi.com/purchase/7
  739?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7739?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Sex and Death at Camp Miasma - 35MM @ ROXY CINEMA NEW YORK
+DTSTART:20260911T190000
+DTEND:20260911T210000
+DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 825?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7825?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
