@@ -2,1288 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:Star Trek III: The Search for Spock @ ALAMO DRAFTHOUSE DOWNTOWN BR
- OOKLYN
-DTSTART:20260903T150000
-DTEND:20260903T170000
-DESCRIPTION:Dir: LEONARD NIMOY (1984)\nhttps://drafthouse.com/nyc/show/sta
- r-trek-iii-the-search-for-spock
-LOCATION:ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
-URL:https://drafthouse.com/nyc/show/star-trek-iii-the-search-for-spock
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Space Dogs @ BAM
-DTSTART:20260903T170000
-DTEND:20260903T190000
-DESCRIPTION:Dir: ELSA KREMSER\, LEVIN PETER (2019)\nhttps://www.bam.org/fi
- lm/2026/kino-canines
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/kino-canines
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Space Dogs @ BAM
-DTSTART:20260903T190000
-DTEND:20260903T210000
-DESCRIPTION:Dir: ELSA KREMSER\, LEVIN PETER (2019)\nhttps://www.bam.org/fi
- lm/2026/kino-canines
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/kino-canines
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nostalghia @ BAM
-DTSTART:20260903T190000
-DTEND:20260903T210000
-DESCRIPTION:Dir: ANDREI TARKOVSKY (1983)\nhttps://www.bam.org/film/2026/ki
- no-canines
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/kino-canines
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260903T121500
-DTEND:20260903T141500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260903T142500
-DTEND:20260903T162500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260903T164000
-DTEND:20260903T184000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260903T185000
-DTEND:20260903T205000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260903T210000
-DTEND:20260903T230000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260903T122000
-DTEND:20260903T142000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260903T174500
-DTEND:20260903T194500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260903T143000
-DTEND:20260903T163000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260903T164500
-DTEND:20260903T184500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260903T190000
-DTEND:20260903T210000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260903T200000
-DTEND:20260903T220000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260903T211000
-DTEND:20260903T231000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260903T143500
-DTEND:20260903T163500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260903T153000
-DTEND:20260903T173000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260903T174000
-DTEND:20260903T194000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260903T195000
-DTEND:20260903T215000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Billy Liar @ FILM FORUM
-DTSTART:20260903T122000
-DTEND:20260903T142000
-DESCRIPTION:Dir: JOHN SCHLESINGER (1963)\nhttps://filmforum.org/film/billy
- -liar
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/billy-liar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Billy Liar @ FILM FORUM
-DTSTART:20260903T174500
-DTEND:20260903T194500
-DESCRIPTION:Dir: JOHN SCHLESINGER (1963)\nhttps://filmforum.org/film/billy
- -liar
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/billy-liar
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260903T122000
-DTEND:20260903T142000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260903T143000
-DTEND:20260903T163000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260903T164500
-DTEND:20260903T184500
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260903T190000
-DTEND:20260903T210000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260903T200000
-DTEND:20260903T220000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260903T211000
-DTEND:20260903T231000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Godfather Coda: The Death of Michael Corleone @ FILM FORUM
-DTSTART:20260903T122000
-DTEND:20260903T142000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (2020)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Center Stage @ FILM FORUM
-DTSTART:20260903T143500
-DTEND:20260903T163500
-DESCRIPTION:Dir: STANLEY KWAN (1991)\nhttps://filmforum.org/film/center-st
- age
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/center-stage
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One from the Heart: Reprise @ FILM FORUM
-DTSTART:20260903T153000
-DTEND:20260903T173000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1981)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hearts of Darkness: A Filmmaker's Apocalypse @ FILM FORUM
-DTSTART:20260903T174000
-DTEND:20260903T194000
-DESCRIPTION:Dir: GEORGE HICKENLOOPER\, FAX BAHR\, ELEANOR COPPOLA (1991)\n
- https://filmforum.org/series/coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Apocalypse Now: Final Cut @ FILM FORUM
-DTSTART:20260903T195000
-DTEND:20260903T215000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1979)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260903T120000
-DTEND:20260903T140000
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260903T201500
-DTEND:20260903T221500
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260903T123000
-DTEND:20260903T143000
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260903T143000
-DTEND:20260903T163000
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260903T163000
-DTEND:20260903T183000
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260903T183000
-DTEND:20260903T203000
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260903T203000
-DTEND:20260903T223000
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260903T130000
-DTEND:20260903T150000
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260903T150000
-DTEND:20260903T170000
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260903T153000
-DTEND:20260903T173000
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260903T180000
-DTEND:20260903T200000
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Franz @ FILM AT LINCOLN CENTER
-DTSTART:20260903T200000
-DTEND:20260903T220000
-DESCRIPTION:Dir: AGNIESZKA HOLLAND (2025)\nhttps://www.filmlinc.org/films/
- franz/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/franz/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Samba Traoré @ FILM AT LINCOLN CENTER
-DTSTART:20260903T123000
-DTEND:20260903T143000
-DESCRIPTION:Dir: IDRISSA OUÉDRAOGO (1992)\nhttps://www.filmlinc.org/films
- /samba-traore/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/samba-traore/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Samba Traoré @ FILM AT LINCOLN CENTER
-DTSTART:20260903T143000
-DTEND:20260903T163000
-DESCRIPTION:Dir: IDRISSA OUÉDRAOGO (1992)\nhttps://www.filmlinc.org/films
- /samba-traore/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/samba-traore/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Samba Traoré @ FILM AT LINCOLN CENTER
-DTSTART:20260903T163000
-DTEND:20260903T183000
-DESCRIPTION:Dir: IDRISSA OUÉDRAOGO (1992)\nhttps://www.filmlinc.org/films
- /samba-traore/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/samba-traore/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Samba Traoré @ FILM AT LINCOLN CENTER
-DTSTART:20260903T183000
-DTEND:20260903T203000
-DESCRIPTION:Dir: IDRISSA OUÉDRAOGO (1992)\nhttps://www.filmlinc.org/films
- /samba-traore/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/samba-traore/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Samba Traoré @ FILM AT LINCOLN CENTER
-DTSTART:20260903T203000
-DTEND:20260903T223000
-DESCRIPTION:Dir: IDRISSA OUÉDRAOGO (1992)\nhttps://www.filmlinc.org/films
- /samba-traore/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/samba-traore/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bone Collector @ FILM AT LINCOLN CENTER
-DTSTART:20260903T130000
-DTEND:20260903T150000
-DESCRIPTION:Dir: PHILLIP NOYCE (1999)\nhttps://www.filmlinc.org/series/bib
- liomania-a-preface-to-chronovisor/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
- tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260903T150000
-DTEND:20260903T170000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thesis @ FILM AT LINCOLN CENTER
-DTSTART:20260903T153000
-DTEND:20260903T173000
-DESCRIPTION:Dir: ALEJANDRO AMENABAR (1996)\nhttps://www.filmlinc.org/serie
- s/bibliomania-a-preface-to-chronovisor/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
- tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
-DTSTART:20260903T180000
-DTEND:20260903T200000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
- me/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/late-fame/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Curse of the Demon @ FILM AT LINCOLN CENTER
-DTSTART:20260903T180000
-DTEND:20260903T200000
-DESCRIPTION:Dir: JACQUES TOURNEUR (1957)\nhttps://www.filmlinc.org/series/
- bibliomania-a-preface-to-chronovisor/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
- tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Copycat @ FILM AT LINCOLN CENTER
-DTSTART:20260903T200000
-DTEND:20260903T220000
-DESCRIPTION:Dir: JON AMIEL (1995)\nhttps://www.filmlinc.org/series/bibliom
- ania-a-preface-to-chronovisor/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
- tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Runa Simi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-DTSTART:20260903T140000
-DTEND:20260903T160000
-DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
- e-film/runa-simi-MC3ZZIJUIKMBE6BBQG74KLTOFRM4
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
- KLTOFRM4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Runa Simi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-DTSTART:20260903T160000
-DTEND:20260903T180000
-DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
- e-film/runa-simi-MC3ZZIJUIKMBE6BBQG74KLTOFRM4
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
- KLTOFRM4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Runa Simi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-DTSTART:20260903T180000
-DTEND:20260903T200000
-DESCRIPTION:Dir: AUGUSTO ZEGARRA (2025)\nhttps://www.dctvny.org/s/firehous
- e-film/runa-simi-MC3ZZIJUIKMBE6BBQG74KLTOFRM4
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/runa-simi-MC3ZZIJUIKMBE6BBQG74
- KLTOFRM4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260903T104500
-DTEND:20260903T124500
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260903T144500
-DTEND:20260903T164500
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260903T190500
-DTEND:20260903T210500
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260903T211500
-DTEND:20260903T231500
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260903T105000
-DTEND:20260903T125000
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260903T150000
-DTEND:20260903T170000
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260903T110000
-DTEND:20260903T130000
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260903T110500
-DTEND:20260903T130500
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260903T154500
-DTEND:20260903T174500
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260903T184000
-DTEND:20260903T204000
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260903T123500
-DTEND:20260903T143500
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260903T165000
-DTEND:20260903T185000
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260903T210500
-DTEND:20260903T230500
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260903T130500
-DTEND:20260903T150500
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260903T203000
-DTEND:20260903T223000
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260903T132000
-DTEND:20260903T152000
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260903T160500
-DTEND:20260903T180500
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260903T185500
-DTEND:20260903T205500
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260903T214000
-DTEND:20260903T234000
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260903T133000
-DTEND:20260903T153000
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260903T161000
-DTEND:20260903T181000
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260903T212000
-DTEND:20260903T232000
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260903T183000
-DTEND:20260903T203000
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260903T184500
-DTEND:20260903T204500
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union County @ IFC CENTER
-DTSTART:20260903T105000
-DTEND:20260903T125000
-DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
- ounty/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/union-county/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union County @ IFC CENTER
-DTSTART:20260903T150000
-DTEND:20260903T170000
-DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
- ounty/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/union-county/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260903T110000
-DTEND:20260903T130000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260903T110500
-DTEND:20260903T130500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260903T154500
-DTEND:20260903T174500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260903T184000
-DTEND:20260903T204000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends @ IFC CENTER
-DTSTART:20260903T123500
-DTEND:20260903T143500
-DESCRIPTION:Dir: ALEXANDER ULLOM (2025)\nhttps://www.ifccenter.com/films/i
- t-ends/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/it-ends/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends @ IFC CENTER
-DTSTART:20260903T165000
-DTEND:20260903T185000
-DESCRIPTION:Dir: ALEXANDER ULLOM (2025)\nhttps://www.ifccenter.com/films/i
- t-ends/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/it-ends/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends @ IFC CENTER
-DTSTART:20260903T210500
-DTEND:20260903T230500
-DESCRIPTION:Dir: ALEXANDER ULLOM (2025)\nhttps://www.ifccenter.com/films/i
- t-ends/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/it-ends/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ IFC CENTER
-DTSTART:20260903T130500
-DTEND:20260903T150500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
- the-samurai-and-the-prisoner/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ IFC CENTER
-DTSTART:20260903T203000
-DTEND:20260903T223000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
- the-samurai-and-the-prisoner/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Colony @ IFC CENTER
-DTSTART:20260903T132000
-DTEND:20260903T152000
-DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
- ny-3/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/colony-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Colony @ IFC CENTER
-DTSTART:20260903T160500
-DTEND:20260903T180500
-DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
- ny-3/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/colony-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Colony @ IFC CENTER
-DTSTART:20260903T185500
-DTEND:20260903T205500
-DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
- ny-3/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/colony-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Colony @ IFC CENTER
-DTSTART:20260903T214000
-DTEND:20260903T234000
-DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
- ny-3/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/colony-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside @ IFC CENTER
-DTSTART:20260903T133000
-DTEND:20260903T153000
-DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
- nside/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Skin @ IFC CENTER
-DTSTART:20260903T161000
-DTEND:20260903T181000
-DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
- rious-skin/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mysterious-skin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Skin @ IFC CENTER
-DTSTART:20260903T212000
-DTEND:20260903T232000
-DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
- rious-skin/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mysterious-skin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hundreds of Beavers @ IFC CENTER
-DTSTART:20260903T183000
-DTEND:20260903T203000
-DESCRIPTION:Dir: MIKE CHESLIK (2024)\nhttps://www.ifccenter.com/films/hund
- reds-of-beavers/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/hundreds-of-beavers/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
-DTSTART:20260903T184500
-DTEND:20260903T204500
-DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
- e-film-festival-short-film-tour/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
- -tour/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ METROGRAPH
-DTSTART:20260903T150000
-DTEND:20260903T170000
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://metrograph.com/series/?vista
- _series_id=0000000558
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000558
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ METROGRAPH
-DTSTART:20260903T154500
-DTEND:20260903T174500
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://metrograph.com/series/?vista
- _series_id=0000000558
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000558
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ METROGRAPH
-DTSTART:20260903T171000
-DTEND:20260903T191000
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://metrograph.com/series/?vista
- _series_id=0000000558
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000558
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ METROGRAPH
-DTSTART:20260903T173000
-DTEND:20260903T193000
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://metrograph.com/series/?vista
- _series_id=0000000558
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000558
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ METROGRAPH
-DTSTART:20260903T192000
-DTEND:20260903T212000
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://metrograph.com/series/?vista
- _series_id=0000000558
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000558
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ METROGRAPH
-DTSTART:20260903T193000
-DTEND:20260903T213000
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://metrograph.com/series/?vista
- _series_id=0000000558
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000558
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ METROGRAPH
-DTSTART:20260903T213000
-DTEND:20260903T233000
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://metrograph.com/series/?vista
- _series_id=0000000558
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000558
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ METROGRAPH
-DTSTART:20260903T213500
-DTEND:20260903T233500
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://metrograph.com/series/?vista
- _series_id=0000000558
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000558
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ METROGRAPH
-DTSTART:20260903T150000
-DTEND:20260903T170000
-DESCRIPTION:Dir: WONG KAR-WAI (1994)\nhttps://metrograph.com/series/?vista
- _series_id=0000000558
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000558
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Jungle Book @ METROGRAPH
-DTSTART:20260903T154500
-DTEND:20260903T174500
-DESCRIPTION:Dir: WOLFGANG REITHERMAN (1967)\nhttps://metrograph.com/series
- /?vista_series_id=0000000473
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000473
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fallen Angels @ METROGRAPH
-DTSTART:20260903T171000
-DTEND:20260903T191000
-DESCRIPTION:Dir: WONG KAR WAI (1995)\nhttps://metrograph.com/the-last-drea
- mers/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/the-last-dreamers/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fallen Angels @ METROGRAPH
-DTSTART:20260903T171000
-DTEND:20260903T191000
-DESCRIPTION:Dir: WONG KAR WAI (1995)\nhttps://metrograph.com/the-last-drea
- mers/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/the-last-dreamers/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'Argent @ METROGRAPH
-DTSTART:20260903T173000
-DTEND:20260903T193000
-DESCRIPTION:Dir: ROBERT BRESSON (1983)\nhttps://metrograph.com/series/?vis
- ta_series_id=0000000570
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000570
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'Argent @ METROGRAPH
-DTSTART:20260903T173000
-DTEND:20260903T193000
-DESCRIPTION:Dir: ROBERT BRESSON (1983)\nhttps://metrograph.com/series/?vis
- ta_series_id=0000000570
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000570
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger @ METROGRAPH
-DTSTART:20260903T192000
-DTEND:20260903T212000
-DESCRIPTION:Dir: TONY SCOTT (1983)\nhttps://metrograph.com/series/?vista_s
- eries_id=0000000564
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000564
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger @ METROGRAPH
-DTSTART:20260903T192000
-DTEND:20260903T212000
-DESCRIPTION:Dir: TONY SCOTT (1983)\nhttps://metrograph.com/series/?vista_s
- eries_id=0000000564
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000564
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Der Fan @ METROGRAPH
-DTSTART:20260903T193000
-DTEND:20260903T213000
-DESCRIPTION:Dir: ECKHART SCHMIDT (1982)\nhttps://metrograph.com/series/?vi
- sta_series_id=0000000569
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000569
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Der Fan @ METROGRAPH
-DTSTART:20260903T193000
-DTEND:20260903T213000
-DESCRIPTION:Dir: ECKHART SCHMIDT (1982)\nhttps://metrograph.com/series/?vi
- sta_series_id=0000000569
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000569
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Collateral @ METROGRAPH
-DTSTART:20260903T213000
-DTEND:20260903T233000
-DESCRIPTION:Dir: MICHAEL MANN (2004)\nhttps://metrograph.com/series/?vista
- _series_id=0000000555
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000555
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Collateral @ METROGRAPH
-DTSTART:20260903T213000
-DTEND:20260903T233000
-DESCRIPTION:Dir: MICHAEL MANN (2004)\nhttps://metrograph.com/series/?vista
- _series_id=0000000555
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000555
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Others @ METROGRAPH
-DTSTART:20260903T213500
-DTEND:20260903T233500
-DESCRIPTION:Dir: ALEJANDRO AMENABAR (2001)\nhttps://metrograph.com/series/
- ?vista_series_id=0000000566
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000566
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Others @ METROGRAPH
-DTSTART:20260903T213500
-DTEND:20260903T233500
-DESCRIPTION:Dir: ALEJANDRO AMENABAR (2001)\nhttps://metrograph.com/series/
- ?vista_series_id=0000000566
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000566
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:First Cow @ MUSEUM OF MODERN ART
-DTSTART:20260903T190000
-DTEND:20260903T210000
-DESCRIPTION:Dir: KELLY REICHARDT (2019)\nhttps://www.moma.org/calendar/fil
- m/5911
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5911
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drive @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260903T213000
-DTEND:20260903T233000
-DESCRIPTION:Dir: NICOLAS WINDING REFN (2011)\nhttps://nitehawkcinema.com/w
- illiamsburg/film-series/anniversary-party/
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://nitehawkcinema.com/williamsburg/film-series/anniversary-party/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atomic Blonde @ PARIS THEATER
-DTSTART:20260903T123000
-DTEND:20260903T143000
-DESCRIPTION:Dir: DAVID LEITCH (2017)\nhttps://www.paristheaternyc.com/seri
- es/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atomic Blonde @ PARIS THEATER
-DTSTART:20260903T153000
-DTEND:20260903T173000
-DESCRIPTION:Dir: DAVID LEITCH (2017)\nhttps://www.paristheaternyc.com/seri
- es/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atomic Blonde @ PARIS THEATER
-DTSTART:20260903T184500
-DTEND:20260903T204500
-DESCRIPTION:Dir: DAVID LEITCH (2017)\nhttps://www.paristheaternyc.com/seri
- es/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atomic Blonde @ PARIS THEATER
-DTSTART:20260903T220000
-DTEND:20260904T000000
-DESCRIPTION:Dir: DAVID LEITCH (2017)\nhttps://www.paristheaternyc.com/seri
- es/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Michael Mann's Manhunter: The Final Cut @ PARIS THEATER
-DTSTART:20260903T153000
-DTEND:20260903T173000
-DESCRIPTION:Dir: MICHAEL MANN (1986 / 2026)\nhttps://www.paristheaternyc.c
- om/series/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Master @ PARIS THEATER
-DTSTART:20260903T184500
-DTEND:20260903T204500
-DESCRIPTION:Dir: PAUL THOMAS ANDERSON (2012)\nhttps://www.paristheaternyc.
- com/series/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Phantom of the Paradise @ PARIS THEATER
-DTSTART:20260903T220000
-DTEND:20260904T000000
-DESCRIPTION:Dir: BRIAN DE PALMA (1974)\nhttps://www.paristheaternyc.com/se
- ries/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:River's Edge @ QUAD CINEMA
-DTSTART:20260903T200000
-DTEND:20260903T220000
-DESCRIPTION:Dir: TIM HUNTER (1987)\nhttps://quadcinema.com/program/teenage
- -malady/
-LOCATION:QUAD CINEMA
-URL:https://quadcinema.com/program/teenage-malady/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift\; a
-  fragmentary passage @ ROXY CINEMA NEW YORK
-DTSTART:20260903T190000
-DTEND:20260903T210000
-DESCRIPTION:Dir: LOUISE WEARD (2026)\nhttps://www.roxycinemanewyork.com/st
- ories/musclefest/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/stories/musclefest/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift\; a
-  fragmentary passage @ ROXY CINEMA NEW YORK
-DTSTART:20260903T220000
-DTEND:20260904T000000
-DESCRIPTION:Dir: LOUISE WEARD (2026)\nhttps://www.roxycinemanewyork.com/st
- ories/musclefest/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/stories/musclefest/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crocodile Dose @ ROXY CINEMA NEW YORK
-DTSTART:20260903T220000
-DTEND:20260904T000000
-DESCRIPTION:Dir: JASON WATERS (2026)\nhttps://www.roxycinemanewyork.com/st
- ories/musclefest/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/stories/musclefest/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Speck in the Water @ SPECTACLE
-DTSTART:20260903T193000
-DTEND:20260903T213000
-DESCRIPTION:Dir: ISHMAEL BERNAL (1976)\nhttps://www.spectacletheater.com/b
- ernal/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/bernal/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Speck in the Water @ SPECTACLE
-DTSTART:20260903T220000
-DTEND:20260904T000000
-DESCRIPTION:Dir: ISHMAEL BERNAL (1976)\nhttps://www.spectacletheater.com/b
- ernal/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/bernal/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Rotten Apple @ SPECTACLE
-DTSTART:20260903T220000
-DTEND:20260904T000000
-DESCRIPTION:Dir: JOHN HAYES (1963)\nhttps://www.spectacletheater.com/3-by-
- john-hayes/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/3-by-john-hayes/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hospital @ UNIONDOCS
-DTSTART:20260903T180000
-DTEND:20260903T200000
-DESCRIPTION:Dir: Hospital (FREDERICK WISEMAN)\nhttps://uniondocs.org/wisem
- ans-new-york/
-LOCATION:UNIONDOCS
-URL:https://uniondocs.org/wisemans-new-york/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hospital @ UNIONDOCS
-DTSTART:20260903T203000
-DTEND:20260903T223000
-DESCRIPTION:Dir: Hospital (FREDERICK WISEMAN)\nhttps://uniondocs.org/wisem
- ans-new-york/
-LOCATION:UNIONDOCS
-URL:https://uniondocs.org/wisemans-new-york/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Star Trek: The Motion Picture @ ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
 DTSTART:20260904T150000
 DTEND:20260904T170000
@@ -2534,6 +1252,14 @@ LOCATION:SPECTACLE
 URL:https://www.spectacletheater.com/bernal/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Whistle and I'll Come to You @ SUNVIEW LUNCHEONETTE
+DTSTART:20260904T190000
+DTEND:20260904T210000
+DESCRIPTION:Dir: JONATHAN MILLER (1968)\nhttps://www.thesunview.org/
+LOCATION:SUNVIEW LUNCHEONETTE
+URL:https://www.thesunview.org/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Star Trek II: The Wrath of Khan @ ALAMO DRAFTHOUSE DOWNTOWN BROOKL
  YN
 DTSTART:20260905T160000
@@ -2927,6 +1653,33 @@ URL:https://www.filmlinc.org/films/marketa-lazarova/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
+DTSTART:20260905T124500
+DTEND:20260905T144500
+DESCRIPTION:Dir: FRANTIŠEK VLÁČIL (1967)\nhttps://www.filmlinc.org/film
+ s/marketa-lazarova/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/marketa-lazarova/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
+DTSTART:20260905T180000
+DTEND:20260905T200000
+DESCRIPTION:Dir: FRANTIŠEK VLÁČIL (1967)\nhttps://www.filmlinc.org/film
+ s/marketa-lazarova/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/marketa-lazarova/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
+DTSTART:20260905T201500
+DTEND:20260905T221500
+DESCRIPTION:Dir: FRANTIŠEK VLÁČIL (1967)\nhttps://www.filmlinc.org/film
+ s/marketa-lazarova/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/marketa-lazarova/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
 DTSTART:20260905T131500
 DTEND:20260905T151500
 DESCRIPTION:Dir: FRANTIŠEK VLÁČIL (1967)\nhttps://www.filmlinc.org/film
@@ -2962,6 +1715,42 @@ LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/films/marketa-lazarova/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
+DTSTART:20260905T150000
+DTEND:20260905T170000
+DESCRIPTION:Dir: FRANTIŠEK VLÁČIL (1967)\nhttps://www.filmlinc.org/film
+ s/marketa-lazarova/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/marketa-lazarova/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260905T124500
+DTEND:20260905T144500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260905T180000
+DTEND:20260905T200000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260905T201500
+DTEND:20260905T221500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chronovisor @ FILM AT LINCOLN CENTER
 DTSTART:20260905T131500
 DTEND:20260905T151500
@@ -3000,6 +1789,15 @@ DESCRIPTION:Dir: KEVIN WALKER\, JACK AUEN (2026)\nhttps://www.filmlinc.org
 LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
  tab=films
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260905T150000
+DTEND:20260905T170000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bloodlines\, Mississippi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENT
@@ -3736,6 +2534,71 @@ LOCATION:PARIS THEATER
 URL:https://www.paristheaternyc.com/series/big-loud-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Muppet Movie @ ROCKAWAY FILM FESTIVAL
+DTSTART:20260905T100000
+DTEND:20260905T120000
+DESCRIPTION:Dir: JAMES FRAWLEY (1979)\nhttps://www.rockawayfilmfestival.or
+ g/events/the-muppet-movie
+LOCATION:ROCKAWAY FILM FESTIVAL
+URL:https://www.rockawayfilmfestival.org/events/the-muppet-movie
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Muppet Movie @ ROCKAWAY FILM FESTIVAL
+DTSTART:20260905T130000
+DTEND:20260905T150000
+DESCRIPTION:Dir: JAMES FRAWLEY (1979)\nhttps://www.rockawayfilmfestival.or
+ g/events/the-muppet-movie
+LOCATION:ROCKAWAY FILM FESTIVAL
+URL:https://www.rockawayfilmfestival.org/events/the-muppet-movie
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Muppet Movie @ ROCKAWAY FILM FESTIVAL
+DTSTART:20260905T160000
+DTEND:20260905T180000
+DESCRIPTION:Dir: JAMES FRAWLEY (1979)\nhttps://www.rockawayfilmfestival.or
+ g/events/the-muppet-movie
+LOCATION:ROCKAWAY FILM FESTIVAL
+URL:https://www.rockawayfilmfestival.org/events/the-muppet-movie
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Muppet Movie @ ROCKAWAY FILM FESTIVAL
+DTSTART:20260905T170000
+DTEND:20260905T190000
+DESCRIPTION:Dir: JAMES FRAWLEY (1979)\nhttps://www.rockawayfilmfestival.or
+ g/events/the-muppet-movie
+LOCATION:ROCKAWAY FILM FESTIVAL
+URL:https://www.rockawayfilmfestival.org/events/the-muppet-movie
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Effects\, Illusion\, and the Documentary Real @ ROCKAWAY FILM FEST
+ IVAL
+DTSTART:20260905T130000
+DTEND:20260905T150000
+DESCRIPTION:Dir: 1:00PM (N/A)\nhttps://www.rockawayfilmfestival.org/events
+ /presentation-effects-illusion-and-the-documentary-real
+LOCATION:ROCKAWAY FILM FESTIVAL
+URL:https://www.rockawayfilmfestival.org/events/presentation-effects-illus
+ ion-and-the-documentary-real
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Infra-ordinary @ ROCKAWAY FILM FESTIVAL
+DTSTART:20260905T160000
+DTEND:20260905T180000
+DESCRIPTION:Dir: VARIOUS DIRECTORS (4:00PM)\nhttps://www.rockawayfilmfesti
+ val.org/events/the-infra-ordinary
+LOCATION:ROCKAWAY FILM FESTIVAL
+URL:https://www.rockawayfilmfestival.org/events/the-infra-ordinary
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ ROCKAWAY FILM FESTIVAL
+DTSTART:20260905T170000
+DTEND:20260905T190000
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.rockawayfilmfestival.org/
+ events/the-history-of-concrete
+LOCATION:ROCKAWAY FILM FESTIVAL
+URL:https://www.rockawayfilmfestival.org/events/the-history-of-concrete
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Straight Story @ ROXY CINEMA NEW YORK
 DTSTART:20260905T141500
 DTEND:20260905T161500
@@ -4254,6 +3117,33 @@ URL:https://www.filmlinc.org/films/marketa-lazarova/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
+DTSTART:20260906T124500
+DTEND:20260906T144500
+DESCRIPTION:Dir: FRANTIŠEK VLÁČIL (1967)\nhttps://www.filmlinc.org/film
+ s/marketa-lazarova/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/marketa-lazarova/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
+DTSTART:20260906T180000
+DTEND:20260906T200000
+DESCRIPTION:Dir: FRANTIŠEK VLÁČIL (1967)\nhttps://www.filmlinc.org/film
+ s/marketa-lazarova/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/marketa-lazarova/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
+DTSTART:20260906T201500
+DTEND:20260906T221500
+DESCRIPTION:Dir: FRANTIŠEK VLÁČIL (1967)\nhttps://www.filmlinc.org/film
+ s/marketa-lazarova/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/marketa-lazarova/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
 DTSTART:20260906T131500
 DTEND:20260906T151500
 DESCRIPTION:Dir: FRANTIŠEK VLÁČIL (1967)\nhttps://www.filmlinc.org/film
@@ -4289,6 +3179,42 @@ LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/films/marketa-lazarova/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
+DTSTART:20260906T150000
+DTEND:20260906T170000
+DESCRIPTION:Dir: FRANTIŠEK VLÁČIL (1967)\nhttps://www.filmlinc.org/film
+ s/marketa-lazarova/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/marketa-lazarova/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260906T124500
+DTEND:20260906T144500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260906T180000
+DTEND:20260906T200000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260906T201500
+DTEND:20260906T221500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chronovisor @ FILM AT LINCOLN CENTER
 DTSTART:20260906T131500
 DTEND:20260906T151500
@@ -4327,6 +3253,15 @@ DESCRIPTION:Dir: KEVIN WALKER\, JACK AUEN (2026)\nhttps://www.filmlinc.org
 LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
  tab=films
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260906T150000
+DTEND:20260906T170000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bloodlines\, Mississippi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENT
@@ -5027,6 +3962,78 @@ LOCATION:PARIS THEATER
 URL:https://www.paristheaternyc.com/series/big-loud-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:El Funoun: Dabke Dance Presentation and Workshop @ ROCKAWAY FILM F
+ ESTIVAL
+DTSTART:20260906T120000
+DTEND:20260906T140000
+DESCRIPTION:Dir: 12:00PM (Adnan being and time)\nhttps://www.rockawayfilmf
+ estival.org/events/el-funoun-dabke-dance-presentation-and-workshop
+LOCATION:ROCKAWAY FILM FESTIVAL
+URL:https://www.rockawayfilmfestival.org/events/el-funoun-dabke-dance-pres
+ entation-and-workshop
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Funoun: Dabke Dance Presentation and Workshop @ ROCKAWAY FILM F
+ ESTIVAL
+DTSTART:20260906T143000
+DTEND:20260906T163000
+DESCRIPTION:Dir: 12:00PM (Adnan being and time)\nhttps://www.rockawayfilmf
+ estival.org/events/el-funoun-dabke-dance-presentation-and-workshop
+LOCATION:ROCKAWAY FILM FESTIVAL
+URL:https://www.rockawayfilmfestival.org/events/el-funoun-dabke-dance-pres
+ entation-and-workshop
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Funoun: Dabke Dance Presentation and Workshop @ ROCKAWAY FILM F
+ ESTIVAL
+DTSTART:20260906T170000
+DTEND:20260906T190000
+DESCRIPTION:Dir: 12:00PM (Adnan being and time)\nhttps://www.rockawayfilmf
+ estival.org/events/el-funoun-dabke-dance-presentation-and-workshop
+LOCATION:ROCKAWAY FILM FESTIVAL
+URL:https://www.rockawayfilmfestival.org/events/el-funoun-dabke-dance-pres
+ entation-and-workshop
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Funoun: Dabke Dance Presentation and Workshop @ ROCKAWAY FILM F
+ ESTIVAL
+DTSTART:20260906T193000
+DTEND:20260906T213000
+DESCRIPTION:Dir: 12:00PM (Adnan being and time)\nhttps://www.rockawayfilmf
+ estival.org/events/el-funoun-dabke-dance-presentation-and-workshop
+LOCATION:ROCKAWAY FILM FESTIVAL
+URL:https://www.rockawayfilmfestival.org/events/el-funoun-dabke-dance-pres
+ entation-and-workshop
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adnan being and time @ ROCKAWAY FILM FESTIVAL
+DTSTART:20260906T143000
+DTEND:20260906T163000
+DESCRIPTION:Dir: MARIE VALENTINE REGAN (2026)\nhttps://www.rockawayfilmfes
+ tival.org/events/adnan-being-and-time
+LOCATION:ROCKAWAY FILM FESTIVAL
+URL:https://www.rockawayfilmfestival.org/events/adnan-being-and-time
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shorts: Knowledge Across Bodies @ ROCKAWAY FILM FESTIVAL
+DTSTART:20260906T170000
+DTEND:20260906T190000
+DESCRIPTION:Dir: VARIOUS DIRECTORS (5:00PM)\nhttps://www.rockawayfilmfesti
+ val.org/events/shorts-knowledge-across-bodies
+LOCATION:ROCKAWAY FILM FESTIVAL
+URL:https://www.rockawayfilmfestival.org/events/shorts-knowledge-across-bo
+ dies
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peter Hutton: On the Hudson @ ROCKAWAY FILM FESTIVAL
+DTSTART:20260906T193000
+DTEND:20260906T213000
+DESCRIPTION:Dir: 7:30PM (N/A)\nhttps://www.rockawayfilmfestival.org/events
+ /peter-hutton-on-the-hudson
+LOCATION:ROCKAWAY FILM FESTIVAL
+URL:https://www.rockawayfilmfestival.org/events/peter-hutton-on-the-hudson
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Lake House @ ROXY CINEMA NEW YORK
 DTSTART:20260906T144500
 DTEND:20260906T164500
@@ -5387,6 +4394,33 @@ URL:https://www.filmlinc.org/films/marketa-lazarova/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
+DTSTART:20260907T124500
+DTEND:20260907T144500
+DESCRIPTION:Dir: FRANTIŠEK VLÁČIL (1967)\nhttps://www.filmlinc.org/film
+ s/marketa-lazarova/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/marketa-lazarova/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
+DTSTART:20260907T180000
+DTEND:20260907T200000
+DESCRIPTION:Dir: FRANTIŠEK VLÁČIL (1967)\nhttps://www.filmlinc.org/film
+ s/marketa-lazarova/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/marketa-lazarova/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
+DTSTART:20260907T201500
+DTEND:20260907T221500
+DESCRIPTION:Dir: FRANTIŠEK VLÁČIL (1967)\nhttps://www.filmlinc.org/film
+ s/marketa-lazarova/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/marketa-lazarova/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
 DTSTART:20260907T131500
 DTEND:20260907T151500
 DESCRIPTION:Dir: FRANTIŠEK VLÁČIL (1967)\nhttps://www.filmlinc.org/film
@@ -5422,6 +4456,42 @@ LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/films/marketa-lazarova/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
+DTSTART:20260907T150000
+DTEND:20260907T170000
+DESCRIPTION:Dir: FRANTIŠEK VLÁČIL (1967)\nhttps://www.filmlinc.org/film
+ s/marketa-lazarova/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/marketa-lazarova/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260907T124500
+DTEND:20260907T144500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260907T180000
+DTEND:20260907T200000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260907T201500
+DTEND:20260907T221500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chronovisor @ FILM AT LINCOLN CENTER
 DTSTART:20260907T131500
 DTEND:20260907T151500
@@ -5460,6 +4530,15 @@ DESCRIPTION:Dir: KEVIN WALKER\, JACK AUEN (2026)\nhttps://www.filmlinc.org
 LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
  tab=films
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260907T150000
+DTEND:20260907T170000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bloodlines\, Mississippi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENT
@@ -6484,6 +5563,87 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/coppola
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260908T120000
+DTEND:20260908T140000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260908T121500
+DTEND:20260908T141500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260908T153000
+DTEND:20260908T173000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260908T190000
+DTEND:20260908T210000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260908T131500
+DTEND:20260908T151500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260908T154500
+DTEND:20260908T174500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260908T181500
+DTEND:20260908T201500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260908T204500
+DTEND:20260908T224500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260908T140000
+DTEND:20260908T160000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
 DTSTART:20260908T121500
 DTEND:20260908T141500
@@ -6511,42 +5671,6 @@ LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/films/marketa-lazarova/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
-DTSTART:20260908T131500
-DTEND:20260908T151500
-DESCRIPTION:Dir: FRANTIŠEK VLÁČIL (1967)\nhttps://www.filmlinc.org/film
- s/marketa-lazarova/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/marketa-lazarova/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
-DTSTART:20260908T154500
-DTEND:20260908T174500
-DESCRIPTION:Dir: FRANTIŠEK VLÁČIL (1967)\nhttps://www.filmlinc.org/film
- s/marketa-lazarova/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/marketa-lazarova/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
-DTSTART:20260908T181500
-DTEND:20260908T201500
-DESCRIPTION:Dir: FRANTIŠEK VLÁČIL (1967)\nhttps://www.filmlinc.org/film
- s/marketa-lazarova/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/marketa-lazarova/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
-DTSTART:20260908T204500
-DTEND:20260908T224500
-DESCRIPTION:Dir: FRANTIŠEK VLÁČIL (1967)\nhttps://www.filmlinc.org/film
- s/marketa-lazarova/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/marketa-lazarova/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chronovisor @ FILM AT LINCOLN CENTER
 DTSTART:20260908T131500
 DTEND:20260908T151500
@@ -6585,6 +5709,15 @@ DESCRIPTION:Dir: KEVIN WALKER\, JACK AUEN (2026)\nhttps://www.filmlinc.org
 LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
  tab=films
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260908T140000
+DTEND:20260908T160000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bloodlines\, Mississippi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENT
@@ -7299,6 +6432,69 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/coppola
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260909T123000
+DTEND:20260909T143000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260909T131500
+DTEND:20260909T151500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260909T154500
+DTEND:20260909T174500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260909T181500
+DTEND:20260909T201500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260909T204500
+DTEND:20260909T224500
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260909T180000
+DTEND:20260909T200000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
+DTSTART:20260909T210000
+DTEND:20260909T230000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
+ he-samurai-and-the-prisoner/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chronovisor @ FILM AT LINCOLN CENTER
 DTSTART:20260909T131500
 DTEND:20260909T151500
@@ -7339,16 +6535,6 @@ URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
  tab=films
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chronovisor @ FILM AT LINCOLN CENTER
-DTSTART:20260909T180000
-DTEND:20260909T200000
-DESCRIPTION:Dir: KEVIN WALKER\, JACK AUEN (2026)\nhttps://www.filmlinc.org
- /series/bibliomania-a-preface-to-chronovisor/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
- tab=films
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
 DTSTART:20260909T180000
 DTEND:20260909T200000
@@ -7356,6 +6542,15 @@ DESCRIPTION:Dir: FRANTIŠEK VLÁČIL (1967)\nhttps://www.filmlinc.org/film
  s/marketa-lazarova/
 LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/films/marketa-lazarova/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260909T210000
+DTEND:20260909T230000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bloodlines\, Mississippi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENT
@@ -8264,6 +7459,60 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/coppola
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260910T120000
+DTEND:20260910T140000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260910T131500
+DTEND:20260910T151500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260910T154500
+DTEND:20260910T174500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260910T181500
+DTEND:20260910T201500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260910T204500
+DTEND:20260910T224500
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
+DTSTART:20260910T180000
+DTEND:20260910T200000
+DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
+ me/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chronovisor @ FILM AT LINCOLN CENTER
 DTSTART:20260910T131500
 DTEND:20260910T151500
@@ -8297,16 +7546,6 @@ BEGIN:VEVENT
 SUMMARY:Chronovisor @ FILM AT LINCOLN CENTER
 DTSTART:20260910T204500
 DTEND:20260910T224500
-DESCRIPTION:Dir: KEVIN WALKER\, JACK AUEN (2026)\nhttps://www.filmlinc.org
- /series/bibliomania-a-preface-to-chronovisor/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
- tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chronovisor @ FILM AT LINCOLN CENTER
-DTSTART:20260910T180000
-DTEND:20260910T200000
 DESCRIPTION:Dir: KEVIN WALKER\, JACK AUEN (2026)\nhttps://www.filmlinc.org
  /series/bibliomania-a-preface-to-chronovisor/?tab=films
 LOCATION:FILM AT LINCOLN CENTER
@@ -9440,6 +8679,26 @@ LOCATION:SPECTACLE
 URL:https://www.spectacletheater.com/3-by-john-hayes/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sunshine Girls @ TRINITY REFORMED CHURCH
+DTSTART:20260911T190000
+DTEND:20260911T210000
+DESCRIPTION:Dir: MRS. WILLIAM HORSLEY (2026)\nhttps://www.ridgewoodoffkilt
+ er.org/shop/p/mrs-william-horsley-presents-the-luddite-blood
+LOCATION:TRINITY REFORMED CHURCH
+URL:https://www.ridgewoodoffkilter.org/shop/p/mrs-william-horsley-presents
+ -the-luddite-blood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunshine Girls @ TRINITY REFORMED CHURCH
+DTSTART:20260911T203000
+DTEND:20260911T223000
+DESCRIPTION:Dir: MRS. WILLIAM HORSLEY (2026)\nhttps://www.ridgewoodoffkilt
+ er.org/shop/p/mrs-william-horsley-presents-the-luddite-blood
+LOCATION:TRINITY REFORMED CHURCH
+URL:https://www.ridgewoodoffkilter.org/shop/p/mrs-william-horsley-presents
+ -the-luddite-blood
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Racetrack @ UNIONDOCS
 DTSTART:20260911T190000
 DTEND:20260911T210000
@@ -9972,6 +9231,15 @@ DESCRIPTION:Dir: BARRY SHILS (1991)\nhttps://www.spectacletheater.com/moto
  rama/
 LOCATION:SPECTACLE
 URL:https://www.spectacletheater.com/motorama/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEAT MACHINE @ WINDJAMMER BAR
+DTSTART:20260912T235900
+DTEND:20260913T015900
+DESCRIPTION:Dir: JEFFREY GARCIA (11:59PM)\nhttps://www.ridgewoodoffkilter.
+ org/shop/p/meat-machine-feature
+LOCATION:WINDJAMMER BAR
+URL:https://www.ridgewoodoffkilter.org/shop/p/meat-machine-feature
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twilight @ ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
@@ -11361,6 +10629,15 @@ LOCATION:GOETHE-INSTITUT NEW YORK
 URL:https://www.eventbrite.com/cc/german-movie-nights-462669
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Blades of the Guardians @ MUSEUM OF MODERN ART
+DTSTART:20260917T190000
+DTEND:20260917T210000
+DESCRIPTION:Dir: YUEN WOO-PING (2026)\nhttps://www.moma.org/calendar/film/
+ 5930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Werewolf in a Women's Prison @ NITEHAWK CINEMA WILLIAMSBURG
 DTSTART:20260917T213000
 DTEND:20260917T233000
@@ -11451,6 +10728,15 @@ DESCRIPTION:Dir: DON LETTS AND RICK ELGOOD (1997)\nhttps://www.eventbrite.
  com/o/8387562806
 LOCATION:FLATBUSH REFORMED CHURCH
 URL:https://www.eventbrite.com/o/8387562806
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drunken Master @ MUSEUM OF MODERN ART
+DTSTART:20260918T160000
+DTEND:20260918T180000
+DESCRIPTION:Dir: YUEN WOO-PING (1978)\nhttps://www.moma.org/calendar/film/
+ 5930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Don't Torture a Duckling @ NITEHAWK CINEMA WILLIAMSBURG
@@ -13171,6 +12457,15 @@ LOCATION:BAM
 URL:https://www.bam.org/film/2026/gwb-film
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Blades of the Guardians @ MUSEUM OF MODERN ART
+DTSTART:20260930T190000
+DTEND:20260930T210000
+DESCRIPTION:Dir: YUEN WOO-PING (2026)\nhttps://www.moma.org/calendar/film/
+ 5930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Welcome Space Brothers @ NITEHAWK CINEMA PROSPECT PARK
 DTSTART:20260930T190000
 DTEND:20260930T210000
@@ -13681,6 +12976,15 @@ DESCRIPTION:Dir: VICTORIA HELY-HUTCHINSON (2025)\nhttps://www.anthologyfil
 LOCATION:ANTHOLOGY FILM ARCHIVES
 URL:https://www.anthologyfilmarchives.org/film_screenings/calendar?view=li
  st&amp;month=10&amp;year=2026#showing-62127
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drunken Master @ MUSEUM OF MODERN ART
+DTSTART:20261009T183000
+DTEND:20261009T203000
+DESCRIPTION:Dir: YUEN WOO-PING (1978)\nhttps://www.moma.org/calendar/film/
+ 5930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vacances @ ANTHOLOGY FILM ARCHIVES
@@ -14576,23 +13880,14 @@ LOCATION:SCANDINAVIA HOUSE
 URL:http://www.scandinaviahouse.org/event/films/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jennifer's Body @ METROGRAPH
-DTSTART:20260902T220000
-DTEND:20260903T000000
-DESCRIPTION:Dir: Karyn Kusama (2009)\nhttps://metrograph.com/film/?vista_f
- ilm_id=9999004974
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/?vista_film_id=9999004974
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Irreversible @ METROGRAPH
-DTSTART:20260902T220000
-DTEND:20260903T000000
-DESCRIPTION:Dir: Gaspar Noe (2002)\nhttps://t.metrograph.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=9999&txtSessionId=30874
+SUMMARY:Chungking Express @ METROGRAPH
+DTSTART:20260903T150000
+DTEND:20260903T170000
+DESCRIPTION:Dir: Wong Kar-wai (1994)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30879
 LOCATION:METROGRAPH
 URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=30874
+ 99&txtSessionId=30879
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boyfriends and Girlfriends @ METROGRAPH
@@ -14603,6 +13898,65 @@ DESCRIPTION:Dir: Éric Rohmer (1987)\nhttps://t.metrograph.com/Ticketing/v
 LOCATION:METROGRAPH
 URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=30891
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fallen Angels @ METROGRAPH
+DTSTART:20260903T171000
+DTEND:20260903T191000
+DESCRIPTION:Dir: Wong Kar-wai (1995)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30880
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30880
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:L'Argent @ METROGRAPH
+DTSTART:20260903T173000
+DTEND:20260903T193000
+DESCRIPTION:Dir: Robert  Bresson (1983)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30885
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30885
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hunger @ METROGRAPH
+DTSTART:20260903T192000
+DTEND:20260903T212000
+DESCRIPTION:Dir: Tony Scott (1983)\nhttps://t.metrograph.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=9999&txtSessionId=30881
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30881
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der Fan @ METROGRAPH
+DTSTART:20260903T193000
+DTEND:20260903T213000
+DESCRIPTION:Dir: Eckhart Schmidt (1982)\nhttps://metrograph.com/film/?vist
+ a_film_id=9999004975
+LOCATION:METROGRAPH
+URL:https://metrograph.com/film/?vista_film_id=9999004975
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Collateral @ METROGRAPH
+DTSTART:20260903T213000
+DTEND:20260903T233000
+DESCRIPTION:Dir: Michael Mann (2004)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30882
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30882
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Others @ METROGRAPH
+DTSTART:20260903T213500
+DTEND:20260903T233500
+DESCRIPTION:Dir: Alejandro Amenábar (2001)\nhttps://t.metrograph.com/Tick
+ eting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30883
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30883
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Brighter Summer Day @ METROGRAPH
@@ -15656,18 +15010,8 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:I Want Your Sex @ ROXY CINEMA NEW YORK
-DTSTART:20270902T211500
-DTEND:20270902T231500
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 705?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7705?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Want Your Sex @ ROXY CINEMA NEW YORK
-DTSTART:20260903T170000
-DTEND:20260903T190000
+DTSTART:20270903T170000
+DTEND:20270903T190000
 DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
  706?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
@@ -15677,8 +15021,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift\; a
   fragmentary passage + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20260903T190000
-DTEND:20260903T210000
+DTSTART:20270903T190000
+DTEND:20270903T210000
 DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
  790?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
@@ -15687,8 +15031,8 @@ URL:https://ticketing.uswest.veezi.com/purchase/7790?siteToken=tt17e5ajy3v
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crocodile Dose + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20260903T220000
-DTEND:20260904T000000
+DTSTART:20270903T220000
+DTEND:20270904T000000
 DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
  791?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
@@ -16069,13 +15413,14 @@ URL:https://ticketing.uswest.veezi.com/purchase/7772?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tony @ ROXY CINEMA NEW YORK
+SUMMARY:Cinema Tehran Presents: Cairo Station + Orderly or Disorderly @ RO
+ XY CINEMA NEW YORK
 DTSTART:20260921T213000
 DTEND:20260921T233000
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 802?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+DESCRIPTION:Dir: N/A (1958)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 833?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7802?siteToken=tt17e5ajy3v
+URL:https://ticketing.uswest.veezi.com/purchase/7833?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
@@ -16109,7 +15454,7 @@ URL:https://ticketing.uswest.veezi.com/purchase/7820?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fat Girl - 35MM @ ROXY CINEMA NEW YORK
+SUMMARY:Fat Girl + Introduction @ ROXY CINEMA NEW YORK
 DTSTART:20260924T164500
 DTEND:20260924T184500
 DESCRIPTION:Dir: N/A (2001)\nhttps://ticketing.uswest.veezi.com/purchase/7
@@ -16126,6 +15471,26 @@ DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
  803?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7803?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sex Is Comedy + Introduction @ ROXY CINEMA NEW YORK
+DTSTART:20260924T190000
+DTEND:20260924T210000
+DESCRIPTION:Dir: N/A (2002)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 836?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7836?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kaboom @ ROXY CINEMA NEW YORK
+DTSTART:20260924T213000
+DTEND:20260924T233000
+DESCRIPTION:Dir: N/A (2011)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 838?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7838?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
@@ -16219,7 +15584,7 @@ URL:https://ticketing.uswest.veezi.com/purchase/7822?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fat Girl - 35MM @ ROXY CINEMA NEW YORK
+SUMMARY:Fat Girl + Introduction @ ROXY CINEMA NEW YORK
 DTSTART:20260927T200000
 DTEND:20260927T220000
 DESCRIPTION:Dir: N/A (2001)\nhttps://ticketing.uswest.veezi.com/purchase/7
@@ -16341,6 +15706,16 @@ URL:https://ticketing.uswest.veezi.com/purchase/7778?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kaboom @ ROXY CINEMA NEW YORK
+DTSTART:20261003T221500
+DTEND:20261004T001500
+DESCRIPTION:Dir: N/A (2011)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 838?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7838?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bird in Hand + Q&A @ ROXY CINEMA NEW YORK
 DTSTART:20261004T150000
 DTEND:20261004T170000
@@ -16368,6 +15743,16 @@ DESCRIPTION:Dir: N/A (2025)\nhttps://ticketing.uswest.veezi.com/purchase/7
  810?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7810?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cinema Tehran Presents: Chicken with Plums @ ROXY CINEMA NEW YORK
+DTSTART:20261006T213000
+DTEND:20261006T233000
+DESCRIPTION:Dir: N/A (2011)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 834?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7834?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
