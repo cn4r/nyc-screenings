@@ -2,1264 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:Star Trek: The Motion Picture @ ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
-DTSTART:20260904T150000
-DTEND:20260904T170000
-DESCRIPTION:Dir: ROBERT WISE (1979)\nhttps://drafthouse.com/nyc/show/speci
- al-event-star-trek-the-motion-picture-directors-edition-the-changeling
-LOCATION:ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
-URL:https://drafthouse.com/nyc/show/special-event-star-trek-the-motion-pic
- ture-directors-edition-the-changeling
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Star Trek: The Motion Picture @ ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
-DTSTART:20260904T223000
-DTEND:20260905T003000
-DESCRIPTION:Dir: ROBERT WISE (1979)\nhttps://drafthouse.com/nyc/show/speci
- al-event-star-trek-the-motion-picture-directors-edition-the-changeling
-LOCATION:ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
-URL:https://drafthouse.com/nyc/show/special-event-star-trek-the-motion-pic
- ture-directors-edition-the-changeling
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Fog @ ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
-DTSTART:20260904T223000
-DTEND:20260905T003000
-DESCRIPTION:Dir: JOHN CARPENTER (1980)\nhttps://drafthouse.com/series/terr
- or-tuesday
-LOCATION:ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
-URL:https://drafthouse.com/series/terror-tuesday
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Star Trek: The Motion Picture @ ALAMO DRAFTHOUSE LOWER MANHATTAN
-DTSTART:20260904T150000
-DTEND:20260904T170000
-DESCRIPTION:Dir: ROBERT WISE (1979)\nhttps://drafthouse.com/nyc/show/speci
- al-event-star-trek-the-motion-picture-directors-edition-the-changeling
-LOCATION:ALAMO DRAFTHOUSE LOWER MANHATTAN
-URL:https://drafthouse.com/nyc/show/special-event-star-trek-the-motion-pic
- ture-directors-edition-the-changeling
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Star Trek: The Motion Picture @ ALAMO DRAFTHOUSE LOWER MANHATTAN
-DTSTART:20260904T214500
-DTEND:20260904T234500
-DESCRIPTION:Dir: ROBERT WISE (1979)\nhttps://drafthouse.com/nyc/show/speci
- al-event-star-trek-the-motion-picture-directors-edition-the-changeling
-LOCATION:ALAMO DRAFTHOUSE LOWER MANHATTAN
-URL:https://drafthouse.com/nyc/show/special-event-star-trek-the-motion-pic
- ture-directors-edition-the-changeling
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Fog @ ALAMO DRAFTHOUSE LOWER MANHATTAN
-DTSTART:20260904T214500
-DTEND:20260904T234500
-DESCRIPTION:Dir: JOHN CARPENTER (1980)\nhttps://drafthouse.com/series/terr
- or-tuesday
-LOCATION:ALAMO DRAFTHOUSE LOWER MANHATTAN
-URL:https://drafthouse.com/series/terror-tuesday
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:What Godmilow Taught @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260904T184500
-DTEND:20260904T204500
-DESCRIPTION:Dir: MIREIA SALLARÈS (2014)\nhttps://www.anthologyfilmarchive
- s.org/film_screenings/series/61934
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/series/61934
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:What Godmilow Taught @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260904T204500
-DTEND:20260904T224500
-DESCRIPTION:Dir: MIREIA SALLARÈS (2014)\nhttps://www.anthologyfilmarchive
- s.org/film_screenings/series/61934
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/series/61934
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:What Farocki Taught @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260904T204500
-DTEND:20260904T224500
-DESCRIPTION:Dir: JILL GODMILOW (1997)\nhttps://www.anthologyfilmarchives.o
- rg/film_screenings/series/61934
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/series/61934
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atlantics @ BAM
-DTSTART:20260904T163000
-DTEND:20260904T183000
-DESCRIPTION:Dir: MATI DIOP (2019)\nhttps://www.bam.org/film/2026/sweat2
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/sweat2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atlantics @ BAM
-DTSTART:20260904T190000
-DTEND:20260904T210000
-DESCRIPTION:Dir: MATI DIOP (2019)\nhttps://www.bam.org/film/2026/sweat2
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/sweat2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atlantics @ BAM
-DTSTART:20260904T213000
-DTEND:20260904T233000
-DESCRIPTION:Dir: MATI DIOP (2019)\nhttps://www.bam.org/film/2026/sweat2
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/sweat2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Body Double @ BAM
-DTSTART:20260904T190000
-DTEND:20260904T210000
-DESCRIPTION:Dir: BRIAN DE PALMA (1984)\nhttps://www.bam.org/film/2026/swea
- t2
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/sweat2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Things @ BAM
-DTSTART:20260904T213000
-DTEND:20260904T233000
-DESCRIPTION:Dir: JOHN MCNAUGHTON (1998)\nhttps://www.bam.org/film/2026/swe
- at2
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/sweat2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260904T122000
-DTEND:20260904T142000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260904T143000
-DTEND:20260904T163000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260904T164500
-DTEND:20260904T184500
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260904T190000
-DTEND:20260904T210000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260904T201000
-DTEND:20260904T221000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260904T211000
-DTEND:20260904T231000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260904T124500
-DTEND:20260904T144500
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260904T151000
-DTEND:20260904T171000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260904T173000
-DTEND:20260904T193000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260904T194500
-DTEND:20260904T214500
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260904T130000
-DTEND:20260904T150000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260904T151500
-DTEND:20260904T171500
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260904T180000
-DTEND:20260904T200000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260904T153000
-DTEND:20260904T173000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbara Forever @ FILM FORUM
-DTSTART:20260904T124500
-DTEND:20260904T144500
-DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
- ara-forever
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/barbara-forever
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbara Forever @ FILM FORUM
-DTSTART:20260904T151000
-DTEND:20260904T171000
-DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
- ara-forever
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/barbara-forever
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbara Forever @ FILM FORUM
-DTSTART:20260904T173000
-DTEND:20260904T193000
-DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
- ara-forever
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/barbara-forever
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbara Forever @ FILM FORUM
-DTSTART:20260904T194500
-DTEND:20260904T214500
-DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
- ara-forever
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/barbara-forever
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260904T130000
-DTEND:20260904T150000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260904T151500
-DTEND:20260904T171500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260904T180000
-DTEND:20260904T200000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Conversation @ FILM FORUM
-DTSTART:20260904T130000
-DTEND:20260904T150000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1974)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Outsiders @ FILM FORUM
-DTSTART:20260904T153000
-DTEND:20260904T173000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1983)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Rain People @ FILM FORUM
-DTSTART:20260904T180000
-DTEND:20260904T200000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1969)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Megalopolis @ FILM FORUM
-DTSTART:20260904T201000
-DTEND:20260904T221000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (2024)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
-DTSTART:20260904T121500
-DTEND:20260904T141500
-DESCRIPTION:Dir: FRANTIŠEK VLÁČIL (1967)\nhttps://www.filmlinc.org/film
- s/marketa-lazarova/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/marketa-lazarova/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
-DTSTART:20260904T153000
-DTEND:20260904T173000
-DESCRIPTION:Dir: FRANTIŠEK VLÁČIL (1967)\nhttps://www.filmlinc.org/film
- s/marketa-lazarova/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/marketa-lazarova/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
-DTSTART:20260904T190000
-DTEND:20260904T210000
-DESCRIPTION:Dir: FRANTIŠEK VLÁČIL (1967)\nhttps://www.filmlinc.org/film
- s/marketa-lazarova/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/marketa-lazarova/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
-DTSTART:20260904T131500
-DTEND:20260904T151500
-DESCRIPTION:Dir: FRANTIŠEK VLÁČIL (1967)\nhttps://www.filmlinc.org/film
- s/marketa-lazarova/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/marketa-lazarova/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
-DTSTART:20260904T154500
-DTEND:20260904T174500
-DESCRIPTION:Dir: FRANTIŠEK VLÁČIL (1967)\nhttps://www.filmlinc.org/film
- s/marketa-lazarova/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/marketa-lazarova/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
-DTSTART:20260904T181500
-DTEND:20260904T201500
-DESCRIPTION:Dir: FRANTIŠEK VLÁČIL (1967)\nhttps://www.filmlinc.org/film
- s/marketa-lazarova/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/marketa-lazarova/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
-DTSTART:20260904T210000
-DTEND:20260904T230000
-DESCRIPTION:Dir: FRANTIŠEK VLÁČIL (1967)\nhttps://www.filmlinc.org/film
- s/marketa-lazarova/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/marketa-lazarova/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chronovisor @ FILM AT LINCOLN CENTER
-DTSTART:20260904T131500
-DTEND:20260904T151500
-DESCRIPTION:Dir: KEVIN WALKER\, JACK AUEN (2026)\nhttps://www.filmlinc.org
- /series/bibliomania-a-preface-to-chronovisor/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
- tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chronovisor @ FILM AT LINCOLN CENTER
-DTSTART:20260904T154500
-DTEND:20260904T174500
-DESCRIPTION:Dir: KEVIN WALKER\, JACK AUEN (2026)\nhttps://www.filmlinc.org
- /series/bibliomania-a-preface-to-chronovisor/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
- tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chronovisor @ FILM AT LINCOLN CENTER
-DTSTART:20260904T181500
-DTEND:20260904T201500
-DESCRIPTION:Dir: KEVIN WALKER\, JACK AUEN (2026)\nhttps://www.filmlinc.org
- /series/bibliomania-a-preface-to-chronovisor/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
- tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chronovisor @ FILM AT LINCOLN CENTER
-DTSTART:20260904T210000
-DTEND:20260904T230000
-DESCRIPTION:Dir: KEVIN WALKER\, JACK AUEN (2026)\nhttps://www.filmlinc.org
- /series/bibliomania-a-preface-to-chronovisor/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
- tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bloodlines\, Mississippi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENT
- ARY FILM
-DTSTART:20260904T180000
-DTEND:20260904T200000
-DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://firehousecinema.dctvny.org
- /bloodlines
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://firehousecinema.dctvny.org/bloodlines
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260904T105500
-DTEND:20260904T125500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260904T161500
-DTEND:20260904T181500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260904T110000
-DTEND:20260904T130000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260904T110500
-DTEND:20260904T130500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260904T160500
-DTEND:20260904T180500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260904T132500
-DTEND:20260904T152500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260904T185000
-DTEND:20260904T205000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260904T135000
-DTEND:20260904T155000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260904T211500
-DTEND:20260904T231500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260904T140000
-DTEND:20260904T160000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260904T161000
-DTEND:20260904T181000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260904T184500
-DTEND:20260904T204500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260904T212000
-DTEND:20260904T232000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260904T163000
-DTEND:20260904T183000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260904T190000
-DTEND:20260904T210000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260904T213000
-DTEND:20260904T233000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260904T184000
-DTEND:20260904T204000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260904T185500
-DTEND:20260904T205500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260904T234000
-DTEND:20260905T014000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260904T234500
-DTEND:20260905T014500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260904T235000
-DTEND:20260905T015000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260904T235500
-DTEND:20260905T015500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260904T110000
-DTEND:20260904T130000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside @ IFC CENTER
-DTSTART:20260904T110500
-DTEND:20260904T130500
-DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
- nside/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside @ IFC CENTER
-DTSTART:20260904T160500
-DTEND:20260904T180500
-DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
- nside/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260904T132500
-DTEND:20260904T152500
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260904T185000
-DTEND:20260904T205000
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Skin @ IFC CENTER
-DTSTART:20260904T135000
-DTEND:20260904T155000
-DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
- rious-skin/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mysterious-skin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Skin @ IFC CENTER
-DTSTART:20260904T211500
-DTEND:20260904T231500
-DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
- rious-skin/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mysterious-skin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Sun Never Sets @ IFC CENTER
-DTSTART:20260904T140000
-DTEND:20260904T160000
-DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
- sun-never-sets/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-sun-never-sets/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Sun Never Sets @ IFC CENTER
-DTSTART:20260904T161000
-DTEND:20260904T181000
-DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
- sun-never-sets/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-sun-never-sets/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Sun Never Sets @ IFC CENTER
-DTSTART:20260904T184500
-DTEND:20260904T204500
-DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
- sun-never-sets/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-sun-never-sets/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Sun Never Sets @ IFC CENTER
-DTSTART:20260904T212000
-DTEND:20260904T232000
-DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
- sun-never-sets/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-sun-never-sets/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heathers @ IFC CENTER
-DTSTART:20260904T140000
-DTEND:20260904T160000
-DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
- eathers/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/heathers/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heathers @ IFC CENTER
-DTSTART:20260904T163000
-DTEND:20260904T183000
-DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
- eathers/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/heathers/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heathers @ IFC CENTER
-DTSTART:20260904T190000
-DTEND:20260904T210000
-DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
- eathers/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/heathers/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heathers @ IFC CENTER
-DTSTART:20260904T213000
-DTEND:20260904T233000
-DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
- eathers/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/heathers/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union County @ IFC CENTER
-DTSTART:20260904T184000
-DTEND:20260904T204000
-DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
- ounty/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/union-county/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
-DTSTART:20260904T185500
-DTEND:20260904T205500
-DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
- e-film-festival-short-film-tour/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
- -tour/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Colony @ IFC CENTER
-DTSTART:20260904T234000
-DTEND:20260905T014000
-DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
- ny-3/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/colony-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stop Making Sense @ IFC CENTER
-DTSTART:20260904T234500
-DTEND:20260905T014500
-DESCRIPTION:Dir: JONATHAN DEMME (1984)\nhttps://www.ifccenter.com/series/l
- ate-night-favorites-summer-2026/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/series/late-night-favorites-summer-2026/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bully @ IFC CENTER
-DTSTART:20260904T235000
-DTEND:20260905T015000
-DESCRIPTION:Dir: LARRY CLARK (2001)\nhttps://www.ifccenter.com/series/staf
- f-picks-2026/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/series/staff-picks-2026/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dead Ringers @ IFC CENTER
-DTSTART:20260904T235500
-DTEND:20260905T015500
-DESCRIPTION:Dir: DAVID CRONENBERG (1988)\nhttps://www.ifccenter.com/series
- /late-night-favorites-summer-2026/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/series/late-night-favorites-summer-2026/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:High School II @ LOW CINEMA
-DTSTART:20260904T183000
-DTEND:20260904T203000
-DESCRIPTION:Dir: FREDERICK WISEMAN (1994)\nhttps://uniondocs.org/wisemans-
- new-york/
-LOCATION:LOW CINEMA
-URL:https://uniondocs.org/wisemans-new-york/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Apartment @ METROGRAPH
-DTSTART:20260904T142500
-DTEND:20260904T162500
-DESCRIPTION:Dir: BILLY WILDER (1960)\nhttps://metrograph.com/office-of-emp
- tiness/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/office-of-emptiness/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Apartment @ METROGRAPH
-DTSTART:20260904T143000
-DTEND:20260904T163000
-DESCRIPTION:Dir: BILLY WILDER (1960)\nhttps://metrograph.com/office-of-emp
- tiness/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/office-of-emptiness/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Apartment @ METROGRAPH
-DTSTART:20260904T170000
-DTEND:20260904T190000
-DESCRIPTION:Dir: BILLY WILDER (1960)\nhttps://metrograph.com/office-of-emp
- tiness/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/office-of-emptiness/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Apartment @ METROGRAPH
-DTSTART:20260904T171500
-DTEND:20260904T191500
-DESCRIPTION:Dir: BILLY WILDER (1960)\nhttps://metrograph.com/office-of-emp
- tiness/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/office-of-emptiness/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Apartment @ METROGRAPH
-DTSTART:20260904T192000
-DTEND:20260904T212000
-DESCRIPTION:Dir: BILLY WILDER (1960)\nhttps://metrograph.com/office-of-emp
- tiness/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/office-of-emptiness/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Apartment @ METROGRAPH
-DTSTART:20260904T193000
-DTEND:20260904T213000
-DESCRIPTION:Dir: BILLY WILDER (1960)\nhttps://metrograph.com/office-of-emp
- tiness/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/office-of-emptiness/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Apartment @ METROGRAPH
-DTSTART:20260904T213000
-DTEND:20260904T233000
-DESCRIPTION:Dir: BILLY WILDER (1960)\nhttps://metrograph.com/office-of-emp
- tiness/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/office-of-emptiness/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Apartment @ METROGRAPH
-DTSTART:20260904T213500
-DTEND:20260904T233500
-DESCRIPTION:Dir: BILLY WILDER (1960)\nhttps://metrograph.com/office-of-emp
- tiness/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/office-of-emptiness/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Apartment @ METROGRAPH
-DTSTART:20260904T142500
-DTEND:20260904T162500
-DESCRIPTION:Dir: BILLY WILDER (1960)\nhttps://metrograph.com/office-of-emp
- tiness/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/office-of-emptiness/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2046 @ METROGRAPH
-DTSTART:20260904T143000
-DTEND:20260904T163000
-DESCRIPTION:Dir: WONG KAR-WAI (2004)\nhttps://metrograph.com/series/?vista
- _series_id=0000000558
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000558
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2046 @ METROGRAPH
-DTSTART:20260904T143000
-DTEND:20260904T163000
-DESCRIPTION:Dir: WONG KAR-WAI (2004)\nhttps://metrograph.com/series/?vista
- _series_id=0000000558
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000558
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The City of Lost Children @ METROGRAPH
-DTSTART:20260904T170000
-DTEND:20260904T190000
-DESCRIPTION:Dir: JEAN-PIERRE JEUNET\, MARC CARO (1995)\nhttps://metrograph
- .com/series/?vista_series_id=0000000572
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000572
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The City of Lost Children @ METROGRAPH
-DTSTART:20260904T170000
-DTEND:20260904T190000
-DESCRIPTION:Dir: JEAN-PIERRE JEUNET\, MARC CARO (1995)\nhttps://metrograph
- .com/series/?vista_series_id=0000000572
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000572
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Daughter of the Nile @ METROGRAPH
-DTSTART:20260904T171500
-DTEND:20260904T191500
-DESCRIPTION:Dir: HOU HSIAO-HSIEN (1987)\nhttps://metrograph.com/series/?vi
- sta_series_id=0000000573
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000573
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Daughter of the Nile @ METROGRAPH
-DTSTART:20260904T171500
-DTEND:20260904T191500
-DESCRIPTION:Dir: HOU HSIAO-HSIEN (1987)\nhttps://metrograph.com/series/?vi
- sta_series_id=0000000573
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000573
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shanghai Blues @ METROGRAPH
-DTSTART:20260904T192000
-DTEND:20260904T212000
-DESCRIPTION:Dir: TSUI HARK (1984)\nhttps://metrograph.com/series/?vista_se
- ries_id=0000000574
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000574
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shanghai Blues @ METROGRAPH
-DTSTART:20260904T192000
-DTEND:20260904T212000
-DESCRIPTION:Dir: TSUI HARK (1984)\nhttps://metrograph.com/series/?vista_se
- ries_id=0000000574
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000574
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Job @ METROGRAPH
-DTSTART:20260904T193000
-DTEND:20260904T213000
-DESCRIPTION:Dir: CHRIS SMITH (1996)\nhttps://metrograph.com/office-of-empt
- iness/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/office-of-emptiness/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Job @ METROGRAPH
-DTSTART:20260904T193000
-DTEND:20260904T213000
-DESCRIPTION:Dir: CHRIS SMITH (1996)\nhttps://metrograph.com/office-of-empt
- iness/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/office-of-emptiness/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Peking Opera Blues @ METROGRAPH
-DTSTART:20260904T213000
-DTEND:20260904T233000
-DESCRIPTION:Dir: TSUI HARK (1986)\nhttps://metrograph.com/series/?vista_se
- ries_id=0000000574
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000574
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Peking Opera Blues @ METROGRAPH
-DTSTART:20260904T213000
-DTEND:20260904T233000
-DESCRIPTION:Dir: TSUI HARK (1986)\nhttps://metrograph.com/series/?vista_se
- ries_id=0000000574
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000574
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Delicatessen @ METROGRAPH
-DTSTART:20260904T213500
-DTEND:20260904T233500
-DESCRIPTION:Dir: JEAN-PIERRE JEUNET\, MARC CARO (1991)\nhttps://metrograph
- .com/series/?vista_series_id=0000000572
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000572
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Delicatessen @ METROGRAPH
-DTSTART:20260904T213500
-DTEND:20260904T233500
-DESCRIPTION:Dir: JEAN-PIERRE JEUNET\, MARC CARO (1991)\nhttps://metrograph
- .com/series/?vista_series_id=0000000572
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000572
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Man Push Cart @ MUSEUM OF MODERN ART
-DTSTART:20260904T190000
-DTEND:20260904T210000
-DESCRIPTION:Dir: RAMIN BAHRANI (2005)\nhttps://www.moma.org/calendar/film/
- 5911
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5911
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:From Dusk Till Dawn @ NITEHAWK CINEMA WILLIAMSBURG
-DTSTART:20260904T235500
-DTEND:20260905T015500
-DESCRIPTION:Dir: ROBERT RODRIGUEZ (1996)\nhttps://nitehawkcinema.com/willi
- amsburg/film-series/anniversary-party/
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://nitehawkcinema.com/williamsburg/film-series/anniversary-party/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elevator to the Gallows @ PARIS THEATER
-DTSTART:20260904T120000
-DTEND:20260904T140000
-DESCRIPTION:Dir: LOUIS MALLE (1957)\nhttps://www.paristheaternyc.com/serie
- s/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elevator to the Gallows @ PARIS THEATER
-DTSTART:20260904T144500
-DTEND:20260904T164500
-DESCRIPTION:Dir: LOUIS MALLE (1957)\nhttps://www.paristheaternyc.com/serie
- s/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elevator to the Gallows @ PARIS THEATER
-DTSTART:20260904T184500
-DTEND:20260904T204500
-DESCRIPTION:Dir: LOUIS MALLE (1957)\nhttps://www.paristheaternyc.com/serie
- s/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elevator to the Gallows @ PARIS THEATER
-DTSTART:20260904T214500
-DTEND:20260904T234500
-DESCRIPTION:Dir: LOUIS MALLE (1957)\nhttps://www.paristheaternyc.com/serie
- s/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heat @ PARIS THEATER
-DTSTART:20260904T144500
-DTEND:20260904T164500
-DESCRIPTION:Dir: MICHAEL MANN (1995)\nhttps://www.paristheaternyc.com/seri
- es/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Batman @ PARIS THEATER
-DTSTART:20260904T184500
-DTEND:20260904T204500
-DESCRIPTION:Dir: TIM BURTON (1989)\nhttps://www.paristheaternyc.com/series
- /big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Panic Room @ PARIS THEATER
-DTSTART:20260904T214500
-DTEND:20260904T234500
-DESCRIPTION:Dir: DAVID FINCHER (2002)\nhttps://www.paristheaternyc.com/ser
- ies/big-loud-2026
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/big-loud-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Lake House @ ROXY CINEMA NEW YORK
-DTSTART:20260904T170000
-DTEND:20260904T190000
-DESCRIPTION:Dir: ALEJANDRO AGRETSI (2006)\nhttps://www.roxycinemanewyork.c
- om/stories/2006-movies-you-must-see-before-you-die/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/stories/2006-movies-you-must-see-bef
- ore-you-die/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Lake House @ ROXY CINEMA NEW YORK
-DTSTART:20260904T190000
-DTEND:20260904T210000
-DESCRIPTION:Dir: ALEJANDRO AGRETSI (2006)\nhttps://www.roxycinemanewyork.c
- om/stories/2006-movies-you-must-see-before-you-die/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/stories/2006-movies-you-must-see-bef
- ore-you-die/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Lake House @ ROXY CINEMA NEW YORK
-DTSTART:20260904T210000
-DTEND:20260904T230000
-DESCRIPTION:Dir: ALEJANDRO AGRETSI (2006)\nhttps://www.roxycinemanewyork.c
- om/stories/2006-movies-you-must-see-before-you-die/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/stories/2006-movies-you-must-see-bef
- ore-you-die/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dildo Heaven @ ROXY CINEMA NEW YORK
-DTSTART:20260904T190000
-DTEND:20260904T210000
-DESCRIPTION:Dir: DORIS WISHMAN (2002)\nhttps://www.roxycinemanewyork.com/s
- tories/musclefest/
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://www.roxycinemanewyork.com/stories/musclefest/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Funeral Siniestro @ SPECTACLE
-DTSTART:20260904T170000
-DTEND:20260904T190000
-DESCRIPTION:Dir: JAIRO PINILLA (1977)\nhttps://www.spectacletheater.com/fu
- neral-siniestro/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/funeral-siniestro/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Funeral Siniestro @ SPECTACLE
-DTSTART:20260904T193000
-DTEND:20260904T213000
-DESCRIPTION:Dir: JAIRO PINILLA (1977)\nhttps://www.spectacletheater.com/fu
- neral-siniestro/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/funeral-siniestro/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Funeral Siniestro @ SPECTACLE
-DTSTART:20260904T220000
-DTEND:20260905T000000
-DESCRIPTION:Dir: JAIRO PINILLA (1977)\nhttps://www.spectacletheater.com/fu
- neral-siniestro/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/funeral-siniestro/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Funeral Siniestro @ SPECTACLE
-DTSTART:20260904T235500
-DTEND:20260905T015500
-DESCRIPTION:Dir: JAIRO PINILLA (1977)\nhttps://www.spectacletheater.com/fu
- neral-siniestro/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/funeral-siniestro/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Whore's Glory @ SPECTACLE
-DTSTART:20260904T193000
-DTEND:20260904T213000
-DESCRIPTION:Dir: MICHAEL GLAWOGGER (2011)\nhttps://www.spectacletheater.co
- m/michael-glawoggers-globalization-trilogy/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/michael-glawoggers-globalization-tril
- ogy/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cyberscape: A Computer Animation Vision @ SPECTACLE
-DTSTART:20260904T220000
-DTEND:20260905T000000
-DESCRIPTION:Dir: BENY TCHAICOVSKY (1997)\nhttps://www.spectacletheater.com
- /eek-ork-ork-vol-ii/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/eek-ork-ork-vol-ii/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tisoy! @ SPECTACLE
-DTSTART:20260904T235500
-DTEND:20260905T015500
-DESCRIPTION:Dir: ISHMAEL BERNAL (1977)\nhttps://www.spectacletheater.com/b
- ernal/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/bernal/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Whistle and I'll Come to You @ SUNVIEW LUNCHEONETTE
-DTSTART:20260904T190000
-DTEND:20260904T210000
-DESCRIPTION:Dir: JONATHAN MILLER (1968)\nhttps://www.thesunview.org/
-LOCATION:SUNVIEW LUNCHEONETTE
-URL:https://www.thesunview.org/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Star Trek II: The Wrath of Khan @ ALAMO DRAFTHOUSE DOWNTOWN BROOKL
  YN
 DTSTART:20260905T160000
@@ -1800,10 +542,70 @@ LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Give It A Shot @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260905T140000
+DTEND:20260905T160000
+DESCRIPTION:Dir: VAISHALI SINHA (2026)\nhttps://www.dctvny.org/s/firehouse
+ -film/give-it-a-shot-MC3DXF3RBUUFAFVOFXMPFJTSXGVI
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/give-it-a-shot-MC3DXF3RBUUFAFV
+ OFXMPFJTSXGVI
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Give It A Shot @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260905T163000
+DTEND:20260905T183000
+DESCRIPTION:Dir: VAISHALI SINHA (2026)\nhttps://www.dctvny.org/s/firehouse
+ -film/give-it-a-shot-MC3DXF3RBUUFAFVOFXMPFJTSXGVI
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/give-it-a-shot-MC3DXF3RBUUFAFV
+ OFXMPFJTSXGVI
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Give It A Shot @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260905T200000
+DTEND:20260905T220000
+DESCRIPTION:Dir: VAISHALI SINHA (2026)\nhttps://www.dctvny.org/s/firehouse
+ -film/give-it-a-shot-MC3DXF3RBUUFAFVOFXMPFJTSXGVI
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/give-it-a-shot-MC3DXF3RBUUFAFV
+ OFXMPFJTSXGVI
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Give It A Shot @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260905T183000
+DTEND:20260905T203000
+DESCRIPTION:Dir: VAISHALI SINHA (2026)\nhttps://www.dctvny.org/s/firehouse
+ -film/give-it-a-shot-MC3DXF3RBUUFAFVOFXMPFJTSXGVI
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/give-it-a-shot-MC3DXF3RBUUFAFV
+ OFXMPFJTSXGVI
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Give It A Shot @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260905T190000
+DTEND:20260905T210000
+DESCRIPTION:Dir: VAISHALI SINHA (2026)\nhttps://www.dctvny.org/s/firehouse
+ -film/give-it-a-shot-MC3DXF3RBUUFAFVOFXMPFJTSXGVI
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/give-it-a-shot-MC3DXF3RBUUFAFV
+ OFXMPFJTSXGVI
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bloodlines\, Mississippi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENT
  ARY FILM
 DTSTART:20260905T183000
 DTEND:20260905T203000
+DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://firehousecinema.dctvny.org
+ /bloodlines
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://firehousecinema.dctvny.org/bloodlines
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bloodlines\, Mississippi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENT
+ ARY FILM
+DTSTART:20260905T190000
+DTEND:20260905T210000
 DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://firehousecinema.dctvny.org
  /bloodlines
 LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
@@ -1957,6 +759,15 @@ BEGIN:VEVENT
 SUMMARY:How To Divorce During The War @ IFC CENTER
 DTSTART:20260905T185500
 DTEND:20260905T205500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260905T233500
+DTEND:20260906T013500
 DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
  lms/how-to-divorce-during-the-war/
 LOCATION:IFC CENTER
@@ -2133,6 +944,15 @@ DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
 LOCATION:IFC CENTER
 URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
  -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manhunter @ IFC CENTER
+DTSTART:20260905T233500
+DTEND:20260906T013500
+DESCRIPTION:Dir: MICHAEL MANN (1986)\nhttps://www.ifccenter.com/series/wav
+ erly-midnights-mann-splaining/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/waverly-midnights-mann-splaining/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colony @ IFC CENTER
@@ -2412,6 +1232,33 @@ DESCRIPTION:Dir: ISABEL SANDOVAL (2019)\nhttps://www.moma.org/calendar/fil
  m/5911
 LOCATION:MUSEUM OF MODERN ART
 URL:https://www.moma.org/calendar/film/5911
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Me Tonight @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260905T130000
+DTEND:20260905T150000
+DESCRIPTION:Dir: ROUBEN MAMOULIAN (1932)\nhttps://movingimage.org/series/s
+ ong-dance/
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://movingimage.org/series/song-dance/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Me Tonight @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260905T150000
+DTEND:20260905T170000
+DESCRIPTION:Dir: ROUBEN MAMOULIAN (1932)\nhttps://movingimage.org/series/s
+ ong-dance/
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://movingimage.org/series/song-dance/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In the Cut @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260905T150000
+DTEND:20260905T170000
+DESCRIPTION:Dir: JANE CAMPION (2003)\nhttps://movingimage.org/series/rever
+ se-shot-presents/
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://movingimage.org/series/reverse-shot-presents/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Three Amigos @ NITEHAWK CINEMA PROSPECT PARK
@@ -3274,6 +2121,66 @@ LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
 URL:https://firehousecinema.dctvny.org/bloodlines
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bloodlines\, Mississippi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENT
+ ARY FILM
+DTSTART:20260906T151500
+DTEND:20260906T171500
+DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://firehousecinema.dctvny.org
+ /bloodlines
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://firehousecinema.dctvny.org/bloodlines
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bloodlines\, Mississippi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENT
+ ARY FILM
+DTSTART:20260906T180000
+DTEND:20260906T200000
+DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://firehousecinema.dctvny.org
+ /bloodlines
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://firehousecinema.dctvny.org/bloodlines
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bloodlines\, Mississippi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENT
+ ARY FILM
+DTSTART:20260906T203000
+DTEND:20260906T223000
+DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://firehousecinema.dctvny.org
+ /bloodlines
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://firehousecinema.dctvny.org/bloodlines
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Give It A Shot @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260906T151500
+DTEND:20260906T171500
+DESCRIPTION:Dir: VAISHALI SINHA (2026)\nhttps://www.dctvny.org/s/firehouse
+ -film/give-it-a-shot-MC3DXF3RBUUFAFVOFXMPFJTSXGVI
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/give-it-a-shot-MC3DXF3RBUUFAFV
+ OFXMPFJTSXGVI
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Give It A Shot @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260906T180000
+DTEND:20260906T200000
+DESCRIPTION:Dir: VAISHALI SINHA (2026)\nhttps://www.dctvny.org/s/firehouse
+ -film/give-it-a-shot-MC3DXF3RBUUFAFVOFXMPFJTSXGVI
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/give-it-a-shot-MC3DXF3RBUUFAFV
+ OFXMPFJTSXGVI
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Give It A Shot @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260906T203000
+DTEND:20260906T223000
+DESCRIPTION:Dir: VAISHALI SINHA (2026)\nhttps://www.dctvny.org/s/firehouse
+ -film/give-it-a-shot-MC3DXF3RBUUFAFVOFXMPFJTSXGVI
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/give-it-a-shot-MC3DXF3RBUUFAFV
+ OFXMPFJTSXGVI
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:How To Divorce During The War @ IFC CENTER
 DTSTART:20260906T105500
 DTEND:20260906T125500
@@ -3815,18 +2722,36 @@ LOCATION:MUSEUM OF MODERN ART
 URL:https://www.moma.org/calendar/film/5911
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Umbrellas of Cherbourg @ MUSEUM OF THE MOVING IMAGE
+SUMMARY:Casino @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260906T130000
+DTEND:20260906T150000
+DESCRIPTION:Dir: MARTIN SCORSESE (1995)\nhttps://movingimage.org/series/th
+ e-originals/
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://movingimage.org/series/the-originals/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Casino @ MUSEUM OF THE MOVING IMAGE
 DTSTART:20260906T133000
 DTEND:20260906T153000
-DESCRIPTION:Dir: JACQUES DEMY (1964)\nhttps://movingimage.org/series/song-
- dance/
+DESCRIPTION:Dir: MARTIN SCORSESE (1995)\nhttps://movingimage.org/series/th
+ e-originals/
 LOCATION:MUSEUM OF THE MOVING IMAGE
-URL:https://movingimage.org/series/song-dance/
+URL:https://movingimage.org/series/the-originals/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Casino @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20260906T153000
+DTEND:20260906T173000
+DESCRIPTION:Dir: MARTIN SCORSESE (1995)\nhttps://movingimage.org/series/th
+ e-originals/
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://movingimage.org/series/the-originals/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Umbrellas of Cherbourg @ MUSEUM OF THE MOVING IMAGE
-DTSTART:20260906T153000
-DTEND:20260906T173000
+DTSTART:20260906T133000
+DTEND:20260906T153000
 DESCRIPTION:Dir: JACQUES DEMY (1964)\nhttps://movingimage.org/series/song-
  dance/
 LOCATION:MUSEUM OF THE MOVING IMAGE
@@ -4539,6 +3464,46 @@ DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
  he-samurai-and-the-prisoner/
 LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Give It A Shot @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260907T140000
+DTEND:20260907T160000
+DESCRIPTION:Dir: VAISHALI SINHA (2026)\nhttps://www.dctvny.org/s/firehouse
+ -film/give-it-a-shot-MC3DXF3RBUUFAFVOFXMPFJTSXGVI
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/give-it-a-shot-MC3DXF3RBUUFAFV
+ OFXMPFJTSXGVI
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Give It A Shot @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260907T160000
+DTEND:20260907T180000
+DESCRIPTION:Dir: VAISHALI SINHA (2026)\nhttps://www.dctvny.org/s/firehouse
+ -film/give-it-a-shot-MC3DXF3RBUUFAFVOFXMPFJTSXGVI
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/give-it-a-shot-MC3DXF3RBUUFAFV
+ OFXMPFJTSXGVI
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Give It A Shot @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260907T190000
+DTEND:20260907T210000
+DESCRIPTION:Dir: VAISHALI SINHA (2026)\nhttps://www.dctvny.org/s/firehouse
+ -film/give-it-a-shot-MC3DXF3RBUUFAFVOFXMPFJTSXGVI
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/give-it-a-shot-MC3DXF3RBUUFAFV
+ OFXMPFJTSXGVI
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Give It A Shot @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260907T180000
+DTEND:20260907T200000
+DESCRIPTION:Dir: VAISHALI SINHA (2026)\nhttps://www.dctvny.org/s/firehouse
+ -film/give-it-a-shot-MC3DXF3RBUUFAFVOFXMPFJTSXGVI
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/give-it-a-shot-MC3DXF3RBUUFAFV
+ OFXMPFJTSXGVI
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bloodlines\, Mississippi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENT
@@ -5730,6 +4695,66 @@ LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
 URL:https://firehousecinema.dctvny.org/bloodlines
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bloodlines\, Mississippi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENT
+ ARY FILM
+DTSTART:20260908T133000
+DTEND:20260908T153000
+DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://firehousecinema.dctvny.org
+ /bloodlines
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://firehousecinema.dctvny.org/bloodlines
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bloodlines\, Mississippi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENT
+ ARY FILM
+DTSTART:20260908T153000
+DTEND:20260908T173000
+DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://firehousecinema.dctvny.org
+ /bloodlines
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://firehousecinema.dctvny.org/bloodlines
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bloodlines\, Mississippi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENT
+ ARY FILM
+DTSTART:20260908T213000
+DTEND:20260908T233000
+DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://firehousecinema.dctvny.org
+ /bloodlines
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://firehousecinema.dctvny.org/bloodlines
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Give It A Shot @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260908T133000
+DTEND:20260908T153000
+DESCRIPTION:Dir: VAISHALI SINHA (2026)\nhttps://www.dctvny.org/s/firehouse
+ -film/give-it-a-shot-MC3DXF3RBUUFAFVOFXMPFJTSXGVI
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/give-it-a-shot-MC3DXF3RBUUFAFV
+ OFXMPFJTSXGVI
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Give It A Shot @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260908T153000
+DTEND:20260908T173000
+DESCRIPTION:Dir: VAISHALI SINHA (2026)\nhttps://www.dctvny.org/s/firehouse
+ -film/give-it-a-shot-MC3DXF3RBUUFAFVOFXMPFJTSXGVI
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/give-it-a-shot-MC3DXF3RBUUFAFV
+ OFXMPFJTSXGVI
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Give It A Shot @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260908T213000
+DTEND:20260908T233000
+DESCRIPTION:Dir: VAISHALI SINHA (2026)\nhttps://www.dctvny.org/s/firehouse
+ -film/give-it-a-shot-MC3DXF3RBUUFAFVOFXMPFJTSXGVI
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/give-it-a-shot-MC3DXF3RBUUFAFV
+ OFXMPFJTSXGVI
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:How To Divorce During The War @ IFC CENTER
 DTSTART:20260908T105500
 DTEND:20260908T125500
@@ -6551,6 +5576,46 @@ DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
  me/
 LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/films/late-fame/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Give It A Shot @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260909T140000
+DTEND:20260909T160000
+DESCRIPTION:Dir: VAISHALI SINHA (2026)\nhttps://www.dctvny.org/s/firehouse
+ -film/give-it-a-shot-MC3DXF3RBUUFAFVOFXMPFJTSXGVI
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/give-it-a-shot-MC3DXF3RBUUFAFV
+ OFXMPFJTSXGVI
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Give It A Shot @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260909T160000
+DTEND:20260909T180000
+DESCRIPTION:Dir: VAISHALI SINHA (2026)\nhttps://www.dctvny.org/s/firehouse
+ -film/give-it-a-shot-MC3DXF3RBUUFAFVOFXMPFJTSXGVI
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/give-it-a-shot-MC3DXF3RBUUFAFV
+ OFXMPFJTSXGVI
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Give It A Shot @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260909T190000
+DTEND:20260909T210000
+DESCRIPTION:Dir: VAISHALI SINHA (2026)\nhttps://www.dctvny.org/s/firehouse
+ -film/give-it-a-shot-MC3DXF3RBUUFAFVOFXMPFJTSXGVI
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/give-it-a-shot-MC3DXF3RBUUFAFV
+ OFXMPFJTSXGVI
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Give It A Shot @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260909T180000
+DTEND:20260909T200000
+DESCRIPTION:Dir: VAISHALI SINHA (2026)\nhttps://www.dctvny.org/s/firehouse
+ -film/give-it-a-shot-MC3DXF3RBUUFAFVOFXMPFJTSXGVI
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/give-it-a-shot-MC3DXF3RBUUFAFV
+ OFXMPFJTSXGVI
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bloodlines\, Mississippi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENT
@@ -7570,6 +6635,66 @@ DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://firehousecinema.dctvny.org
  /bloodlines
 LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
 URL:https://firehousecinema.dctvny.org/bloodlines
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bloodlines\, Mississippi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENT
+ ARY FILM
+DTSTART:20260910T150000
+DTEND:20260910T170000
+DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://firehousecinema.dctvny.org
+ /bloodlines
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://firehousecinema.dctvny.org/bloodlines
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bloodlines\, Mississippi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENT
+ ARY FILM
+DTSTART:20260910T170000
+DTEND:20260910T190000
+DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://firehousecinema.dctvny.org
+ /bloodlines
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://firehousecinema.dctvny.org/bloodlines
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bloodlines\, Mississippi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENT
+ ARY FILM
+DTSTART:20260910T190000
+DTEND:20260910T210000
+DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://firehousecinema.dctvny.org
+ /bloodlines
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://firehousecinema.dctvny.org/bloodlines
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Give It A Shot @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260910T150000
+DTEND:20260910T170000
+DESCRIPTION:Dir: VAISHALI SINHA (2026)\nhttps://www.dctvny.org/s/firehouse
+ -film/give-it-a-shot-MC3DXF3RBUUFAFVOFXMPFJTSXGVI
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/give-it-a-shot-MC3DXF3RBUUFAFV
+ OFXMPFJTSXGVI
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Give It A Shot @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260910T170000
+DTEND:20260910T190000
+DESCRIPTION:Dir: VAISHALI SINHA (2026)\nhttps://www.dctvny.org/s/firehouse
+ -film/give-it-a-shot-MC3DXF3RBUUFAFVOFXMPFJTSXGVI
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/give-it-a-shot-MC3DXF3RBUUFAFV
+ OFXMPFJTSXGVI
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Give It A Shot @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+DTSTART:20260910T190000
+DTEND:20260910T210000
+DESCRIPTION:Dir: VAISHALI SINHA (2026)\nhttps://www.dctvny.org/s/firehouse
+ -film/give-it-a-shot-MC3DXF3RBUUFAFVOFXMPFJTSXGVI
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/give-it-a-shot-MC3DXF3RBUUFAFV
+ OFXMPFJTSXGVI
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:How To Divorce During The War @ IFC CENTER
@@ -9490,6 +8615,62 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/nyc-in-transit
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Big Scary 'S' Word @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTAR
+ Y FILM
+DTSTART:20260913T113000
+DTEND:20260913T133000
+DESCRIPTION:Dir: YAEL BRIDGE (2020)\nhttps://www.dctvny.org/s/firehouse-fi
+ lm/the-big-scary-s-word-MCK4GJWDLTT5FHDEYTQIQTXSUS7Y
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/the-big-scary-s-word-MCK4GJWDL
+ TT5FHDEYTQIQTXSUS7Y
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Big Scary 'S' Word @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTAR
+ Y FILM
+DTSTART:20260913T140000
+DTEND:20260913T160000
+DESCRIPTION:Dir: YAEL BRIDGE (2020)\nhttps://www.dctvny.org/s/firehouse-fi
+ lm/the-big-scary-s-word-MCK4GJWDLTT5FHDEYTQIQTXSUS7Y
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/the-big-scary-s-word-MCK4GJWDL
+ TT5FHDEYTQIQTXSUS7Y
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Big Scary 'S' Word @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTAR
+ Y FILM
+DTSTART:20260913T163000
+DTEND:20260913T183000
+DESCRIPTION:Dir: YAEL BRIDGE (2020)\nhttps://www.dctvny.org/s/firehouse-fi
+ lm/the-big-scary-s-word-MCK4GJWDLTT5FHDEYTQIQTXSUS7Y
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/the-big-scary-s-word-MCK4GJWDL
+ TT5FHDEYTQIQTXSUS7Y
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Big Scary 'S' Word @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTAR
+ Y FILM
+DTSTART:20260913T190000
+DTEND:20260913T210000
+DESCRIPTION:Dir: YAEL BRIDGE (2020)\nhttps://www.dctvny.org/s/firehouse-fi
+ lm/the-big-scary-s-word-MCK4GJWDLTT5FHDEYTQIQTXSUS7Y
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/the-big-scary-s-word-MCK4GJWDL
+ TT5FHDEYTQIQTXSUS7Y
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Homes Apart: Korea @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FI
+ LM
+DTSTART:20260913T140000
+DTEND:20260913T160000
+DESCRIPTION:Dir: CHRISTINE CHOY\, JT TAKAGI (1991)\nhttps://www.dctvny.org
+ /s/firehousecinema/series/christine-choy-retrospective-MCWQ67DADNFVD7BKSIL
+ YN4LNGTWA
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehousecinema/series/christine-choy-retrosp
+ ective-MCWQ67DADNFVD7BKSILYN4LNGTWA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Who Moves America @ IFC CENTER
 DTSTART:20260913T142500
 DTEND:20260913T162500
@@ -9804,6 +8985,28 @@ DESCRIPTION:Dir: STAN BRAKHAGE (1998)\nhttps://filmmakerscoop.ecwid.com/a-
  k-a-Ellipses-by-Brakhage-p856970892
 LOCATION:FILM-MAKERS’ COOP
 URL:https://filmmakerscoop.ecwid.com/a-k-a-Ellipses-by-Brakhage-p856970892
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mississippi Triangle @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY 
+ FILM
+DTSTART:20260914T153000
+DTEND:20260914T173000
+DESCRIPTION:Dir: JAMES PAUL DALLAS (2026)\nhttps://www.dctvny.org/s/fireho
+ use-film/thresholds-MCKTXRBKX5I5HPHDRX4TWDQGI4LE
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/thresholds-MCKTXRBKX5I5HPHDRX4
+ TWDQGI4LE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mississippi Triangle @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY 
+ FILM
+DTSTART:20260914T180000
+DTEND:20260914T200000
+DESCRIPTION:Dir: JAMES PAUL DALLAS (2026)\nhttps://www.dctvny.org/s/fireho
+ use-film/thresholds-MCKTXRBKX5I5HPHDRX4TWDQGI4LE
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/thresholds-MCKTXRBKX5I5HPHDRX4
+ TWDQGI4LE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Who Moves America @ IFC CENTER
@@ -10135,6 +9338,28 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/nyc-in-transit
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Homes Apart: Korea @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FI
+ LM
+DTSTART:20260915T153000
+DTEND:20260915T173000
+DESCRIPTION:Dir: JAMES PAUL DALLAS (2026)\nhttps://www.dctvny.org/s/fireho
+ use-film/thresholds-MCKTXRBKX5I5HPHDRX4TWDQGI4LE
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/thresholds-MCKTXRBKX5I5HPHDRX4
+ TWDQGI4LE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Homes Apart: Korea @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FI
+ LM
+DTSTART:20260915T180000
+DTEND:20260915T200000
+DESCRIPTION:Dir: JAMES PAUL DALLAS (2026)\nhttps://www.dctvny.org/s/fireho
+ use-film/thresholds-MCKTXRBKX5I5HPHDRX4TWDQGI4LE
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehouse-film/thresholds-MCKTXRBKX5I5HPHDRX4
+ TWDQGI4LE
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Who Moves America @ IFC CENTER
 DTSTART:20260915T142500
 DTEND:20260915T162500
@@ -10398,6 +9623,30 @@ DESCRIPTION:Dir: SKY HOPINKA (2025)\nhttps://www.bam.org/film/2026/powwow-
  people
 LOCATION:BAM
 URL:https://www.bam.org/film/2026/powwow-people
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mississippi Triangle @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY 
+ FILM
+DTSTART:20260916T180000
+DTEND:20260916T200000
+DESCRIPTION:Dir: WORTH LONG\, ALLAN SIEGEL\, CHRISTINE CHOY (1984)\nhttps:
+ //www.dctvny.org/s/firehousecinema/series/christine-choy-retrospective-MCW
+ Q67DADNFVD7BKSILYN4LNGTWA
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehousecinema/series/christine-choy-retrosp
+ ective-MCWQ67DADNFVD7BKSILYN4LNGTWA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mississippi Triangle @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY 
+ FILM
+DTSTART:20260916T203000
+DTEND:20260916T223000
+DESCRIPTION:Dir: WORTH LONG\, ALLAN SIEGEL\, CHRISTINE CHOY (1984)\nhttps:
+ //www.dctvny.org/s/firehousecinema/series/christine-choy-retrospective-MCW
+ Q67DADNFVD7BKSILYN4LNGTWA
+LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
+URL:https://www.dctvny.org/s/firehousecinema/series/christine-choy-retrosp
+ ective-MCWQ67DADNFVD7BKSILYN4LNGTWA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Unknown Quantity @ MUSEUM OF MODERN ART
@@ -10739,6 +9988,23 @@ LOCATION:MUSEUM OF MODERN ART
 URL:https://www.moma.org/calendar/film/5930
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Drunken Master @ MUSEUM OF MODERN ART
+DTSTART:20260918T190000
+DTEND:20260918T210000
+DESCRIPTION:Dir: YUEN WOO-PING (1978)\nhttps://www.moma.org/calendar/film/
+ 5930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crouching Tiger\, Hidden Dragon @ MUSEUM OF MODERN ART
+DTSTART:20260918T190000
+DTEND:20260918T210000
+DESCRIPTION:Dir: ANG LEE (2000)\nhttps://www.moma.org/calendar/film/5930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Don't Torture a Duckling @ NITEHAWK CINEMA WILLIAMSBURG
 DTSTART:20260918T235500
 DTEND:20260919T015500
@@ -10963,6 +10229,33 @@ DESCRIPTION:Dir: HOU HSIAO-HSIEN (2015)\nhttps://www.bam.org/film/2026/a-p
  ure-person
 LOCATION:BAM
 URL:https://www.bam.org/film/2026/a-pure-person
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Matrix @ MUSEUM OF MODERN ART
+DTSTART:20260919T153000
+DTEND:20260919T173000
+DESCRIPTION:Dir: LANA WACHOWSKI & LILLY WACHOWSKI (1999)\nhttps://www.moma
+ .org/calendar/film/5930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Matrix @ MUSEUM OF MODERN ART
+DTSTART:20260919T190000
+DTEND:20260919T210000
+DESCRIPTION:Dir: LANA WACHOWSKI & LILLY WACHOWSKI (1999)\nhttps://www.moma
+ .org/calendar/film/5930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kill Bill: Vol. 1 @ MUSEUM OF MODERN ART
+DTSTART:20260919T190000
+DTEND:20260919T210000
+DESCRIPTION:Dir: QUENTIN TARANTINO (2003)\nhttps://www.moma.org/calendar/f
+ ilm/5930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Above the Rim @ NITEHAWK CINEMA PROSPECT PARK
@@ -11202,6 +10495,33 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/wild-style
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kung Fu Hustle @ MUSEUM OF MODERN ART
+DTSTART:20260920T133000
+DTEND:20260920T153000
+DESCRIPTION:Dir: STEPHEN CHOW (2004)\nhttps://www.moma.org/calendar/film/5
+ 930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kung Fu Hustle @ MUSEUM OF MODERN ART
+DTSTART:20260920T160000
+DTEND:20260920T180000
+DESCRIPTION:Dir: STEPHEN CHOW (2004)\nhttps://www.moma.org/calendar/film/5
+ 930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Miracle Fighters @ MUSEUM OF MODERN ART
+DTSTART:20260920T160000
+DTEND:20260920T180000
+DESCRIPTION:Dir: YUEN WOO-PING (1982)\nhttps://www.moma.org/calendar/film/
+ 5930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ghosts of Mars @ NITEHAWK CINEMA PROSPECT PARK
 DTSTART:20260920T120000
 DTEND:20260920T140000
@@ -11284,6 +10604,24 @@ LOCATION:BAM
 URL:https://www.bam.org/film/2026/a-pure-person
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Magnificent Butcher @ MUSEUM OF MODERN ART
+DTSTART:20260921T190000
+DTEND:20260921T210000
+DESCRIPTION:Dir: LI YI-FAN (2023)\nhttp://www.moma.org/calendar/film/560?l
+ ocale=en
+LOCATION:MUSEUM OF MODERN ART
+URL:http://www.moma.org/calendar/film/560?locale=en
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Magnificent Butcher @ MUSEUM OF MODERN ART
+DTSTART:20260921T193000
+DTEND:20260921T213000
+DESCRIPTION:Dir: LI YI-FAN (2023)\nhttp://www.moma.org/calendar/film/560?l
+ ocale=en
+LOCATION:MUSEUM OF MODERN ART
+URL:http://www.moma.org/calendar/film/560?locale=en
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bullet @ NITEHAWK CINEMA PROSPECT PARK
 DTSTART:20260921T213000
 DTEND:20260921T233000
@@ -11339,6 +10677,45 @@ DESCRIPTION:Dir: JAIRO PINILLA (1977)\nhttps://www.spectacletheater.com/fu
  neral-siniestro/
 LOCATION:SPECTACLE
 URL:https://www.spectacletheater.com/funeral-siniestro/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Sassy Girl @ ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
+DTSTART:20260922T180000
+DTEND:20260922T200000
+DESCRIPTION:Dir: KWAK JAE-YONG (2001)\nhttps://drafthouse.com/nyc/event/sa
+ d-girl-cinema-club-my-sassy-girl?cinemaId=2101&amp\;sessionId=136387
+LOCATION:ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
+URL:https://drafthouse.com/nyc/event/sad-girl-cinema-club-my-sassy-girl?ci
+ nemaId=2101&amp;sessionId=136387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Sassy Girl @ ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
+DTSTART:20260922T214500
+DTEND:20260922T234500
+DESCRIPTION:Dir: KWAK JAE-YONG (2001)\nhttps://drafthouse.com/nyc/event/sa
+ d-girl-cinema-club-my-sassy-girl?cinemaId=2101&amp\;sessionId=136387
+LOCATION:ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
+URL:https://drafthouse.com/nyc/event/sad-girl-cinema-club-my-sassy-girl?ci
+ nemaId=2101&amp;sessionId=136387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Devil’s Doorway @ ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
+DTSTART:20260922T214500
+DTEND:20260922T234500
+DESCRIPTION:Dir: AISLINN CLARKE (2018)\nhttps://drafthouse.com/series/terr
+ or-tuesday
+LOCATION:ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
+URL:https://drafthouse.com/series/terror-tuesday
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Sassy Girl @ ALAMO DRAFTHOUSE LOWER MANHATTAN
+DTSTART:20260922T180000
+DTEND:20260922T200000
+DESCRIPTION:Dir: KWAK JAE-YONG (2001)\nhttps://drafthouse.com/nyc/event/sa
+ d-girl-cinema-club-my-sassy-girl?cinemaId=2103&amp\;sessionId=96075
+LOCATION:ALAMO DRAFTHOUSE LOWER MANHATTAN
+URL:https://drafthouse.com/nyc/event/sad-girl-cinema-club-my-sassy-girl?ci
+ nemaId=2103&amp;sessionId=96075
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Time Stepping @ ANTHOLOGY FILM ARCHIVES
@@ -11441,6 +10818,33 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/nyc-in-transit
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Master Z: The Ip Man Legacy @ MUSEUM OF MODERN ART
+DTSTART:20260922T160000
+DTEND:20260922T180000
+DESCRIPTION:Dir: YUEN WOO-PING (2018)\nhttps://www.moma.org/calendar/film/
+ 5930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Master Z: The Ip Man Legacy @ MUSEUM OF MODERN ART
+DTSTART:20260922T190000
+DTEND:20260922T210000
+DESCRIPTION:Dir: YUEN WOO-PING (2018)\nhttps://www.moma.org/calendar/film/
+ 5930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In the Line of Duty 4: Witness @ MUSEUM OF MODERN ART
+DTSTART:20260922T190000
+DTEND:20260922T210000
+DESCRIPTION:Dir: YUEN WOO-PING (1989)\nhttps://www.moma.org/calendar/film/
+ 5930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Thiiird @ NITEHAWK CINEMA PROSPECT PARK
 DTSTART:20260922T190000
 DTEND:20260922T210000
@@ -11495,6 +10899,16 @@ DESCRIPTION:Dir: MICHAEL GLAWOGGER (1998)\nhttps://www.spectacletheater.co
 LOCATION:SPECTACLE
 URL:https://www.spectacletheater.com/michael-glawoggers-globalization-tril
  ogy/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Castration Movie Anthology ii. The Best of Both Worlds @ ALAMO DRA
+ FTHOUSE DOWNTOWN BROOKLYN
+DTSTART:20260923T180000
+DTEND:20260923T200000
+DESCRIPTION:Dir: LOUISE WEARD (2025)\nhttps://drafthouse.com/nyc/series/we
+ ird-wednesday
+LOCATION:ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
+URL:https://drafthouse.com/nyc/series/weird-wednesday
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Still Life @ ANTHOLOGY FILM ARCHIVES
@@ -11576,6 +10990,33 @@ DESCRIPTION:Dir: MIDI Z (2016)\nhttps://www.bam.org/film/2026/a-pure-perso
  n
 LOCATION:BAM
 URL:https://www.bam.org/film/2026/a-pure-person
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dreadnaught @ MUSEUM OF MODERN ART
+DTSTART:20260923T160000
+DTEND:20260923T180000
+DESCRIPTION:Dir: YUEN WOO-PING (1981)\nhttps://www.moma.org/calendar/film/
+ 5930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dreadnaught @ MUSEUM OF MODERN ART
+DTSTART:20260923T183000
+DTEND:20260923T203000
+DESCRIPTION:Dir: YUEN WOO-PING (1981)\nhttps://www.moma.org/calendar/film/
+ 5930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Matrix Reloaded @ MUSEUM OF MODERN ART
+DTSTART:20260923T183000
+DTEND:20260923T203000
+DESCRIPTION:Dir: THE WACHOWSKI SISTERS (2003)\nhttps://www.moma.org/calend
+ ar/film/5930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zoolander @ NITEHAWK CINEMA PROSPECT PARK
@@ -11815,6 +11256,15 @@ LOCATION:BAM
 URL:https://www.bam.org/film/2026/gwb-film
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kung Fu Hustle @ MUSEUM OF MODERN ART
+DTSTART:20260925T190000
+DTEND:20260925T210000
+DESCRIPTION:Dir: STEPHEN CHOW (2004)\nhttps://www.moma.org/calendar/film/5
+ 930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Silent Hill @ NITEHAWK CINEMA WILLIAMSBURG
 DTSTART:20260925T235500
 DTEND:20260926T015500
@@ -12048,6 +11498,26 @@ LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://nitehawkcinema.com/prospectpark/film-series/nostalgia-ultra/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Destroy All Monsters @ ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
+DTSTART:20260927T120000
+DTEND:20260927T140000
+DESCRIPTION:Dir: ISHIRO HONDA (1968)\nhttps://drafthouse.com/nyc/show/dest
+ roy-all-monsters?cinemaId=2101&amp\;sessionId=135665
+LOCATION:ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
+URL:https://drafthouse.com/nyc/show/destroy-all-monsters?cinemaId=2101&amp
+ ;sessionId=135665
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Destroy All Monsters @ ALAMO DRAFTHOUSE LOWER MANHATTAN
+DTSTART:20260927T120000
+DTEND:20260927T140000
+DESCRIPTION:Dir: ISHIRO HONDA (1968)\nhttps://drafthouse.com/nyc/show/dest
+ roy-all-monsters?cinemaId=2103&amp\;sessionId=95099
+LOCATION:ALAMO DRAFTHOUSE LOWER MANHATTAN
+URL:https://drafthouse.com/nyc/show/destroy-all-monsters?cinemaId=2103&amp
+ ;sessionId=95099
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Screamplay @ ANTHOLOGY FILM ARCHIVES
 DTSTART:20260927T154500
 DTEND:20260927T174500
@@ -12210,6 +11680,42 @@ DESCRIPTION:Dir: JAMES BOND III (1990)\nhttps://www.eventbrite.com/o/83875
  62806
 LOCATION:SARATOGA PARK
 URL:https://www.eventbrite.com/o/8387562806
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Birdcage @ ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
+DTSTART:20260928T182000
+DTEND:20260928T202000
+DESCRIPTION:Dir: MIKE NICHOLS (1996)\nhttps://drafthouse.com/sf/movies/que
+ er-film-theory-101
+LOCATION:ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
+URL:https://drafthouse.com/sf/movies/queer-film-theory-101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Birdcage @ ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
+DTSTART:20260928T213000
+DTEND:20260928T233000
+DESCRIPTION:Dir: MIKE NICHOLS (1996)\nhttps://drafthouse.com/sf/movies/que
+ er-film-theory-101
+LOCATION:ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
+URL:https://drafthouse.com/sf/movies/queer-film-theory-101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mystery Transmission @ ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
+DTSTART:20260928T213000
+DTEND:20260928T233000
+DESCRIPTION:Dir: 9:30PM (N/A)\nhttps://drafthouse.com/nyc/series/video-vor
+ tex
+LOCATION:ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
+URL:https://drafthouse.com/nyc/series/video-vortex
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Birdcage @ ALAMO DRAFTHOUSE LOWER MANHATTAN
+DTSTART:20260928T190000
+DTEND:20260928T210000
+DESCRIPTION:Dir: MIKE NICHOLS (1996)\nhttps://drafthouse.com/sf/movies/que
+ er-film-theory-101
+LOCATION:ALAMO DRAFTHOUSE LOWER MANHATTAN
+URL:https://drafthouse.com/sf/movies/queer-film-theory-101
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Screamplay @ ANTHOLOGY FILM ARCHIVES
@@ -12609,6 +12115,15 @@ LOCATION:BAM
 URL:https://www.bam.org/film/2026/gwb-film
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:In the Line of Duty 4: Witness @ MUSEUM OF MODERN ART
+DTSTART:20261001T163000
+DTEND:20261001T183000
+DESCRIPTION:Dir: YUEN WOO-PING (1989)\nhttps://www.moma.org/calendar/film/
+ 5930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Alanis @ ANTHOLOGY FILM ARCHIVES
 DTSTART:20261002T184500
 DTEND:20261002T204500
@@ -12740,6 +12255,33 @@ LOCATION:ANTHOLOGY FILM ARCHIVES
 URL:https://www.anthologyfilmarchives.org/film_screenings/series/62103
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Matrix @ MUSEUM OF MODERN ART
+DTSTART:20261003T160000
+DTEND:20261003T180000
+DESCRIPTION:Dir: LANA WACHOWSKI & LILLY WACHOWSKI (1999)\nhttps://www.moma
+ .org/calendar/film/5930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Matrix @ MUSEUM OF MODERN ART
+DTSTART:20261003T190000
+DTEND:20261003T210000
+DESCRIPTION:Dir: LANA WACHOWSKI & LILLY WACHOWSKI (1999)\nhttps://www.moma
+ .org/calendar/film/5930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Matrix Reloaded @ MUSEUM OF MODERN ART
+DTSTART:20261003T190000
+DTEND:20261003T210000
+DESCRIPTION:Dir: THE WACHOWSKI SISTERS (2003)\nhttps://www.moma.org/calend
+ ar/film/5930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Taking Back the Legislature @ ANTHOLOGY FILM ARCHIVES
 DTSTART:20261004T160000
 DTEND:20261004T180000
@@ -12810,6 +12352,15 @@ DESCRIPTION:Dir: MONICA TREUT\, ELFI MIKESCH (1985)\nhttps://www.anthology
  filmarchives.org/film_screenings/series/62080
 LOCATION:ANTHOLOGY FILM ARCHIVES
 URL:https://www.anthologyfilmarchives.org/film_screenings/series/62080
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Master Z: The Ip Man Legacy @ MUSEUM OF MODERN ART
+DTSTART:20261004T160000
+DTEND:20261004T180000
+DESCRIPTION:Dir: YUEN WOO-PING (2018)\nhttps://www.moma.org/calendar/film/
+ 5930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mommy is Coming @ ANTHOLOGY FILM ARCHIVES
@@ -12909,6 +12460,33 @@ DESCRIPTION:Dir: MICHAEL WINNER (1974)\nhttps://filmforum.org/series/nyc-i
  n-transit
 LOCATION:FILM FORUM
 URL:https://filmforum.org/series/nyc-in-transit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Miracle Fighters @ MUSEUM OF MODERN ART
+DTSTART:20261006T163000
+DTEND:20261006T183000
+DESCRIPTION:Dir: YUEN WOO-PING (1982)\nhttps://www.moma.org/calendar/film/
+ 5930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Miracle Fighters @ MUSEUM OF MODERN ART
+DTSTART:20261006T190000
+DTEND:20261006T210000
+DESCRIPTION:Dir: YUEN WOO-PING (1982)\nhttps://www.moma.org/calendar/film/
+ 5930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dreadnaught @ MUSEUM OF MODERN ART
+DTSTART:20261006T190000
+DTEND:20261006T210000
+DESCRIPTION:Dir: YUEN WOO-PING (1981)\nhttps://www.moma.org/calendar/film/
+ 5930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:My Name Ain't Suzie @ ANTHOLOGY FILM ARCHIVES
@@ -13028,6 +12606,15 @@ DESCRIPTION:Dir: ANNIE SPRINKLE\, BETH STEPHENS (2025)\nhttps://www.anthol
  ogyfilmarchives.org/film_screenings/series/61618
 LOCATION:ANTHOLOGY FILM ARCHIVES
 URL:https://www.anthologyfilmarchives.org/film_screenings/series/61618
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kill Bill: Vol. 1 @ MUSEUM OF MODERN ART
+DTSTART:20261010T160000
+DTEND:20261010T180000
+DESCRIPTION:Dir: QUENTIN TARANTINO (2003)\nhttps://www.moma.org/calendar/f
+ ilm/5930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Playing with Fire: An Ecosexual Emergency @ ANTHOLOGY FILM ARCHIVE
@@ -13188,6 +12775,32 @@ DESCRIPTION:Dir: PHELIM MCDERMOTT (2026)\nhttps://www.filmlinc.org/series/
 LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/series/the-met-live-in-hd-2026-through-2027/?
  tab=films
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Magnificent Butcher @ MUSEUM OF MODERN ART
+DTSTART:20261013T160000
+DTEND:20261013T180000
+DESCRIPTION:Dir: YUEN WOO-PING (1979)\nhttps://www.moma.org/calendar/film/
+ 5930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Magnificent Butcher @ MUSEUM OF MODERN ART
+DTSTART:20261013T183000
+DTEND:20261013T203000
+DESCRIPTION:Dir: YUEN WOO-PING (1979)\nhttps://www.moma.org/calendar/film/
+ 5930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crouching Tiger\, Hidden Dragon @ MUSEUM OF MODERN ART
+DTSTART:20261013T183000
+DTEND:20261013T203000
+DESCRIPTION:Dir: ANG LEE (2000)\nhttps://www.moma.org/calendar/film/5930
+LOCATION:MUSEUM OF MODERN ART
+URL:https://www.moma.org/calendar/film/5930
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cosi Fan Tutte @ FILM AT LINCOLN CENTER
@@ -13957,6 +13570,86 @@ DESCRIPTION:Dir: Alejandro Amenábar (2001)\nhttps://t.metrograph.com/Tick
 LOCATION:METROGRAPH
 URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=30883
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Apartment @ METROGRAPH
+DTSTART:20260904T142500
+DTEND:20260904T162500
+DESCRIPTION:Dir: Billy Wilder (1960)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30760
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30760
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2046 @ METROGRAPH
+DTSTART:20260904T143000
+DTEND:20260904T163000
+DESCRIPTION:Dir: Wong Kar-wai (2004)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=30761
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30761
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The City of Lost Children @ METROGRAPH
+DTSTART:20260904T170000
+DTEND:20260904T190000
+DESCRIPTION:Dir: Jean-Pierre Jeunet\, Marc Caro (1995)\nhttps://t.metrogra
+ ph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30762
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30762
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daughter of the Nile @ METROGRAPH
+DTSTART:20260904T171500
+DTEND:20260904T191500
+DESCRIPTION:Dir: Hou Hsiao Hsien (1987)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30763
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30763
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shanghai Blues @ METROGRAPH
+DTSTART:20260904T192000
+DTEND:20260904T212000
+DESCRIPTION:Dir: Tsui Hark (1984)\nhttps://t.metrograph.com/Ticketing/visS
+ electTickets.aspx?cinemacode=9999&txtSessionId=30764
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30764
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Job @ METROGRAPH
+DTSTART:20260904T193000
+DTEND:20260904T213000
+DESCRIPTION:Dir: Chris Smith (1996)\nhttps://t.metrograph.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=9999&txtSessionId=30765
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30765
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peking Opera Blues @ METROGRAPH
+DTSTART:20260904T213000
+DTEND:20260904T233000
+DESCRIPTION:Dir: Tsui Hark (1986)\nhttps://t.metrograph.com/Ticketing/visS
+ electTickets.aspx?cinemacode=9999&txtSessionId=30766
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30766
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Delicatessen @ METROGRAPH
+DTSTART:20260904T213500
+DTEND:20260904T233500
+DESCRIPTION:Dir: Jean-Pierre Jeunet\, Marc Caro (1991)\nhttps://t.metrogra
+ ph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30767
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=30767
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Brighter Summer Day @ METROGRAPH
@@ -15009,67 +14702,6 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=30954
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:I Want Your Sex @ ROXY CINEMA NEW YORK
-DTSTART:20270903T170000
-DTEND:20270903T190000
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 706?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7706?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift\; a
-  fragmentary passage + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20270903T190000
-DTEND:20270903T210000
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 790?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7790?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crocodile Dose + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20270903T220000
-DTEND:20270904T000000
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 791?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7791?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Lake House - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20260904T170000
-DTEND:20260904T190000
-DESCRIPTION:Dir: N/A (2006)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 711?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7711?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dildo Heaven + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20260904T190000
-DTEND:20260904T210000
-DESCRIPTION:Dir: N/A (2002)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 792?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7792?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:a night with alterotics @ ROXY CINEMA NEW YORK
-DTSTART:20260904T210000
-DTEND:20260904T230000
-DESCRIPTION:Dir: N/A (2023)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 793?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7793?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Straight Story - 35MM @ ROXY CINEMA NEW YORK
 DTSTART:20260905T141500
 DTEND:20260905T161500
@@ -15160,6 +14792,16 @@ URL:https://ticketing.uswest.veezi.com/purchase/7828?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Showgirls - 35MM + Q&A @ ROXY CINEMA NEW YORK
+DTSTART:20260908T194500
+DTEND:20260908T214500
+DESCRIPTION:Dir: N/A (1995)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 760?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7760?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A Scanner Darkly - 35MM @ ROXY CINEMA NEW YORK
 DTSTART:20260910T170000
 DTEND:20260910T190000
@@ -15230,16 +14872,6 @@ URL:https://ticketing.uswest.veezi.com/purchase/7740?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Out of the Blue @ ROXY CINEMA NEW YORK
-DTSTART:20260912T194500
-DTEND:20260912T214500
-DESCRIPTION:Dir: N/A (1980)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 740?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7740?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Viva Las Vegas - 35MM + Learning from Learning from Las Vegas @ RO
  XY CINEMA NEW YORK
 DTSTART:20260912T170000
@@ -15248,6 +14880,16 @@ DESCRIPTION:Dir: N/A (1964)\nhttps://ticketing.uswest.veezi.com/purchase/7
  742?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7742?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Showgirls - 35MM @ ROXY CINEMA NEW YORK
+DTSTART:20260912T220000
+DTEND:20260913T000000
+DESCRIPTION:Dir: N/A (1995)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 761?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7761?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
@@ -15271,6 +14913,16 @@ URL:https://ticketing.uswest.veezi.com/purchase/7738?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Showgirls - 35MM @ ROXY CINEMA NEW YORK
+DTSTART:20260913T201500
+DTEND:20260913T221500
+DESCRIPTION:Dir: N/A (1995)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 762?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7762?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Crash - 35MM @ ROXY CINEMA NEW YORK
 DTSTART:20260914T190000
 DTEND:20260914T210000
@@ -15291,9 +14943,19 @@ URL:https://ticketing.uswest.veezi.com/purchase/7831?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Blade - 35MM @ ROXY CINEMA NEW YORK
+DTSTART:20260915T190000
+DTEND:20260915T210000
+DESCRIPTION:Dir: N/A (1998)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 840?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7840?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dreams in Nightmares @ ROXY CINEMA NEW YORK
-DTSTART:20260915T214500
-DTEND:20260915T234500
+DTSTART:20260915T213000
+DTEND:20260915T233000
 DESCRIPTION:Dir: N/A (2024)\nhttps://ticketing.uswest.veezi.com/purchase/7
  817?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
@@ -15421,6 +15083,16 @@ DESCRIPTION:Dir: N/A (1958)\nhttps://ticketing.uswest.veezi.com/purchase/7
  833?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7833?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shakedown + Q&A @ ROXY CINEMA NEW YORK
+DTSTART:20260922T190000
+DTEND:20260922T210000
+DESCRIPTION:Dir: N/A (2018)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 841?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7841?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
@@ -15601,6 +15273,16 @@ DESCRIPTION:Dir: N/A (2006)\nhttps://ticketing.uswest.veezi.com/purchase/7
  733?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7733?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zola @ ROXY CINEMA NEW YORK
+DTSTART:20260929T190000
+DTEND:20260929T210000
+DESCRIPTION:Dir: N/A (2020)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 800?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7800?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
