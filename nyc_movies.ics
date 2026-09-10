@@ -2,1033 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:Carmen\, Baby @ ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
-DTSTART:20260909T214500
-DTEND:20260909T234500
-DESCRIPTION:Dir: RADLEY METZGER (1967)\nhttps://drafthouse.com/nyc/series/
- weird-wednesday
-LOCATION:ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
-URL:https://drafthouse.com/nyc/series/weird-wednesday
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teach Our Children @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260909T184500
-DTEND:20260909T204500
-DESCRIPTION:Dir: SUSAN ROBESON\, CHRISTINE CHOY (1972)\nhttps://www.screen
- slate.com/series/christine-choy
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/christine-choy
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teach Our Children @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260909T191500
-DTEND:20260909T211500
-DESCRIPTION:Dir: SUSAN ROBESON\, CHRISTINE CHOY (1972)\nhttps://www.screen
- slate.com/series/christine-choy
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/christine-choy
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teach Our Children @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260909T203000
-DTEND:20260909T223000
-DESCRIPTION:Dir: SUSAN ROBESON\, CHRISTINE CHOY (1972)\nhttps://www.screen
- slate.com/series/christine-choy
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/christine-choy
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Earth @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260909T191500
-DTEND:20260909T211500
-DESCRIPTION:Dir: ALEKSANDR DOVZHENKO (1930)\nhttp://anthologyfilmarchives.
- org/film_screenings/programs/essential-cinema
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:http://anthologyfilmarchives.org/film_screenings/programs/essential-ci
- nema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:From Spikes to Spindles @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20260909T203000
-DTEND:20260909T223000
-DESCRIPTION:Dir: CHRISTINE CHOY (1976)\nhttps://www.screenslate.com/series
- /christine-choy
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.screenslate.com/series/christine-choy
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amazing Grace @ BAM
-DTSTART:20260909T170000
-DTEND:20260909T190000
-DESCRIPTION:Dir: ALAN ELLIOTT\, SYDNEY POLLACK (2018)\nhttps://www.bam.org
- /film/2026/sweat2
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/sweat2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amazing Grace @ BAM
-DTSTART:20260909T190000
-DTEND:20260909T210000
-DESCRIPTION:Dir: ALAN ELLIOTT\, SYDNEY POLLACK (2018)\nhttps://www.bam.org
- /film/2026/sweat2
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/sweat2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Island of Lost Souls @ BAM
-DTSTART:20260909T190000
-DTEND:20260909T210000
-DESCRIPTION:Dir: ERLE C. KENTON (1932)\nhttps://www.bam.org/film/2026/swea
- t2
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/sweat2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Red Card @ BAM
-DTSTART:20260909T190000
-DTEND:20260909T210000
-DESCRIPTION:Dir: JONG OUGIE PAK (2023)\nhttps://www.bam.org/film/2026/ougi
- e-pak
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/ougie-pak
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260909T122000
-DTEND:20260909T142000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260909T143000
-DTEND:20260909T163000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260909T164500
-DTEND:20260909T184500
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260909T190000
-DTEND:20260909T210000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260909T201000
-DTEND:20260909T221000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260909T211000
-DTEND:20260909T231000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260909T124500
-DTEND:20260909T144500
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260909T151000
-DTEND:20260909T171000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260909T173000
-DTEND:20260909T193000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260909T194500
-DTEND:20260909T214500
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260909T130000
-DTEND:20260909T150000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260909T151500
-DTEND:20260909T171500
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260909T180000
-DTEND:20260909T200000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260909T154000
-DTEND:20260909T174000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260909T181000
-DTEND:20260909T201000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260909T191000
-DTEND:20260909T211000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20260909T202000
-DTEND:20260909T222000
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbara Forever @ FILM FORUM
-DTSTART:20260909T124500
-DTEND:20260909T144500
-DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
- ara-forever
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/barbara-forever
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbara Forever @ FILM FORUM
-DTSTART:20260909T151000
-DTEND:20260909T171000
-DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
- ara-forever
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/barbara-forever
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbara Forever @ FILM FORUM
-DTSTART:20260909T173000
-DTEND:20260909T193000
-DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
- ara-forever
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/barbara-forever
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbara Forever @ FILM FORUM
-DTSTART:20260909T194500
-DTEND:20260909T214500
-DESCRIPTION:Dir: BRYDIE O’CONNOR (2026)\nhttps://filmforum.org/film/barb
- ara-forever
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/barbara-forever
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260909T130000
-DTEND:20260909T150000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260909T151500
-DTEND:20260909T171500
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM FORUM
-DTSTART:20260909T180000
-DTEND:20260909T200000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://filmforum.org/film/late-fame
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/late-fame
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tetro @ FILM FORUM
-DTSTART:20260909T130000
-DTEND:20260909T150000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (2009)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Rain People @ FILM FORUM
-DTSTART:20260909T154000
-DTEND:20260909T174000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1969)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One from the Heart: Reprise @ FILM FORUM
-DTSTART:20260909T181000
-DTEND:20260909T201000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1981)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Megalopolis @ FILM FORUM
-DTSTART:20260909T202000
-DTEND:20260909T222000
-DESCRIPTION:Dir: FRANCIS FORD COPPOLA (2024)\nhttps://filmforum.org/series
- /coppola
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/coppola
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260909T123000
-DTEND:20260909T143000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260909T131500
-DTEND:20260909T151500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260909T154500
-DTEND:20260909T174500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260909T181500
-DTEND:20260909T201500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260909T204500
-DTEND:20260909T224500
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260909T180000
-DTEND:20260909T200000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Samurai and the Prisoner @ FILM AT LINCOLN CENTER
-DTSTART:20260909T210000
-DTEND:20260909T230000
-DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.filmlinc.org/films/t
- he-samurai-and-the-prisoner/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/the-samurai-and-the-prisoner/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chronovisor @ FILM AT LINCOLN CENTER
-DTSTART:20260909T131500
-DTEND:20260909T151500
-DESCRIPTION:Dir: KEVIN WALKER\, JACK AUEN (2026)\nhttps://www.filmlinc.org
- /series/bibliomania-a-preface-to-chronovisor/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
- tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chronovisor @ FILM AT LINCOLN CENTER
-DTSTART:20260909T154500
-DTEND:20260909T174500
-DESCRIPTION:Dir: KEVIN WALKER\, JACK AUEN (2026)\nhttps://www.filmlinc.org
- /series/bibliomania-a-preface-to-chronovisor/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
- tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chronovisor @ FILM AT LINCOLN CENTER
-DTSTART:20260909T181500
-DTEND:20260909T201500
-DESCRIPTION:Dir: KEVIN WALKER\, JACK AUEN (2026)\nhttps://www.filmlinc.org
- /series/bibliomania-a-preface-to-chronovisor/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
- tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chronovisor @ FILM AT LINCOLN CENTER
-DTSTART:20260909T204500
-DTEND:20260909T224500
-DESCRIPTION:Dir: KEVIN WALKER\, JACK AUEN (2026)\nhttps://www.filmlinc.org
- /series/bibliomania-a-preface-to-chronovisor/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/series/bibliomania-a-preface-to-chronovisor/?
- tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marketa Lazarová @ FILM AT LINCOLN CENTER
-DTSTART:20260909T180000
-DTEND:20260909T200000
-DESCRIPTION:Dir: FRANTIŠEK VLÁČIL (1967)\nhttps://www.filmlinc.org/film
- s/marketa-lazarova/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/marketa-lazarova/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Late Fame @ FILM AT LINCOLN CENTER
-DTSTART:20260909T210000
-DTEND:20260909T230000
-DESCRIPTION:Dir: KENT JONES (2025)\nhttps://www.filmlinc.org/films/late-fa
- me/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/late-fame/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Give It A Shot @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-DTSTART:20260909T140000
-DTEND:20260909T160000
-DESCRIPTION:Dir: VAISHALI SINHA (2026)\nhttps://www.dctvny.org/s/firehouse
- -film/give-it-a-shot-MC3DXF3RBUUFAFVOFXMPFJTSXGVI
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/give-it-a-shot-MC3DXF3RBUUFAFV
- OFXMPFJTSXGVI
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Give It A Shot @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-DTSTART:20260909T160000
-DTEND:20260909T180000
-DESCRIPTION:Dir: VAISHALI SINHA (2026)\nhttps://www.dctvny.org/s/firehouse
- -film/give-it-a-shot-MC3DXF3RBUUFAFVOFXMPFJTSXGVI
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/give-it-a-shot-MC3DXF3RBUUFAFV
- OFXMPFJTSXGVI
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Give It A Shot @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-DTSTART:20260909T190000
-DTEND:20260909T210000
-DESCRIPTION:Dir: VAISHALI SINHA (2026)\nhttps://www.dctvny.org/s/firehouse
- -film/give-it-a-shot-MC3DXF3RBUUFAFVOFXMPFJTSXGVI
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/give-it-a-shot-MC3DXF3RBUUFAFV
- OFXMPFJTSXGVI
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Give It A Shot @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-DTSTART:20260909T180000
-DTEND:20260909T200000
-DESCRIPTION:Dir: VAISHALI SINHA (2026)\nhttps://www.dctvny.org/s/firehouse
- -film/give-it-a-shot-MC3DXF3RBUUFAFVOFXMPFJTSXGVI
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/give-it-a-shot-MC3DXF3RBUUFAFV
- OFXMPFJTSXGVI
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bloodlines\, Mississippi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENT
- ARY FILM
-DTSTART:20260909T180000
-DTEND:20260909T200000
-DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://firehousecinema.dctvny.org
- /bloodlines
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://firehousecinema.dctvny.org/bloodlines
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260909T105500
-DTEND:20260909T125500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260909T110000
-DTEND:20260909T130000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260909T110500
-DTEND:20260909T130500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260909T113000
-DTEND:20260909T133000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260909T114000
-DTEND:20260909T134000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260909T214500
-DTEND:20260909T234500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260909T132000
-DTEND:20260909T152000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260909T132500
-DTEND:20260909T152500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260909T185000
-DTEND:20260909T205000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260909T133500
-DTEND:20260909T153500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260909T161000
-DTEND:20260909T181000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260909T212000
-DTEND:20260909T232000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260909T135500
-DTEND:20260909T155500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260909T183000
-DTEND:20260909T203000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260909T140000
-DTEND:20260909T160000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260909T163000
-DTEND:20260909T183000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260909T190000
-DTEND:20260909T210000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260909T213000
-DTEND:20260909T233000
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Divorce During The War @ IFC CENTER
-DTSTART:20260909T210500
-DTEND:20260909T230500
-DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
- lms/how-to-divorce-during-the-war/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maddie's Secret @ IFC CENTER
-DTSTART:20260909T110000
-DTEND:20260909T130000
-DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
- s-secret/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/maddies-secret/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Union County @ IFC CENTER
-DTSTART:20260909T110500
-DTEND:20260909T130500
-DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
- ounty/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/union-county/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
-DTSTART:20260909T113000
-DTEND:20260909T133000
-DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
- e-film-festival-short-film-tour/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
- -tour/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Skin @ IFC CENTER
-DTSTART:20260909T114000
-DTEND:20260909T134000
-DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
- rious-skin/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mysterious-skin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mysterious Skin @ IFC CENTER
-DTSTART:20260909T214500
-DTEND:20260909T234500
-DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
- rious-skin/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/mysterious-skin/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Inside @ IFC CENTER
-DTSTART:20260909T132000
-DTEND:20260909T152000
-DESCRIPTION:Dir: PENNY LANE (2026)\nhttps://www.ifccenter.com/films/wild-i
- nside/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/wild-inside/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260909T132500
-DTEND:20260909T152500
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gandahar @ IFC CENTER
-DTSTART:20260909T185000
-DTEND:20260909T205000
-DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
- ahar/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/gandahar/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Sun Never Sets @ IFC CENTER
-DTSTART:20260909T133500
-DTEND:20260909T153500
-DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
- sun-never-sets/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-sun-never-sets/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Sun Never Sets @ IFC CENTER
-DTSTART:20260909T161000
-DTEND:20260909T181000
-DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
- sun-never-sets/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-sun-never-sets/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Sun Never Sets @ IFC CENTER
-DTSTART:20260909T212000
-DTEND:20260909T232000
-DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
- sun-never-sets/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-sun-never-sets/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Who Moves America @ IFC CENTER
-DTSTART:20260909T135500
-DTEND:20260909T155500
-DESCRIPTION:Dir: YAEL BRIDGE (2026)\nhttps://www.ifccenter.com/films/who-m
- oves-america-2/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/who-moves-america-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Who Moves America @ IFC CENTER
-DTSTART:20260909T161000
-DTEND:20260909T181000
-DESCRIPTION:Dir: YAEL BRIDGE (2026)\nhttps://www.ifccenter.com/films/who-m
- oves-america-2/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/who-moves-america-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Who Moves America @ IFC CENTER
-DTSTART:20260909T183000
-DTEND:20260909T203000
-DESCRIPTION:Dir: YAEL BRIDGE (2026)\nhttps://www.ifccenter.com/films/who-m
- oves-america-2/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/who-moves-america-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heathers @ IFC CENTER
-DTSTART:20260909T140000
-DTEND:20260909T160000
-DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
- eathers/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/heathers/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heathers @ IFC CENTER
-DTSTART:20260909T163000
-DTEND:20260909T183000
-DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
- eathers/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/heathers/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heathers @ IFC CENTER
-DTSTART:20260909T190000
-DTEND:20260909T210000
-DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
- eathers/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/heathers/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heathers @ IFC CENTER
-DTSTART:20260909T213000
-DTEND:20260909T233000
-DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
- eathers/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/heathers/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Colony @ IFC CENTER
-DTSTART:20260909T210500
-DTEND:20260909T230500
-DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
- ny-3/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/colony-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Changing Lanes @ LOW CINEMA
-DTSTART:20260909T180000
-DTEND:20260909T200000
-DESCRIPTION:Dir: ROGER MITCHELL (2002)\nhttps://lowcinema.com/movie/changi
- ng-lanes-2002/
-LOCATION:LOW CINEMA
-URL:https://lowcinema.com/movie/changing-lanes-2002/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Changing Lanes @ LOW CINEMA
-DTSTART:20260909T201500
-DTEND:20260909T221500
-DESCRIPTION:Dir: ROGER MITCHELL (2002)\nhttps://lowcinema.com/movie/changi
- ng-lanes-2002/
-LOCATION:LOW CINEMA
-URL:https://lowcinema.com/movie/changing-lanes-2002/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nenette and Boni @ METROGRAPH
-DTSTART:20260909T160000
-DTEND:20260909T180000
-DESCRIPTION:Dir: CLAIRE DENIS (1996)\nhttps://metrograph.com/series/?vista
- _series_id=0000000570
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000570
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nenette and Boni @ METROGRAPH
-DTSTART:20260909T161500
-DTEND:20260909T181500
-DESCRIPTION:Dir: CLAIRE DENIS (1996)\nhttps://metrograph.com/series/?vista
- _series_id=0000000570
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000570
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nenette and Boni @ METROGRAPH
-DTSTART:20260909T181000
-DTEND:20260909T201000
-DESCRIPTION:Dir: CLAIRE DENIS (1996)\nhttps://metrograph.com/series/?vista
- _series_id=0000000570
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000570
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nenette and Boni @ METROGRAPH
-DTSTART:20260909T200000
-DTEND:20260909T220000
-DESCRIPTION:Dir: CLAIRE DENIS (1996)\nhttps://metrograph.com/series/?vista
- _series_id=0000000570
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000570
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nenette and Boni @ METROGRAPH
-DTSTART:20260909T220000
-DTEND:20260910T000000
-DESCRIPTION:Dir: CLAIRE DENIS (1996)\nhttps://metrograph.com/series/?vista
- _series_id=0000000570
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000570
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Playtime @ METROGRAPH
-DTSTART:20260909T161500
-DTEND:20260909T181500
-DESCRIPTION:Dir: JACQUES TATI (1967)\nhttps://metrograph.com/office-of-emp
- tiness/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/office-of-emptiness/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Falling Leaves @ METROGRAPH
-DTSTART:20260909T181000
-DTEND:20260909T201000
-DESCRIPTION:Dir: OTAR IOSSELIANI (1966)\nhttps://asiasociety.org/new-york/
- otar-iosseliani-fables-modern-life
-LOCATION:METROGRAPH
-URL:https://asiasociety.org/new-york/otar-iosseliani-fables-modern-life
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Night is Short\, Walk on Girl @ METROGRAPH
-DTSTART:20260909T200000
-DTEND:20260909T220000
-DESCRIPTION:Dir: MASAAKI YUASA (2017)\nhttps://metrograph.com/series/?vist
- a_series_id=0000000555
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000555
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solaris @ METROGRAPH
-DTSTART:20260909T220000
-DTEND:20260910T000000
-DESCRIPTION:Dir: ANDREI TARKOVSKY (1972)\nhttps://metrograph.com/series/?v
- ista_series_id=0000000531
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000531
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minari @ MUSEUM OF MODERN ART
-DTSTART:20260909T190000
-DTEND:20260909T210000
-DESCRIPTION:Dir: LEE ISAAC CHUNG (2020)\nhttps://www.moma.org/calendar/fil
- m/5911
-LOCATION:MUSEUM OF MODERN ART
-URL:https://www.moma.org/calendar/film/5911
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gang Related @ NITEHAWK CINEMA PROSPECT PARK
-DTSTART:20260909T211500
-DTEND:20260909T231500
-DESCRIPTION:Dir: JIM KOUF (1997)\nhttps://nitehawkcinema.com/prospectpark/
- film-series/a-tribute-to-tupac/
-LOCATION:NITEHAWK CINEMA PROSPECT PARK
-URL:https://nitehawkcinema.com/prospectpark/film-series/a-tribute-to-tupac
- /
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Virgin Suicides @ QUAD CINEMA
-DTSTART:20260909T201500
-DTEND:20260909T221500
-DESCRIPTION:Dir: SOFIA COPPOLA (1999)\nhttps://quadcinema.com/program/teen
- age-malady/
-LOCATION:QUAD CINEMA
-URL:https://quadcinema.com/program/teenage-malady/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Weightless @ SCANDINAVIA HOUSE
-DTSTART:20260909T190000
-DTEND:20260909T210000
-DESCRIPTION:Dir: EMILIE THALUND (2025)\nhttp://www.scandinaviahouse.org/ev
- ent/films/
-LOCATION:SCANDINAVIA HOUSE
-URL:http://www.scandinaviahouse.org/event/films/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tisoy! @ SPECTACLE
-DTSTART:20260909T193000
-DTEND:20260909T213000
-DESCRIPTION:Dir: ISHMAEL BERNAL (1977)\nhttps://www.spectacletheater.com/b
- ernal/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/bernal/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tisoy! @ SPECTACLE
-DTSTART:20260909T220000
-DTEND:20260910T000000
-DESCRIPTION:Dir: ISHMAEL BERNAL (1977)\nhttps://www.spectacletheater.com/b
- ernal/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/bernal/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Adventures of A Secret Kidd: The Mass Hallucination of Kenn Kweder
-  @ SPECTACLE
-DTSTART:20260909T220000
-DTEND:20260910T000000
-DESCRIPTION:Dir: JOHN HUTELMYER\, ROB NICOLAIDES (2015)\nhttps://www.spect
- acletheater.com/kweder/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/kweder/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ballet @ UNIONDOCS
-DTSTART:20260909T190000
-DTEND:20260909T210000
-DESCRIPTION:Dir: FREDERICK WISEMAN (1995)\nhttps://uniondocs.org/wisemans-
- new-york/
-LOCATION:UNIONDOCS
-URL:https://uniondocs.org/wisemans-new-york/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Parson's Widow @ ANTHOLOGY FILM ARCHIVES
 DTSTART:20260910T183000
 DTEND:20260910T203000
@@ -1489,40 +462,44 @@ SUMMARY:Bloodlines\, Mississippi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENT
  ARY FILM
 DTSTART:20260910T140000
 DTEND:20260910T160000
-DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://firehousecinema.dctvny.org
- /bloodlines
+DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://www.dctvny.org/s/firehouse
+ -film/bloodlines-mississippi-MC5QO45AMZYFBJZMJHAL3H6SQZHA
 LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://firehousecinema.dctvny.org/bloodlines
+URL:https://www.dctvny.org/s/firehouse-film/bloodlines-mississippi-MC5QO45
+ AMZYFBJZMJHAL3H6SQZHA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bloodlines\, Mississippi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENT
  ARY FILM
 DTSTART:20260910T150000
 DTEND:20260910T170000
-DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://firehousecinema.dctvny.org
- /bloodlines
+DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://www.dctvny.org/s/firehouse
+ -film/bloodlines-mississippi-MC5QO45AMZYFBJZMJHAL3H6SQZHA
 LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://firehousecinema.dctvny.org/bloodlines
+URL:https://www.dctvny.org/s/firehouse-film/bloodlines-mississippi-MC5QO45
+ AMZYFBJZMJHAL3H6SQZHA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bloodlines\, Mississippi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENT
  ARY FILM
 DTSTART:20260910T170000
 DTEND:20260910T190000
-DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://firehousecinema.dctvny.org
- /bloodlines
+DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://www.dctvny.org/s/firehouse
+ -film/bloodlines-mississippi-MC5QO45AMZYFBJZMJHAL3H6SQZHA
 LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://firehousecinema.dctvny.org/bloodlines
+URL:https://www.dctvny.org/s/firehouse-film/bloodlines-mississippi-MC5QO45
+ AMZYFBJZMJHAL3H6SQZHA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bloodlines\, Mississippi @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENT
  ARY FILM
 DTSTART:20260910T190000
 DTEND:20260910T210000
-DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://firehousecinema.dctvny.org
- /bloodlines
+DESCRIPTION:Dir: CRYSTAL KAYIZA (2025)\nhttps://www.dctvny.org/s/firehouse
+ -film/bloodlines-mississippi-MC5QO45AMZYFBJZMJHAL3H6SQZHA
 LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://firehousecinema.dctvny.org/bloodlines
+URL:https://www.dctvny.org/s/firehouse-film/bloodlines-mississippi-MC5QO45
+ AMZYFBJZMJHAL3H6SQZHA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Give It A Shot @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
@@ -1576,6 +553,15 @@ BEGIN:VEVENT
 SUMMARY:How To Divorce During The War @ IFC CENTER
 DTSTART:20260910T110500
 DTEND:20260910T130500
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260910T184000
+DTEND:20260910T204000
 DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
  lms/how-to-divorce-during-the-war/
 LOCATION:IFC CENTER
@@ -1718,6 +704,15 @@ URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:How To Divorce During The War @ IFC CENTER
+DTSTART:20260910T151000
+DTEND:20260910T171000
+DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
+ lms/how-to-divorce-during-the-war/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/how-to-divorce-during-the-war/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Divorce During The War @ IFC CENTER
 DTSTART:20260910T210500
 DTEND:20260910T230500
 DESCRIPTION:Dir: ANDRIUS BLAŽEVICIUS (2026)\nhttps://www.ifccenter.com/fi
@@ -1738,6 +733,15 @@ BEGIN:VEVENT
 SUMMARY:Union County @ IFC CENTER
 DTSTART:20260910T110500
 DTEND:20260910T130500
+DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
+ ounty/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/union-county/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union County @ IFC CENTER
+DTSTART:20260910T184000
+DTEND:20260910T204000
 DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
  ounty/
 LOCATION:IFC CENTER
@@ -1887,6 +891,15 @@ DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
  eathers/
 LOCATION:IFC CENTER
 URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ IFC CENTER
+DTSTART:20260910T151000
+DTEND:20260910T171000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ the-samurai-and-the-prisoner/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-samurai-and-the-prisoner/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colony @ IFC CENTER
@@ -2594,6 +1607,478 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/9-11s-unsettled-dust
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T103500
+DTEND:20260911T123500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T150000
+DTEND:20260911T170000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T193500
+DTEND:20260911T213500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T110000
+DTEND:20260911T130000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T110500
+DTEND:20260911T130500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T211500
+DTEND:20260911T231500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T113000
+DTEND:20260911T133000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T232500
+DTEND:20260912T012500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T114500
+DTEND:20260911T134500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T235900
+DTEND:20260912T015900
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T125500
+DTEND:20260911T145500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T173000
+DTEND:20260911T193000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T132000
+DTEND:20260911T152000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T160000
+DTEND:20260911T180000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T184000
+DTEND:20260911T204000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T212000
+DTEND:20260911T232000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T132500
+DTEND:20260911T152500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T190000
+DTEND:20260911T210000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T140000
+DTEND:20260911T160000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T190500
+DTEND:20260911T210500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T215000
+DTEND:20260911T235000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T142500
+DTEND:20260911T162500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T163500
+DTEND:20260911T183500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T185500
+DTEND:20260911T205500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T155000
+DTEND:20260911T175000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T163000
+DTEND:20260911T183000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T213500
+DTEND:20260911T233500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T212500
+DTEND:20260911T232500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T235000
+DTEND:20260912T015000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T234500
+DTEND:20260912T014500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260911T235500
+DTEND:20260912T015500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret @ IFC CENTER
+DTSTART:20260911T110000
+DTEND:20260911T130000
+DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
+ s-secret/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/maddies-secret/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union County @ IFC CENTER
+DTSTART:20260911T110500
+DTEND:20260911T130500
+DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
+ ounty/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/union-county/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union County @ IFC CENTER
+DTSTART:20260911T211500
+DTEND:20260911T231500
+DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
+ ounty/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/union-county/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Clockwork Orange @ IFC CENTER
+DTSTART:20260911T113000
+DTEND:20260911T133000
+DESCRIPTION:Dir: STANLEY KUBRICK (1971)\nhttps://www.ifccenter.com/series/
+ late-night-favorites-fall-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/late-night-favorites-fall-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Clockwork Orange @ IFC CENTER
+DTSTART:20260911T232500
+DTEND:20260912T012500
+DESCRIPTION:Dir: STANLEY KUBRICK (1971)\nhttps://www.ifccenter.com/series/
+ late-night-favorites-fall-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/late-night-favorites-fall-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Making Sense @ IFC CENTER
+DTSTART:20260911T114500
+DTEND:20260911T134500
+DESCRIPTION:Dir: JONATHAN DEMME (1984)\nhttps://www.ifccenter.com/series/l
+ ate-night-favorites-summer-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/late-night-favorites-summer-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Making Sense @ IFC CENTER
+DTSTART:20260911T235900
+DTEND:20260912T015900
+DESCRIPTION:Dir: JONATHAN DEMME (1984)\nhttps://www.ifccenter.com/series/l
+ ate-night-favorites-summer-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/late-night-favorites-summer-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260911T125500
+DTEND:20260911T145500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260911T173000
+DTEND:20260911T193000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serpent's Path @ IFC CENTER
+DTSTART:20260911T132000
+DTEND:20260911T152000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ serpents-path/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serpent's Path @ IFC CENTER
+DTSTART:20260911T160000
+DTEND:20260911T180000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ serpents-path/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serpent's Path @ IFC CENTER
+DTSTART:20260911T184000
+DTEND:20260911T204000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ serpents-path/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serpent's Path @ IFC CENTER
+DTSTART:20260911T212000
+DTEND:20260911T232000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ serpents-path/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260911T132500
+DTEND:20260911T152500
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260911T190000
+DTEND:20260911T210000
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260911T140000
+DTEND:20260911T160000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260911T190500
+DTEND:20260911T210500
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260911T215000
+DTEND:20260911T235000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Who Moves America @ IFC CENTER
 DTSTART:20260911T142500
 DTEND:20260911T162500
@@ -2619,6 +2104,69 @@ DESCRIPTION:Dir: YAEL BRIDGE (2026)\nhttps://www.ifccenter.com/films/who-m
  oves-america-2/
 LOCATION:IFC CENTER
 URL:https://www.ifccenter.com/films/who-moves-america-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ IFC CENTER
+DTSTART:20260911T155000
+DTEND:20260911T175000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ the-samurai-and-the-prisoner/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260911T163000
+DTEND:20260911T183000
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260911T213500
+DTEND:20260911T233500
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260911T212500
+DTEND:20260911T232500
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260911T235000
+DTEND:20260912T015000
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mac and Me @ IFC CENTER
+DTSTART:20260911T234500
+DTEND:20260912T014500
+DESCRIPTION:Dir: STEWART RAFFILL (1988)\nhttps://www.ifccenter.com/series/
+ staff-picks-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/staff-picks-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manhunter @ IFC CENTER
+DTSTART:20260911T235500
+DTEND:20260912T015500
+DESCRIPTION:Dir: MICHAEL MANN (1986)\nhttps://www.ifccenter.com/series/wav
+ erly-midnights-mann-splaining/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/waverly-midnights-mann-splaining/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Royal Space Force: The Wings of Honnêamise @ JAPAN SOCIETY
@@ -3463,6 +3011,440 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/late-fame
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T103500
+DTEND:20260912T123500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T193500
+DTEND:20260912T213500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T110000
+DTEND:20260912T130000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T110500
+DTEND:20260912T130500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T211500
+DTEND:20260912T231500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T114500
+DTEND:20260912T134500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T235900
+DTEND:20260913T015900
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T125500
+DTEND:20260912T145500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T173000
+DTEND:20260912T193000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T132000
+DTEND:20260912T152000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T160000
+DTEND:20260912T180000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T184000
+DTEND:20260912T204000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T212000
+DTEND:20260912T232000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T132500
+DTEND:20260912T152500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T190000
+DTEND:20260912T210000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T140000
+DTEND:20260912T160000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T190500
+DTEND:20260912T210500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T215000
+DTEND:20260912T235000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T142500
+DTEND:20260912T162500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T163500
+DTEND:20260912T183500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T185500
+DTEND:20260912T205500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T155000
+DTEND:20260912T175000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T163000
+DTEND:20260912T183000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T213500
+DTEND:20260912T233500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T212500
+DTEND:20260912T232500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T235000
+DTEND:20260913T015000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T232500
+DTEND:20260913T012500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T234500
+DTEND:20260913T014500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260912T235500
+DTEND:20260913T015500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret @ IFC CENTER
+DTSTART:20260912T110000
+DTEND:20260912T130000
+DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
+ s-secret/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/maddies-secret/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union County @ IFC CENTER
+DTSTART:20260912T110500
+DTEND:20260912T130500
+DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
+ ounty/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/union-county/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union County @ IFC CENTER
+DTSTART:20260912T211500
+DTEND:20260912T231500
+DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
+ ounty/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/union-county/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Making Sense @ IFC CENTER
+DTSTART:20260912T114500
+DTEND:20260912T134500
+DESCRIPTION:Dir: JONATHAN DEMME (1984)\nhttps://www.ifccenter.com/series/l
+ ate-night-favorites-summer-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/late-night-favorites-summer-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Making Sense @ IFC CENTER
+DTSTART:20260912T235900
+DTEND:20260913T015900
+DESCRIPTION:Dir: JONATHAN DEMME (1984)\nhttps://www.ifccenter.com/series/l
+ ate-night-favorites-summer-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/late-night-favorites-summer-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260912T125500
+DTEND:20260912T145500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260912T173000
+DTEND:20260912T193000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serpent's Path @ IFC CENTER
+DTSTART:20260912T132000
+DTEND:20260912T152000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ serpents-path/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serpent's Path @ IFC CENTER
+DTSTART:20260912T160000
+DTEND:20260912T180000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ serpents-path/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serpent's Path @ IFC CENTER
+DTSTART:20260912T184000
+DTEND:20260912T204000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ serpents-path/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serpent's Path @ IFC CENTER
+DTSTART:20260912T212000
+DTEND:20260912T232000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ serpents-path/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260912T132500
+DTEND:20260912T152500
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260912T190000
+DTEND:20260912T210000
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260912T140000
+DTEND:20260912T160000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260912T190500
+DTEND:20260912T210500
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260912T215000
+DTEND:20260912T235000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Who Moves America @ IFC CENTER
 DTSTART:20260912T142500
 DTEND:20260912T162500
@@ -3488,6 +3470,78 @@ DESCRIPTION:Dir: YAEL BRIDGE (2026)\nhttps://www.ifccenter.com/films/who-m
  oves-america-2/
 LOCATION:IFC CENTER
 URL:https://www.ifccenter.com/films/who-moves-america-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ IFC CENTER
+DTSTART:20260912T155000
+DTEND:20260912T175000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ the-samurai-and-the-prisoner/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260912T163000
+DTEND:20260912T183000
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260912T213500
+DTEND:20260912T233500
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260912T212500
+DTEND:20260912T232500
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260912T235000
+DTEND:20260913T015000
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Clockwork Orange @ IFC CENTER
+DTSTART:20260912T232500
+DTEND:20260913T012500
+DESCRIPTION:Dir: STANLEY KUBRICK (1971)\nhttps://www.ifccenter.com/series/
+ late-night-favorites-fall-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/late-night-favorites-fall-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mac and Me @ IFC CENTER
+DTSTART:20260912T234500
+DTEND:20260913T014500
+DESCRIPTION:Dir: STEWART RAFFILL (1988)\nhttps://www.ifccenter.com/series/
+ staff-picks-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/staff-picks-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Manhunter @ IFC CENTER
+DTSTART:20260912T235500
+DTEND:20260913T015500
+DESCRIPTION:Dir: MICHAEL MANN (1986)\nhttps://www.ifccenter.com/series/wav
+ erly-midnights-mann-splaining/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/waverly-midnights-mann-splaining/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All Star Video @ JAPAN SOCIETY
@@ -4611,6 +4665,381 @@ URL:https://www.dctvny.org/s/firehousecinema/series/christine-choy-retrosp
  ective-MCWQ67DADNFVD7BKSILYN4LNGTWA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260913T103500
+DTEND:20260913T123500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260913T110500
+DTEND:20260913T130500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260913T211500
+DTEND:20260913T231500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260913T111000
+DTEND:20260913T131000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260913T111500
+DTEND:20260913T131500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260913T125500
+DTEND:20260913T145500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260913T200000
+DTEND:20260913T220000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260913T132000
+DTEND:20260913T152000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260913T160000
+DTEND:20260913T180000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260913T184000
+DTEND:20260913T204000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260913T212000
+DTEND:20260913T232000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260913T132500
+DTEND:20260913T152500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260913T190000
+DTEND:20260913T210000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260913T140000
+DTEND:20260913T160000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260913T190500
+DTEND:20260913T210500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260913T215500
+DTEND:20260913T235500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260913T142500
+DTEND:20260913T162500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260913T163500
+DTEND:20260913T183500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260913T185500
+DTEND:20260913T205500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260913T155000
+DTEND:20260913T175000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260913T163000
+DTEND:20260913T183000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260913T213500
+DTEND:20260913T233500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260913T173000
+DTEND:20260913T193000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260913T212500
+DTEND:20260913T232500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union County @ IFC CENTER
+DTSTART:20260913T110500
+DTEND:20260913T130500
+DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
+ ounty/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/union-county/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union County @ IFC CENTER
+DTSTART:20260913T211500
+DTEND:20260913T231500
+DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
+ ounty/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/union-county/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Clockwork Orange @ IFC CENTER
+DTSTART:20260913T111000
+DTEND:20260913T131000
+DESCRIPTION:Dir: STANLEY KUBRICK (1971)\nhttps://www.ifccenter.com/series/
+ late-night-favorites-fall-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/late-night-favorites-fall-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Making Sense @ IFC CENTER
+DTSTART:20260913T111500
+DTEND:20260913T131500
+DESCRIPTION:Dir: JONATHAN DEMME (1984)\nhttps://www.ifccenter.com/series/l
+ ate-night-favorites-summer-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/late-night-favorites-summer-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260913T125500
+DTEND:20260913T145500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260913T200000
+DTEND:20260913T220000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serpent's Path @ IFC CENTER
+DTSTART:20260913T132000
+DTEND:20260913T152000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ serpents-path/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serpent's Path @ IFC CENTER
+DTSTART:20260913T160000
+DTEND:20260913T180000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ serpents-path/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serpent's Path @ IFC CENTER
+DTSTART:20260913T184000
+DTEND:20260913T204000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ serpents-path/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serpent's Path @ IFC CENTER
+DTSTART:20260913T212000
+DTEND:20260913T232000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ serpents-path/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260913T132500
+DTEND:20260913T152500
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260913T190000
+DTEND:20260913T210000
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260913T140000
+DTEND:20260913T160000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260913T190500
+DTEND:20260913T210500
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260913T215500
+DTEND:20260913T235500
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Who Moves America @ IFC CENTER
 DTSTART:20260913T142500
 DTEND:20260913T162500
@@ -4636,6 +5065,51 @@ DESCRIPTION:Dir: YAEL BRIDGE (2026)\nhttps://www.ifccenter.com/films/who-m
  oves-america-2/
 LOCATION:IFC CENTER
 URL:https://www.ifccenter.com/films/who-moves-america-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ IFC CENTER
+DTSTART:20260913T155000
+DTEND:20260913T175000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ the-samurai-and-the-prisoner/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260913T163000
+DTEND:20260913T183000
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260913T213500
+DTEND:20260913T233500
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret @ IFC CENTER
+DTSTART:20260913T173000
+DTEND:20260913T193000
+DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
+ s-secret/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/maddies-secret/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260913T212500
+DTEND:20260913T232500
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stolen Kingdom @ LOW CINEMA
@@ -5417,6 +5891,371 @@ URL:https://www.dctvny.org/s/firehouse-film/thresholds-MCKTXRBKX5I5HPHDRX4
  TWDQGI4LE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260914T103500
+DTEND:20260914T123500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260914T150000
+DTEND:20260914T170000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260914T193500
+DTEND:20260914T213500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260914T110000
+DTEND:20260914T130000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260914T110500
+DTEND:20260914T130500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260914T211500
+DTEND:20260914T231500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260914T113000
+DTEND:20260914T133000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260914T114500
+DTEND:20260914T134500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260914T125500
+DTEND:20260914T145500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260914T173000
+DTEND:20260914T193000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260914T132000
+DTEND:20260914T152000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260914T160000
+DTEND:20260914T180000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260914T184000
+DTEND:20260914T204000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260914T212000
+DTEND:20260914T232000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260914T132500
+DTEND:20260914T152500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260914T190000
+DTEND:20260914T210000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260914T140000
+DTEND:20260914T160000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260914T215000
+DTEND:20260914T235000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260914T140500
+DTEND:20260914T160500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260914T155000
+DTEND:20260914T175000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260914T163000
+DTEND:20260914T183000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260914T214500
+DTEND:20260914T234500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260914T212500
+DTEND:20260914T232500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret @ IFC CENTER
+DTSTART:20260914T110000
+DTEND:20260914T130000
+DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
+ s-secret/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/maddies-secret/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union County @ IFC CENTER
+DTSTART:20260914T110500
+DTEND:20260914T130500
+DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
+ ounty/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/union-county/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union County @ IFC CENTER
+DTSTART:20260914T211500
+DTEND:20260914T231500
+DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
+ ounty/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/union-county/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Clockwork Orange @ IFC CENTER
+DTSTART:20260914T113000
+DTEND:20260914T133000
+DESCRIPTION:Dir: STANLEY KUBRICK (1971)\nhttps://www.ifccenter.com/series/
+ late-night-favorites-fall-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/late-night-favorites-fall-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Making Sense @ IFC CENTER
+DTSTART:20260914T114500
+DTEND:20260914T134500
+DESCRIPTION:Dir: JONATHAN DEMME (1984)\nhttps://www.ifccenter.com/series/l
+ ate-night-favorites-summer-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/late-night-favorites-summer-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260914T125500
+DTEND:20260914T145500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260914T173000
+DTEND:20260914T193000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serpent's Path @ IFC CENTER
+DTSTART:20260914T132000
+DTEND:20260914T152000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ serpents-path/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serpent's Path @ IFC CENTER
+DTSTART:20260914T160000
+DTEND:20260914T180000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ serpents-path/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serpent's Path @ IFC CENTER
+DTSTART:20260914T184000
+DTEND:20260914T204000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ serpents-path/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serpent's Path @ IFC CENTER
+DTSTART:20260914T212000
+DTEND:20260914T232000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ serpents-path/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260914T132500
+DTEND:20260914T152500
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260914T190000
+DTEND:20260914T210000
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260914T140000
+DTEND:20260914T160000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260914T215000
+DTEND:20260914T235000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Who Moves America @ IFC CENTER
 DTSTART:20260914T140500
 DTEND:20260914T160500
@@ -5442,6 +6281,42 @@ DESCRIPTION:Dir: YAEL BRIDGE (2026)\nhttps://www.ifccenter.com/films/who-m
  oves-america-2/
 LOCATION:IFC CENTER
 URL:https://www.ifccenter.com/films/who-moves-america-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ IFC CENTER
+DTSTART:20260914T155000
+DTEND:20260914T175000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ the-samurai-and-the-prisoner/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260914T163000
+DTEND:20260914T183000
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260914T214500
+DTEND:20260914T234500
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260914T212500
+DTEND:20260914T232500
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stolen Kingdom @ LOW CINEMA
@@ -6189,6 +7064,391 @@ URL:https://www.dctvny.org/s/firehouse-film/thresholds-MCKTXRBKX5I5HPHDRX4
  TWDQGI4LE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260915T103500
+DTEND:20260915T123500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260915T150000
+DTEND:20260915T170000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260915T110000
+DTEND:20260915T130000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260915T110500
+DTEND:20260915T130500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260915T211500
+DTEND:20260915T231500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260915T113000
+DTEND:20260915T133000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260915T114500
+DTEND:20260915T134500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260915T125500
+DTEND:20260915T145500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260915T173000
+DTEND:20260915T193000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260915T132000
+DTEND:20260915T152000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260915T160000
+DTEND:20260915T180000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260915T184000
+DTEND:20260915T204000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260915T212000
+DTEND:20260915T232000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260915T132500
+DTEND:20260915T152500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260915T140000
+DTEND:20260915T160000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260915T193000
+DTEND:20260915T213000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260915T215000
+DTEND:20260915T235000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260915T142500
+DTEND:20260915T162500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260915T163500
+DTEND:20260915T183500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260915T185500
+DTEND:20260915T205500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260915T155000
+DTEND:20260915T175000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260915T163000
+DTEND:20260915T183000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260915T213000
+DTEND:20260915T233000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260915T190000
+DTEND:20260915T210000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260915T212500
+DTEND:20260915T232500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret @ IFC CENTER
+DTSTART:20260915T110000
+DTEND:20260915T130000
+DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
+ s-secret/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/maddies-secret/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union County @ IFC CENTER
+DTSTART:20260915T110500
+DTEND:20260915T130500
+DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
+ ounty/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/union-county/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union County @ IFC CENTER
+DTSTART:20260915T211500
+DTEND:20260915T231500
+DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
+ ounty/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/union-county/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Clockwork Orange @ IFC CENTER
+DTSTART:20260915T113000
+DTEND:20260915T133000
+DESCRIPTION:Dir: STANLEY KUBRICK (1971)\nhttps://www.ifccenter.com/series/
+ late-night-favorites-fall-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/late-night-favorites-fall-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Making Sense @ IFC CENTER
+DTSTART:20260915T114500
+DTEND:20260915T134500
+DESCRIPTION:Dir: JONATHAN DEMME (1984)\nhttps://www.ifccenter.com/series/l
+ ate-night-favorites-summer-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/late-night-favorites-summer-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260915T125500
+DTEND:20260915T145500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260915T173000
+DTEND:20260915T193000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serpent's Path @ IFC CENTER
+DTSTART:20260915T132000
+DTEND:20260915T152000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ serpents-path/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serpent's Path @ IFC CENTER
+DTSTART:20260915T160000
+DTEND:20260915T180000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ serpents-path/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serpent's Path @ IFC CENTER
+DTSTART:20260915T184000
+DTEND:20260915T204000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ serpents-path/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serpent's Path @ IFC CENTER
+DTSTART:20260915T212000
+DTEND:20260915T232000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ serpents-path/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260915T132500
+DTEND:20260915T152500
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260915T140000
+DTEND:20260915T160000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260915T193000
+DTEND:20260915T213000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260915T215000
+DTEND:20260915T235000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Who Moves America @ IFC CENTER
 DTSTART:20260915T142500
 DTEND:20260915T162500
@@ -6214,6 +7474,51 @@ DESCRIPTION:Dir: YAEL BRIDGE (2026)\nhttps://www.ifccenter.com/films/who-m
  oves-america-2/
 LOCATION:IFC CENTER
 URL:https://www.ifccenter.com/films/who-moves-america-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ IFC CENTER
+DTSTART:20260915T155000
+DTEND:20260915T175000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ the-samurai-and-the-prisoner/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260915T163000
+DTEND:20260915T183000
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260915T213000
+DTEND:20260915T233000
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soul Patrol @ IFC CENTER
+DTSTART:20260915T190000
+DTEND:20260915T210000
+DESCRIPTION:Dir: J.M. HARPER (2026)\nhttps://www.ifccenter.com/films/soul-
+ patrol/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/soul-patrol/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260915T212500
+DTEND:20260915T232500
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stolen Kingdom @ LOW CINEMA
@@ -6333,6 +7638,15 @@ LOCATION:PARIS THEATER
 URL:https://www.paristheaternyc.com/series/big-loud-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:New York\, New York @ PARIS THEATER
+DTSTART:20260915T223000
+DTEND:20260916T003000
+DESCRIPTION:Dir: MARTIN SCORSESE (1977)\nhttps://www.paristheaternyc.com/s
+ eries/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sweet Charity @ PARIS THEATER
 DTSTART:20260915T144500
 DTEND:20260915T164500
@@ -6347,6 +7661,15 @@ DTSTART:20260915T183000
 DTEND:20260915T203000
 DESCRIPTION:Dir: TAYLOR HACKFORD (1985)\nhttps://www.paristheaternyc.com/s
  eries/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blade Runner: The Final Cut @ PARIS THEATER
+DTSTART:20260915T223000
+DTEND:20260916T003000
+DESCRIPTION:Dir: RIDLEY SCOTT (1982/2007)\nhttps://www.paristheaternyc.com
+ /series/big-loud-2026
 LOCATION:PARIS THEATER
 URL:https://www.paristheaternyc.com/series/big-loud-2026
 END:VEVENT
@@ -6787,6 +8110,453 @@ DESCRIPTION:Dir: WORTH LONG\, ALLAN SIEGEL\, CHRISTINE CHOY (1984)\nhttps:
 LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
 URL:https://www.dctvny.org/s/firehousecinema/series/christine-choy-retrosp
  ective-MCWQ67DADNFVD7BKSILYN4LNGTWA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260916T103500
+DTEND:20260916T123500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260916T193500
+DTEND:20260916T213500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260916T110000
+DTEND:20260916T130000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260916T110500
+DTEND:20260916T130500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260916T213500
+DTEND:20260916T233500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260916T113000
+DTEND:20260916T133000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260916T114500
+DTEND:20260916T134500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260916T125500
+DTEND:20260916T145500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260916T173000
+DTEND:20260916T193000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260916T132000
+DTEND:20260916T152000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260916T160000
+DTEND:20260916T180000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260916T184000
+DTEND:20260916T204000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260916T212000
+DTEND:20260916T232000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260916T132500
+DTEND:20260916T152500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260916T190000
+DTEND:20260916T210000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260916T140000
+DTEND:20260916T160000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260916T190500
+DTEND:20260916T210500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260916T142500
+DTEND:20260916T162500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260916T163500
+DTEND:20260916T183500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260916T155000
+DTEND:20260916T175000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260916T163000
+DTEND:20260916T183000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260916T215000
+DTEND:20260916T235000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260916T212500
+DTEND:20260916T232500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260916T213000
+DTEND:20260916T233000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret @ IFC CENTER
+DTSTART:20260916T110000
+DTEND:20260916T130000
+DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
+ s-secret/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/maddies-secret/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union County @ IFC CENTER
+DTSTART:20260916T110500
+DTEND:20260916T130500
+DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
+ ounty/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/union-county/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union County @ IFC CENTER
+DTSTART:20260916T213500
+DTEND:20260916T233500
+DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
+ ounty/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/union-county/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Clockwork Orange @ IFC CENTER
+DTSTART:20260916T113000
+DTEND:20260916T133000
+DESCRIPTION:Dir: STANLEY KUBRICK (1971)\nhttps://www.ifccenter.com/series/
+ late-night-favorites-fall-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/late-night-favorites-fall-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Making Sense @ IFC CENTER
+DTSTART:20260916T114500
+DTEND:20260916T134500
+DESCRIPTION:Dir: JONATHAN DEMME (1984)\nhttps://www.ifccenter.com/series/l
+ ate-night-favorites-summer-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/late-night-favorites-summer-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260916T125500
+DTEND:20260916T145500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260916T173000
+DTEND:20260916T193000
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serpent's Path @ IFC CENTER
+DTSTART:20260916T132000
+DTEND:20260916T152000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ serpents-path/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serpent's Path @ IFC CENTER
+DTSTART:20260916T160000
+DTEND:20260916T180000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ serpents-path/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serpent's Path @ IFC CENTER
+DTSTART:20260916T184000
+DTEND:20260916T204000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ serpents-path/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serpent's Path @ IFC CENTER
+DTSTART:20260916T212000
+DTEND:20260916T232000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ serpents-path/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260916T132500
+DTEND:20260916T152500
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260916T190000
+DTEND:20260916T210000
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Kingdom @ IFC CENTER
+DTSTART:20260916T140000
+DTEND:20260916T160000
+DESCRIPTION:Dir: JULIEN COLONNA (2024)\nhttps://www.ifccenter.com/films/th
+ e-kingdom/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-kingdom/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Kingdom @ IFC CENTER
+DTSTART:20260916T190500
+DTEND:20260916T210500
+DESCRIPTION:Dir: JULIEN COLONNA (2024)\nhttps://www.ifccenter.com/films/th
+ e-kingdom/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-kingdom/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Who Moves America @ IFC CENTER
+DTSTART:20260916T142500
+DTEND:20260916T162500
+DESCRIPTION:Dir: YAEL BRIDGE (2026)\nhttps://www.ifccenter.com/films/who-m
+ oves-america-2/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/who-moves-america-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Who Moves America @ IFC CENTER
+DTSTART:20260916T163500
+DTEND:20260916T183500
+DESCRIPTION:Dir: YAEL BRIDGE (2026)\nhttps://www.ifccenter.com/films/who-m
+ oves-america-2/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/who-moves-america-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ IFC CENTER
+DTSTART:20260916T155000
+DTEND:20260916T175000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ the-samurai-and-the-prisoner/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260916T163000
+DTEND:20260916T183000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260916T215000
+DTEND:20260916T235000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260916T190000
+DTEND:20260916T210000
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260916T212500
+DTEND:20260916T232500
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mysterious Skin @ IFC CENTER
+DTSTART:20260916T213000
+DTEND:20260916T233000
+DESCRIPTION:Dir: GREGG ARAKI (2004)\nhttps://www.ifccenter.com/films/myste
+ rious-skin/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/mysterious-skin/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stolen Kingdom @ LOW CINEMA
@@ -7403,6 +9173,426 @@ LOCATION:GOETHE-INSTITUT NEW YORK
 URL:https://www.eventbrite.com/cc/german-movie-nights-462669
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260917T103500
+DTEND:20260917T123500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260917T145500
+DTEND:20260917T165500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260917T110000
+DTEND:20260917T130000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260917T110500
+DTEND:20260917T130500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260917T113000
+DTEND:20260917T133000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260917T114500
+DTEND:20260917T134500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260917T125500
+DTEND:20260917T145500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260917T165500
+DTEND:20260917T185500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260917T132000
+DTEND:20260917T152000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260917T160000
+DTEND:20260917T180000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260917T184000
+DTEND:20260917T204000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260917T212000
+DTEND:20260917T232000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260917T132500
+DTEND:20260917T152500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260917T190000
+DTEND:20260917T210000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260917T140000
+DTEND:20260917T160000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260917T190500
+DTEND:20260917T210500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260917T142500
+DTEND:20260917T162500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260917T161500
+DTEND:20260917T181500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260917T155000
+DTEND:20260917T175000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260917T163000
+DTEND:20260917T183000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260917T215000
+DTEND:20260917T235000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260917T193000
+DTEND:20260917T213000
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Sundance Film Festival Short Film Tour @ IFC CENTER
+DTSTART:20260917T212500
+DTEND:20260917T232500
+DESCRIPTION:Dir: 2026 (100M)\nhttps://www.ifccenter.com/films/2026-sundanc
+ e-film-festival-short-film-tour/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/2026-sundance-film-festival-short-film
+ -tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maddie's Secret @ IFC CENTER
+DTSTART:20260917T110000
+DTEND:20260917T130000
+DESCRIPTION:Dir: JOHN EARLY (2025)\nhttps://www.ifccenter.com/films/maddie
+ s-secret/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/maddies-secret/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Union County @ IFC CENTER
+DTSTART:20260917T110500
+DTEND:20260917T130500
+DESCRIPTION:Dir: ADAM MEEKS (97M)\nhttps://www.ifccenter.com/films/union-c
+ ounty/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/union-county/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Clockwork Orange @ IFC CENTER
+DTSTART:20260917T113000
+DTEND:20260917T133000
+DESCRIPTION:Dir: STANLEY KUBRICK (1971)\nhttps://www.ifccenter.com/series/
+ late-night-favorites-fall-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/late-night-favorites-fall-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Making Sense @ IFC CENTER
+DTSTART:20260917T114500
+DTEND:20260917T134500
+DESCRIPTION:Dir: JONATHAN DEMME (1984)\nhttps://www.ifccenter.com/series/l
+ ate-night-favorites-summer-2026/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/series/late-night-favorites-summer-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260917T125500
+DTEND:20260917T145500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gandahar @ IFC CENTER
+DTSTART:20260917T165500
+DTEND:20260917T185500
+DESCRIPTION:Dir: RENÉ LALOUX (1987)\nhttps://www.ifccenter.com/films/gand
+ ahar/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/gandahar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serpent's Path @ IFC CENTER
+DTSTART:20260917T132000
+DTEND:20260917T152000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ serpents-path/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serpent's Path @ IFC CENTER
+DTSTART:20260917T160000
+DTEND:20260917T180000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ serpents-path/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serpent's Path @ IFC CENTER
+DTSTART:20260917T184000
+DTEND:20260917T204000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ serpents-path/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serpent's Path @ IFC CENTER
+DTSTART:20260917T212000
+DTEND:20260917T232000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ serpents-path/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/serpents-path/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260917T132500
+DTEND:20260917T152500
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sun Never Sets @ IFC CENTER
+DTSTART:20260917T190000
+DTEND:20260917T210000
+DESCRIPTION:Dir: JOE SWANBERG (2026)\nhttps://www.ifccenter.com/films/the-
+ sun-never-sets/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-sun-never-sets/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Kingdom @ IFC CENTER
+DTSTART:20260917T140000
+DTEND:20260917T160000
+DESCRIPTION:Dir: JULIEN COLONNA (2024)\nhttps://www.ifccenter.com/films/th
+ e-kingdom/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-kingdom/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Kingdom @ IFC CENTER
+DTSTART:20260917T190500
+DTEND:20260917T210500
+DESCRIPTION:Dir: JULIEN COLONNA (2024)\nhttps://www.ifccenter.com/films/th
+ e-kingdom/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-kingdom/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Who Moves America @ IFC CENTER
+DTSTART:20260917T142500
+DTEND:20260917T162500
+DESCRIPTION:Dir: YAEL BRIDGE (2026)\nhttps://www.ifccenter.com/films/who-m
+ oves-america-2/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/who-moves-america-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Who Moves America @ IFC CENTER
+DTSTART:20260917T161500
+DTEND:20260917T181500
+DESCRIPTION:Dir: YAEL BRIDGE (2026)\nhttps://www.ifccenter.com/films/who-m
+ oves-america-2/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/who-moves-america-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Samurai and the Prisoner @ IFC CENTER
+DTSTART:20260917T155000
+DTEND:20260917T175000
+DESCRIPTION:Dir: KIYOSHI KUROSAWA (2026)\nhttps://www.ifccenter.com/films/
+ the-samurai-and-the-prisoner/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-samurai-and-the-prisoner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260917T163000
+DTEND:20260917T183000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers @ IFC CENTER
+DTSTART:20260917T215000
+DTEND:20260917T235000
+DESCRIPTION:Dir: MICHAEL LEHMANN (1988)\nhttps://www.ifccenter.com/films/h
+ eathers/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/heathers/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Knife: The Attempted Murder of Salman Rushdie @ IFC CENTER
+DTSTART:20260917T193000
+DTEND:20260917T213000
+DESCRIPTION:Dir: ALEX GIBNEY (2026)\nhttps://www.ifccenter.com/films/knife
+ -the-attempted-murder-of-salman-rushdie/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/knife-the-attempted-murder-of-salman-r
+ ushdie/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colony @ IFC CENTER
+DTSTART:20260917T212500
+DTEND:20260917T232500
+DESCRIPTION:Dir: YEON SANG-HO (2026)\nhttps://www.ifccenter.com/films/colo
+ ny-3/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/colony-3/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Blades of the Guardians @ MUSEUM OF MODERN ART
 DTSTART:20260917T190000
 DTEND:20260917T210000
@@ -7421,9 +9611,72 @@ LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://nitehawkcinema.com/williamsburg/film-series/visual-vengeance/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Tree of Life @ PARIS THEATER
+DTSTART:20260917T113000
+DTEND:20260917T133000
+DESCRIPTION:Dir: TERRENCE MALICK (2011)\nhttps://www.paristheaternyc.com/s
+ eries/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Tree of Life @ PARIS THEATER
+DTSTART:20260917T144500
+DTEND:20260917T164500
+DESCRIPTION:Dir: TERRENCE MALICK (2011)\nhttps://www.paristheaternyc.com/s
+ eries/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Tree of Life @ PARIS THEATER
+DTSTART:20260917T183000
+DTEND:20260917T203000
+DESCRIPTION:Dir: TERRENCE MALICK (2011)\nhttps://www.paristheaternyc.com/s
+ eries/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Tree of Life @ PARIS THEATER
+DTSTART:20260917T221500
+DTEND:20260918T001500
+DESCRIPTION:Dir: TERRENCE MALICK (2011)\nhttps://www.paristheaternyc.com/s
+ eries/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boogie Nights @ PARIS THEATER
+DTSTART:20260917T144500
+DTEND:20260917T164500
+DESCRIPTION:Dir: PAUL THOMAS ANDERSON (1997)\nhttps://www.paristheaternyc.
+ com/series/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2001: A Space Odyssey @ PARIS THEATER
+DTSTART:20260917T183000
+DTEND:20260917T203000
+DESCRIPTION:Dir: STANLEY KUBRICK (1968)\nhttps://www.paristheaternyc.com/s
+ eries/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scott Pilgrim vs. The World @ PARIS THEATER
+DTSTART:20260917T221500
+DTEND:20260918T001500
+DESCRIPTION:Dir: EDGAR WRIGHT (2010)\nhttps://www.paristheaternyc.com/seri
+ es/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:I Walked with a Zombie @ QUAD CINEMA
-DTSTART:20260917T180000
-DTEND:20260917T200000
+DTSTART:20260917T182000
+DTEND:20260917T202000
 DESCRIPTION:Dir: JACQUES TOURNEUR (1943)\nhttps://quadcinema.com/program/p
  relude-to-black-zombie/
 LOCATION:QUAD CINEMA
@@ -7625,6 +9878,51 @@ LOCATION:FLATBUSH REFORMED CHURCH
 URL:https://www.eventbrite.com/o/8387562806
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260918T114000
+DTEND:20260918T134000
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260918T141000
+DTEND:20260918T161000
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260918T164000
+DTEND:20260918T184000
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260918T191500
+DTEND:20260918T211500
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260918T214500
+DTEND:20260918T234500
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The History of Concrete @ LOW CINEMA
 DTSTART:20260918T180000
 DTEND:20260918T200000
@@ -7704,6 +10002,51 @@ DESCRIPTION:Dir: LUCIO FULCI (1972)\nhttps://nitehawkcinema.com/williamsbu
 LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://nitehawkcinema.com/williamsburg/movies/dont-torture-a-duckling
  /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Side Story @ PARIS THEATER
+DTSTART:20260918T113000
+DTEND:20260918T133000
+DESCRIPTION:Dir: ROBERT WISE\, JEROME ROBBINS (1961)\nhttps://www.paristhe
+ aternyc.com/series/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Side Story @ PARIS THEATER
+DTSTART:20260918T151500
+DTEND:20260918T171500
+DESCRIPTION:Dir: ROBERT WISE\, JEROME ROBBINS (1961)\nhttps://www.paristhe
+ aternyc.com/series/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Side Story @ PARIS THEATER
+DTSTART:20260918T190000
+DTEND:20260918T210000
+DESCRIPTION:Dir: ROBERT WISE\, JEROME ROBBINS (1961)\nhttps://www.paristhe
+ aternyc.com/series/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boogie Nights @ PARIS THEATER
+DTSTART:20260918T151500
+DTEND:20260918T171500
+DESCRIPTION:Dir: PAUL THOMAS ANDERSON (1997)\nhttps://www.paristheaternyc.
+ com/series/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lawrence of Arabia @ PARIS THEATER
+DTSTART:20260918T190000
+DTEND:20260918T210000
+DESCRIPTION:Dir: DAVID LEAN (1962)\nhttps://www.paristheaternyc.com/series
+ /big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gorilla Gorilla @ ROOFTOP FILMS
@@ -8043,6 +10386,51 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/you-had-to-be-there
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260919T114000
+DTEND:20260919T134000
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260919T141000
+DTEND:20260919T161000
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260919T164000
+DTEND:20260919T184000
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260919T191500
+DTEND:20260919T211500
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260919T214500
+DTEND:20260919T234500
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The History of Concrete @ LOW CINEMA
 DTSTART:20260919T180000
 DTEND:20260919T200000
@@ -8189,6 +10577,42 @@ URL:https://nitehawkcinema.com/williamsburg/film-series/80s-bombshell-kath
  leen-turner/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:All That Jazz @ PARIS THEATER
+DTSTART:20260919T113000
+DTEND:20260919T133000
+DESCRIPTION:Dir: BOB FOSSE (1979)\nhttps://www.paristheaternyc.com/series/
+ big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All That Jazz @ PARIS THEATER
+DTSTART:20260919T150000
+DTEND:20260919T170000
+DESCRIPTION:Dir: BOB FOSSE (1979)\nhttps://www.paristheaternyc.com/series/
+ big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All That Jazz @ PARIS THEATER
+DTSTART:20260919T174500
+DTEND:20260919T194500
+DESCRIPTION:Dir: BOB FOSSE (1979)\nhttps://www.paristheaternyc.com/series/
+ big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All That Jazz @ PARIS THEATER
+DTSTART:20260919T215000
+DTEND:20260919T235000
+DESCRIPTION:Dir: BOB FOSSE (1979)\nhttps://www.paristheaternyc.com/series/
+ big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Letty Lynton @ PARIS THEATER
 DTSTART:20260919T150000
 DTEND:20260919T170000
@@ -8197,6 +10621,24 @@ DESCRIPTION:Dir: CLARENCE BROWN (1932)\nhttps://www.paristheaternyc.com/se
 LOCATION:PARIS THEATER
 URL:https://www.paristheaternyc.com/series/new-york-film-critics-circle-se
  ries
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Babylon @ PARIS THEATER
+DTSTART:20260919T174500
+DTEND:20260919T194500
+DESCRIPTION:Dir: DAMIEN CHAZELLE (2022)\nhttps://www.paristheaternyc.com/s
+ eries/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sorcerer @ PARIS THEATER
+DTSTART:20260919T215000
+DTEND:20260919T235000
+DESCRIPTION:Dir: WILLIAM FRIEDKIN (1977)\nhttps://www.paristheaternyc.com/
+ series/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Circling Zero: We See Absence @ SPECTACLE
@@ -8535,6 +10977,51 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/wild-style
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260920T114000
+DTEND:20260920T134000
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260920T141000
+DTEND:20260920T161000
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260920T164000
+DTEND:20260920T184000
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260920T191500
+DTEND:20260920T211500
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260920T214500
+DTEND:20260920T234500
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The History of Concrete @ LOW CINEMA
 DTSTART:20260920T180000
 DTEND:20260920T200000
@@ -8642,6 +11129,51 @@ DESCRIPTION:Dir: FRANCIS FORD COPPOLA (1986)\nhttps://nitehawkcinema.com/w
 LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://nitehawkcinema.com/williamsburg/film-series/80s-bombshell-kath
  leen-turner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Side Story @ PARIS THEATER
+DTSTART:20260920T120000
+DTEND:20260920T140000
+DESCRIPTION:Dir: ROBERT WISE\, JEROME ROBBINS (1961)\nhttps://www.paristhe
+ aternyc.com/series/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Side Story @ PARIS THEATER
+DTSTART:20260920T161500
+DTEND:20260920T181500
+DESCRIPTION:Dir: ROBERT WISE\, JEROME ROBBINS (1961)\nhttps://www.paristhe
+ aternyc.com/series/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Side Story @ PARIS THEATER
+DTSTART:20260920T204500
+DTEND:20260920T224500
+DESCRIPTION:Dir: ROBERT WISE\, JEROME ROBBINS (1961)\nhttps://www.paristhe
+ aternyc.com/series/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barry Lyndon @ PARIS THEATER
+DTSTART:20260920T161500
+DTEND:20260920T181500
+DESCRIPTION:Dir: STANLEY KUBRICK (1975)\nhttps://www.paristheaternyc.com/s
+ eries/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mad Max: Fury Road @ PARIS THEATER
+DTSTART:20260920T204500
+DTEND:20260920T224500
+DESCRIPTION:Dir: GEORGE MILLER (2015)\nhttps://www.paristheaternyc.com/ser
+ ies/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Workingman's Death @ SPECTACLE
@@ -8852,6 +11384,51 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/my-brothers-wedding
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260921T114000
+DTEND:20260921T134000
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260921T141000
+DTEND:20260921T161000
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260921T164000
+DTEND:20260921T184000
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260921T191500
+DTEND:20260921T211500
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260921T214500
+DTEND:20260921T234500
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The History of Concrete @ LOW CINEMA
 DTSTART:20260921T154500
 DTEND:20260921T174500
@@ -8915,6 +11492,69 @@ DESCRIPTION:Dir: STEPHEN SURJIK (1993)\nhttps://nitehawkcinema.com/william
 LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://nitehawkcinema.com/williamsburg/showtimes/waynes-world-2-9-21-
  26-930-pm/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heat @ PARIS THEATER
+DTSTART:20260921T113000
+DTEND:20260921T133000
+DESCRIPTION:Dir: MICHAEL MANN (1995)\nhttps://www.paristheaternyc.com/seri
+ es/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heat @ PARIS THEATER
+DTSTART:20260921T151500
+DTEND:20260921T171500
+DESCRIPTION:Dir: MICHAEL MANN (1995)\nhttps://www.paristheaternyc.com/seri
+ es/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heat @ PARIS THEATER
+DTSTART:20260921T183000
+DTEND:20260921T203000
+DESCRIPTION:Dir: MICHAEL MANN (1995)\nhttps://www.paristheaternyc.com/seri
+ es/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heat @ PARIS THEATER
+DTSTART:20260921T221500
+DTEND:20260922T001500
+DESCRIPTION:Dir: MICHAEL MANN (1995)\nhttps://www.paristheaternyc.com/seri
+ es/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All That Jazz @ PARIS THEATER
+DTSTART:20260921T151500
+DTEND:20260921T171500
+DESCRIPTION:Dir: BOB FOSSE (1979)\nhttps://www.paristheaternyc.com/series/
+ big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bridge on the River Kwai @ PARIS THEATER
+DTSTART:20260921T183000
+DTEND:20260921T203000
+DESCRIPTION:Dir: DAVID LEAN (1957)\nhttps://www.paristheaternyc.com/series
+ /big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blade Runner: The Final Cut @ PARIS THEATER
+DTSTART:20260921T221500
+DTEND:20260922T001500
+DESCRIPTION:Dir: RIDLEY SCOTT (1982/2007)\nhttps://www.paristheaternyc.com
+ /series/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Day Night Day Night @ ROXY CINEMA NEW YORK
@@ -9229,6 +11869,51 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/series/nyc-in-transit
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260922T114000
+DTEND:20260922T134000
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260922T141000
+DTEND:20260922T161000
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260922T164000
+DTEND:20260922T184000
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260922T191500
+DTEND:20260922T211500
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260922T214500
+DTEND:20260922T234500
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The History of Concrete @ LOW CINEMA
 DTSTART:20260922T180000
 DTEND:20260922T200000
@@ -9291,6 +11976,69 @@ DESCRIPTION:Dir: KEN RUSSELL (1984)\nhttps://nitehawkcinema.com/williamsbu
 LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://nitehawkcinema.com/williamsburg/film-series/80s-bombshell-kath
  leen-turner/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Tree of Life @ PARIS THEATER
+DTSTART:20260922T124500
+DTEND:20260922T144500
+DESCRIPTION:Dir: TERRENCE MALICK (2011)\nhttps://www.paristheaternyc.com/s
+ eries/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Tree of Life @ PARIS THEATER
+DTSTART:20260922T160000
+DTEND:20260922T180000
+DESCRIPTION:Dir: TERRENCE MALICK (2011)\nhttps://www.paristheaternyc.com/s
+ eries/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Tree of Life @ PARIS THEATER
+DTSTART:20260922T183000
+DTEND:20260922T203000
+DESCRIPTION:Dir: TERRENCE MALICK (2011)\nhttps://www.paristheaternyc.com/s
+ eries/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Tree of Life @ PARIS THEATER
+DTSTART:20260922T221500
+DTEND:20260923T001500
+DESCRIPTION:Dir: TERRENCE MALICK (2011)\nhttps://www.paristheaternyc.com/s
+ eries/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elevator to the Gallows @ PARIS THEATER
+DTSTART:20260922T160000
+DTEND:20260922T180000
+DESCRIPTION:Dir: LOUIS MALLE (1957)\nhttps://www.paristheaternyc.com/serie
+ s/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heat @ PARIS THEATER
+DTSTART:20260922T183000
+DTEND:20260922T203000
+DESCRIPTION:Dir: MICHAEL MANN (1995)\nhttps://www.paristheaternyc.com/seri
+ es/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Back to the Future @ PARIS THEATER
+DTSTART:20260922T221500
+DTEND:20260923T001500
+DESCRIPTION:Dir: ROBERT ZEMECKIS (1985)\nhttps://www.paristheaternyc.com/s
+ eries/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Totally F***ed Up @ QUAD CINEMA
@@ -9573,6 +12321,51 @@ DESCRIPTION:Dir: CHARLES BURNETT (1983)\nhttps://filmforum.org/film/my-bro
  thers-wedding
 LOCATION:FILM FORUM
 URL:https://filmforum.org/film/my-brothers-wedding
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260923T114000
+DTEND:20260923T134000
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260923T141000
+DTEND:20260923T161000
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260923T164000
+DTEND:20260923T184000
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260923T191500
+DTEND:20260923T211500
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260923T214500
+DTEND:20260923T234500
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The History of Concrete @ LOW CINEMA
@@ -9875,6 +12668,51 @@ LOCATION:FILM FORUM
 URL:https://filmforum.org/film/the-scout
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260924T114000
+DTEND:20260924T134000
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260924T141000
+DTEND:20260924T161000
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260924T164000
+DTEND:20260924T184000
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260924T191500
+DTEND:20260924T211500
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The History of Concrete @ IFC CENTER
+DTSTART:20260924T214500
+DTEND:20260924T234500
+DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
+ istory-of-concrete/
+LOCATION:IFC CENTER
+URL:https://www.ifccenter.com/films/the-history-of-concrete/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The History of Concrete @ LOW CINEMA
 DTSTART:20260924T180000
 DTEND:20260924T200000
@@ -9935,6 +12773,69 @@ DESCRIPTION:Dir: HANK BEDFOR (2025)\nhttps://nitehawkcinema.com/williamsbu
  rg/film-series/local-color/
 LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://nitehawkcinema.com/williamsburg/film-series/local-color/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barry Lyndon @ PARIS THEATER
+DTSTART:20260924T110000
+DTEND:20260924T130000
+DESCRIPTION:Dir: STANLEY KUBRICK (1975)\nhttps://www.paristheaternyc.com/s
+ eries/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barry Lyndon @ PARIS THEATER
+DTSTART:20260924T151500
+DTEND:20260924T171500
+DESCRIPTION:Dir: STANLEY KUBRICK (1975)\nhttps://www.paristheaternyc.com/s
+ eries/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barry Lyndon @ PARIS THEATER
+DTSTART:20260924T183000
+DTEND:20260924T203000
+DESCRIPTION:Dir: STANLEY KUBRICK (1975)\nhttps://www.paristheaternyc.com/s
+ eries/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barry Lyndon @ PARIS THEATER
+DTSTART:20260924T220000
+DTEND:20260925T000000
+DESCRIPTION:Dir: STANLEY KUBRICK (1975)\nhttps://www.paristheaternyc.com/s
+ eries/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sorcerer @ PARIS THEATER
+DTSTART:20260924T151500
+DTEND:20260924T171500
+DESCRIPTION:Dir: WILLIAM FRIEDKIN (1977)\nhttps://www.paristheaternyc.com/
+ series/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boogie Nights @ PARIS THEATER
+DTSTART:20260924T183000
+DTEND:20260924T203000
+DESCRIPTION:Dir: PAUL THOMAS ANDERSON (1997)\nhttps://www.paristheaternyc.
+ com/series/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All That Jazz @ PARIS THEATER
+DTSTART:20260924T220000
+DTEND:20260925T000000
+DESCRIPTION:Dir: BOB FOSSE (1979)\nhttps://www.paristheaternyc.com/series/
+ big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Totally F***ed Up @ QUAD CINEMA
@@ -10260,6 +13161,69 @@ DESCRIPTION:Dir: CHRISTOPHE GANS (2006)\nhttps://nitehawkcinema.com/willia
  msburg/film-series/anniversary-party/
 LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://nitehawkcinema.com/williamsburg/film-series/anniversary-party/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bridge on the River Kwai @ PARIS THEATER
+DTSTART:20260925T113000
+DTEND:20260925T133000
+DESCRIPTION:Dir: DAVID LEAN (1957)\nhttps://www.paristheaternyc.com/series
+ /big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bridge on the River Kwai @ PARIS THEATER
+DTSTART:20260925T153000
+DTEND:20260925T173000
+DESCRIPTION:Dir: DAVID LEAN (1957)\nhttps://www.paristheaternyc.com/series
+ /big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bridge on the River Kwai @ PARIS THEATER
+DTSTART:20260925T184500
+DTEND:20260925T204500
+DESCRIPTION:Dir: DAVID LEAN (1957)\nhttps://www.paristheaternyc.com/series
+ /big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bridge on the River Kwai @ PARIS THEATER
+DTSTART:20260925T220000
+DTEND:20260926T000000
+DESCRIPTION:Dir: DAVID LEAN (1957)\nhttps://www.paristheaternyc.com/series
+ /big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mad Max: Fury Road @ PARIS THEATER
+DTSTART:20260925T153000
+DTEND:20260925T173000
+DESCRIPTION:Dir: GEORGE MILLER (2015)\nhttps://www.paristheaternyc.com/ser
+ ies/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Tree of Life @ PARIS THEATER
+DTSTART:20260925T184500
+DTEND:20260925T204500
+DESCRIPTION:Dir: TERRENCE MALICK (2011)\nhttps://www.paristheaternyc.com/s
+ eries/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scott Pilgrim vs. The World @ PARIS THEATER
+DTSTART:20260925T220000
+DTEND:20260926T000000
+DESCRIPTION:Dir: EDGAR WRIGHT (2010)\nhttps://www.paristheaternyc.com/seri
+ es/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Speck in the Water @ SPECTACLE
@@ -10672,6 +13636,51 @@ LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://nitehawkcinema.com/prospectpark/film-series/nostalgia-ultra/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Sound of Music @ PARIS THEATER
+DTSTART:20260926T120000
+DTEND:20260926T140000
+DESCRIPTION:Dir: ROBERT WISE (1965)\nhttps://www.paristheaternyc.com/serie
+ s/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sound of Music @ PARIS THEATER
+DTSTART:20260926T161500
+DTEND:20260926T181500
+DESCRIPTION:Dir: ROBERT WISE (1965)\nhttps://www.paristheaternyc.com/serie
+ s/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sound of Music @ PARIS THEATER
+DTSTART:20260926T223500
+DTEND:20260927T003500
+DESCRIPTION:Dir: ROBERT WISE (1965)\nhttps://www.paristheaternyc.com/serie
+ s/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elevator to the Gallows @ PARIS THEATER
+DTSTART:20260926T161500
+DTEND:20260926T181500
+DESCRIPTION:Dir: LOUIS MALLE (1957)\nhttps://www.paristheaternyc.com/serie
+ s/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Speed Racer @ PARIS THEATER
+DTSTART:20260926T223500
+DTEND:20260927T003500
+DESCRIPTION:Dir: LANA WACHOWSKI & LILLY WACHOWSKI (2008)\nhttps://www.pari
+ stheaternyc.com/series/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Destroy All Monsters @ ALAMO DRAFTHOUSE DOWNTOWN BROOKLYN
 DTSTART:20260927T120000
 DTEND:20260927T140000
@@ -11045,6 +14054,33 @@ LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://nitehawkcinema.com/prospectpark/film-series/nostalgia-ultra/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2001: A Space Odyssey @ PARIS THEATER
+DTSTART:20260927T160000
+DTEND:20260927T180000
+DESCRIPTION:Dir: STANLEY KUBRICK (1968)\nhttps://www.paristheaternyc.com/s
+ eries/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2001: A Space Odyssey @ PARIS THEATER
+DTSTART:20260927T200000
+DTEND:20260927T220000
+DESCRIPTION:Dir: STANLEY KUBRICK (1968)\nhttps://www.paristheaternyc.com/s
+ eries/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barry Lyndon @ PARIS THEATER
+DTSTART:20260927T200000
+DTEND:20260927T220000
+DESCRIPTION:Dir: STANLEY KUBRICK (1975)\nhttps://www.paristheaternyc.com/s
+ eries/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A. Rimbaud @ ROXY CINEMA NEW YORK
 DTSTART:20260927T133000
 DTEND:20260927T153000
@@ -11311,6 +14347,69 @@ LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://nitehawkcinema.com/williamsburg/film-series/live-sound-cinema/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Speed Racer @ PARIS THEATER
+DTSTART:20260928T113000
+DTEND:20260928T133000
+DESCRIPTION:Dir: LANA WACHOWSKI & LILLY WACHOWSKI (2008)\nhttps://www.pari
+ stheaternyc.com/series/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Speed Racer @ PARIS THEATER
+DTSTART:20260928T144500
+DTEND:20260928T164500
+DESCRIPTION:Dir: LANA WACHOWSKI & LILLY WACHOWSKI (2008)\nhttps://www.pari
+ stheaternyc.com/series/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Speed Racer @ PARIS THEATER
+DTSTART:20260928T184500
+DTEND:20260928T204500
+DESCRIPTION:Dir: LANA WACHOWSKI & LILLY WACHOWSKI (2008)\nhttps://www.pari
+ stheaternyc.com/series/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Speed Racer @ PARIS THEATER
+DTSTART:20260928T220000
+DTEND:20260929T000000
+DESCRIPTION:Dir: LANA WACHOWSKI & LILLY WACHOWSKI (2008)\nhttps://www.pari
+ stheaternyc.com/series/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bridge on the River Kwai @ PARIS THEATER
+DTSTART:20260928T144500
+DTEND:20260928T164500
+DESCRIPTION:Dir: DAVID LEAN (1957)\nhttps://www.paristheaternyc.com/series
+ /big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Master @ PARIS THEATER
+DTSTART:20260928T184500
+DTEND:20260928T204500
+DESCRIPTION:Dir: PAUL THOMAS ANDERSON (2012)\nhttps://www.paristheaternyc.
+ com/series/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scott Pilgrim vs. The World @ PARIS THEATER
+DTSTART:20260928T220000
+DTEND:20260929T000000
+DESCRIPTION:Dir: EDGAR WRIGHT (2010)\nhttps://www.paristheaternyc.com/seri
+ es/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Idlewild @ ROXY CINEMA NEW YORK
 DTSTART:20260928T190000
 DTEND:20260928T210000
@@ -11565,6 +14664,51 @@ DESCRIPTION:Dir: ALEX DE RENZY (1978)\nhttps://nitehawkcinema.com/williams
  burg/film-series/skin-deep/
 LOCATION:NITEHAWK CINEMA WILLIAMSBURG
 URL:https://nitehawkcinema.com/williamsburg/film-series/skin-deep/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scott Pilgrim vs. The World @ PARIS THEATER
+DTSTART:20260929T113000
+DTEND:20260929T133000
+DESCRIPTION:Dir: EDGAR WRIGHT (2010)\nhttps://www.paristheaternyc.com/seri
+ es/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scott Pilgrim vs. The World @ PARIS THEATER
+DTSTART:20260929T143000
+DTEND:20260929T163000
+DESCRIPTION:Dir: EDGAR WRIGHT (2010)\nhttps://www.paristheaternyc.com/seri
+ es/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scott Pilgrim vs. The World @ PARIS THEATER
+DTSTART:20260929T190000
+DTEND:20260929T210000
+DESCRIPTION:Dir: EDGAR WRIGHT (2010)\nhttps://www.paristheaternyc.com/seri
+ es/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barry Lyndon @ PARIS THEATER
+DTSTART:20260929T143000
+DTEND:20260929T163000
+DESCRIPTION:Dir: STANLEY KUBRICK (1975)\nhttps://www.paristheaternyc.com/s
+ eries/big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lawrence of Arabia @ PARIS THEATER
+DTSTART:20260929T190000
+DTEND:20260929T210000
+DESCRIPTION:Dir: DAVID LEAN (1962)\nhttps://www.paristheaternyc.com/series
+ /big-loud-2026
+LOCATION:PARIS THEATER
+URL:https://www.paristheaternyc.com/series/big-loud-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zola @ ROXY CINEMA NEW YORK
@@ -12659,6 +15803,16 @@ LOCATION:ANTHOLOGY FILM ARCHIVES
 URL:https://www.anthologyfilmarchives.org/film_screenings/series/62080
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Attack the Block @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20261007T211500
+DTEND:20261007T231500
+DESCRIPTION:Dir: JOE CORNISH (2011)\nhttps://nitehawkcinema.com/prospectpa
+ rk/film-series/adventures-in-black-cinema/
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://nitehawkcinema.com/prospectpark/film-series/adventures-in-blac
+ k-cinema/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Solomamma @ SCANDINAVIA HOUSE
 DTSTART:20261007T190000
 DTEND:20261007T210000
@@ -13034,6 +16188,15 @@ LOCATION:MUSEUM OF MODERN ART
 URL:https://www.moma.org/calendar/film/5930
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Devil and the Deep @ NITEHAWK CINEMA PROSPECT PARK
+DTSTART:20261013T190000
+DTEND:20261013T210000
+DESCRIPTION:Dir: MARION GERING (1932)\nhttps://nitehawkcinema.com/prospect
+ park/film-series/pre-code-parade/
+LOCATION:NITEHAWK CINEMA PROSPECT PARK
+URL:https://nitehawkcinema.com/prospectpark/film-series/pre-code-parade/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cosi Fan Tutte @ FILM AT LINCOLN CENTER
 DTSTART:20261014T130000
 DTEND:20261014T150000
@@ -13062,6 +16225,15 @@ DESCRIPTION:Dir: ALICE COHEN\, ESTHER CROW\, RACHAEL GUMA\, ALEXIS OUTLAW-
  marchives.org/film_screenings/series/62063
 LOCATION:ANTHOLOGY FILM ARCHIVES
 URL:https://www.anthologyfilmarchives.org/film_screenings/series/62063
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Bola Negra @ SVA THEATRE
+DTSTART:20261015T190000
+DTEND:20261015T210000
+DESCRIPTION:Dir: JAVIER CALVO\, JAVIER AMBROSSI (2026)\nhttps://newfest.or
+ g/festival-2026/
+LOCATION:SVA THEATRE
+URL:https://newfest.org/festival-2026/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Strike @ ANTHOLOGY FILM ARCHIVES
@@ -13182,6 +16354,15 @@ LOCATION:FILM FORUM
 URL:http://filmforum.org/series/film-forum-jr.-series-page#now-playing
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lifeboat @ QUAD CINEMA
+DTSTART:20261019T193000
+DTEND:20261019T213000
+DESCRIPTION:Dir: ALFRED HITCHCOCK (1944)\nhttps://quadcinema.com/program/y
+ ou-must-remember-this-the-bisexuals/
+LOCATION:QUAD CINEMA
+URL:https://quadcinema.com/program/you-must-remember-this-the-bisexuals/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Carlito's Way @ FILM FORUM
 DTSTART:20261020T195000
 DTEND:20261020T215000
@@ -13189,6 +16370,15 @@ DESCRIPTION:Dir: BRIAN DE PALMA (1993)\nhttps://filmforum.org/series/nyc-i
  n-transit
 LOCATION:FILM FORUM
 URL:https://filmforum.org/series/nyc-in-transit
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Red River @ QUAD CINEMA
+DTSTART:20261020T193000
+DTEND:20261020T213000
+DESCRIPTION:Dir: HOWARD HAWKS (1948)\nhttps://quadcinema.com/program/you-m
+ ust-remember-this-the-bisexuals/
+LOCATION:QUAD CINEMA
+URL:https://quadcinema.com/program/you-must-remember-this-the-bisexuals/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ivan the Terrible\, Part I @ ANTHOLOGY FILM ARCHIVES
@@ -13217,6 +16407,16 @@ DESCRIPTION:Dir: LLOYD KAUFMAN (1984)\nhttps://www.anthologyfilmarchives.o
  rg/film_screenings/series/62026
 LOCATION:ANTHOLOGY FILM ARCHIVES
 URL:https://www.anthologyfilmarchives.org/film_screenings/series/62026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hello\, It's Me @ ASIA SOCIETY
+DTSTART:20261023T183000
+DTEND:20261023T203000
+DESCRIPTION:Dir: FRUNZE DOVLATYAN (1966)\nhttps://asiasociety.org/new-york
+ /our-century-spiraling-paths-through-armenian-cinema
+LOCATION:ASIA SOCIETY
+URL:https://asiasociety.org/new-york/our-century-spiraling-paths-through-a
+ rmenian-cinema
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Battle of Love's Return @ ANTHOLOGY FILM ARCHIVES
@@ -13298,6 +16498,36 @@ DESCRIPTION:Dir: RICHARD W. HAINES\, MICHAEL HERZ\, LLOYD KAUFMAN (1986)\n
  https://www.anthologyfilmarchives.org/film_screenings/series/62026
 LOCATION:ANTHOLOGY FILM ARCHIVES
 URL:https://www.anthologyfilmarchives.org/film_screenings/series/62026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calendar @ ASIA SOCIETY
+DTSTART:20261024T123000
+DTEND:20261024T143000
+DESCRIPTION:Dir: ATOM EGOYAN (1993)\nhttps://asiasociety.org/new-york/our-
+ century-spiraling-paths-through-armenian-cinema
+LOCATION:ASIA SOCIETY
+URL:https://asiasociety.org/new-york/our-century-spiraling-paths-through-a
+ rmenian-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calendar @ ASIA SOCIETY
+DTSTART:20261024T151500
+DTEND:20261024T171500
+DESCRIPTION:Dir: ATOM EGOYAN (1993)\nhttps://asiasociety.org/new-york/our-
+ century-spiraling-paths-through-armenian-cinema
+LOCATION:ASIA SOCIETY
+URL:https://asiasociety.org/new-york/our-century-spiraling-paths-through-a
+ rmenian-cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last Station @ ASIA SOCIETY
+DTSTART:20261024T151500
+DTEND:20261024T171500
+DESCRIPTION:Dir: HARUTYUN KHACHATRYAN\, NORA ARMANI (1994)\nhttps://asiaso
+ ciety.org/new-york/our-century-spiraling-paths-through-armenian-cinema
+LOCATION:ASIA SOCIETY
+URL:https://asiasociety.org/new-york/our-century-spiraling-paths-through-a
+ rmenian-cinema
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Another Day in Paradise @ ROXY CINEMA NEW YORK
@@ -14555,6 +17785,39 @@ URL:https://ticketing.uswest.veezi.com/purchase/7850?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Downtown Festival: Dwarf Neon Mayfield + Q&A @ ROXY CINEMA NEW
+  YORK
+DTSTART:20261010T151500
+DTEND:20261010T171500
+DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 851?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7851?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Downtown Festival: L.I.E (25th Anniversary Screening) + Q&A @ 
+ ROXY CINEMA NEW YORK
+DTSTART:20261010T171500
+DTEND:20261010T191500
+DESCRIPTION:Dir: N/A (2001)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 852?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7852?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Downtown Festival: The Joyless Economy + Q&A @ ROXY CINEMA NEW
+  YORK
+DTSTART:20261011T201500
+DTEND:20261011T221500
+DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 856?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7856?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Prison + Who Are You Dorothy Dean? Book Launch and Q&A @ ROXY CINE
  MA NEW YORK
 DTSTART:20261021T190000
@@ -14573,6 +17836,26 @@ DESCRIPTION:Dir: N/A (1998)\nhttps://ticketing.uswest.veezi.com/purchase/7
  830?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7830?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nosferatu + Live Score @ ROXY CINEMA NEW YORK
+DTSTART:20261023T190000
+DTEND:20261023T210000
+DESCRIPTION:Dir: N/A (1922)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 863?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7863?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vampyr + Live Score @ ROXY CINEMA NEW YORK
+DTSTART:20261023T213000
+DTEND:20261023T233000
+DESCRIPTION:Dir: N/A (1932)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 864?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7864?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
