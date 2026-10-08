@@ -2,1207 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:My Name Ain't Suzie @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20261007T183000
-DTEND:20261007T203000
-DESCRIPTION:Dir: ANGIE CHEN (1985)\nhttps://www.anthologyfilmarchives.org/
- film_screenings/series/62080
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/series/62080
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:My Name Ain't Suzie @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20261007T193000
-DTEND:20261007T213000
-DESCRIPTION:Dir: ANGIE CHEN (1985)\nhttps://www.anthologyfilmarchives.org/
- film_screenings/series/62080
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/series/62080
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:My Name Ain't Suzie @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20261007T210000
-DTEND:20261007T230000
-DESCRIPTION:Dir: ANGIE CHEN (1985)\nhttps://www.anthologyfilmarchives.org/
- film_screenings/series/62080
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/series/62080
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seduction: The Cruel Woman @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20261007T210000
-DTEND:20261007T230000
-DESCRIPTION:Dir: MONICA TREUT\, ELFI MIKESCH (1985)\nhttps://www.anthology
- filmarchives.org/film_screenings/series/62080
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://www.anthologyfilmarchives.org/film_screenings/series/62080
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nitrate Kisses @ BAM
-DTSTART:20261007T180000
-DTEND:20261007T200000
-DESCRIPTION:Dir: BARBARA HAMMER (1992)\nhttps://www.filmlinc.org/nyff/nyff
- 64-lineup/?tab=films
-LOCATION:BAM
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nitrate Kisses @ BAM
-DTSTART:20261007T194500
-DTEND:20261007T214500
-DESCRIPTION:Dir: BARBARA HAMMER (1992)\nhttps://www.filmlinc.org/nyff/nyff
- 64-lineup/?tab=films
-LOCATION:BAM
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clarissa @ BAM
-DTSTART:20261007T194500
-DTEND:20261007T214500
-DESCRIPTION:Dir: ARIE ESIRI\, CHUKO ESIRI (2026)\nhttps://www.filmlinc.org
- /nyff/nyff64-lineup/?tab=films
-LOCATION:BAM
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Scout @ FILM FORUM
-DTSTART:20261007T121500
-DTEND:20261007T141500
-DESCRIPTION:Dir: PAULA GONZÁLEZ-NASSER (2024)\nhttps://filmforum.org/film
- /the-scout
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-scout
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Scout @ FILM FORUM
-DTSTART:20261007T142000
-DTEND:20261007T162000
-DESCRIPTION:Dir: PAULA GONZÁLEZ-NASSER (2024)\nhttps://filmforum.org/film
- /the-scout
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-scout
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Scout @ FILM FORUM
-DTSTART:20261007T162500
-DTEND:20261007T182500
-DESCRIPTION:Dir: PAULA GONZÁLEZ-NASSER (2024)\nhttps://filmforum.org/film
- /the-scout
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-scout
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Scout @ FILM FORUM
-DTSTART:20261007T183000
-DTEND:20261007T203000
-DESCRIPTION:Dir: PAULA GONZÁLEZ-NASSER (2024)\nhttps://filmforum.org/film
- /the-scout
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-scout
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Scout @ FILM FORUM
-DTSTART:20261007T203500
-DTEND:20261007T223500
-DESCRIPTION:Dir: PAULA GONZÁLEZ-NASSER (2024)\nhttps://filmforum.org/film
- /the-scout
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-scout
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Scout @ FILM FORUM
-DTSTART:20261007T123000
-DTEND:20261007T143000
-DESCRIPTION:Dir: PAULA GONZÁLEZ-NASSER (2024)\nhttps://filmforum.org/film
- /the-scout
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-scout
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Scout @ FILM FORUM
-DTSTART:20261007T141500
-DTEND:20261007T161500
-DESCRIPTION:Dir: PAULA GONZÁLEZ-NASSER (2024)\nhttps://filmforum.org/film
- /the-scout
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-scout
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Scout @ FILM FORUM
-DTSTART:20261007T160000
-DTEND:20261007T180000
-DESCRIPTION:Dir: PAULA GONZÁLEZ-NASSER (2024)\nhttps://filmforum.org/film
- /the-scout
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-scout
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Scout @ FILM FORUM
-DTSTART:20261007T174500
-DTEND:20261007T194500
-DESCRIPTION:Dir: PAULA GONZÁLEZ-NASSER (2024)\nhttps://filmforum.org/film
- /the-scout
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-scout
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Scout @ FILM FORUM
-DTSTART:20261007T193000
-DTEND:20261007T213000
-DESCRIPTION:Dir: PAULA GONZÁLEZ-NASSER (2024)\nhttps://filmforum.org/film
- /the-scout
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-scout
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Scout @ FILM FORUM
-DTSTART:20261007T211500
-DTEND:20261007T231500
-DESCRIPTION:Dir: PAULA GONZÁLEZ-NASSER (2024)\nhttps://filmforum.org/film
- /the-scout
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-scout
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Scout @ FILM FORUM
-DTSTART:20261007T130000
-DTEND:20261007T150000
-DESCRIPTION:Dir: PAULA GONZÁLEZ-NASSER (2024)\nhttps://filmforum.org/film
- /the-scout
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-scout
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Scout @ FILM FORUM
-DTSTART:20261007T181000
-DTEND:20261007T201000
-DESCRIPTION:Dir: PAULA GONZÁLEZ-NASSER (2024)\nhttps://filmforum.org/film
- /the-scout
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-scout
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Scout @ FILM FORUM
-DTSTART:20261007T154000
-DTEND:20261007T174000
-DESCRIPTION:Dir: PAULA GONZÁLEZ-NASSER (2024)\nhttps://filmforum.org/film
- /the-scout
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-scout
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Scout @ FILM FORUM
-DTSTART:20261007T154500
-DTEND:20261007T174500
-DESCRIPTION:Dir: PAULA GONZÁLEZ-NASSER (2024)\nhttps://filmforum.org/film
- /the-scout
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-scout
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Scout @ FILM FORUM
-DTSTART:20261007T202500
-DTEND:20261007T222500
-DESCRIPTION:Dir: PAULA GONZÁLEZ-NASSER (2024)\nhttps://filmforum.org/film
- /the-scout
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-scout
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Scout @ FILM FORUM
-DTSTART:20261007T210000
-DTEND:20261007T230000
-DESCRIPTION:Dir: PAULA GONZÁLEZ-NASSER (2024)\nhttps://filmforum.org/film
- /the-scout
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/the-scout
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unzipped @ FILM FORUM
-DTSTART:20261007T123000
-DTEND:20261007T143000
-DESCRIPTION:Dir: DOUGLAS KEEVE (1995)\nhttps://filmforum.org/film/unzipped
- -2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/unzipped-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unzipped @ FILM FORUM
-DTSTART:20261007T141500
-DTEND:20261007T161500
-DESCRIPTION:Dir: DOUGLAS KEEVE (1995)\nhttps://filmforum.org/film/unzipped
- -2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/unzipped-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unzipped @ FILM FORUM
-DTSTART:20261007T160000
-DTEND:20261007T180000
-DESCRIPTION:Dir: DOUGLAS KEEVE (1995)\nhttps://filmforum.org/film/unzipped
- -2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/unzipped-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unzipped @ FILM FORUM
-DTSTART:20261007T174500
-DTEND:20261007T194500
-DESCRIPTION:Dir: DOUGLAS KEEVE (1995)\nhttps://filmforum.org/film/unzipped
- -2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/unzipped-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unzipped @ FILM FORUM
-DTSTART:20261007T193000
-DTEND:20261007T213000
-DESCRIPTION:Dir: DOUGLAS KEEVE (1995)\nhttps://filmforum.org/film/unzipped
- -2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/unzipped-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unzipped @ FILM FORUM
-DTSTART:20261007T211500
-DTEND:20261007T231500
-DESCRIPTION:Dir: DOUGLAS KEEVE (1995)\nhttps://filmforum.org/film/unzipped
- -2026
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/unzipped-2026
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Had to Be There: How the Toronto GODSPELL Ignited the Comedy R
- evolution... @ FILM FORUM
-DTSTART:20261007T130000
-DTEND:20261007T150000
-DESCRIPTION:Dir: NICK DAVIS (2025)\nhttps://filmforum.org/film/you-had-to-
- be-there
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/you-had-to-be-there
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Had to Be There: How the Toronto GODSPELL Ignited the Comedy R
- evolution... @ FILM FORUM
-DTSTART:20261007T181000
-DTEND:20261007T201000
-DESCRIPTION:Dir: NICK DAVIS (2025)\nhttps://filmforum.org/film/you-had-to-
- be-there
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/you-had-to-be-there
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rough Treatment @ FILM FORUM
-DTSTART:20261007T130000
-DTEND:20261007T150000
-DESCRIPTION:Dir: ANDRZEJ WAJDA (1978)\nhttps://filmforum.org/series/andrze
- j-wajda-100
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/andrzej-wajda-100
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Korczak @ FILM FORUM
-DTSTART:20261007T154000
-DTEND:20261007T174000
-DESCRIPTION:Dir: ANDRZEJ WAJDA (1990)\nhttps://filmforum.org/series/andrze
- j-wajda-100
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/andrzej-wajda-100
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20261007T154500
-DTEND:20261007T174500
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Filipiñana @ FILM FORUM
-DTSTART:20261007T202500
-DTEND:20261007T222500
-DESCRIPTION:Dir: RAFAEL MANUEL (2026)\nhttps://filmforum.org/film/filipina
- na
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/filipinana
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Danton @ FILM FORUM
-DTSTART:20261007T181000
-DTEND:20261007T201000
-DESCRIPTION:Dir: ANDRZEJ WAJDA (1983)\nhttps://filmforum.org/series/andrze
- j-wajda-100
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/andrzej-wajda-100
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ashes and Diamonds @ FILM FORUM
-DTSTART:20261007T210000
-DTEND:20261007T230000
-DESCRIPTION:Dir: ANDRZEJ WAJDA (1958)\nhttps://filmforum.org/series/andrze
- j-wajda-100
-LOCATION:FILM FORUM
-URL:https://filmforum.org/series/andrzej-wajda-100
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rose @ FILM AT LINCOLN CENTER
-DTSTART:20261007T120000
-DTEND:20261007T140000
-DESCRIPTION:Dir: MARKUS SCHLEINZER (2026)\nhttps://www.filmlinc.org/nyff/n
- yff64-lineup/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rose @ FILM AT LINCOLN CENTER
-DTSTART:20261007T123000
-DTEND:20261007T143000
-DESCRIPTION:Dir: MARKUS SCHLEINZER (2026)\nhttps://www.filmlinc.org/nyff/n
- yff64-lineup/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rose @ FILM AT LINCOLN CENTER
-DTSTART:20261007T131500
-DTEND:20261007T151500
-DESCRIPTION:Dir: MARKUS SCHLEINZER (2026)\nhttps://www.filmlinc.org/nyff/n
- yff64-lineup/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rose @ FILM AT LINCOLN CENTER
-DTSTART:20261007T141500
-DTEND:20261007T161500
-DESCRIPTION:Dir: MARKUS SCHLEINZER (2026)\nhttps://www.filmlinc.org/nyff/n
- yff64-lineup/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rose @ FILM AT LINCOLN CENTER
-DTSTART:20261007T143000
-DTEND:20261007T163000
-DESCRIPTION:Dir: MARKUS SCHLEINZER (2026)\nhttps://www.filmlinc.org/nyff/n
- yff64-lineup/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rose @ FILM AT LINCOLN CENTER
-DTSTART:20261007T151500
-DTEND:20261007T171500
-DESCRIPTION:Dir: MARKUS SCHLEINZER (2026)\nhttps://www.filmlinc.org/nyff/n
- yff64-lineup/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rose @ FILM AT LINCOLN CENTER
-DTSTART:20261007T160000
-DTEND:20261007T180000
-DESCRIPTION:Dir: MARKUS SCHLEINZER (2026)\nhttps://www.filmlinc.org/nyff/n
- yff64-lineup/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rose @ FILM AT LINCOLN CENTER
-DTSTART:20261007T173000
-DTEND:20261007T193000
-DESCRIPTION:Dir: MARKUS SCHLEINZER (2026)\nhttps://www.filmlinc.org/nyff/n
- yff64-lineup/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rose @ FILM AT LINCOLN CENTER
-DTSTART:20261007T180000
-DTEND:20261007T200000
-DESCRIPTION:Dir: MARKUS SCHLEINZER (2026)\nhttps://www.filmlinc.org/nyff/n
- yff64-lineup/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rose @ FILM AT LINCOLN CENTER
-DTSTART:20261007T181500
-DTEND:20261007T201500
-DESCRIPTION:Dir: MARKUS SCHLEINZER (2026)\nhttps://www.filmlinc.org/nyff/n
- yff64-lineup/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rose @ FILM AT LINCOLN CENTER
-DTSTART:20261007T203000
-DTEND:20261007T223000
-DESCRIPTION:Dir: MARKUS SCHLEINZER (2026)\nhttps://www.filmlinc.org/nyff/n
- yff64-lineup/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rose @ FILM AT LINCOLN CENTER
-DTSTART:20261007T204500
-DTEND:20261007T224500
-DESCRIPTION:Dir: MARKUS SCHLEINZER (2026)\nhttps://www.filmlinc.org/nyff/n
- yff64-lineup/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rose @ FILM AT LINCOLN CENTER
-DTSTART:20261007T210000
-DTEND:20261007T230000
-DESCRIPTION:Dir: MARKUS SCHLEINZER (2026)\nhttps://www.filmlinc.org/nyff/n
- yff64-lineup/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rose @ FILM AT LINCOLN CENTER
-DTSTART:20261007T211500
-DTEND:20261007T231500
-DESCRIPTION:Dir: MARKUS SCHLEINZER (2026)\nhttps://www.filmlinc.org/nyff/n
- yff64-lineup/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Club Kid @ FILM AT LINCOLN CENTER
-DTSTART:20261007T123000
-DTEND:20261007T143000
-DESCRIPTION:Dir: JORDAN FIRSTMAN (2026)\nhttps://www.filmlinc.org/nyff/nyf
- f64-lineup/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Rarely Wake Up Dreaming @ FILM AT LINCOLN CENTER
-DTSTART:20261007T131500
-DTEND:20261007T151500
-DESCRIPTION:Dir: ISABELLE STEVER (2026)\nhttps://www.filmlinc.org/nyff/nyf
- f64-lineup/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L'Innocente @ FILM AT LINCOLN CENTER
-DTSTART:20261007T141500
-DTEND:20261007T161500
-DESCRIPTION:Dir: LUCHINO VISCONTI (1976)\nhttps://www.filmlinc.org/nyff/ny
- ff64-lineup/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Man of His Time @ FILM AT LINCOLN CENTER
-DTSTART:20261007T143000
-DTEND:20261007T163000
-DESCRIPTION:Dir: EMMANUEL MARRE (2026)\nhttps://www.filmlinc.org/nyff/nyff
- 64-lineup/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bitter Christmas @ FILM AT LINCOLN CENTER
-DTSTART:20261007T151500
-DTEND:20261007T171500
-DESCRIPTION:Dir: PEDRO ALMODÓVAR (2026)\nhttps://www.filmlinc.org/nyff/ny
- ff64-lineup/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fatherland @ FILM AT LINCOLN CENTER
-DTSTART:20261007T160000
-DTEND:20261007T180000
-DESCRIPTION:Dir: PAWEL PAWLIKOWSKI (2026)\nhttps://www.filmlinc.org/nyff/n
- yff64-lineup/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Dreamed Adventure @ FILM AT LINCOLN CENTER
-DTSTART:20261007T173000
-DTEND:20261007T193000
-DESCRIPTION:Dir: VALESKA GRISEBACH (2026)\nhttps://www.filmlinc.org/nyff/n
- yff64-lineup/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Only Living Pickpocket in New York @ FILM AT LINCOLN CENTER
-DTSTART:20261007T180000
-DTEND:20261007T200000
-DESCRIPTION:Dir: NOAH SEGAN (2026)\nhttps://www.filmlinc.org/nyff/nyff64-l
- ineup/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:For the Moon @ FILM AT LINCOLN CENTER
-DTSTART:20261007T181500
-DTEND:20261007T201500
-DESCRIPTION:Dir: ERIC BAUDELAIRE (2026)\nhttps://www.filmlinc.org/nyff/nyf
- f64-lineup/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Goodbye South\, Goodbye @ FILM AT LINCOLN CENTER
-DTSTART:20261007T181500
-DTEND:20261007T201500
-DESCRIPTION:Dir: HOU HSIAO-HSIEN (1996)\nhttps://www.filmlinc.org/nyff/nyf
- f64-lineup/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Debut @ FILM AT LINCOLN CENTER
-DTSTART:20261007T203000
-DTEND:20261007T223000
-DESCRIPTION:Dir: JESSE EISENBERG (2026)\nhttps://www.filmlinc.org/nyff/nyf
- f64-lineup/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nowhere To Lay My Eyes @ FILM AT LINCOLN CENTER
-DTSTART:20261007T204500
-DTEND:20261007T224500
-DESCRIPTION:Dir: HONG SANGSOO (2026)\nhttps://www.filmlinc.org/nyff/nyff64
- -lineup/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:9 Temples to Heaven @ FILM AT LINCOLN CENTER
-DTSTART:20261007T210000
-DTEND:20261007T230000
-DESCRIPTION:Dir: SOMPOT CHIDGASORNPONGSE (2026)\nhttps://www.filmlinc.org/
- nyff/nyff64-lineup/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The People's Beach @ FILM AT LINCOLN CENTER
-DTSTART:20261007T211500
-DTEND:20261007T231500
-DESCRIPTION:Dir: J. WORTHAM (2026)\nhttps://www.filmlinc.org/nyff/nyff64-l
- ineup/?tab=films
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/nyff/nyff64-lineup/?tab=films
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Doctor @ FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-DTSTART:20261007T163000
-DTEND:20261007T183000
-DESCRIPTION:Dir: POH SI TENG (2026)\nhttps://www.dctvny.org/s/firehouse-fi
- lm/american-doctor-MC6QCAFKQFY5BU3IP52T36KUOSZI
-LOCATION:FIREHOUSE: DCTV’S CINEMA FOR DOCUMENTARY FILM
-URL:https://www.dctvny.org/s/firehouse-film/american-doctor-MC6QCAFKQFY5BU
- 3IP52T36KUOSZI
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Leonard Peltier @ IFC CENTER
-DTSTART:20261007T110000
-DTEND:20261007T130000
-DESCRIPTION:Dir: DAVID FRANCE\, JESSE SHORT BULL (2025)\nhttps://www.ifcce
- nter.com/films/free-leonard-peltier/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/free-leonard-peltier/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Leonard Peltier @ IFC CENTER
-DTSTART:20261007T131500
-DTEND:20261007T151500
-DESCRIPTION:Dir: DAVID FRANCE\, JESSE SHORT BULL (2025)\nhttps://www.ifcce
- nter.com/films/free-leonard-peltier/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/free-leonard-peltier/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Leonard Peltier @ IFC CENTER
-DTSTART:20261007T183000
-DTEND:20261007T203000
-DESCRIPTION:Dir: DAVID FRANCE\, JESSE SHORT BULL (2025)\nhttps://www.ifcce
- nter.com/films/free-leonard-peltier/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/free-leonard-peltier/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Leonard Peltier @ IFC CENTER
-DTSTART:20261007T112500
-DTEND:20261007T132500
-DESCRIPTION:Dir: DAVID FRANCE\, JESSE SHORT BULL (2025)\nhttps://www.ifcce
- nter.com/films/free-leonard-peltier/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/free-leonard-peltier/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Leonard Peltier @ IFC CENTER
-DTSTART:20261007T113000
-DTEND:20261007T133000
-DESCRIPTION:Dir: DAVID FRANCE\, JESSE SHORT BULL (2025)\nhttps://www.ifcce
- nter.com/films/free-leonard-peltier/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/free-leonard-peltier/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Leonard Peltier @ IFC CENTER
-DTSTART:20261007T132000
-DTEND:20261007T152000
-DESCRIPTION:Dir: DAVID FRANCE\, JESSE SHORT BULL (2025)\nhttps://www.ifcce
- nter.com/films/free-leonard-peltier/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/free-leonard-peltier/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Leonard Peltier @ IFC CENTER
-DTSTART:20261007T135000
-DTEND:20261007T155000
-DESCRIPTION:Dir: DAVID FRANCE\, JESSE SHORT BULL (2025)\nhttps://www.ifcce
- nter.com/films/free-leonard-peltier/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/free-leonard-peltier/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Leonard Peltier @ IFC CENTER
-DTSTART:20261007T142000
-DTEND:20261007T162000
-DESCRIPTION:Dir: DAVID FRANCE\, JESSE SHORT BULL (2025)\nhttps://www.ifcce
- nter.com/films/free-leonard-peltier/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/free-leonard-peltier/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Leonard Peltier @ IFC CENTER
-DTSTART:20261007T154500
-DTEND:20261007T174500
-DESCRIPTION:Dir: DAVID FRANCE\, JESSE SHORT BULL (2025)\nhttps://www.ifcce
- nter.com/films/free-leonard-peltier/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/free-leonard-peltier/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Leonard Peltier @ IFC CENTER
-DTSTART:20261007T161000
-DTEND:20261007T181000
-DESCRIPTION:Dir: DAVID FRANCE\, JESSE SHORT BULL (2025)\nhttps://www.ifcce
- nter.com/films/free-leonard-peltier/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/free-leonard-peltier/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Leonard Peltier @ IFC CENTER
-DTSTART:20261007T164500
-DTEND:20261007T184500
-DESCRIPTION:Dir: DAVID FRANCE\, JESSE SHORT BULL (2025)\nhttps://www.ifcce
- nter.com/films/free-leonard-peltier/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/free-leonard-peltier/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Leonard Peltier @ IFC CENTER
-DTSTART:20261007T205500
-DTEND:20261007T225500
-DESCRIPTION:Dir: DAVID FRANCE\, JESSE SHORT BULL (2025)\nhttps://www.ifcce
- nter.com/films/free-leonard-peltier/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/free-leonard-peltier/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Leonard Peltier @ IFC CENTER
-DTSTART:20261007T214500
-DTEND:20261007T234500
-DESCRIPTION:Dir: DAVID FRANCE\, JESSE SHORT BULL (2025)\nhttps://www.ifcce
- nter.com/films/free-leonard-peltier/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/free-leonard-peltier/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Leonard Peltier @ IFC CENTER
-DTSTART:20261007T115000
-DTEND:20261007T135000
-DESCRIPTION:Dir: DAVID FRANCE\, JESSE SHORT BULL (2025)\nhttps://www.ifcce
- nter.com/films/free-leonard-peltier/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/free-leonard-peltier/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Leonard Peltier @ IFC CENTER
-DTSTART:20261007T160500
-DTEND:20261007T180500
-DESCRIPTION:Dir: DAVID FRANCE\, JESSE SHORT BULL (2025)\nhttps://www.ifcce
- nter.com/films/free-leonard-peltier/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/free-leonard-peltier/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Leonard Peltier @ IFC CENTER
-DTSTART:20261007T213500
-DTEND:20261007T233500
-DESCRIPTION:Dir: DAVID FRANCE\, JESSE SHORT BULL (2025)\nhttps://www.ifcce
- nter.com/films/free-leonard-peltier/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/free-leonard-peltier/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Leonard Peltier @ IFC CENTER
-DTSTART:20261007T135500
-DTEND:20261007T155500
-DESCRIPTION:Dir: DAVID FRANCE\, JESSE SHORT BULL (2025)\nhttps://www.ifcce
- nter.com/films/free-leonard-peltier/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/free-leonard-peltier/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Leonard Peltier @ IFC CENTER
-DTSTART:20261007T155500
-DTEND:20261007T175500
-DESCRIPTION:Dir: DAVID FRANCE\, JESSE SHORT BULL (2025)\nhttps://www.ifcce
- nter.com/films/free-leonard-peltier/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/free-leonard-peltier/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Leonard Peltier @ IFC CENTER
-DTSTART:20261007T215000
-DTEND:20261007T235000
-DESCRIPTION:Dir: DAVID FRANCE\, JESSE SHORT BULL (2025)\nhttps://www.ifcce
- nter.com/films/free-leonard-peltier/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/free-leonard-peltier/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Leonard Peltier @ IFC CENTER
-DTSTART:20261007T213000
-DTEND:20261007T233000
-DESCRIPTION:Dir: DAVID FRANCE\, JESSE SHORT BULL (2025)\nhttps://www.ifcce
- nter.com/films/free-leonard-peltier/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/free-leonard-peltier/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Boy Friend @ IFC CENTER
-DTSTART:20261007T112500
-DTEND:20261007T132500
-DESCRIPTION:Dir: KEN RUSSELL (1971)\nhttps://www.ifccenter.com/series/the-
- gospel-according-to-ken-russell/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/series/the-gospel-according-to-ken-russell/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The History of Concrete @ IFC CENTER
-DTSTART:20261007T113000
-DTEND:20261007T133000
-DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
- istory-of-concrete/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-history-of-concrete/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The History of Concrete @ IFC CENTER
-DTSTART:20261007T132000
-DTEND:20261007T152000
-DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
- istory-of-concrete/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-history-of-concrete/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The History of Concrete @ IFC CENTER
-DTSTART:20261007T135000
-DTEND:20261007T155000
-DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
- istory-of-concrete/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-history-of-concrete/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The History of Concrete @ IFC CENTER
-DTSTART:20261007T142000
-DTEND:20261007T162000
-DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
- istory-of-concrete/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-history-of-concrete/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The History of Concrete @ IFC CENTER
-DTSTART:20261007T154500
-DTEND:20261007T174500
-DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
- istory-of-concrete/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-history-of-concrete/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The History of Concrete @ IFC CENTER
-DTSTART:20261007T161000
-DTEND:20261007T181000
-DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
- istory-of-concrete/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-history-of-concrete/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The History of Concrete @ IFC CENTER
-DTSTART:20261007T164500
-DTEND:20261007T184500
-DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
- istory-of-concrete/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-history-of-concrete/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The History of Concrete @ IFC CENTER
-DTSTART:20261007T205500
-DTEND:20261007T225500
-DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
- istory-of-concrete/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-history-of-concrete/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The History of Concrete @ IFC CENTER
-DTSTART:20261007T214500
-DTEND:20261007T234500
-DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://www.ifccenter.com/films/the-h
- istory-of-concrete/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-history-of-concrete/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Incomer @ IFC CENTER
-DTSTART:20261007T115000
-DTEND:20261007T135000
-DESCRIPTION:Dir: LOUIS PAXTON (2026)\nhttps://www.ifccenter.com/films/the-
- incomer/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-incomer/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Incomer @ IFC CENTER
-DTSTART:20261007T160500
-DTEND:20261007T180500
-DESCRIPTION:Dir: LOUIS PAXTON (2026)\nhttps://www.ifccenter.com/films/the-
- incomer/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-incomer/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Incomer @ IFC CENTER
-DTSTART:20261007T213500
-DTEND:20261007T233500
-DESCRIPTION:Dir: LOUIS PAXTON (2026)\nhttps://www.ifccenter.com/films/the-
- incomer/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/the-incomer/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tommy @ IFC CENTER
-DTSTART:20261007T135500
-DTEND:20261007T155500
-DESCRIPTION:Dir: KEN RUSSELL (1975)\nhttps://www.ifccenter.com/series/the-
- gospel-according-to-ken-russell/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/series/the-gospel-according-to-ken-russell/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Begotten @ IFC CENTER
-DTSTART:20261007T155500
-DTEND:20261007T175500
-DESCRIPTION:Dir: E. ELIAS MERHIGE (1989)\nhttps://www.ifccenter.com/films/
- begotten/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/begotten/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Begotten @ IFC CENTER
-DTSTART:20261007T215000
-DTEND:20261007T235000
-DESCRIPTION:Dir: E. ELIAS MERHIGE (1989)\nhttps://www.ifccenter.com/films/
- begotten/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/films/begotten/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Women in Love @ IFC CENTER
-DTSTART:20261007T183000
-DTEND:20261007T203000
-DESCRIPTION:Dir: KEN RUSSELL (1969)\nhttps://www.ifccenter.com/series/the-
- gospel-according-to-ken-russell/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/series/the-gospel-according-to-ken-russell/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Whore @ IFC CENTER
-DTSTART:20261007T213000
-DTEND:20261007T233000
-DESCRIPTION:Dir: KEN RUSSELL (1991)\nhttps://www.ifccenter.com/series/the-
- gospel-according-to-ken-russell/
-LOCATION:IFC CENTER
-URL:https://www.ifccenter.com/series/the-gospel-according-to-ken-russell/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The History of Concrete @ LOW CINEMA
-DTSTART:20261007T180000
-DTEND:20261007T200000
-DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://lowcinema.com/movie/the-histo
- ry-of-concrete/
-LOCATION:LOW CINEMA
-URL:https://lowcinema.com/movie/the-history-of-concrete/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The History of Concrete @ LOW CINEMA
-DTSTART:20261007T201500
-DTEND:20261007T221500
-DESCRIPTION:Dir: JOHN WILSON (2026)\nhttps://lowcinema.com/movie/the-histo
- ry-of-concrete/
-LOCATION:LOW CINEMA
-URL:https://lowcinema.com/movie/the-history-of-concrete/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:O Brother\, Where Art Thou? @ METROGRAPH
-DTSTART:20261007T154500
-DTEND:20261007T174500
-DESCRIPTION:Dir: JOEL COEN (2000)\nhttps://metrograph.com/series/?vista_se
- ries_id=0000000575
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000575
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:O Brother\, Where Art Thou? @ METROGRAPH
-DTSTART:20261007T174000
-DTEND:20261007T194000
-DESCRIPTION:Dir: JOEL COEN (2000)\nhttps://metrograph.com/series/?vista_se
- ries_id=0000000575
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000575
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:O Brother\, Where Art Thou? @ METROGRAPH
-DTSTART:20261007T180000
-DTEND:20261007T200000
-DESCRIPTION:Dir: JOEL COEN (2000)\nhttps://metrograph.com/series/?vista_se
- ries_id=0000000575
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000575
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:O Brother\, Where Art Thou? @ METROGRAPH
-DTSTART:20261007T195000
-DTEND:20261007T215000
-DESCRIPTION:Dir: JOEL COEN (2000)\nhttps://metrograph.com/series/?vista_se
- ries_id=0000000575
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000575
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:O Brother\, Where Art Thou? @ METROGRAPH
-DTSTART:20261007T223000
-DTEND:20261008T003000
-DESCRIPTION:Dir: JOEL COEN (2000)\nhttps://metrograph.com/series/?vista_se
- ries_id=0000000575
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000575
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:O Brother\, Where Art Thou? @ METROGRAPH
-DTSTART:20261007T154500
-DTEND:20261007T174500
-DESCRIPTION:Dir: JOEL COEN (2000)\nhttps://metrograph.com/series/?vista_se
- ries_id=0000000575
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000575
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Treasure of the Bitch Islands @ METROGRAPH
-DTSTART:20261007T174000
-DTEND:20261007T194000
-DESCRIPTION:Dir: F.J. OSSANG (1990)\nhttps://metrograph.com/series/?vista_
- series_id=0000000572
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000572
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Brighter Summer Day @ METROGRAPH
-DTSTART:20261007T180000
-DTEND:20261007T200000
-DESCRIPTION:Dir: EDWARD YANG (1991)\nhttps://metrograph.com/series/?vista_
- series_id=0000000573
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000573
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Brighter Summer Day @ METROGRAPH
-DTSTART:20261007T180000
-DTEND:20261007T200000
-DESCRIPTION:Dir: EDWARD YANG (1991)\nhttps://metrograph.com/series/?vista_
- series_id=0000000573
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000573
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Ninth Gate @ METROGRAPH
-DTSTART:20261007T195000
-DTEND:20261007T215000
-DESCRIPTION:Dir: ROMAN POLANSKI (1999)\nhttps://metrograph.com/series/?vis
- ta_series_id=0000000572
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000572
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Ninth Gate @ METROGRAPH
-DTSTART:20261007T195000
-DTEND:20261007T215000
-DESCRIPTION:Dir: ROMAN POLANSKI (1999)\nhttps://metrograph.com/series/?vis
- ta_series_id=0000000572
-LOCATION:METROGRAPH
-URL:https://metrograph.com/series/?vista_series_id=0000000572
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghost in the Shell @ METROGRAPH
-DTSTART:20261007T223000
-DTEND:20261008T003000
-DESCRIPTION:Dir: MAMORU OSHII (1995)\nhttps://metrograph.com/hack-planet/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/hack-planet/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Attack the Block @ NITEHAWK CINEMA PROSPECT PARK
-DTSTART:20261007T211500
-DTEND:20261007T231500
-DESCRIPTION:Dir: JOE CORNISH (2011)\nhttps://nitehawkcinema.com/prospectpa
- rk/film-series/adventures-in-black-cinema/
-LOCATION:NITEHAWK CINEMA PROSPECT PARK
-URL:https://nitehawkcinema.com/prospectpark/film-series/adventures-in-blac
- k-cinema/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scream of My Blood: A Gogol Bordello Story @ NITEHAWK CINEMA WILLI
- AMSBURG
-DTSTART:20261007T190000
-DTEND:20261007T210000
-DESCRIPTION:Dir: NATE POMMER\, ERIC WEINRIB (2024)\nhttps://nitehawkcinema
- .com/williamsburg/film-series/music-driven/
-LOCATION:NITEHAWK CINEMA WILLIAMSBURG
-URL:https://nitehawkcinema.com/williamsburg/film-series/music-driven/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Deer Hunter @ PARIS THEATER
-DTSTART:20261007T120000
-DTEND:20261007T140000
-DESCRIPTION:Dir: MICHAEL CIMINO (1978)\nhttps://www.paristheaternyc.com/se
- ries/east-of-eden-paris
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/east-of-eden-paris
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Deer Hunter @ PARIS THEATER
-DTSTART:20261007T160000
-DTEND:20261007T180000
-DESCRIPTION:Dir: MICHAEL CIMINO (1978)\nhttps://www.paristheaternyc.com/se
- ries/east-of-eden-paris
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/east-of-eden-paris
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Deer Hunter @ PARIS THEATER
-DTSTART:20261007T184500
-DTEND:20261007T204500
-DESCRIPTION:Dir: MICHAEL CIMINO (1978)\nhttps://www.paristheaternyc.com/se
- ries/east-of-eden-paris
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/east-of-eden-paris
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Deer Hunter @ PARIS THEATER
-DTSTART:20261007T213000
-DTEND:20261007T233000
-DESCRIPTION:Dir: MICHAEL CIMINO (1978)\nhttps://www.paristheaternyc.com/se
- ries/east-of-eden-paris
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/east-of-eden-paris
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Notorious @ PARIS THEATER
-DTSTART:20261007T160000
-DTEND:20261007T180000
-DESCRIPTION:Dir: ALFRED HITCHCOCK (1946)\nhttps://www.paristheaternyc.com/
- series/east-of-eden-paris
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/east-of-eden-paris
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stella Dallas @ PARIS THEATER
-DTSTART:20261007T184500
-DTEND:20261007T204500
-DESCRIPTION:Dir: KING VIDOR (1937)\nhttps://www.paristheaternyc.com/series
- /east-of-eden-paris
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/east-of-eden-paris
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Under the Skin @ PARIS THEATER
-DTSTART:20261007T213000
-DTEND:20261007T233000
-DESCRIPTION:Dir: JONATHAN GLAZER (2013)\nhttps://www.paristheaternyc.com/s
- eries/east-of-eden-paris
-LOCATION:PARIS THEATER
-URL:https://www.paristheaternyc.com/series/east-of-eden-paris
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deep Red @ QUAD CINEMA
-DTSTART:20261007T200500
-DTEND:20261007T220500
-DESCRIPTION:Dir: DARIO ARGENTO (1975)\nhttps://quadcinema.com/program/mast
- ers-of-horror/
-LOCATION:QUAD CINEMA
-URL:https://quadcinema.com/program/masters-of-horror/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Solomamma @ SCANDINAVIA HOUSE
-DTSTART:20261007T190000
-DTEND:20261007T210000
-DESCRIPTION:Dir: JANICKE ASKEVOLD (2025)\nhttp://www.scandinaviahouse.org/
- event/films/
-LOCATION:SCANDINAVIA HOUSE
-URL:http://www.scandinaviahouse.org/event/films/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smart Girl @ SPECTACLE
-DTSTART:20261007T193000
-DTEND:20261007T213000
-DESCRIPTION:Dir: HANNAH CRANE (2026)\nhttps://www.spectacletheater.com/sma
- rt-girl/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/smart-girl/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smart Girl @ SPECTACLE
-DTSTART:20261007T220000
-DTEND:20261008T000000
-DESCRIPTION:Dir: HANNAH CRANE (2026)\nhttps://www.spectacletheater.com/sma
- rt-girl/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/smart-girl/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Sorta Know How It's Gonna End @ SPECTACLE
-DTSTART:20261007T220000
-DTEND:20261008T000000
-DESCRIPTION:Dir: KALIL HADDAD\, RYAN STEEL (2025)\nhttps://www.spectacleth
- eater.com/you-sorta-know-its-gonna-end/
-LOCATION:SPECTACLE
-URL:https://www.spectacletheater.com/you-sorta-know-its-gonna-end/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Double Freedom @ BAM
 DTSTART:20261008T180000
 DTEND:20261008T200000
@@ -2410,6 +1209,33 @@ DESCRIPTION:Dir: ERIC BAUDELAIRE (2019)\nhttps://www.moma.org/calendar/fil
  m/5938
 LOCATION:MUSEUM OF MODERN ART
 URL:https://www.moma.org/calendar/film/5938
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tender Loving Care @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20261008T180000
+DTEND:20261008T200000
+DESCRIPTION:Dir: MIKE LEIGH (2026)\nhttps://movingimage.org/series/new-yor
+ k-film-festival-2026/
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://movingimage.org/series/new-york-film-festival-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tender Loving Care @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20261008T203000
+DTEND:20261008T223000
+DESCRIPTION:Dir: MIKE LEIGH (2026)\nhttps://movingimage.org/series/new-yor
+ k-film-festival-2026/
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://movingimage.org/series/new-york-film-festival-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bitter Christmas @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20261008T203000
+DTEND:20261008T223000
+DESCRIPTION:Dir: PEDRO ALMODÓVAR (2026)\nhttps://movingimage.org/series/n
+ ew-york-film-festival-2026/
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://movingimage.org/series/new-york-film-festival-2026/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Brooklyn Dream @ NITEHAWK CINEMA PROSPECT PARK
@@ -3821,6 +2647,34 @@ DTEND:20261009T210000
 DESCRIPTION:Dir: WANG BING (2023)\nhttps://www.moma.org/calendar/film/5938
 LOCATION:MUSEUM OF MODERN ART
 URL:https://www.moma.org/calendar/film/5938
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Behemoth! @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20261009T183000
+DTEND:20261009T203000
+DESCRIPTION:Dir: TONY GILROY (2026)\nhttps://movingimage.org/series/new-yo
+ rk-film-festival-2026/
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://movingimage.org/series/new-york-film-festival-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Behemoth! @ MUSEUM OF THE MOVING IMAGE
+DTSTART:20261009T211500
+DTEND:20261009T231500
+DESCRIPTION:Dir: TONY GILROY (2026)\nhttps://movingimage.org/series/new-yo
+ rk-film-festival-2026/
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://movingimage.org/series/new-york-film-festival-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Only Living Pickpocket in New York @ MUSEUM OF THE MOVING IMAG
+ E
+DTSTART:20261009T211500
+DTEND:20261009T231500
+DESCRIPTION:Dir: NOAH SEGAN (2026)\nhttps://movingimage.org/series/new-yor
+ k-film-festival-2026/
+LOCATION:MUSEUM OF THE MOVING IMAGE
+URL:https://movingimage.org/series/new-york-film-festival-2026/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jeepers Creepers @ NITEHAWK CINEMA WILLIAMSBURG
@@ -8448,6 +7302,15 @@ LOCATION:BAM
 URL:https://www.bam.org/film/2026/drinking-and-driving
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Haine @ COBBLE HILL CINEMAS
+DTSTART:20261013T193000
+DTEND:20261013T213000
+DESCRIPTION:Dir: MATHIEW KASSOVITZ (1995)\nhttps://www.hk-cinemas.com/movi
+ e/la-haine
+LOCATION:COBBLE HILL CINEMAS
+URL:https://www.hk-cinemas.com/movie/la-haine
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Once Upon a Time in Harlem @ COLUMBIA UNIVERSITY LENFEST CENTER FO
  R THE ARTS
 DTSTART:20261013T183000
@@ -11044,6 +9907,51 @@ LOCATION:QUAD CINEMA
 URL:https://quadcinema.com/program/masters-of-horror/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Story of Eve @ ROXY CINEMA NEW YORK
+DTSTART:20261015T170000
+DTEND:20261015T190000
+DESCRIPTION:Dir: ALEXANDRA CABRAL (2026)\nhttps://www.thedowntownfestival.
+ com
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.thedowntownfestival.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Story of Eve @ ROXY CINEMA NEW YORK
+DTSTART:20261015T191500
+DTEND:20261015T211500
+DESCRIPTION:Dir: ALEXANDRA CABRAL (2026)\nhttps://www.thedowntownfestival.
+ com
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.thedowntownfestival.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Story of Eve @ ROXY CINEMA NEW YORK
+DTSTART:20261015T220000
+DTEND:20261016T000000
+DESCRIPTION:Dir: ALEXANDRA CABRAL (2026)\nhttps://www.thedowntownfestival.
+ com
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.thedowntownfestival.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chelsea Walls @ ROXY CINEMA NEW YORK
+DTSTART:20261015T191500
+DTEND:20261015T211500
+DESCRIPTION:Dir: ETHAN HAWKE (2001)\nhttps://www.thedowntownfestival.com
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.thedowntownfestival.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dites-lui que je l’aime (Tell Her That I Love Her) @ ROXY CINEMA
+  NEW YORK
+DTSTART:20261015T220000
+DTEND:20261016T000000
+DESCRIPTION:Dir: ROMANE BOHRINGER (2025)\nhttps://www.thedowntownfestival.
+ com
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.thedowntownfestival.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Les Proies du Mals @ SPECTACLE
 DTSTART:20261015T220000
 DTEND:20261016T000000
@@ -11282,6 +10190,47 @@ DESCRIPTION:Dir: DAVID CRONENBERG (1986)\nhttps://quadcinema.com/program/m
  asters-of-horror/
 LOCATION:QUAD CINEMA
 URL:https://quadcinema.com/program/masters-of-horror/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Water is Always Warm @ ROXY CINEMA NEW YORK
+DTSTART:20261016T170000
+DTEND:20261016T190000
+DESCRIPTION:Dir: MORGAN KRANTZ (2025)\nhttps://www.thedowntownfestival.com
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.thedowntownfestival.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Water is Always Warm @ ROXY CINEMA NEW YORK
+DTSTART:20261016T190000
+DTEND:20261016T210000
+DESCRIPTION:Dir: MORGAN KRANTZ (2025)\nhttps://www.thedowntownfestival.com
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.thedowntownfestival.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Water is Always Warm @ ROXY CINEMA NEW YORK
+DTSTART:20261016T213000
+DTEND:20261016T233000
+DESCRIPTION:Dir: MORGAN KRANTZ (2025)\nhttps://www.thedowntownfestival.com
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.thedowntownfestival.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amoeba @ ROXY CINEMA NEW YORK
+DTSTART:20261016T190000
+DTEND:20261016T210000
+DESCRIPTION:Dir: SIYOU TAN (2025)\nhttps://www.thedowntownfestival.com
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.thedowntownfestival.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cabaret Boys @ ROXY CINEMA NEW YORK
+DTSTART:20261016T213000
+DTEND:20261016T233000
+DESCRIPTION:Dir: MICHAEL M. BILANDIC (2026)\nhttps://www.thedowntownfestiv
+ al.com
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.thedowntownfestival.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Morbid Weekend @ SPECTACLE
@@ -11578,6 +10527,33 @@ DESCRIPTION:Dir: ROBERT BIERMAN (1988)\nhttps://nitehawkcinema.com/william
 LOCATION:NITEHAWK CINEMA PROSPECT PARK
 URL:https://nitehawkcinema.com/williamsburg/film-series/spooky-season-at-n
  itehawk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Projectionist @ ROXY CINEMA NEW YORK
+DTSTART:20261017T120000
+DTEND:20261017T140000
+DESCRIPTION:Dir: ALEXANDRE ROCKWELL (2026)\nhttps://www.thedowntownfestiva
+ l.com
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.thedowntownfestival.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Projectionist @ ROXY CINEMA NEW YORK
+DTSTART:20261017T143000
+DTEND:20261017T163000
+DESCRIPTION:Dir: ALEXANDRE ROCKWELL (2026)\nhttps://www.thedowntownfestiva
+ l.com
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.thedowntownfestival.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Surfaces and the Self - Selection of Short Films @ ROXY CINEMA NEW
+  YORK
+DTSTART:20261017T143000
+DTEND:20261017T163000
+DESCRIPTION:Dir: VARIOUS (2026)\nhttps://www.thedowntownfestival.com
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.thedowntownfestival.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Les Proies du Mals @ SPECTACLE
@@ -11948,6 +10924,48 @@ DESCRIPTION:Dir: ROBERT BIERMAN (1988)\nhttps://nitehawkcinema.com/william
 LOCATION:NITEHAWK CINEMA PROSPECT PARK
 URL:https://nitehawkcinema.com/williamsburg/film-series/spooky-season-at-n
  itehawk/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dissolutions - Selection of Short Films @ ROXY CINEMA NEW YORK
+DTSTART:20261018T120000
+DTEND:20261018T140000
+DESCRIPTION:Dir: VARIOUS (2026)\nhttps://www.thedowntownfestival.com
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.thedowntownfestival.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dissolutions - Selection of Short Films @ ROXY CINEMA NEW YORK
+DTSTART:20261018T173000
+DTEND:20261018T193000
+DESCRIPTION:Dir: VARIOUS (2026)\nhttps://www.thedowntownfestival.com
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.thedowntownfestival.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dissolutions - Selection of Short Films @ ROXY CINEMA NEW YORK
+DTSTART:20261018T200000
+DTEND:20261018T220000
+DESCRIPTION:Dir: VARIOUS (2026)\nhttps://www.thedowntownfestival.com
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.thedowntownfestival.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karishika @ ROXY CINEMA NEW YORK
+DTSTART:20261018T173000
+DTEND:20261018T193000
+DESCRIPTION:Dir: DR. CHIKA CHRISTIAN ONU (1996)\nhttps://www.thedowntownfe
+ stival.com
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.thedowntownfestival.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amos Poe: Unmade @ ROXY CINEMA NEW YORK
+DTSTART:20261018T200000
+DTEND:20261018T220000
+DESCRIPTION:Dir: SEBASTIAN MLYNARSKI (2026)\nhttps://www.thedowntownfestiv
+ al.com
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://www.thedowntownfestival.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Morbid Weekend @ SPECTACLE
@@ -12591,6 +11609,15 @@ DESCRIPTION:Dir: JAKE GRISWOLD (2025)\nhttps://www.screenslate.com/series/
  spectober-2026
 LOCATION:SPECTACLE
 URL:https://www.screenslate.com/series/spectober-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memories of you @ THE 8TH FLOOR
+DTSTART:20261022T183000
+DTEND:20261022T203000
+DESCRIPTION:Dir: VARIOUS DIRECTORS (6:30PM)\nhttps://www.the8thfloor.org/n
+ ewevents/sgmoy
+LOCATION:THE 8TH FLOOR
+URL:https://www.the8thfloor.org/newevents/sgmoy
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Devils @ BAM
@@ -13830,6 +12857,16 @@ LOCATION:SCANDINAVIA HOUSE
 URL:http://www.scandinaviahouse.org/event/films/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rope @ SOHO HOUSE
+DTSTART:20261028T180000
+DTEND:20261028T200000
+DESCRIPTION:Dir: ALFRED HITCHCOCK (1948)\nhttps://www.eventbrite.com/e/hit
+ chcocks-rope-a-halloween-treat-tickets-2000505192884
+LOCATION:SOHO HOUSE
+URL:https://www.eventbrite.com/e/hitchcocks-rope-a-halloween-treat-tickets
+ -2000505192884
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Blind Justice @ SPECTACLE
 DTSTART:20261028T193000
 DTEND:20261028T213000
@@ -14355,6 +13392,24 @@ DESCRIPTION:Dir: GIEDRĖ ŽICKYTĖ (2025)\nhttp://www.scandinaviahouse.org
  /events/new-york-baltic-film-festival/
 LOCATION:SCANDINAVIA HOUSE
 URL:http://www.scandinaviahouse.org/events/new-york-baltic-film-festival/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fortunes @ VILLAGE EAST CINEMA
+DTSTART:20261105T190000
+DTEND:20261105T210000
+DESCRIPTION:Dir: JAKE SCHICK (2026)\nhttps://www.tickettailor.com/events/f
+ ortunes/2439411
+LOCATION:VILLAGE EAST CINEMA
+URL:https://www.tickettailor.com/events/fortunes/2439411
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bodies against @ THE 8TH FLOOR
+DTSTART:20261106T183000
+DTEND:20261106T203000
+DESCRIPTION:Dir: VARIOUS DIRECTORS (6:30PM)\nhttps://www.the8thfloor.org/n
+ ewevents/sgba
+LOCATION:THE 8TH FLOOR
+URL:https://www.the8thfloor.org/newevents/sgba
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crooklyn @ BAM
@@ -15045,46 +14100,6 @@ DESCRIPTION:Dir: GUILLERMO DEL TORO (1993)\nhttps://www.ifccenter.com/film
  s/cronos/
 LOCATION:IFC CENTER
 URL:https://www.ifccenter.com/films/cronos/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dust in the Wind @ METROGRAPH
-DTSTART:20261007T153000
-DTEND:20261007T173000
-DESCRIPTION:Dir: Hou Hsiao-hsien (1986)\nhttps://t.metrograph.com/Ticketin
- g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31133
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31133
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Treasure of Bitch Islands @ METROGRAPH
-DTSTART:20261007T174000
-DTEND:20261007T194000
-DESCRIPTION:Dir: F. J. Ossang (1990)\nhttps://t.metrograph.com/Ticketing/v
- isSelectTickets.aspx?cinemacode=9999&txtSessionId=31134
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31134
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghost in the Shell: 30th Anniversary Remaster @ METROGRAPH
-DTSTART:20261007T223000
-DTEND:20261008T003000
-DESCRIPTION:Dir: Mamoru  Oshii (1995)\nhttps://t.metrograph.com/Ticketing/
- visSelectTickets.aspx?cinemacode=9999&txtSessionId=31138
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31138
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Warriors @ METROGRAPH
-DTSTART:20261007T223500
-DTEND:20261008T003500
-DESCRIPTION:Dir: Walter Hill (1979)\nhttps://t.metrograph.com/Ticketing/vi
- sSelectTickets.aspx?cinemacode=9999&txtSessionId=31136
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31136
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alien: Resurrection @ METROGRAPH
@@ -16046,6 +15061,16 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31234
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Something Special (Willy/Milly) @ METROGRAPH
+DTSTART:20261101T194500
+DTEND:20261101T214500
+DESCRIPTION:Dir: Paul Schneider (1986)\nhttps://t.metrograph.com/Ticketing
+ /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31233
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31233
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rushmore @ METROGRAPH
 DTSTART:20261101T195000
 DTEND:20261101T215000
@@ -16076,30 +15101,9 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31231
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chronovisor @ ROXY CINEMA NEW YORK
-DTSTART:20271006T190000
-DTEND:20271006T210000
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 835?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7835?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cinema Tehran presents: Marjane Satrapi’s Chicken with Plums @ R
- OXY CINEMA NEW YORK
-DTSTART:20271006T213000
-DTEND:20271006T233000
-DESCRIPTION:Dir: N/A (2011)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 834?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7834?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:On a String + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20261007T190000
-DTEND:20261007T210000
+DTSTART:20271007T190000
+DTEND:20271007T210000
 DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
  855?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
@@ -16108,8 +15112,8 @@ URL:https://ticketing.uswest.veezi.com/purchase/7855?siteToken=tt17e5ajy3v
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Sun Never Sets @ ROXY CINEMA NEW YORK
-DTSTART:20261007T213000
-DTEND:20261007T233000
+DTSTART:20271007T213000
+DTEND:20271007T233000
 DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
  874?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
