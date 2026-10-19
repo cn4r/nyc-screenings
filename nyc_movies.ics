@@ -2,110 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:Autumn Sonata @ METROGRAPH
-DTSTART:20261018T110000
-DTEND:20261018T130000
-DESCRIPTION:Dir: Ingmar Bergman (1978)\nhttps://metrograph.com/film/999900
- 5045-autumn-sonata/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/9999005045-autumn-sonata/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Aristocats @ METROGRAPH
-DTSTART:20261018T111500
-DTEND:20261018T131500
-DESCRIPTION:Dir: Wolfgang  Reitherman (1970)\nhttps://t.metrograph.com/Tic
- keting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31109
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31109
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Little Women @ METROGRAPH
-DTSTART:20261018T130000
-DTEND:20261018T150000
-DESCRIPTION:Dir: Gillian Armstrong (1994)\nhttps://metrograph.com/film/999
- 9002231-little-women/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/9999002231-little-women/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All the President's Men @ METROGRAPH
-DTSTART:20261018T130000
-DTEND:20261018T150000
-DESCRIPTION:Dir: Alan J. Pakula (1976)\nhttps://metrograph.com/film/999900
- 1169-all-the-presidents-men/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/9999001169-all-the-presidents-men/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Art Cinema for Tots: How to Play a Film @ METROGRAPH
-DTSTART:20261018T153000
-DTEND:20261018T173000
-DESCRIPTION:Dir: Multiple Dirs (2011)\nhttps://t.metrograph.com/Ticketing/
- visSelectTickets.aspx?cinemacode=9999&txtSessionId=31114
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31114
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Members Only: The Parallax View @ METROGRAPH
-DTSTART:20261018T163000
-DTEND:20261018T183000
-DESCRIPTION:Dir: Alan J. Pakula (1974)\nhttps://metrograph.com/film/999900
- 2450-members-only-the-parallax-view/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/9999002450-members-only-the-parallax-view/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reality Bites @ METROGRAPH
-DTSTART:20261018T163500
-DTEND:20261018T183500
-DESCRIPTION:Dir: Ben Stiller (1994)\nhttps://metrograph.com/film/999900504
- 4-reality-bites/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/9999005044-reality-bites/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paris Was a Woman @ METROGRAPH
-DTSTART:20261018T184500
-DTEND:20261018T204500
-DESCRIPTION:Dir: Greta  Schiller (1996)\nhttps://metrograph.com/film/99990
- 03500-paris-was-a-woman/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/9999003500-paris-was-a-woman/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ivan @ METROGRAPH
-DTSTART:20261018T185000
-DTEND:20261018T205000
-DESCRIPTION:Dir: Oleksandr Dovzhenko (1932)\nhttps://t.metrograph.com/Tick
- eting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31064
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31064
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Once Upon a Time in China @ METROGRAPH
-DTSTART:20261018T203000
-DTEND:20261018T223000
-DESCRIPTION:Dir: Tsui Hark (1991)\nhttps://t.metrograph.com/Ticketing/visS
- electTickets.aspx?cinemacode=9999&txtSessionId=31111
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31111
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poem of the Sea @ METROGRAPH
-DTSTART:20261018T204500
-DTEND:20261018T224500
-DESCRIPTION:Dir: Yulia Solntseva (1958)\nhttps://t.metrograph.com/Ticketin
- g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31065
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31065
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Small Change @ METROGRAPH
 DTSTART:20261019T160000
 DTEND:20261019T180000
@@ -1409,48 +1305,6 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31307
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Downtown Festival: Dissolutions: Selection of Short Films @ RO
- XY CINEMA NEW YORK
-DTSTART:20261018T120000
-DTEND:20261018T140000
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 882?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7882?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Downtown Festival: Michel Auder - Select Works @ ROXY CINEMA N
- EW YORK
-DTSTART:20261018T150000
-DTEND:20261018T170000
-DESCRIPTION:Dir: N/A (1971)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 955?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7955?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Downtown Festival: Karishika + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20261018T173000
-DTEND:20261018T193000
-DESCRIPTION:Dir: N/A (1996)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 866?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7866?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Downtown Festival Amos Poe: Unmade @ ROXY CINEMA NEW YORK
-DTSTART:20261018T200000
-DTEND:20261018T220000
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 896?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7896?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Downtown Festival: The Basics of Philosophy + Q&A @ ROXY CINEM
  A NEW YORK
 DTSTART:20261019T213000
@@ -1480,6 +1334,16 @@ DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
  954?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7954?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chronovisor @ ROXY CINEMA NEW YORK
+DTSTART:20261022T170000
+DTEND:20261022T190000
+DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 970?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7970?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
