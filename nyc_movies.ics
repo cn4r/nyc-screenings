@@ -135,11 +135,10 @@ BEGIN:VEVENT
 SUMMARY:Night on Earth @ METROGRAPH
 DTSTART:20261023T203000
 DTEND:20261023T223000
-DESCRIPTION:Dir: Jim Jarmusch (1991)\nhttps://t.metrograph.com/Ticketing/v
- isSelectTickets.aspx?cinemacode=9999&txtSessionId=31154
+DESCRIPTION:Dir: Jim Jarmusch (1991)\nhttps://metrograph.com/film/99990019
+ 84-night-on-earth/
 LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31154
+URL:https://metrograph.com/film/9999001984-night-on-earth/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rushmore @ METROGRAPH
@@ -1602,6 +1601,17 @@ URL:https://ticketing.uswest.veezi.com/purchase/7923?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cinema Tehran Presents: Taste of Cherry by Abbas Kiarostami @ ROXY
+  CINEMA NEW YORK
+DTSTART:20261102T190000
+DTEND:20261102T210000
+DESCRIPTION:Dir: N/A (1997)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 973?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7973?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bride of Re-Animator @ ROXY CINEMA NEW YORK
 DTSTART:20261102T213000
 DTEND:20261102T233000
@@ -1996,8 +2006,8 @@ URL:https://ticketing.uswest.veezi.com/purchase/7944?siteToken=tt17e5ajy3v
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mean Streets - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20261125T200000
-DTEND:20261125T220000
+DTSTART:20261125T203000
+DTEND:20261125T223000
 DESCRIPTION:Dir: N/A (1973)\nhttps://ticketing.uswest.veezi.com/purchase/7
  957?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
