@@ -2,66 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:The Age of Innocence @ METROGRAPH
-DTSTART:20261021T151500
-DTEND:20261021T171500
-DESCRIPTION:Dir: Martin Scorsese (1993)\nhttps://t.metrograph.com/Ticketin
- g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31248
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31248
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amour @ METROGRAPH
-DTSTART:20261021T153000
-DTEND:20261021T173000
-DESCRIPTION:Dir: Michael Haneke (2012)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31249
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31249
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paris Was a Woman @ METROGRAPH
-DTSTART:20261021T180000
-DTEND:20261021T200000
-DESCRIPTION:Dir: Greta  Schiller (1996)\nhttps://t.metrograph.com/Ticketin
- g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31251
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31251
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Illiac Passion @ METROGRAPH
-DTSTART:20261021T194000
-DTEND:20261021T214000
-DESCRIPTION:Dir: Gregory J. Markopoulos (1967)\nhttps://t.metrograph.com/T
- icketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31252
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31252
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Medea (1969) @ METROGRAPH
-DTSTART:20261021T213000
-DTEND:20261021T233000
-DESCRIPTION:Dir: Pier Paolo Pasolini (1969)\nhttps://t.metrograph.com/Tick
- eting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31254
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31254
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mermaids @ METROGRAPH
-DTSTART:20261021T213500
-DTEND:20261021T233500
-DESCRIPTION:Dir: Richard Benjamin (1990)\nhttps://t.metrograph.com/Ticketi
- ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31253
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31253
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tron @ METROGRAPH
 DTSTART:20261023T134500
 DTEND:20261023T154500
@@ -1274,27 +1214,6 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31307
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Prison (excerpt) + Who Are You Dorothy Dean? Book Launch and Q&A @
-  ROXY CINEMA NEW YORK
-DTSTART:20261021T190000
-DTEND:20261021T210000
-DESCRIPTION:Dir: N/A (1965)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 818?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7818?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Downtown Festival: Big Break + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20261021T213000
-DTEND:20261021T233000
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 954?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7954?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chronovisor @ ROXY CINEMA NEW YORK
 DTSTART:20261022T170000
 DTEND:20261022T190000
@@ -1325,7 +1244,7 @@ URL:https://ticketing.uswest.veezi.com/purchase/7948?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Society - 35MM @ ROXY CINEMA NEW YORK
+SUMMARY:Society - 35MM + Q&A @ ROXY CINEMA NEW YORK
 DTSTART:20261023T163000
 DTEND:20261023T183000
 DESCRIPTION:Dir: N/A (1989)\nhttps://ticketing.uswest.veezi.com/purchase/7
@@ -1632,6 +1551,16 @@ URL:https://ticketing.uswest.veezi.com/purchase/7925?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Primetime @ ROXY CINEMA NEW YORK
+DTSTART:20261104T190000
+DTEND:20261104T210000
+DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 978?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7978?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Big Trouble in Little China - 35MM @ ROXY CINEMA NEW YORK
 DTSTART:20261104T213000
 DTEND:20261104T233000
@@ -1639,6 +1568,16 @@ DESCRIPTION:Dir: N/A (1986)\nhttps://ticketing.uswest.veezi.com/purchase/7
  926?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7926?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Primetime @ ROXY CINEMA NEW YORK
+DTSTART:20261105T164500
+DTEND:20261105T184500
+DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 979?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7979?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
@@ -1854,6 +1793,16 @@ URL:https://ticketing.uswest.veezi.com/purchase/7939?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Losing Ground @ ROXY CINEMA NEW YORK
+DTSTART:20261115T150000
+DTEND:20261115T170000
+DESCRIPTION:Dir: N/A (1982)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 940?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7940?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gorilla Gorilla + Q&A @ ROXY CINEMA NEW YORK
 DTSTART:20261115T170000
 DTEND:20261115T190000
@@ -1972,6 +1921,16 @@ DESCRIPTION:Dir: N/A (2025)\nhttps://ticketing.uswest.veezi.com/purchase/7
  903?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7903?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Knights of Night + Q&A @ ROXY CINEMA NEW YORK
+DTSTART:20261121T211500
+DTEND:20261121T231500
+DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 930?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7930?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
