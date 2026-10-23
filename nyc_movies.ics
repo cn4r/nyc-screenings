@@ -65,11 +65,10 @@ BEGIN:VEVENT
 SUMMARY:Almost Famous @ METROGRAPH
 DTSTART:20261023T202500
 DTEND:20261023T222500
-DESCRIPTION:Dir: Cameron Crowe (2000)\nhttps://t.metrograph.com/Ticketing/
- visSelectTickets.aspx?cinemacode=9999&txtSessionId=31155
+DESCRIPTION:Dir: Cameron Crowe (2000)\nhttps://metrograph.com/film/9999005
+ 039-almost-famous/
 LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31155
+URL:https://metrograph.com/film/9999005039-almost-famous/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Night on Earth @ METROGRAPH
@@ -203,11 +202,10 @@ BEGIN:VEVENT
 SUMMARY:Blade Runner: The Final Cut @ METROGRAPH
 DTSTART:20261024T221500
 DTEND:20261025T001500
-DESCRIPTION:Dir: Ridley Scott (1982)\nhttps://t.metrograph.com/Ticketing/v
- isSelectTickets.aspx?cinemacode=9999&txtSessionId=31168
+DESCRIPTION:Dir: Ridley Scott (1982)\nhttps://metrograph.com/film/99990007
+ 18-blade-runner-the-final-cut/
 LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31168
+URL:https://metrograph.com/film/9999000718-blade-runner-the-final-cut/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tetsuo: The Iron Man @ METROGRAPH
@@ -1214,36 +1212,6 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31307
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chronovisor @ ROXY CINEMA NEW YORK
-DTSTART:20261022T170000
-DTEND:20261022T190000
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 970?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7970?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Red Violin + Live Performance @ ROXY CINEMA NEW YORK
-DTSTART:20261022T190000
-DTEND:20261022T210000
-DESCRIPTION:Dir: N/A (1998)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 830?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7830?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Downtown Festival: Two Neighbors + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20261022T220000
-DTEND:20261023T000000
-DESCRIPTION:Dir: N/A (2025)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 948?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7948?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Society - 35MM + Q&A @ ROXY CINEMA NEW YORK
 DTSTART:20261023T163000
 DTEND:20261023T183000
@@ -1311,6 +1279,16 @@ DESCRIPTION:Dir: N/A (N/A)\nhttps://ticketing.uswest.veezi.com/purchase/79
  69?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7969?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chronovisor @ ROXY CINEMA NEW YORK
+DTSTART:20261025T144500
+DTEND:20261025T164500
+DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 981?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7981?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
