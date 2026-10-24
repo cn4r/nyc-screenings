@@ -1,208 +1,5 @@
 [
   {
-    "date": "2026-10-23",
-    "theater": "METROGRAPH",
-    "title": "Tron",
-    "director": "Stephen Lisberger",
-    "year": "1982",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31148",
-    "showtimes": [
-      "1:45pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/tron/",
-    "genres": [
-      "action",
-      "adventure",
-      "science-fiction"
-    ],
-    "runtime_mins": 95,
-    "rating": 3.1,
-    "rating_count": 188889,
-    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/x2/ki/kc/v5/cTF8lpXvAwT1SLH9kVFZZl0AO0D-0-600-0-900-crop.jpg?v=8ed1949fef"
-  },
-  {
-    "date": "2026-10-23",
-    "theater": "METROGRAPH",
-    "title": "Brief Encounter",
-    "director": "David Lean",
-    "year": "1945",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31149",
-    "showtimes": [
-      "1:50pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/brief-encounter/",
-    "genres": [
-      "drama",
-      "romance"
-    ],
-    "runtime_mins": 86,
-    "rating": 4.32,
-    "rating_count": 120791,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/3/0/1/51301-brief-encounter-0-600-0-900-crop.jpg?v=dfc2823c13"
-  },
-  {
-    "date": "2026-10-23",
-    "theater": "METROGRAPH",
-    "title": "Oldboy",
-    "director": "Park Chan-wook",
-    "year": "2003",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31151",
-    "showtimes": [
-      "3:45pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/oldboy/",
-    "genres": [
-      "action",
-      "mystery",
-      "thriller"
-    ],
-    "runtime_mins": 120,
-    "rating": 4.36,
-    "rating_count": 1754277,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/4/5/4/51454-oldboy-0-600-0-900-crop.jpg?v=294dbcadef"
-  },
-  {
-    "date": "2026-10-23",
-    "theater": "METROGRAPH",
-    "title": "Strangers on a Train",
-    "director": "Alfred Hitchcock",
-    "year": "1951",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31150",
-    "showtimes": [
-      "3:50pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/strangers-on-a-train/",
-    "genres": [
-      "crime",
-      "drama",
-      "thriller"
-    ],
-    "runtime_mins": 101,
-    "rating": 4.07,
-    "rating_count": 191788,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/3/0/7/51307-strangers-on-a-train-0-600-0-900-crop.jpg?v=2d81dafc02"
-  },
-  {
-    "date": "2026-10-23",
-    "theater": "METROGRAPH",
-    "title": "Virgina",
-    "director": "Srđan Karanović",
-    "year": "1991",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31153",
-    "showtimes": [
-      "6:00pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/virgina/",
-    "genres": [
-      "drama"
-    ],
-    "runtime_mins": 101,
-    "rating": 3.58,
-    "rating_count": 415,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/9/2/3/8/119238-virgina-0-600-0-900-crop.jpg?v=d59812ef4c"
-  },
-  {
-    "date": "2026-10-23",
-    "theater": "METROGRAPH",
-    "title": "All That Heaven Allows",
-    "director": "Douglas Sirk",
-    "year": "1955",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31152",
-    "showtimes": [
-      "6:15pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/all-that-heaven-allows/",
-    "genres": [
-      "drama",
-      "romance"
-    ],
-    "runtime_mins": 89,
-    "rating": 4.07,
-    "rating_count": 63885,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/1/8/3/2/21832-all-that-heaven-allows-0-600-0-900-crop.jpg?v=c9f47eb1f2"
-  },
-  {
-    "date": "2026-10-23",
-    "theater": "METROGRAPH",
-    "title": "Almost Famous",
-    "director": "Cameron Crowe",
-    "year": "2000",
-    "link": "https://metrograph.com/film/9999005039-almost-famous/",
-    "showtimes": [
-      "8:25pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/almost-famous/",
-    "genres": [
-      "drama",
-      "music"
-    ],
-    "runtime_mins": 124,
-    "rating": 4.09,
-    "rating_count": 853431,
-    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/8r/4k/tl/rx/mlOGVofLSyFAoVYcjVS2WRVvQjr-0-600-0-900-crop.jpg?v=ffceabaa03"
-  },
-  {
-    "date": "2026-10-23",
-    "theater": "METROGRAPH",
-    "title": "Night on Earth",
-    "director": "Jim Jarmusch",
-    "year": "1991",
-    "link": "https://metrograph.com/film/9999001984-night-on-earth/",
-    "showtimes": [
-      "8:30pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/night-on-earth/",
-    "genres": [
-      "comedy",
-      "drama"
-    ],
-    "runtime_mins": 129,
-    "rating": 4.0,
-    "rating_count": 142598,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/7/2/3/51723-night-on-earth-0-600-0-900-crop.jpg?v=b2c1cfb249"
-  },
-  {
-    "date": "2026-10-23",
-    "theater": "METROGRAPH",
-    "title": "Rushmore",
-    "director": "Wes Anderson",
-    "year": "1998",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31156",
-    "showtimes": [
-      "11:00pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/rushmore/",
-    "genres": [
-      "comedy",
-      "drama"
-    ],
-    "runtime_mins": 93,
-    "rating": 3.89,
-    "rating_count": 513767,
-    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/vx/bi/ni/1k/921qm0FJwDvi6ptaxNCp7xvqNGA-0-600-0-900-crop.jpg?v=e356b53de6"
-  },
-  {
-    "date": "2026-10-23",
-    "theater": "METROGRAPH",
-    "title": "The Hound of the Baskervilles",
-    "director": "Terence Fisher",
-    "year": "1959",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31157",
-    "showtimes": [
-      "11:00pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/the-hound-of-the-baskervilles-1959/",
-    "genres": [
-      "horror",
-      "mystery",
-      "thriller"
-    ],
-    "runtime_mins": 87,
-    "rating": 3.47,
-    "rating_count": 20397,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/0/0/5/45005-the-hound-of-the-baskervilles-0-600-0-900-crop.jpg?v=7d961fe0cc"
-  },
-  {
     "date": "2026-10-24",
     "theater": "METROGRAPH",
     "title": "The Aristocats",
@@ -221,7 +18,7 @@
     ],
     "runtime_mins": 78,
     "rating": 3.79,
-    "rating_count": 393743,
+    "rating_count": 393982,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/6/5/3/7/46537-the-aristocats-0-600-0-900-crop.jpg?v=8eeab59d9f"
   },
   {
@@ -241,7 +38,7 @@
     ],
     "runtime_mins": 76,
     "rating": 3.53,
-    "rating_count": 6038,
+    "rating_count": 6039,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/8/8/7/6/28876-medea-0-600-0-900-crop.jpg?v=9eb658a3d1"
   },
   {
@@ -260,7 +57,7 @@
     ],
     "runtime_mins": 116,
     "rating": 4.03,
-    "rating_count": 12930,
+    "rating_count": 12934,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/9/2/0/10920-the-flavor-of-green-tea-over-rice-0-600-0-900-crop.jpg?v=cfe12bf79e"
   },
   {
@@ -279,7 +76,7 @@
     ],
     "runtime_mins": 125,
     "rating": 3.69,
-    "rating_count": 1097,
+    "rating_count": 1098,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/0/9/8/7/90987-elisa-my-life-0-600-0-900-crop.jpg?v=6a723aa222"
   },
   {
@@ -299,7 +96,7 @@
     ],
     "runtime_mins": 90,
     "rating": 3.67,
-    "rating_count": 5561,
+    "rating_count": 5562,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/5/3/4/1/85341-peppermint-frappe-0-600-0-900-crop.jpg?v=5d04e48ad7"
   },
   {
@@ -351,8 +148,8 @@
       "drama"
     ],
     "runtime_mins": 101,
-    "rating": 3.58,
-    "rating_count": 415,
+    "rating": 3.59,
+    "rating_count": 425,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/9/2/3/8/119238-virgina-0-600-0-900-crop.jpg?v=d59812ef4c"
   },
   {
@@ -373,7 +170,7 @@
     ],
     "runtime_mins": 95,
     "rating": 3.1,
-    "rating_count": 188889,
+    "rating_count": 188959,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/x2/ki/kc/v5/cTF8lpXvAwT1SLH9kVFZZl0AO0D-0-600-0-900-crop.jpg?v=8ed1949fef"
   },
   {
@@ -393,7 +190,7 @@
     ],
     "runtime_mins": 83,
     "rating": 3.51,
-    "rating_count": 30512,
+    "rating_count": 30547,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/8/9/2/49892-the-curse-of-frankenstein-0-600-0-900-crop.jpg?v=dca5d21ab0"
   },
   {
@@ -414,7 +211,7 @@
     ],
     "runtime_mins": 118,
     "rating": 4.09,
-    "rating_count": 1566590,
+    "rating_count": 1567461,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/85/io/38/dz/vfzE3pjE5G7G7kcZWrA3fnbZo7V-0-600-0-900-crop.jpg?v=0d5de70f0d"
   },
   {
@@ -434,7 +231,7 @@
     ],
     "runtime_mins": 67,
     "rating": 3.85,
-    "rating_count": 136142,
+    "rating_count": 136273,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/3/6/0/2/23602-tetsuo-the-iron-man-0-600-0-900-crop.jpg?v=7db3db7b0d"
   },
   {
@@ -471,7 +268,7 @@
     ],
     "runtime_mins": 100,
     "rating": 3.79,
-    "rating_count": 620326,
+    "rating_count": 620959,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/0/1/7/50017-the-addams-family-0-600-0-900-crop.jpg?v=3dd26b5545"
   },
   {
@@ -480,7 +277,7 @@
     "title": "All We Imagine as Light",
     "director": "Payal  Kapadia",
     "year": "2024",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31172",
+    "link": "https://metrograph.com/film/9999005055-all-we-imagine-as-light/",
     "showtimes": [
       "12:15pm"
     ],
@@ -491,7 +288,7 @@
     ],
     "runtime_mins": 118,
     "rating": 3.87,
-    "rating_count": 108463,
+    "rating_count": 108501,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/3/3/0/6/2/833062-all-we-imagine-as-light-0-600-0-900-crop.jpg?v=7cd94c55ea"
   },
   {
@@ -510,7 +307,7 @@
     ],
     "runtime_mins": 113,
     "rating": 4.21,
-    "rating_count": 36872,
+    "rating_count": 36884,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/cg/t1/wu/99/yLTJiofk4x6Q7qpCfEOazdpVglP-0-600-0-900-crop.jpg?v=6fb819a4c4"
   },
   {
@@ -546,7 +343,7 @@
     ],
     "runtime_mins": 127,
     "rating": 3.97,
-    "rating_count": 1621116,
+    "rating_count": 1622054,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/1x/ad/d5/5d/vp46lgVDiFdT4Hw5WIISOPwnMaH-0-600-0-900-crop.jpg?v=d07803f1c3"
   },
   {
@@ -586,7 +383,7 @@
     ],
     "runtime_mins": 120,
     "rating": 4.36,
-    "rating_count": 1754277,
+    "rating_count": 1755383,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/4/5/4/51454-oldboy-0-600-0-900-crop.jpg?v=294dbcadef"
   },
   {
@@ -614,7 +411,7 @@
     "title": "Rosemary's Baby",
     "director": "Roman Polanski",
     "year": "1968",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31176",
+    "link": "https://metrograph.com/film/9999001188-rosemarys-baby/",
     "showtimes": [
       "8:45pm"
     ],
@@ -626,7 +423,7 @@
     ],
     "runtime_mins": 138,
     "rating": 4.21,
-    "rating_count": 637062,
+    "rating_count": 637730,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/ea/vc/su/y2/fdLOXB8AysEGRL44I1RvoKiWDcW-0-600-0-900-crop.jpg?v=8e18e4f70c"
   },
   {
@@ -644,8 +441,8 @@
       "drama"
     ],
     "runtime_mins": 101,
-    "rating": 3.58,
-    "rating_count": 415,
+    "rating": 3.59,
+    "rating_count": 425,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/9/2/3/8/119238-virgina-0-600-0-900-crop.jpg?v=d59812ef4c"
   },
   {
@@ -665,7 +462,7 @@
     ],
     "runtime_mins": 115,
     "rating": 3.9,
-    "rating_count": 220579,
+    "rating_count": 220655,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/0/1/4/47014-little-women-0-600-0-900-crop.jpg?v=ca29177bf5"
   },
   {
@@ -685,7 +482,7 @@
     ],
     "runtime_mins": 83,
     "rating": 3.76,
-    "rating_count": 3786,
+    "rating_count": 3787,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/2/3/5/0/72350-arsenal-0-600-0-900-crop.jpg?v=b197a27a4a"
   },
   {
@@ -737,8 +534,8 @@
       "drama"
     ],
     "runtime_mins": 101,
-    "rating": 3.58,
-    "rating_count": 415,
+    "rating": 3.59,
+    "rating_count": 425,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/9/2/3/8/119238-virgina-0-600-0-900-crop.jpg?v=d59812ef4c"
   },
   {
@@ -758,7 +555,7 @@
     ],
     "runtime_mins": 103,
     "rating": 3.78,
-    "rating_count": 775868,
+    "rating_count": 776199,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/1/7/7/50177-heathers-0-600-0-900-crop.jpg?v=440b8d9a73"
   },
   {
@@ -778,7 +575,7 @@
     ],
     "runtime_mins": 133,
     "rating": 4.03,
-    "rating_count": 77443,
+    "rating_count": 77454,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/4/4/1/6/44416-broadcast-news-0-600-0-900-crop.jpg?v=d3dc914edb"
   },
   {
@@ -799,7 +596,7 @@
     ],
     "runtime_mins": 90,
     "rating": 4.11,
-    "rating_count": 679534,
+    "rating_count": 679964,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/0/2/3/49023-paprika-0-600-0-900-crop.jpg?v=bdcabb9981"
   },
   {
@@ -819,7 +616,7 @@
     ],
     "runtime_mins": 100,
     "rating": 3.79,
-    "rating_count": 620326,
+    "rating_count": 620959,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/0/1/7/50017-the-addams-family-0-600-0-900-crop.jpg?v=3dd26b5545"
   },
   {
@@ -860,7 +657,7 @@
     ],
     "runtime_mins": 98,
     "rating": 3.46,
-    "rating_count": 118899,
+    "rating_count": 118984,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/0/8/8/50088-reality-bites-0-600-0-900-crop.jpg?v=21c60fefd4"
   },
   {
@@ -899,7 +696,7 @@
     ],
     "runtime_mins": 105,
     "rating": 4.07,
-    "rating_count": 88099,
+    "rating_count": 88132,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/8/0/0/47800-the-taking-of-pelham-one-two-three-0-600-0-900-crop.jpg?v=b04395e6e7"
   },
   {
@@ -917,8 +714,8 @@
       "drama"
     ],
     "runtime_mins": 101,
-    "rating": 3.58,
-    "rating_count": 415,
+    "rating": 3.59,
+    "rating_count": 425,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/9/2/3/8/119238-virgina-0-600-0-900-crop.jpg?v=d59812ef4c"
   },
   {
@@ -939,7 +736,7 @@
     ],
     "runtime_mins": 102,
     "rating": 4.27,
-    "rating_count": 853953,
+    "rating_count": 854392,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/6/0/2/45602-chungking-express-0-600-0-900-crop.jpg?v=9475abb05b"
   },
   {
@@ -977,30 +774,8 @@
     ],
     "runtime_mins": 128,
     "rating": 4.05,
-    "rating_count": 155978,
+    "rating_count": 156027,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/3/0/8/51308-2046-0-600-0-900-crop.jpg?v=52246d30bc"
-  },
-  {
-    "date": "2026-10-29",
-    "theater": "METROGRAPH",
-    "title": "The Beach",
-    "director": "Danny Boyle",
-    "year": "2000",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31275",
-    "showtimes": [
-      "4:20pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/the-beach/",
-    "genres": [
-      "adventure",
-      "drama",
-      "romance",
-      "thriller"
-    ],
-    "runtime_mins": 119,
-    "rating": 3.22,
-    "rating_count": 246954,
-    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/6z/mc/fc/co/2FBMTpxVgsAQOFQRMDUkGRsfREC-0-600-0-900-crop.jpg?v=f05b133c0d"
   },
   {
     "date": "2026-10-29",
@@ -1019,7 +794,7 @@
     ],
     "runtime_mins": 138,
     "rating": 3.81,
-    "rating_count": 160519,
+    "rating_count": 160580,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/ya/m4/xj/mi/36euuWA31TtH5E8TRZJRvdZ9pP-0-600-0-900-crop.jpg?v=fad43e88d7"
   },
   {
@@ -1037,8 +812,8 @@
       "drama"
     ],
     "runtime_mins": 101,
-    "rating": 3.58,
-    "rating_count": 415,
+    "rating": 3.59,
+    "rating_count": 425,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/9/2/3/8/119238-virgina-0-600-0-900-crop.jpg?v=d59812ef4c"
   },
   {
@@ -1058,7 +833,7 @@
     ],
     "runtime_mins": 156,
     "rating": 3.98,
-    "rating_count": 342498,
+    "rating_count": 342916,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/2/0/5/5/6/220556-the-wailing-0-600-0-900-crop.jpg?v=4c008fcbc3"
   },
   {
@@ -1079,7 +854,7 @@
     ],
     "runtime_mins": 138,
     "rating": 4.21,
-    "rating_count": 637062,
+    "rating_count": 637730,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/ea/vc/su/y2/fdLOXB8AysEGRL44I1RvoKiWDcW-0-600-0-900-crop.jpg?v=8e18e4f70c"
   },
   {
@@ -1098,7 +873,7 @@
     ],
     "runtime_mins": 113,
     "rating": 4.21,
-    "rating_count": 36872,
+    "rating_count": 36884,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/cg/t1/wu/99/yLTJiofk4x6Q7qpCfEOazdpVglP-0-600-0-900-crop.jpg?v=6fb819a4c4"
   },
   {
@@ -1119,7 +894,7 @@
     ],
     "runtime_mins": 105,
     "rating": 3.91,
-    "rating_count": 1878419,
+    "rating_count": 1880002,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/8/8/9/51889-edward-scissorhands-0-600-0-900-crop.jpg?v=38f2599419"
   },
   {
@@ -1139,7 +914,7 @@
     ],
     "runtime_mins": 90,
     "rating": 3.67,
-    "rating_count": 5561,
+    "rating_count": 5562,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/5/3/4/1/85341-peppermint-frappe-0-600-0-900-crop.jpg?v=5d04e48ad7"
   },
   {
@@ -1159,7 +934,7 @@
     ],
     "runtime_mins": 93,
     "rating": 3.89,
-    "rating_count": 513767,
+    "rating_count": 513936,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/vx/bi/ni/1k/921qm0FJwDvi6ptaxNCp7xvqNGA-0-600-0-900-crop.jpg?v=e356b53de6"
   },
   {
@@ -1178,7 +953,7 @@
     ],
     "runtime_mins": 100,
     "rating": 4.19,
-    "rating_count": 49877,
+    "rating_count": 49900,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/f1/gs/in/tp/3L5sW2hGHQmNfVBdOsonSfGzSrN-0-600-0-900-crop.jpg?v=ba95db379a"
   },
   {
@@ -1197,7 +972,7 @@
     ],
     "runtime_mins": 105,
     "rating": 4.2,
-    "rating_count": 34765,
+    "rating_count": 34791,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/9/9/1/13991-cria--0-600-0-900-crop.jpg?v=e040a4f888"
   },
   {
@@ -1217,7 +992,7 @@
     ],
     "runtime_mins": 99,
     "rating": 3.46,
-    "rating_count": 45622,
+    "rating_count": 45664,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/4/9/0/45490-the-trouble-with-harry-0-600-0-900-crop.jpg?v=1ee0331c29"
   },
   {
@@ -1236,7 +1011,7 @@
     ],
     "runtime_mins": 89,
     "rating": 4.1,
-    "rating_count": 36736,
+    "rating_count": 36747,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/3/3/8/2/73382-news-from-home-0-600-0-900-crop.jpg?v=ba20a839c0"
   },
   {
@@ -1256,7 +1031,7 @@
     ],
     "runtime_mins": 128,
     "rating": 3.74,
-    "rating_count": 601971,
+    "rating_count": 602616,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/4/5/4/48454-bram-stoker-s-dracula-0-600-0-900-crop.jpg?v=18a4a777e2"
   },
   {
@@ -1277,7 +1052,7 @@
     ],
     "runtime_mins": 118,
     "rating": 4.09,
-    "rating_count": 1566590,
+    "rating_count": 1567461,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/85/io/38/dz/vfzE3pjE5G7G7kcZWrA3fnbZo7V-0-600-0-900-crop.jpg?v=0d5de70f0d"
   },
   {
@@ -1298,7 +1073,7 @@
     ],
     "runtime_mins": 105,
     "rating": 3.91,
-    "rating_count": 1878419,
+    "rating_count": 1880002,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/8/8/9/51889-edward-scissorhands-0-600-0-900-crop.jpg?v=38f2599419"
   },
   {
@@ -1335,7 +1110,7 @@
     ],
     "runtime_mins": 83,
     "rating": 3.51,
-    "rating_count": 30512,
+    "rating_count": 30547,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/8/9/2/49892-the-curse-of-frankenstein-0-600-0-900-crop.jpg?v=dca5d21ab0"
   },
   {
@@ -1355,7 +1130,7 @@
     ],
     "runtime_mins": 92,
     "rating": 3.73,
-    "rating_count": 1643187,
+    "rating_count": 1644632,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/rs/wk/3i/nt/gWnW7vxm8yr01TVLQhL4aI02orp-0-600-0-900-crop.jpg?v=f8250fbc59"
   },
   {
@@ -1393,7 +1168,7 @@
     ],
     "runtime_mins": 82,
     "rating": 3.59,
-    "rating_count": 63216,
+    "rating_count": 63318,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/4/9/3/5/44935-dracula-0-600-0-900-crop.jpg?v=ce1ddf1b0a"
   },
   {
@@ -1413,7 +1188,7 @@
     ],
     "runtime_mins": 99,
     "rating": 3.46,
-    "rating_count": 45622,
+    "rating_count": 45664,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/4/9/0/45490-the-trouble-with-harry-0-600-0-900-crop.jpg?v=1ee0331c29"
   },
   {
@@ -1432,7 +1207,7 @@
     ],
     "runtime_mins": 82,
     "rating": 3.34,
-    "rating_count": 15722,
+    "rating_count": 15746,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/6q/vr/gh/8g/zO3v1I1CEGVoerS1nD0wTMULr6d-0-600-0-900-crop.jpg?v=ebf0a9ce3e"
   },
   {
@@ -1453,7 +1228,7 @@
     ],
     "runtime_mins": 145,
     "rating": 3.79,
-    "rating_count": 594917,
+    "rating_count": 595188,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/1o/qh/5e/ur/dS5AHLt4DhZpisxryIxKJU6Urxb-0-600-0-900-crop.jpg?v=921863cb0d"
   },
   {
@@ -1473,7 +1248,7 @@
     ],
     "runtime_mins": 128,
     "rating": 3.74,
-    "rating_count": 601971,
+    "rating_count": 602616,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/4/5/4/48454-bram-stoker-s-dracula-0-600-0-900-crop.jpg?v=18a4a777e2"
   },
   {
@@ -1494,7 +1269,7 @@
     ],
     "runtime_mins": 138,
     "rating": 4.21,
-    "rating_count": 637062,
+    "rating_count": 637730,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/ea/vc/su/y2/fdLOXB8AysEGRL44I1RvoKiWDcW-0-600-0-900-crop.jpg?v=8e18e4f70c"
   },
   {
@@ -1515,7 +1290,7 @@
     ],
     "runtime_mins": 118,
     "rating": 4.09,
-    "rating_count": 1566590,
+    "rating_count": 1567461,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/85/io/38/dz/vfzE3pjE5G7G7kcZWrA3fnbZo7V-0-600-0-900-crop.jpg?v=0d5de70f0d"
   },
   {
@@ -1552,7 +1327,7 @@
     ],
     "runtime_mins": 100,
     "rating": 3.79,
-    "rating_count": 620326,
+    "rating_count": 620959,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/0/1/7/50017-the-addams-family-0-600-0-900-crop.jpg?v=3dd26b5545"
   },
   {
@@ -1572,7 +1347,7 @@
     ],
     "runtime_mins": 89,
     "rating": 4.07,
-    "rating_count": 63885,
+    "rating_count": 63922,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/1/8/3/2/21832-all-that-heaven-allows-0-600-0-900-crop.jpg?v=c9f47eb1f2"
   },
   {
@@ -1591,7 +1366,7 @@
     ],
     "runtime_mins": 100,
     "rating": 4.19,
-    "rating_count": 49877,
+    "rating_count": 49900,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/f1/gs/in/tp/3L5sW2hGHQmNfVBdOsonSfGzSrN-0-600-0-900-crop.jpg?v=ba95db379a"
   },
   {
@@ -1611,7 +1386,7 @@
     ],
     "runtime_mins": 107,
     "rating": 3.84,
-    "rating_count": 55817,
+    "rating_count": 55832,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/9/6/6/45966-far-from-heaven-0-600-0-900-crop.jpg?v=8196c7e0b8"
   },
   {
@@ -1631,7 +1406,7 @@
     ],
     "runtime_mins": 83,
     "rating": 3.22,
-    "rating_count": 10365,
+    "rating_count": 10379,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/3/4/7/5/33475-the-gorgon-0-600-0-900-crop.jpg?v=b3fde28418"
   },
   {
@@ -1669,7 +1444,7 @@
     ],
     "runtime_mins": 87,
     "rating": 3.47,
-    "rating_count": 20397,
+    "rating_count": 20420,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/0/0/5/45005-the-hound-of-the-baskervilles-0-600-0-900-crop.jpg?v=7d961fe0cc"
   },
   {
@@ -1706,7 +1481,7 @@
     ],
     "runtime_mins": 93,
     "rating": 3.89,
-    "rating_count": 513767,
+    "rating_count": 513936,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/vx/bi/ni/1k/921qm0FJwDvi6ptaxNCp7xvqNGA-0-600-0-900-crop.jpg?v=e356b53de6"
   },
   {
@@ -1725,7 +1500,7 @@
     ],
     "runtime_mins": 93,
     "rating": 4.5,
-    "rating_count": 168042,
+    "rating_count": 168192,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/dr/d3/nw/gv/m4I32itPMlRWqWJamFAwFDbrBXp-0-600-0-900-crop.jpg?v=45433653ca"
   },
   {
@@ -1746,8 +1521,406 @@
     ],
     "runtime_mins": 94,
     "rating": 3.71,
-    "rating_count": 911844,
+    "rating_count": 912206,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/1e/0j/vs/s6/xxSopLYATHXSepXcEaBh9Gazv6p-0-600-0-900-crop.jpg?v=6073ba801b"
+  },
+  {
+    "date": "2026-11-02",
+    "theater": "METROGRAPH",
+    "title": "The Parallax View",
+    "director": "Alan J. Pakula",
+    "year": "1974",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31319",
+    "showtimes": [
+      "4:00pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/the-parallax-view/",
+    "genres": [
+      "crime",
+      "drama",
+      "thriller"
+    ],
+    "runtime_mins": 102,
+    "rating": 3.85,
+    "rating_count": 65754,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/4q/mz/oh/f1/parallax%20view-0-600-0-900-crop.jpg?v=d3b9a6c658"
+  },
+  {
+    "date": "2026-11-02",
+    "theater": "METROGRAPH",
+    "title": "Ivan",
+    "director": "Oleksandr Dovzhenko",
+    "year": "1932",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31318",
+    "showtimes": [
+      "4:00pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/ivan/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 102,
+    "rating": 3.44,
+    "rating_count": 439,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/7/0/6/0/117060-ivan-0-600-0-900-crop.jpg?v=a4d4e5d461"
+  },
+  {
+    "date": "2026-11-02",
+    "theater": "METROGRAPH",
+    "title": "Aerograd",
+    "director": "Oleksandr Dovzhenko",
+    "year": "1935",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31317",
+    "showtimes": [
+      "6:00pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/aerograd/",
+    "genres": [
+      "action",
+      "drama"
+    ],
+    "runtime_mins": 82,
+    "rating": 3.34,
+    "rating_count": 748,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/5/3/2/16532-aerograd-0-600-0-900-crop.jpg?v=323f3ff1e5"
+  },
+  {
+    "date": "2026-11-02",
+    "theater": "METROGRAPH",
+    "title": "Ulysses' Gaze",
+    "director": "Theo  Angelopoulos",
+    "year": "1995",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31313",
+    "showtimes": [
+      "6:15pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/ulysses-gaze/",
+    "genres": [
+      "drama",
+      "history",
+      "war"
+    ],
+    "runtime_mins": 169,
+    "rating": 4.16,
+    "rating_count": 13310,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/7/8/3/0/37830-ulysses-gaze-0-600-0-900-crop.jpg?v=b601866302"
+  },
+  {
+    "date": "2026-11-02",
+    "theater": "METROGRAPH",
+    "title": "Honeycomb",
+    "director": "Carlos  Saura",
+    "year": "1969",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31316",
+    "showtimes": [
+      "7:45pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/honeycomb/",
+    "genres": [
+      "drama",
+      "thriller"
+    ],
+    "runtime_mins": 102,
+    "rating": 3.52,
+    "rating_count": 1087,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/9/1/9/0/5/191905-honeycomb-0-600-0-900-crop.jpg?v=aeb49d5785"
+  },
+  {
+    "date": "2026-11-02",
+    "theater": "METROGRAPH",
+    "title": "Reality Bites",
+    "director": "Ben Stiller",
+    "year": "1994",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31314",
+    "showtimes": [
+      "9:45pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/reality-bites/",
+    "genres": [
+      "comedy",
+      "drama",
+      "romance"
+    ],
+    "runtime_mins": 98,
+    "rating": 3.46,
+    "rating_count": 118984,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/0/8/8/50088-reality-bites-0-600-0-900-crop.jpg?v=21c60fefd4"
+  },
+  {
+    "date": "2026-11-02",
+    "theater": "METROGRAPH",
+    "title": "Ana and the Wolves",
+    "director": "Carlos  Saura",
+    "year": "1973",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31315",
+    "showtimes": [
+      "9:50pm"
+    ],
+    "letterboxd_url": null,
+    "genres": [],
+    "runtime_mins": null,
+    "rating": null,
+    "rating_count": null,
+    "poster_url": null
+  },
+  {
+    "date": "2026-11-03",
+    "theater": "METROGRAPH",
+    "title": "Yi Yi",
+    "director": "Edward Yang",
+    "year": "2000",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31320",
+    "showtimes": [
+      "3:00pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/yi-yi/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 174,
+    "rating": 4.53,
+    "rating_count": 206630,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/7s/h0/6e/0f/hhsYCYVPy1V0eTjkGNGdvpDO2qk-0-600-0-900-crop.jpg?v=f8d5b0fe80"
+  },
+  {
+    "date": "2026-11-03",
+    "theater": "METROGRAPH",
+    "title": "Girl, Interrupted",
+    "director": "James  Mangold",
+    "year": "1999",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31322",
+    "showtimes": [
+      "3:20pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/girl-interrupted/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 127,
+    "rating": 3.97,
+    "rating_count": 1622054,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/1x/ad/d5/5d/vp46lgVDiFdT4Hw5WIISOPwnMaH-0-600-0-900-crop.jpg?v=d07803f1c3"
+  },
+  {
+    "date": "2026-11-03",
+    "theater": "METROGRAPH",
+    "title": "Poem of the Sea",
+    "director": "Yulia Solntseva",
+    "year": "1958",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31321",
+    "showtimes": [
+      "6:00pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/poem-of-the-sea/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 95,
+    "rating": 3.64,
+    "rating_count": 651,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/8/1/3/7/7/181377-poem-of-the-sea-0-600-0-900-crop.jpg?v=0fcf70aee1"
+  },
+  {
+    "date": "2026-11-03",
+    "theater": "METROGRAPH",
+    "title": "The Enchanted Desna",
+    "director": "Yulia Solntseva",
+    "year": "1964",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31323",
+    "showtimes": [
+      "8:10pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/the-enchanted-desna/",
+    "genres": [
+      "drama",
+      "fantasy",
+      "war"
+    ],
+    "runtime_mins": 77,
+    "rating": 3.74,
+    "rating_count": 964,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/0/8/7/6/9/208769-the-enchanted-desna-0-600-0-900-crop.jpg?v=99cb32b584"
+  },
+  {
+    "date": "2026-11-03",
+    "theater": "METROGRAPH",
+    "title": "Almost Famous",
+    "director": "Cameron Crowe",
+    "year": "2000",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31325",
+    "showtimes": [
+      "9:45pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/almost-famous/",
+    "genres": [
+      "drama",
+      "music"
+    ],
+    "runtime_mins": 124,
+    "rating": 4.09,
+    "rating_count": 853782,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/8r/4k/tl/rx/mlOGVofLSyFAoVYcjVS2WRVvQjr-0-600-0-900-crop.jpg?v=ffceabaa03"
+  },
+  {
+    "date": "2026-11-03",
+    "theater": "METROGRAPH",
+    "title": "A Bittersweet Life",
+    "director": "Kim Jee-woon",
+    "year": "2005",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31324",
+    "showtimes": [
+      "9:50pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/a-bittersweet-life/",
+    "genres": [
+      "action",
+      "crime",
+      "drama"
+    ],
+    "runtime_mins": 119,
+    "rating": 3.93,
+    "rating_count": 66093,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/m3/ho/e6/pk/a-bittersweet-life-0-600-0-900-crop.jpg?v=3e0e43f3db"
+  },
+  {
+    "date": "2026-11-04",
+    "theater": "METROGRAPH",
+    "title": "All We Imagine as Light",
+    "director": "Payal  Kapadia",
+    "year": "2024",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31327",
+    "showtimes": [
+      "3:15pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/all-we-imagine-as-light/",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "runtime_mins": 118,
+    "rating": 3.87,
+    "rating_count": 108501,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/3/3/0/6/2/833062-all-we-imagine-as-light-0-600-0-900-crop.jpg?v=7cd94c55ea"
+  },
+  {
+    "date": "2026-11-04",
+    "theater": "METROGRAPH",
+    "title": "Midnight in Paris",
+    "director": "Woody Allen",
+    "year": "2011",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31326",
+    "showtimes": [
+      "3:30pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/midnight-in-paris/",
+    "genres": [
+      "comedy",
+      "fantasy",
+      "romance"
+    ],
+    "runtime_mins": 94,
+    "rating": 3.71,
+    "rating_count": 912206,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/1e/0j/vs/s6/xxSopLYATHXSepXcEaBh9Gazv6p-0-600-0-900-crop.jpg?v=6073ba801b"
+  },
+  {
+    "date": "2026-11-04",
+    "theater": "METROGRAPH",
+    "title": "All That Heaven Allows",
+    "director": "Douglas Sirk",
+    "year": "1955",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31328",
+    "showtimes": [
+      "5:35pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/all-that-heaven-allows/",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "runtime_mins": 89,
+    "rating": 4.07,
+    "rating_count": 63922,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/1/8/3/2/21832-all-that-heaven-allows-0-600-0-900-crop.jpg?v=c9f47eb1f2"
+  },
+  {
+    "date": "2026-11-04",
+    "theater": "METROGRAPH",
+    "title": "Strangers on a Train",
+    "director": "Alfred Hitchcock",
+    "year": "1951",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31329",
+    "showtimes": [
+      "7:35pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/strangers-on-a-train/",
+    "genres": [
+      "crime",
+      "drama",
+      "thriller"
+    ],
+    "runtime_mins": 101,
+    "rating": 4.07,
+    "rating_count": 191881,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/3/0/7/51307-strangers-on-a-train-0-600-0-900-crop.jpg?v=2d81dafc02"
+  },
+  {
+    "date": "2026-11-04",
+    "theater": "METROGRAPH",
+    "title": "Electra, My Love",
+    "director": "Miklós Jancsó",
+    "year": "1974",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31332",
+    "showtimes": [
+      "8:45pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/electra-my-love/",
+    "genres": [
+      "drama",
+      "fantasy"
+    ],
+    "runtime_mins": 74,
+    "rating": 3.8,
+    "rating_count": 3664,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/8/5/9/3/18593-electra-my-love-0-600-0-900-crop.jpg?v=d094ad6886"
+  },
+  {
+    "date": "2026-11-04",
+    "theater": "METROGRAPH",
+    "title": "Oldboy",
+    "director": "Park Chan-wook",
+    "year": "2003",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31330",
+    "showtimes": [
+      "9:45pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/oldboy/",
+    "genres": [
+      "action",
+      "mystery",
+      "thriller"
+    ],
+    "runtime_mins": 120,
+    "rating": 4.36,
+    "rating_count": 1755383,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/4/5/4/51454-oldboy-0-600-0-900-crop.jpg?v=294dbcadef"
+  },
+  {
+    "date": "2026-11-04",
+    "theater": "METROGRAPH",
+    "title": "Ghost in the Shell: 30th Anniversary Remaster",
+    "director": "Mamoru  Oshii",
+    "year": "1995",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31331",
+    "showtimes": [
+      "10:20pm"
+    ],
+    "letterboxd_url": null,
+    "genres": [],
+    "runtime_mins": null,
+    "rating": null,
+    "rating_count": null,
+    "poster_url": null
   },
   {
     "date": "2026-11-06",
@@ -1766,7 +1939,7 @@
     ],
     "runtime_mins": 128,
     "rating": 3.74,
-    "rating_count": 601971,
+    "rating_count": 602616,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/4/5/4/48454-bram-stoker-s-dracula-0-600-0-900-crop.jpg?v=18a4a777e2"
   },
   {
@@ -1785,7 +1958,7 @@
     ],
     "runtime_mins": 89,
     "rating": 4.1,
-    "rating_count": 36736,
+    "rating_count": 36747,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/3/3/8/2/73382-news-from-home-0-600-0-900-crop.jpg?v=ba20a839c0"
   },
   {
@@ -1808,7 +1981,7 @@
     ],
     "runtime_mins": 111,
     "rating": 3.81,
-    "rating_count": 73507,
+    "rating_count": 73546,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/4/8/4/49484-spellbound-0-600-0-900-crop.jpg?v=4832105dee"
   },
   {
@@ -1828,7 +2001,7 @@
     ],
     "runtime_mins": 107,
     "rating": 3.84,
-    "rating_count": 55817,
+    "rating_count": 55832,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/9/6/6/45966-far-from-heaven-0-600-0-900-crop.jpg?v=8196c7e0b8"
   },
   {
@@ -1849,7 +2022,7 @@
     ],
     "runtime_mins": 99,
     "rating": 2.99,
-    "rating_count": 2048,
+    "rating_count": 2051,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/6/4/1/1464641-zi-1-0-600-0-900-crop.jpg?v=1c848e34c1"
   },
   {
@@ -1868,7 +2041,7 @@
     ],
     "runtime_mins": 105,
     "rating": 4.2,
-    "rating_count": 34765,
+    "rating_count": 34791,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/9/9/1/13991-cria--0-600-0-900-crop.jpg?v=e040a4f888"
   },
   {
@@ -1887,7 +2060,7 @@
     ],
     "runtime_mins": 86,
     "rating": 3.8,
-    "rating_count": 12970,
+    "rating_count": 12972,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/8/0/7/8/28078-chinese-roulette-0-600-0-900-crop.jpg?v=94b78f22b1"
   },
   {
@@ -1907,7 +2080,7 @@
     ],
     "runtime_mins": 83,
     "rating": 3.99,
-    "rating_count": 50555,
+    "rating_count": 50585,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/1/5/1/45151-suzhou-river-0-600-0-900-crop.jpg?v=b6f5e42e5d"
   },
   {
@@ -1927,7 +2100,7 @@
     ],
     "runtime_mins": 92,
     "rating": 3.59,
-    "rating_count": 116642,
+    "rating_count": 116824,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/y4/da/6d/zs/osLd3jkFx5D1vGc5UkAqvY3dyOX-0-600-0-900-crop.jpg?v=58e68fe1a7"
   },
   {
@@ -1948,7 +2121,7 @@
     ],
     "runtime_mins": 134,
     "rating": 4.12,
-    "rating_count": 492910,
+    "rating_count": 493261,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/25/5e/r1/3t/z6yhgEzGUJaBBgAxoyggRzwLnVM-0-600-0-900-crop.jpg?v=49d0ffd43f"
   },
   {
@@ -1968,7 +2141,7 @@
     ],
     "runtime_mins": 107,
     "rating": 3.84,
-    "rating_count": 55817,
+    "rating_count": 55832,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/9/6/6/45966-far-from-heaven-0-600-0-900-crop.jpg?v=8196c7e0b8"
   },
   {
@@ -1988,7 +2161,7 @@
     ],
     "runtime_mins": 112,
     "rating": 3.75,
-    "rating_count": 28007,
+    "rating_count": 28015,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/2/5/7/7/22577-the-housemaid-0-600-0-900-crop.jpg?v=1a62ff16ab"
   },
   {
@@ -2008,7 +2181,7 @@
     ],
     "runtime_mins": 68,
     "rating": 3.82,
-    "rating_count": 50938,
+    "rating_count": 50949,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/9/0/5/4/39054-detour-0-600-0-900-crop.jpg?v=1a4eb74a91"
   },
   {
@@ -2044,7 +2217,7 @@
     ],
     "runtime_mins": 116,
     "rating": 3.77,
-    "rating_count": 888,
+    "rating_count": 886,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/7/1/7/6/3/171763-after-winter-comes-spring-0-600-0-900-crop.jpg?v=f8393d67b8"
   },
   {
@@ -2065,7 +2238,7 @@
     ],
     "runtime_mins": 99,
     "rating": 2.99,
-    "rating_count": 2048,
+    "rating_count": 2051,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/6/4/1/1464641-zi-1-0-600-0-900-crop.jpg?v=1c848e34c1"
   },
   {
@@ -2084,7 +2257,7 @@
     ],
     "runtime_mins": 99,
     "rating": 3.71,
-    "rating_count": 7768,
+    "rating_count": 7772,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/3/4/1/3/7/834137-small-slow-but-steady-0-600-0-900-crop.jpg?v=403abd891a"
   },
   {
@@ -2122,7 +2295,7 @@
     ],
     "runtime_mins": 99,
     "rating": 3.71,
-    "rating_count": 21500,
+    "rating_count": 21510,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/1/1/8/6/41186-the-woman-in-the-window-0-600-0-900-crop.jpg?v=ee1d3b5c4a"
   },
   {
@@ -2159,7 +2332,7 @@
     ],
     "runtime_mins": 92,
     "rating": 3.59,
-    "rating_count": 116642,
+    "rating_count": 116824,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/y4/da/6d/zs/osLd3jkFx5D1vGc5UkAqvY3dyOX-0-600-0-900-crop.jpg?v=58e68fe1a7"
   },
   {
@@ -2182,7 +2355,7 @@
     ],
     "runtime_mins": 111,
     "rating": 3.81,
-    "rating_count": 73507,
+    "rating_count": 73546,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/4/8/4/49484-spellbound-0-600-0-900-crop.jpg?v=4832105dee"
   },
   {
@@ -2203,7 +2376,7 @@
     ],
     "runtime_mins": 79,
     "rating": 4.18,
-    "rating_count": 119485,
+    "rating_count": 119522,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/2/0/2/51202-the-general-0-600-0-900-crop.jpg?v=8214c74694"
   },
   {
@@ -2240,7 +2413,7 @@
     ],
     "runtime_mins": 94,
     "rating": 3.82,
-    "rating_count": 11516,
+    "rating_count": 11527,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/1/3/5/49135-je-t-aime-je-t-aime-0-600-0-900-crop.jpg?v=eb0276db00"
   },
   {
@@ -2260,7 +2433,7 @@
     ],
     "runtime_mins": 83,
     "rating": 3.99,
-    "rating_count": 50555,
+    "rating_count": 50585,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/1/5/1/45151-suzhou-river-0-600-0-900-crop.jpg?v=b6f5e42e5d"
   },
   {
@@ -2279,7 +2452,7 @@
     ],
     "runtime_mins": 104,
     "rating": 3.95,
-    "rating_count": 158381,
+    "rating_count": 158425,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/l1/zo/7p/wc/3ZE5Wl3CdfUH4BkWRmyMKPHkWHx-0-600-0-900-crop.jpg?v=800e4a6439"
   },
   {
@@ -2299,7 +2472,7 @@
     ],
     "runtime_mins": 83,
     "rating": 3.22,
-    "rating_count": 10365,
+    "rating_count": 10379,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/3/4/7/5/33475-the-gorgon-0-600-0-900-crop.jpg?v=b3fde28418"
   },
   {
@@ -2320,7 +2493,7 @@
     ],
     "runtime_mins": 99,
     "rating": 2.99,
-    "rating_count": 2048,
+    "rating_count": 2051,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/6/4/1/1464641-zi-1-0-600-0-900-crop.jpg?v=1c848e34c1"
   },
   {
@@ -2339,7 +2512,7 @@
     ],
     "runtime_mins": 78,
     "rating": 3.59,
-    "rating_count": 221,
+    "rating_count": 222,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/0/1/6/1/110161-crystal-voyager-0-600-0-900-crop.jpg?v=23677b443e"
   },
   {
@@ -2358,7 +2531,7 @@
     ],
     "runtime_mins": 136,
     "rating": 3.57,
-    "rating_count": 703,
+    "rating_count": 704,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/9/6/6/7/99667-sad-vacation-0-600-0-900-crop.jpg?v=bc5f8320ca"
   },
   {
@@ -2379,59 +2552,8 @@
     ],
     "runtime_mins": 134,
     "rating": 4.12,
-    "rating_count": 492910,
+    "rating_count": 493261,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/25/5e/r1/3t/z6yhgEzGUJaBBgAxoyggRzwLnVM-0-600-0-900-crop.jpg?v=49d0ffd43f"
-  },
-  {
-    "date": "2026-10-23",
-    "theater": "ROXY CINEMA NEW YORK",
-    "title": "Society - 35MM + Q&A",
-    "director": "N/A",
-    "year": "1989",
-    "link": "https://ticketing.uswest.veezi.com/purchase/7927?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
-    "showtimes": [
-      "4:30PM"
-    ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
-  },
-  {
-    "date": "2026-10-23",
-    "theater": "ROXY CINEMA NEW YORK",
-    "title": "Nosferatu + Live Score",
-    "director": "N/A",
-    "year": "1922",
-    "link": "https://ticketing.uswest.veezi.com/purchase/7863?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
-    "showtimes": [
-      "7:00PM"
-    ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
-  },
-  {
-    "date": "2026-10-23",
-    "theater": "ROXY CINEMA NEW YORK",
-    "title": "Vampyr + Live Score",
-    "director": "N/A",
-    "year": "1932",
-    "link": "https://ticketing.uswest.veezi.com/purchase/7864?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
-    "showtimes": [
-      "9:30PM"
-    ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
   },
   {
     "date": "2026-10-24",
@@ -2467,7 +2589,7 @@
     ],
     "runtime_mins": 92,
     "rating": 2.74,
-    "rating_count": 10459,
+    "rating_count": 10469,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/2/6/5/7/42657-the-guyver-0-600-0-900-crop.jpg?v=1518d269ab"
   },
   {
@@ -2522,7 +2644,7 @@
     ],
     "runtime_mins": 99,
     "rating": 3.81,
-    "rating_count": 4824,
+    "rating_count": 4864,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/7/8/4/1467784-chronovisor-0-600-0-900-crop.jpg?v=50c00b9581"
   },
   {
@@ -2594,7 +2716,7 @@
     ],
     "runtime_mins": 94,
     "rating": 4.15,
-    "rating_count": 5528,
+    "rating_count": 5538,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/9/7/9/9/4/197994-leila-and-the-wolves-0-600-0-900-crop.jpg?v=bb41cdb9c8"
   },
   {
@@ -2665,7 +2787,7 @@
     ],
     "runtime_mins": 99,
     "rating": 3.92,
-    "rating_count": 609591,
+    "rating_count": 610177,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/4/9/0/0/44900-suspiria-0-600-0-900-crop.jpg?v=d1fbb1d377"
   },
   {
@@ -2735,7 +2857,7 @@
     ],
     "runtime_mins": 110,
     "rating": 2.81,
-    "rating_count": 195258,
+    "rating_count": 195588,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/5/4/3/50543-halloween-0-600-0-900-crop.jpg?v=703f0b6d1c"
   },
   {
@@ -2806,7 +2928,7 @@
     ],
     "runtime_mins": 99,
     "rating": 3.92,
-    "rating_count": 609591,
+    "rating_count": 610177,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/4/9/0/0/44900-suspiria-0-600-0-900-crop.jpg?v=d1fbb1d377"
   },
   {
@@ -2825,7 +2947,7 @@
     ],
     "runtime_mins": 110,
     "rating": 2.81,
-    "rating_count": 195258,
+    "rating_count": 195588,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/5/4/3/50543-halloween-0-600-0-900-crop.jpg?v=703f0b6d1c"
   },
   {
@@ -2914,7 +3036,7 @@
     ],
     "runtime_mins": 96,
     "rating": 3.38,
-    "rating_count": 40756,
+    "rating_count": 40821,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/0y/yr/md/tq/l3cf2OQdozsvr2dk30QQrVvtPcW-0-600-0-900-crop.jpg?v=662d24a85d"
   },
   {
@@ -3092,7 +3214,7 @@
     ],
     "runtime_mins": 165,
     "rating": 4.04,
-    "rating_count": 2601,
+    "rating_count": 2602,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/8/3/8/7/3/283873-personal-problems-0-600-0-900-crop.jpg?v=3c1a31477c"
   },
   {
@@ -3111,8 +3233,8 @@
       "history"
     ],
     "runtime_mins": 175,
-    "rating": 3.49,
-    "rating_count": 270,
+    "rating": 3.5,
+    "rating_count": 278,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/5/3/6/1/1/1253611-a-rimbaud-0-600-0-900-crop.jpg?v=9baa94575f"
   },
   {
@@ -3376,7 +3498,7 @@
     ],
     "runtime_mins": 86,
     "rating": 3.87,
-    "rating_count": 10773,
+    "rating_count": 10777,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/9/8/0/3/1/198031-losing-ground-0-600-0-900-crop.jpg?v=316a24de98"
   },
   {
@@ -3439,6 +3561,23 @@
     "link": "https://ticketing.uswest.veezi.com/purchase/7966?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
     "showtimes": [
       "9:15PM"
+    ],
+    "letterboxd_url": null,
+    "genres": [],
+    "runtime_mins": null,
+    "rating": null,
+    "rating_count": null,
+    "poster_url": null
+  },
+  {
+    "date": "2026-11-19",
+    "theater": "ROXY CINEMA NEW YORK",
+    "title": "Hannah and Her Sisters - 35MM",
+    "director": "N/A",
+    "year": "1986",
+    "link": "https://ticketing.uswest.veezi.com/purchase/7974?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
+    "showtimes": [
+      "3:45PM"
     ],
     "letterboxd_url": null,
     "genres": [],
@@ -3536,7 +3675,7 @@
     ],
     "runtime_mins": 80,
     "rating": 3.08,
-    "rating_count": 5847,
+    "rating_count": 5850,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/0/8/3/0/7/908307-wwwrachelormontcom-0-600-0-900-crop.jpg?v=b2c844a496"
   },
   {
@@ -3659,6 +3798,42 @@
     "poster_url": null
   },
   {
+    "date": "2026-11-24",
+    "theater": "ROXY CINEMA NEW YORK",
+    "title": "You Can See Everything",
+    "director": "N/A",
+    "year": "2026",
+    "link": "https://ticketing.uswest.veezi.com/purchase/7959?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
+    "showtimes": [
+      "7:00PM"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/you-can-see-everything/",
+    "genres": [
+      "documentary"
+    ],
+    "runtime_mins": 174,
+    "rating": 4.63,
+    "rating_count": 358892,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74"
+  },
+  {
+    "date": "2026-11-25",
+    "theater": "ROXY CINEMA NEW YORK",
+    "title": "Hannah and Her Sisters - 35MM",
+    "director": "N/A",
+    "year": "1986",
+    "link": "https://ticketing.uswest.veezi.com/purchase/7975?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
+    "showtimes": [
+      "6:15PM"
+    ],
+    "letterboxd_url": null,
+    "genres": [],
+    "runtime_mins": null,
+    "rating": null,
+    "rating_count": null,
+    "poster_url": null
+  },
+  {
     "date": "2026-11-25",
     "theater": "ROXY CINEMA NEW YORK",
     "title": "Mean Streets - 35MM",
@@ -3701,6 +3876,42 @@
     "link": "https://ticketing.uswest.veezi.com/purchase/7942?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
     "showtimes": [
       "7:00PM"
+    ],
+    "letterboxd_url": null,
+    "genres": [],
+    "runtime_mins": null,
+    "rating": null,
+    "rating_count": null,
+    "poster_url": null
+  },
+  {
+    "date": "2026-11-28",
+    "theater": "ROXY CINEMA NEW YORK",
+    "title": "You Can See Everything",
+    "director": "N/A",
+    "year": "2026",
+    "link": "https://ticketing.uswest.veezi.com/purchase/7960?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
+    "showtimes": [
+      "1:00PM"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/you-can-see-everything/",
+    "genres": [
+      "documentary"
+    ],
+    "runtime_mins": 174,
+    "rating": 4.63,
+    "rating_count": 358892,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74"
+  },
+  {
+    "date": "2026-11-28",
+    "theater": "ROXY CINEMA NEW YORK",
+    "title": "Hannah and Her Sisters - 35MM",
+    "director": "N/A",
+    "year": "1986",
+    "link": "https://ticketing.uswest.veezi.com/purchase/7976?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
+    "showtimes": [
+      "4:30PM"
     ],
     "letterboxd_url": null,
     "genres": [],
@@ -3759,5 +3970,41 @@
     "rating": null,
     "rating_count": null,
     "poster_url": null
+  },
+  {
+    "date": "2026-11-30",
+    "theater": "ROXY CINEMA NEW YORK",
+    "title": "The Scout + Q&A",
+    "director": "N/A",
+    "year": "2026",
+    "link": "https://ticketing.uswest.veezi.com/purchase/7982?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
+    "showtimes": [
+      "7:00PM"
+    ],
+    "letterboxd_url": null,
+    "genres": [],
+    "runtime_mins": null,
+    "rating": null,
+    "rating_count": null,
+    "poster_url": null
+  },
+  {
+    "date": "2026-12-03",
+    "theater": "ROXY CINEMA NEW YORK",
+    "title": "You Can See Everything",
+    "director": "N/A",
+    "year": "2026",
+    "link": "https://ticketing.uswest.veezi.com/purchase/7961?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
+    "showtimes": [
+      "6:00PM"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/you-can-see-everything/",
+    "genres": [
+      "documentary"
+    ],
+    "runtime_mins": 174,
+    "rating": 4.63,
+    "rating_count": 358892,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74"
   }
 ]
