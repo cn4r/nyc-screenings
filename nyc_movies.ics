@@ -2,124 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:The Aristocats @ METROGRAPH
-DTSTART:20261024T110000
-DTEND:20261024T130000
-DESCRIPTION:Dir: Wolfgang  Reitherman (1970)\nhttps://t.metrograph.com/Tic
- keting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31158
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31158
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Medea (1988) @ METROGRAPH
-DTSTART:20261024T111500
-DTEND:20261024T131500
-DESCRIPTION:Dir: Lars Von Trier (1988)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31159
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31159
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Flavor of Green Tea Over Rice @ METROGRAPH
-DTSTART:20261024T125000
-DTEND:20261024T145000
-DESCRIPTION:Dir: Yasujirô  Ozu (1952)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31161
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31161
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elisa\, My Life @ METROGRAPH
-DTSTART:20261024T130000
-DTEND:20261024T150000
-DESCRIPTION:Dir: Carlos  Saura (1977)\nhttps://t.metrograph.com/Ticketing/
- visSelectTickets.aspx?cinemacode=9999&txtSessionId=31160
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31160
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Peppermint Frappé @ METROGRAPH
-DTSTART:20261024T152000
-DTEND:20261024T172000
-DESCRIPTION:Dir: Carlos  Saura (1967)\nhttps://t.metrograph.com/Ticketing/
- visSelectTickets.aspx?cinemacode=9999&txtSessionId=31162
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31162
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Something Special (Willy/Milly) @ METROGRAPH
-DTSTART:20261024T153000
-DTEND:20261024T173000
-DESCRIPTION:Dir: Paul Schneider (1986)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31163
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31163
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACE Presents: Rosemary's Baby @ METROGRAPH
-DTSTART:20261024T173000
-DTEND:20261024T193000
-DESCRIPTION:Dir: Roman Polanski (1968)\nhttps://metrograph.com/film/999900
- 5053-ace-presents-rosemarys-baby/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/9999005053-ace-presents-rosemarys-baby/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virgina @ METROGRAPH
-DTSTART:20261024T180000
-DTEND:20261024T200000
-DESCRIPTION:Dir: Srđan Karanović (1991)\nhttps://t.metrograph.com/Ticket
- ing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31164
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31164
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tron @ METROGRAPH
-DTSTART:20261024T201500
-DTEND:20261024T221500
-DESCRIPTION:Dir: Stephen Lisberger (1982)\nhttps://t.metrograph.com/Ticket
- ing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31166
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31166
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Curse of Frankenstein @ METROGRAPH
-DTSTART:20261024T210000
-DTEND:20261024T230000
-DESCRIPTION:Dir: Terence Fisher (1957)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31167
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31167
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blade Runner: The Final Cut @ METROGRAPH
-DTSTART:20261024T221500
-DTEND:20261025T001500
-DESCRIPTION:Dir: Ridley Scott (1982)\nhttps://metrograph.com/film/99990007
- 18-blade-runner-the-final-cut/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/9999000718-blade-runner-the-final-cut/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tetsuo: The Iron Man @ METROGRAPH
-DTSTART:20261024T230000
-DTEND:20261025T010000
-DESCRIPTION:Dir: Shinya  Tsukamoto (1989)\nhttps://t.metrograph.com/Ticket
- ing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31169
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31169
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Art Cinema for Tots: How to Play a Film @ METROGRAPH
 DTSTART:20261025T110000
 DTEND:20261025T130000
@@ -561,16 +443,6 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31238
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Curse of Frankenstein @ METROGRAPH
-DTSTART:20261031T140000
-DTEND:20261031T160000
-DESCRIPTION:Dir: Terence Fisher (1957)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31184
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31184
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Beetlejuice @ METROGRAPH
 DTSTART:20261031T140000
 DTEND:20261031T160000
@@ -579,6 +451,16 @@ DESCRIPTION:Dir: Tim Burton (1988)\nhttps://t.metrograph.com/Ticketing/vis
 LOCATION:METROGRAPH
 URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31218
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Curse of Frankenstein @ METROGRAPH
+DTSTART:20261031T140000
+DTEND:20261031T160000
+DESCRIPTION:Dir: Terence Fisher (1957)\nhttps://t.metrograph.com/Ticketing
+ /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31184
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31184
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vera @ METROGRAPH
@@ -1302,44 +1184,526 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31307
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Freaked - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20261024T150000
-DTEND:20261024T170000
-DESCRIPTION:Dir: N/A (1993)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 929?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7929?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
+SUMMARY:The Killing of a Sacred Deer @ METROGRAPH
+DTSTART:20261113T143000
+DTEND:20261113T163000
+DESCRIPTION:Dir: Yorgos Lanthimos (2017)\nhttps://t.metrograph.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31335
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31335
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Guyver @ ROXY CINEMA NEW YORK
-DTSTART:20261024T170000
-DTEND:20261024T190000
-DESCRIPTION:Dir: N/A (1991)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 928?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7928?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
+SUMMARY:zi @ METROGRAPH
+DTSTART:20261113T144500
+DTEND:20261113T164500
+DESCRIPTION:Dir: Kogonada . (2026)\nhttps://t.metrograph.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=9999&txtSessionId=31334
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31334
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:No Picnic - New 4K Restoration + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20261024T190000
-DTEND:20261024T210000
-DESCRIPTION:Dir: N/A (1986)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 956?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7956?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
+SUMMARY:Je t'aime\, je t'aime @ METROGRAPH
+DTSTART:20261113T170000
+DTEND:20261113T190000
+DESCRIPTION:Dir: Alain Resnais (1968)\nhttps://t.metrograph.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=9999&txtSessionId=31340
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31340
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:City Dudes @ ROXY CINEMA NEW YORK
-DTSTART:20261024T213000
-DTEND:20261024T233000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://ticketing.uswest.veezi.com/purchase/79
- 69?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7969?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
+SUMMARY:Playback @ METROGRAPH
+DTSTART:20261113T190000
+DTEND:20261113T210000
+DESCRIPTION:Dir: Sho Miyake (2012)\nhttps://t.metrograph.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=9999&txtSessionId=31336
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31336
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crystal Voyager @ METROGRAPH
+DTSTART:20261113T212000
+DTEND:20261113T232000
+DESCRIPTION:Dir: David Elfick (1973)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=31337
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tenebrae @ METROGRAPH
+DTSTART:20261113T230000
+DTEND:20261114T010000
+DESCRIPTION:Dir: Dario Argento (1982)\nhttps://t.metrograph.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=9999&txtSessionId=31338
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31338
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drive @ METROGRAPH
+DTSTART:20261113T231500
+DTEND:20261114T011500
+DESCRIPTION:Dir: Nicolas  Winding Refn (2011)\nhttps://t.metrograph.com/Ti
+ cketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31339
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31339
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les rendez-vous d'Anna @ METROGRAPH
+DTSTART:20261114T122000
+DTEND:20261114T142000
+DESCRIPTION:Dir: Chantal  Akerman (1978)\nhttps://t.metrograph.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31341
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31341
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Souvenir @ METROGRAPH
+DTSTART:20261114T123500
+DTEND:20261114T143500
+DESCRIPTION:Dir: Joanna Hogg (2019)\nhttps://t.metrograph.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=9999&txtSessionId=31342
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31342
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shutter Island @ METROGRAPH
+DTSTART:20261114T150000
+DTEND:20261114T170000
+DESCRIPTION:Dir: Martin Scorsese (2010)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31343
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31343
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:And Your Bird Can Sing preceded by August 8th @ METROGRAPH
+DTSTART:20261114T151000
+DTEND:20261114T171000
+DESCRIPTION:Dir: Sho Miyake (2018)\nhttps://t.metrograph.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=9999&txtSessionId=31344
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31344
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All the Long Nights @ METROGRAPH
+DTSTART:20261114T174000
+DTEND:20261114T194000
+DESCRIPTION:Dir: Sho Miyake (2024)\nhttps://t.metrograph.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=9999&txtSessionId=31345
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31345
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slither @ METROGRAPH
+DTSTART:20261114T174500
+DTEND:20261114T194500
+DESCRIPTION:Dir: Howard Zieff (1973)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=31346
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31346
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The State of Things @ METROGRAPH
+DTSTART:20261114T200000
+DTEND:20261114T220000
+DESCRIPTION:Dir: Wim Wenders (1982)\nhttps://t.metrograph.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=9999&txtSessionId=31347
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31347
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Killing of a Sacred Deer @ METROGRAPH
+DTSTART:20261114T201000
+DTEND:20261114T221000
+DESCRIPTION:Dir: Yorgos Lanthimos (2017)\nhttps://t.metrograph.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31348
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31348
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lost Highway @ METROGRAPH
+DTSTART:20261114T223500
+DTEND:20261115T003500
+DESCRIPTION:Dir: David Lynch (1997)\nhttps://t.metrograph.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=9999&txtSessionId=31350
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31350
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brood @ METROGRAPH
+DTSTART:20261114T224500
+DTEND:20261115T004500
+DESCRIPTION:Dir: David Cronenberg (1979)\nhttps://t.metrograph.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31349
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31349
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:zi @ METROGRAPH
+DTSTART:20261115T110000
+DTEND:20261115T130000
+DESCRIPTION:Dir: Kogonada . (2026)\nhttps://t.metrograph.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=9999&txtSessionId=31351
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31351
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wallace & Gromit: The Classic Shorts @ METROGRAPH
+DTSTART:20261115T111500
+DTEND:20261115T131500
+DESCRIPTION:Dir: Nick  Park (1995)\nhttps://t.metrograph.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=9999&txtSessionId=31352
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31352
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Souvenir @ METROGRAPH
+DTSTART:20261115T131500
+DTEND:20261115T151500
+DESCRIPTION:Dir: Joanna Hogg (2019)\nhttps://t.metrograph.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=9999&txtSessionId=31354
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Somewhere in the Night @ METROGRAPH
+DTSTART:20261115T154000
+DTEND:20261115T174000
+DESCRIPTION:Dir: Joseph L.  Mankiewicz (1946)\nhttps://t.metrograph.com/Ti
+ cketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31355
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31355
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Woman on the Beach @ METROGRAPH
+DTSTART:20261115T180000
+DTEND:20261115T200000
+DESCRIPTION:Dir: Jean  Renoir (1947)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=31356
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31356
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Cockpit @ METROGRAPH
+DTSTART:20261115T181500
+DTEND:20261115T201500
+DESCRIPTION:Dir: Sho Miyake (2014)\nhttps://t.metrograph.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=9999&txtSessionId=31361
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31361
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Celebration @ METROGRAPH
+DTSTART:20261115T194000
+DTEND:20261115T214000
+DESCRIPTION:Dir: Thomas Vinterbergs (1998)\nhttps://t.metrograph.com/Ticke
+ ting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31357
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31357
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Detour @ METROGRAPH
+DTSTART:20261115T200000
+DTEND:20261115T220000
+DESCRIPTION:Dir: Edgar G. Ulmer (1945)\nhttps://t.metrograph.com/Ticketing
+ /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31360
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31360
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tenebrae @ METROGRAPH
+DTSTART:20261115T214500
+DTEND:20261115T234500
+DESCRIPTION:Dir: Dario Argento (1982)\nhttps://t.metrograph.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=9999&txtSessionId=31359
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31359
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drive @ METROGRAPH
+DTSTART:20261115T215000
+DTEND:20261115T235000
+DESCRIPTION:Dir: Nicolas  Winding Refn (2011)\nhttps://t.metrograph.com/Ti
+ cketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31358
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31358
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memento @ METROGRAPH
+DTSTART:20261120T151000
+DTEND:20261120T171000
+DESCRIPTION:Dir: Christopher Nolan (2000)\nhttps://t.metrograph.com/Ticket
+ ing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31365
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Killing of a Sacred Deer @ METROGRAPH
+DTSTART:20261120T154500
+DTEND:20261120T174500
+DESCRIPTION:Dir: Yorgos Lanthimos (2017)\nhttps://t.metrograph.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31366
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31366
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:That Day\, On The Beach @ METROGRAPH
+DTSTART:20261120T173000
+DTEND:20261120T193000
+DESCRIPTION:Dir: Edward Yang (1983)\nhttps://t.metrograph.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=9999&txtSessionId=31371
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31371
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tickets @ METROGRAPH
+DTSTART:20261120T181500
+DTEND:20261120T201500
+DESCRIPTION:Dir: Abbas Kiarostami\, Ken Loach\, Ermanno Olmi (2005)\nhttps
+ ://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSes
+ sionId=31372
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31372
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The State of Things @ METROGRAPH
+DTSTART:20261120T203500
+DTEND:20261120T223500
+DESCRIPTION:Dir: Wim Wenders (1982)\nhttps://t.metrograph.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=9999&txtSessionId=31367
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31367
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Come Back to the 5 & Dime\, Jimmy Dean\, Jimmy Dean @ METROGRAPH
+DTSTART:20261120T204500
+DTEND:20261120T224500
+DESCRIPTION:Dir: Robert Altman (1982)\nhttps://t.metrograph.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=9999&txtSessionId=31370
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31370
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drive @ METROGRAPH
+DTSTART:20261120T230000
+DTEND:20261121T010000
+DESCRIPTION:Dir: Nicolas  Winding Refn (2011)\nhttps://t.metrograph.com/Ti
+ cketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31368
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31368
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Suspiria [4K DCP] @ METROGRAPH
+DTSTART:20261120T230000
+DTEND:20261121T010000
+DESCRIPTION:Dir: Dario Argento (1977)\nhttps://t.metrograph.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=9999&txtSessionId=31369
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31369
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:That Day\, On The Beach @ METROGRAPH
+DTSTART:20261121T120000
+DTEND:20261121T140000
+DESCRIPTION:Dir: Edward Yang (1983)\nhttps://t.metrograph.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=9999&txtSessionId=31373
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31373
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gunvor Nelson Program 1 @ METROGRAPH
+DTSTART:20261121T151500
+DTEND:20261121T171500
+DESCRIPTION:Dir: Gunvor Nelson (1973)\nhttps://t.metrograph.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=9999&txtSessionId=31382
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31382
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACE Presents: Ghost World @ METROGRAPH
+DTSTART:20261121T171000
+DTEND:20261121T191000
+DESCRIPTION:Dir: Terry  Zwigoff (2001)\nhttps://t.metrograph.com/Ticketing
+ /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31381
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31381
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Secrets and Lies @ METROGRAPH
+DTSTART:20261121T171500
+DTEND:20261121T191500
+DESCRIPTION:Dir: Mike  Leigh (1996)\nhttps://t.metrograph.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=9999&txtSessionId=31376
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Come Back to the 5 & Dime\, Jimmy Dean\, Jimmy Dean @ METROGRAPH
+DTSTART:20261121T200000
+DTEND:20261121T220000
+DESCRIPTION:Dir: Robert Altman (1982)\nhttps://t.metrograph.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=9999&txtSessionId=31380
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31380
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Ascent @ METROGRAPH
+DTSTART:20261121T200000
+DTEND:20261121T220000
+DESCRIPTION:Dir: Larisa  Shepitko (1977)\nhttps://t.metrograph.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31377
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31377
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Clockwork Orange @ METROGRAPH
+DTSTART:20261121T222000
+DTEND:20261122T002000
+DESCRIPTION:Dir: Stanley Kubrick (1971)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31379
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31379
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wallace & Gromit: The Classic Shorts @ METROGRAPH
+DTSTART:20261122T111500
+DTEND:20261122T131500
+DESCRIPTION:Dir: Nick  Park (1995)\nhttps://t.metrograph.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=9999&txtSessionId=31383
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Rescuers @ METROGRAPH
+DTSTART:20261122T111500
+DTEND:20261122T131500
+DESCRIPTION:Dir: Wolfgang  Reitherman\, Art Stevens (1977)\nhttps://t.metr
+ ograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31
+ 384
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Come Back to the 5 & Dime\, Jimmy Dean\, Jimmy Dean @ METROGRAPH
+DTSTART:20261122T130000
+DTEND:20261122T150000
+DESCRIPTION:Dir: Robert Altman (1982)\nhttps://t.metrograph.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=9999&txtSessionId=31388
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31388
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gunvor Nelson Program 2 @ METROGRAPH
+DTSTART:20261122T131500
+DTEND:20261122T151500
+DESCRIPTION:Dir: Gunvor Nelson (1993)\nhttps://t.metrograph.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=9999&txtSessionId=31385
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31385
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gunvor Nelson Program 3 @ METROGRAPH
+DTSTART:20261122T151500
+DTEND:20261122T171500
+DESCRIPTION:Dir: Gunvor Nelson (1990)\nhttps://t.metrograph.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=9999&txtSessionId=31386
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31386
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:That Day\, On The Beach @ METROGRAPH
+DTSTART:20261122T152000
+DTEND:20261122T172000
+DESCRIPTION:Dir: Edward Yang (1983)\nhttps://t.metrograph.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=9999&txtSessionId=31387
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emperor of the North @ METROGRAPH
+DTSTART:20261122T171000
+DTEND:20261122T191000
+DESCRIPTION:Dir: Robert Aldrich (1973)\nhttps://t.metrograph.com/Ticketing
+ /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31393
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31393
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memento @ METROGRAPH
+DTSTART:20261122T183500
+DTEND:20261122T203500
+DESCRIPTION:Dir: Christopher Nolan (2000)\nhttps://t.metrograph.com/Ticket
+ ing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31389
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31389
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Clockwork Orange @ METROGRAPH
+DTSTART:20261122T210000
+DTEND:20261122T230000
+DESCRIPTION:Dir: Stanley Kubrick (1971)\nhttps://t.metrograph.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31390
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31390
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Somewhere in the Night @ METROGRAPH
+DTSTART:20261122T213500
+DTEND:20261122T233500
+DESCRIPTION:Dir: Joseph L.  Mankiewicz (1946)\nhttps://t.metrograph.com/Ti
+ cketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31391
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31391
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chronovisor @ ROXY CINEMA NEW YORK
@@ -2012,23 +2376,23 @@ URL:https://ticketing.uswest.veezi.com/purchase/7944?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:You Can See Everything @ ROXY CINEMA NEW YORK
+SUMMARY:Hannah and Her Sisters - 35MM @ ROXY CINEMA NEW YORK
 DTSTART:20261124T190000
 DTEND:20261124T210000
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 959?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+DESCRIPTION:Dir: N/A (1986)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 983?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7959?siteToken=tt17e5ajy3v
+URL:https://ticketing.uswest.veezi.com/purchase/7983?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hannah and Her Sisters - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20261125T181500
-DTEND:20261125T201500
-DESCRIPTION:Dir: N/A (1986)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 975?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+SUMMARY:You Can See Everything @ ROXY CINEMA NEW YORK
+DTSTART:20261125T183000
+DTEND:20261125T203000
+DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 985?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7975?siteToken=tt17e5ajy3v
+URL:https://ticketing.uswest.veezi.com/purchase/7985?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
