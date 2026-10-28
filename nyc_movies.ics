@@ -2,88 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:The Addams Family @ METROGRAPH
-DTSTART:20261027T155000
-DTEND:20261027T175000
-DESCRIPTION:Dir: Barry Sonnenfeld (1991)\nhttps://t.metrograph.com/Ticketi
- ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31265
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31265
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shchors @ METROGRAPH
-DTSTART:20261027T160000
-DTEND:20261027T180000
-DESCRIPTION:Dir: Oleksandr Dovzhenko\, Yulia Solntseva (1939)\nhttps://t.m
- etrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId
- =31266
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31266
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reality Bites @ METROGRAPH
-DTSTART:20261027T180000
-DTEND:20261027T200000
-DESCRIPTION:Dir: Ben Stiller (1994)\nhttps://t.metrograph.com/Ticketing/vi
- sSelectTickets.aspx?cinemacode=9999&txtSessionId=31267
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31267
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bread Day preceded by The Train Stop @ METROGRAPH
-DTSTART:20261027T184000
-DTEND:20261027T204000
-DESCRIPTION:Dir: Sergei Loznitsa\, Sergei Dvortsevoy (1998)\nhttps://t.met
- rograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=3
- 1272
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31272
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Taking of Pelham One Two Three @ METROGRAPH
-DTSTART:20261027T201000
-DTEND:20261027T221000
-DESCRIPTION:Dir: Joseph Sargent (1974)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31268
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31268
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virgina @ METROGRAPH
-DTSTART:20261027T202500
-DTEND:20261027T222500
-DESCRIPTION:Dir: Srđan Karanović (1991)\nhttps://t.metrograph.com/Ticket
- ing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31271
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31271
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chungking Express @ METROGRAPH
-DTSTART:20261027T222000
-DTEND:20261028T002000
-DESCRIPTION:Dir: Wong Kar-wai (1994)\nhttps://t.metrograph.com/Ticketing/v
- isSelectTickets.aspx?cinemacode=9999&txtSessionId=31269
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31269
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghost in the Shell: 30th Anniversary Remaster @ METROGRAPH
-DTSTART:20261027T223000
-DTEND:20261028T003000
-DESCRIPTION:Dir: Mamoru  Oshii (1995)\nhttps://t.metrograph.com/Ticketing/
- visSelectTickets.aspx?cinemacode=9999&txtSessionId=31270
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31270
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2046 @ METROGRAPH
 DTSTART:20261029T161500
 DTEND:20261029T181500
@@ -92,6 +10,16 @@ DESCRIPTION:Dir: Wong Kar-wai (2004)\nhttps://t.metrograph.com/Ticketing/v
 LOCATION:METROGRAPH
 URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31274
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Beach @ METROGRAPH
+DTSTART:20261029T162000
+DTEND:20261029T182000
+DESCRIPTION:Dir: Danny Boyle (2000)\nhttps://t.metrograph.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=9999&txtSessionId=31275
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31275
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Age of Innocence @ METROGRAPH
@@ -457,11 +385,10 @@ BEGIN:VEVENT
 SUMMARY:Autumn Sonata @ METROGRAPH
 DTSTART:20261101T214500
 DTEND:20261101T234500
-DESCRIPTION:Dir: Ingmar Bergman (1978)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31232
+DESCRIPTION:Dir: Ingmar Bergman (1978)\nhttps://metrograph.com/film/999900
+ 5045-autumn-sonata/
 LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31232
+URL:https://metrograph.com/film/9999005045-autumn-sonata/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Midnight in Paris @ METROGRAPH
@@ -847,8 +774,8 @@ BEGIN:VEVENT
 SUMMARY:Asako I & II @ METROGRAPH
 DTSTART:20261107T201000
 DTEND:20261107T221000
-DESCRIPTION:Dir: Ryûsuke  Hamaguchi (2019)\nhttps://t.metrograph.com/Tick
- eting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31294
+DESCRIPTION:Dir: Ryusuke Hamaguchi (2019)\nhttps://t.metrograph.com/Ticket
+ ing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31294
 LOCATION:METROGRAPH
 URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31294
@@ -1027,8 +954,8 @@ BEGIN:VEVENT
 SUMMARY:Members Only Preview: All of a Sudden @ METROGRAPH
 DTSTART:20261113T170000
 DTEND:20261113T190000
-DESCRIPTION:Dir: Ryûsuke  Hamaguchi (2026)\nhttps://metrograph.com/film/9
- 999005080-members-only-preview-all-of-a-sudden/
+DESCRIPTION:Dir: Ryusuke Hamaguchi (2026)\nhttps://metrograph.com/film/999
+ 9005080-members-only-preview-all-of-a-sudden/
 LOCATION:METROGRAPH
 URL:https://metrograph.com/film/9999005080-members-only-preview-all-of-a-s
  udden/
@@ -1204,6 +1131,16 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31352
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Benedetta @ METROGRAPH
+DTSTART:20261115T131000
+DTEND:20261115T151000
+DESCRIPTION:Dir: Paul Verhoeven (2021)\nhttps://t.metrograph.com/Ticketing
+ /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31353
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31353
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Souvenir @ METROGRAPH
 DTSTART:20261115T131500
 DTEND:20261115T151500
@@ -1214,16 +1151,6 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31354
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Benedetta @ METROGRAPH
-DTSTART:20261115T131500
-DTEND:20261115T151500
-DESCRIPTION:Dir: Paul Verhoeven (2021)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31353
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31353
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Somewhere in the Night @ METROGRAPH
 DTSTART:20261115T154000
 DTEND:20261115T174000
@@ -1232,6 +1159,16 @@ DESCRIPTION:Dir: Joseph L.  Mankiewicz (1946)\nhttps://t.metrograph.com/Ti
 LOCATION:METROGRAPH
 URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31355
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lorraine O'Grady: Rivers\, First Draft Performance @ METROGRAPH
+DTSTART:20261115T154500
+DTEND:20261115T174500
+DESCRIPTION:Dir: Lorraine O'Grady\, Zawe Ashton (1982)\nhttps://t.metrogra
+ ph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31362
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31362
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Woman on the Beach @ METROGRAPH
@@ -1584,27 +1521,6 @@ DESCRIPTION:Dir: Joseph L.  Mankiewicz (1946)\nhttps://t.metrograph.com/Ti
 LOCATION:METROGRAPH
 URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31391
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leila and the Wolves @ ROXY CINEMA NEW YORK
-DTSTART:20261027T190000
-DTEND:20261027T210000
-DESCRIPTION:Dir: N/A (1984)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 885?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7885?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Nightmare on Elm Street 4: The Dream Master - 35MM @ ROXY CINEMA
-  NEW YORK
-DTSTART:20261027T213000
-DTEND:20261027T233000
-DESCRIPTION:Dir: N/A (1988)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 919?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7919?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ganja & Hess @ ROXY CINEMA NEW YORK
@@ -2214,16 +2130,6 @@ URL:https://ticketing.uswest.veezi.com/purchase/7944?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hannah and Her Sisters - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20261124T190000
-DTEND:20261124T210000
-DESCRIPTION:Dir: N/A (1986)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 983?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7983?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mean Streets - 35MM @ ROXY CINEMA NEW YORK
 DTSTART:20261124T211500
 DTEND:20261124T231500
@@ -2275,16 +2181,6 @@ URL:https://ticketing.uswest.veezi.com/purchase/7942?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crocodile Dose @ ROXY CINEMA NEW YORK
-DTSTART:20261127T213000
-DTEND:20261127T233000
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 988?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7988?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:You Can See Everything @ ROXY CINEMA NEW YORK
 DTSTART:20261128T130000
 DTEND:20261128T150000
@@ -2302,6 +2198,16 @@ DESCRIPTION:Dir: N/A (1986)\nhttps://ticketing.uswest.veezi.com/purchase/7
  976?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7976?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jump Scare @ ROXY CINEMA NEW YORK
+DTSTART:20261128T213000
+DTEND:20261128T233000
+DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 990?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7990?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
@@ -2362,6 +2268,26 @@ DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
  961?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7961?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Our Hero\, Balthazar + Q&A @ ROXY CINEMA NEW YORK
+DTSTART:20261204T190000
+DTEND:20261204T210000
+DESCRIPTION:Dir: N/A (2025)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 994?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7994?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:67 Bombs to Enid + Q&A @ ROXY CINEMA NEW YORK
+DTSTART:20261205T143000
+DTEND:20261205T163000
+DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 993?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7993?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 END:VCALENDAR
