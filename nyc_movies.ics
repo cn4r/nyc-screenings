@@ -1523,27 +1523,6 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31391
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ganja & Hess @ ROXY CINEMA NEW YORK
-DTSTART:20261028T190000
-DTEND:20261028T210000
-DESCRIPTION:Dir: N/A (1973)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 886?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7886?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Nightmare on Elm Street 4: The Dream Master - 35MM @ ROXY CINEMA
-  NEW YORK
-DTSTART:20261028T213000
-DTEND:20261028T233000
-DESCRIPTION:Dir: N/A (1988)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 920?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7920?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Suspiria @ ROXY CINEMA NEW YORK
 DTSTART:20261029T163000
 DTEND:20261029T183000
@@ -2198,6 +2177,17 @@ DESCRIPTION:Dir: N/A (1986)\nhttps://ticketing.uswest.veezi.com/purchase/7
  976?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7976?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Another Day in Paradise - 35MM with Larry Clark @ ROXY CINEMA NEW 
+ YORK
+DTSTART:20261128T184500
+DTEND:20261128T204500
+DESCRIPTION:Dir: N/A (1998)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 980?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7980?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
