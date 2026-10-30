@@ -1,128 +1,5 @@
 [
   {
-    "date": "2026-10-29",
-    "theater": "METROGRAPH",
-    "title": "2046",
-    "director": "Wong Kar-wai",
-    "year": "2004",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31274",
-    "showtimes": [
-      "4:15pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/2046/",
-    "genres": [
-      "drama",
-      "romance",
-      "science-fiction"
-    ],
-    "runtime_mins": 128,
-    "rating": 4.05,
-    "rating_count": 156335,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/3/0/8/51308-2046-0-600-0-900-crop.jpg?v=52246d30bc"
-  },
-  {
-    "date": "2026-10-29",
-    "theater": "METROGRAPH",
-    "title": "The Beach",
-    "director": "Danny Boyle",
-    "year": "2000",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31275",
-    "showtimes": [
-      "4:20pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/the-beach/",
-    "genres": [
-      "adventure",
-      "drama",
-      "romance",
-      "thriller"
-    ],
-    "runtime_mins": 119,
-    "rating": 3.22,
-    "rating_count": 247814,
-    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/6z/mc/fc/co/2FBMTpxVgsAQOFQRMDUkGRsfREC-0-600-0-900-crop.jpg?v=f05b133c0d"
-  },
-  {
-    "date": "2026-10-29",
-    "theater": "METROGRAPH",
-    "title": "The Age of Innocence",
-    "director": "Martin Scorsese",
-    "year": "1993",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31276",
-    "showtimes": [
-      "6:50pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/the-age-of-innocence/",
-    "genres": [
-      "drama",
-      "romance"
-    ],
-    "runtime_mins": 138,
-    "rating": 3.81,
-    "rating_count": 161097,
-    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/ya/m4/xj/mi/36euuWA31TtH5E8TRZJRvdZ9pP-0-600-0-900-crop.jpg?v=fad43e88d7"
-  },
-  {
-    "date": "2026-10-29",
-    "theater": "METROGRAPH",
-    "title": "Virgina",
-    "director": "Srđan Karanović",
-    "year": "1991",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31279",
-    "showtimes": [
-      "7:00pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/virgina/",
-    "genres": [
-      "drama"
-    ],
-    "runtime_mins": 101,
-    "rating": 3.59,
-    "rating_count": 446,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/9/2/3/8/119238-virgina-0-600-0-900-crop.jpg?v=d59812ef4c"
-  },
-  {
-    "date": "2026-10-29",
-    "theater": "METROGRAPH",
-    "title": "The Wailing",
-    "director": "Na  Hong-jin",
-    "year": "2016",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31278",
-    "showtimes": [
-      "9:15pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/the-wailing/",
-    "genres": [
-      "horror",
-      "mystery"
-    ],
-    "runtime_mins": 156,
-    "rating": 3.98,
-    "rating_count": 345272,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/2/0/5/5/6/220556-the-wailing-0-600-0-900-crop.jpg?v=4c008fcbc3"
-  },
-  {
-    "date": "2026-10-29",
-    "theater": "METROGRAPH",
-    "title": "Rosemary's Baby",
-    "director": "Roman Polanski",
-    "year": "1968",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31277",
-    "showtimes": [
-      "9:40pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/rosemarys-baby/",
-    "genres": [
-      "drama",
-      "horror",
-      "thriller"
-    ],
-    "runtime_mins": 138,
-    "rating": 4.21,
-    "rating_count": 642174,
-    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/ea/vc/su/y2/fdLOXB8AysEGRL44I1RvoKiWDcW-0-600-0-900-crop.jpg?v=8e18e4f70c"
-  },
-  {
     "date": "2026-10-30",
     "theater": "METROGRAPH",
     "title": "An Autumn Afternoon",
@@ -138,7 +15,7 @@
     ],
     "runtime_mins": 113,
     "rating": 4.21,
-    "rating_count": 36986,
+    "rating_count": 37000,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/9/6/0/14960-an-autumn-afternoon-0-600-0-900-crop.jpg?v=5485638abd"
   },
   {
@@ -159,7 +36,7 @@
     ],
     "runtime_mins": 105,
     "rating": 3.91,
-    "rating_count": 1889639,
+    "rating_count": 1891420,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/8/8/9/51889-edward-scissorhands-0-600-0-900-crop.jpg?v=38f2599419"
   },
   {
@@ -179,7 +56,7 @@
     ],
     "runtime_mins": 90,
     "rating": 3.67,
-    "rating_count": 5581,
+    "rating_count": 5582,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/5/3/4/1/85341-peppermint-frappe-0-600-0-900-crop.jpg?v=5d04e48ad7"
   },
   {
@@ -199,7 +76,7 @@
     ],
     "runtime_mins": 93,
     "rating": 3.89,
-    "rating_count": 514746,
+    "rating_count": 514880,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/vx/bi/ni/1k/921qm0FJwDvi6ptaxNCp7xvqNGA-0-600-0-900-crop.jpg?v=e356b53de6"
   },
   {
@@ -218,7 +95,7 @@
     ],
     "runtime_mins": 100,
     "rating": 4.19,
-    "rating_count": 50060,
+    "rating_count": 50073,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/f1/gs/in/tp/3L5sW2hGHQmNfVBdOsonSfGzSrN-0-600-0-900-crop.jpg?v=ba95db379a"
   },
   {
@@ -237,7 +114,7 @@
     ],
     "runtime_mins": 105,
     "rating": 4.2,
-    "rating_count": 34917,
+    "rating_count": 34951,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/9/9/1/13991-cria--0-600-0-900-crop.jpg?v=e040a4f888"
   },
   {
@@ -257,7 +134,7 @@
     ],
     "runtime_mins": 99,
     "rating": 3.46,
-    "rating_count": 45852,
+    "rating_count": 45875,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/4/9/0/45490-the-trouble-with-harry-0-600-0-900-crop.jpg?v=1ee0331c29"
   },
   {
@@ -276,7 +153,7 @@
     ],
     "runtime_mins": 89,
     "rating": 4.1,
-    "rating_count": 36841,
+    "rating_count": 36851,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/3/3/8/2/73382-news-from-home-0-600-0-900-crop.jpg?v=ba20a839c0"
   },
   {
@@ -296,7 +173,7 @@
     ],
     "runtime_mins": 128,
     "rating": 3.74,
-    "rating_count": 606356,
+    "rating_count": 607099,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/4/5/4/48454-bram-stoker-s-dracula-0-600-0-900-crop.jpg?v=18a4a777e2"
   },
   {
@@ -305,7 +182,7 @@
     "title": "Blade Runner: The Final Cut",
     "director": "Ridley Scott",
     "year": "1982",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31216",
+    "link": "https://metrograph.com/film/9999000718-blade-runner-the-final-cut/",
     "showtimes": [
       "10:45pm"
     ],
@@ -317,7 +194,7 @@
     ],
     "runtime_mins": 118,
     "rating": 4.09,
-    "rating_count": 1572182,
+    "rating_count": 1572932,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/85/io/38/dz/vfzE3pjE5G7G7kcZWrA3fnbZo7V-0-600-0-900-crop.jpg?v=0d5de70f0d"
   },
   {
@@ -326,7 +203,7 @@
     "title": "Edward Scissorhands",
     "director": "Tim Burton",
     "year": "1990",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31217",
+    "link": "https://metrograph.com/film/9999001213-edward-scissorhands/",
     "showtimes": [
       "11:45am"
     ],
@@ -338,7 +215,7 @@
     ],
     "runtime_mins": 105,
     "rating": 3.91,
-    "rating_count": 1889639,
+    "rating_count": 1891420,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/8/8/9/51889-edward-scissorhands-0-600-0-900-crop.jpg?v=38f2599419"
   },
   {
@@ -375,7 +252,7 @@
     ],
     "runtime_mins": 92,
     "rating": 3.73,
-    "rating_count": 1652832,
+    "rating_count": 1654361,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/rs/wk/3i/nt/gWnW7vxm8yr01TVLQhL4aI02orp-0-600-0-900-crop.jpg?v=f8250fbc59"
   },
   {
@@ -384,7 +261,7 @@
     "title": "The Curse of Frankenstein",
     "director": "Terence Fisher",
     "year": "1957",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31184",
+    "link": "https://metrograph.com/film/9999005054-the-curse-of-frankenstein/",
     "showtimes": [
       "2:00pm"
     ],
@@ -395,7 +272,7 @@
     ],
     "runtime_mins": 83,
     "rating": 3.51,
-    "rating_count": 30787,
+    "rating_count": 30834,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/8/9/2/49892-the-curse-of-frankenstein-0-600-0-900-crop.jpg?v=dca5d21ab0"
   },
   {
@@ -433,7 +310,7 @@
     ],
     "runtime_mins": 82,
     "rating": 3.59,
-    "rating_count": 64026,
+    "rating_count": 64159,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/4/9/3/5/44935-dracula-0-600-0-900-crop.jpg?v=ce1ddf1b0a"
   },
   {
@@ -453,7 +330,7 @@
     ],
     "runtime_mins": 99,
     "rating": 3.46,
-    "rating_count": 45852,
+    "rating_count": 45875,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/4/9/0/45490-the-trouble-with-harry-0-600-0-900-crop.jpg?v=1ee0331c29"
   },
   {
@@ -472,7 +349,7 @@
     ],
     "runtime_mins": 82,
     "rating": 3.34,
-    "rating_count": 15869,
+    "rating_count": 15908,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/6q/vr/gh/8g/zO3v1I1CEGVoerS1nD0wTMULr6d-0-600-0-900-crop.jpg?v=ebf0a9ce3e"
   },
   {
@@ -493,7 +370,7 @@
     ],
     "runtime_mins": 145,
     "rating": 3.79,
-    "rating_count": 596613,
+    "rating_count": 596869,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/1o/qh/5e/ur/dS5AHLt4DhZpisxryIxKJU6Urxb-0-600-0-900-crop.jpg?v=921863cb0d"
   },
   {
@@ -502,7 +379,7 @@
     "title": "Bram Stoker's Dracula",
     "director": "Francis Ford  Coppola",
     "year": "1992",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31219",
+    "link": "https://metrograph.com/film/9999001199-bram-stokers-dracula/",
     "showtimes": [
       "7:45pm"
     ],
@@ -513,7 +390,7 @@
     ],
     "runtime_mins": 128,
     "rating": 3.74,
-    "rating_count": 606356,
+    "rating_count": 607099,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/4/5/4/48454-bram-stoker-s-dracula-0-600-0-900-crop.jpg?v=18a4a777e2"
   },
   {
@@ -534,7 +411,7 @@
     ],
     "runtime_mins": 138,
     "rating": 4.21,
-    "rating_count": 642174,
+    "rating_count": 643027,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/ea/vc/su/y2/fdLOXB8AysEGRL44I1RvoKiWDcW-0-600-0-900-crop.jpg?v=8e18e4f70c"
   },
   {
@@ -555,7 +432,7 @@
     ],
     "runtime_mins": 118,
     "rating": 4.09,
-    "rating_count": 1572182,
+    "rating_count": 1572932,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/85/io/38/dz/vfzE3pjE5G7G7kcZWrA3fnbZo7V-0-600-0-900-crop.jpg?v=0d5de70f0d"
   },
   {
@@ -592,7 +469,7 @@
     ],
     "runtime_mins": 100,
     "rating": 3.79,
-    "rating_count": 625227,
+    "rating_count": 625944,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/0/1/7/50017-the-addams-family-0-600-0-900-crop.jpg?v=3dd26b5545"
   },
   {
@@ -612,7 +489,7 @@
     ],
     "runtime_mins": 89,
     "rating": 4.07,
-    "rating_count": 64091,
+    "rating_count": 64115,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/1/8/3/2/21832-all-that-heaven-allows-0-600-0-900-crop.jpg?v=c9f47eb1f2"
   },
   {
@@ -621,7 +498,7 @@
     "title": "Sans Soleil",
     "director": "Chris Marker",
     "year": "1983",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31235",
+    "link": "https://metrograph.com/film/9999003788-sans-soleil/",
     "showtimes": [
       "1:45pm"
     ],
@@ -631,7 +508,7 @@
     ],
     "runtime_mins": 100,
     "rating": 4.19,
-    "rating_count": 50060,
+    "rating_count": 50073,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/f1/gs/in/tp/3L5sW2hGHQmNfVBdOsonSfGzSrN-0-600-0-900-crop.jpg?v=ba95db379a"
   },
   {
@@ -651,7 +528,7 @@
     ],
     "runtime_mins": 107,
     "rating": 3.84,
-    "rating_count": 55973,
+    "rating_count": 56001,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/9/6/6/45966-far-from-heaven-0-600-0-900-crop.jpg?v=8196c7e0b8"
   },
   {
@@ -671,7 +548,7 @@
     ],
     "runtime_mins": 83,
     "rating": 3.22,
-    "rating_count": 10455,
+    "rating_count": 10461,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/3/4/7/5/33475-the-gorgon-0-600-0-900-crop.jpg?v=b3fde28418"
   },
   {
@@ -709,7 +586,7 @@
     ],
     "runtime_mins": 87,
     "rating": 3.47,
-    "rating_count": 20510,
+    "rating_count": 20523,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/0/0/5/45005-the-hound-of-the-baskervilles-0-600-0-900-crop.jpg?v=7d961fe0cc"
   },
   {
@@ -746,7 +623,7 @@
     ],
     "runtime_mins": 93,
     "rating": 3.89,
-    "rating_count": 514746,
+    "rating_count": 514880,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/vx/bi/ni/1k/921qm0FJwDvi6ptaxNCp7xvqNGA-0-600-0-900-crop.jpg?v=e356b53de6"
   },
   {
@@ -765,7 +642,7 @@
     ],
     "runtime_mins": 93,
     "rating": 4.5,
-    "rating_count": 168946,
+    "rating_count": 169104,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/dr/d3/nw/gv/m4I32itPMlRWqWJamFAwFDbrBXp-0-600-0-900-crop.jpg?v=45433653ca"
   },
   {
@@ -786,7 +663,7 @@
     ],
     "runtime_mins": 94,
     "rating": 3.71,
-    "rating_count": 914217,
+    "rating_count": 914554,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/1e/0j/vs/s6/xxSopLYATHXSepXcEaBh9Gazv6p-0-600-0-900-crop.jpg?v=6073ba801b"
   },
   {
@@ -807,7 +684,7 @@
     ],
     "runtime_mins": 102,
     "rating": 3.85,
-    "rating_count": 65903,
+    "rating_count": 65918,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/4q/mz/oh/f1/parallax%20view-0-600-0-900-crop.jpg?v=d3b9a6c658"
   },
   {
@@ -826,7 +703,7 @@
     ],
     "runtime_mins": 102,
     "rating": 3.44,
-    "rating_count": 441,
+    "rating_count": 439,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/7/0/6/0/117060-ivan-0-600-0-900-crop.jpg?v=a4d4e5d461"
   },
   {
@@ -867,7 +744,7 @@
     ],
     "runtime_mins": 169,
     "rating": 4.16,
-    "rating_count": 13369,
+    "rating_count": 13378,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/7/8/3/0/37830-ulysses-gaze-0-600-0-900-crop.jpg?v=b601866302"
   },
   {
@@ -887,7 +764,7 @@
     ],
     "runtime_mins": 102,
     "rating": 3.52,
-    "rating_count": 1093,
+    "rating_count": 1095,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/9/1/9/0/5/191905-honeycomb-0-600-0-900-crop.jpg?v=aeb49d5785"
   },
   {
@@ -908,7 +785,7 @@
     ],
     "runtime_mins": 98,
     "rating": 3.46,
-    "rating_count": 119455,
+    "rating_count": 119532,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/0/8/8/50088-reality-bites-0-600-0-900-crop.jpg?v=21c60fefd4"
   },
   {
@@ -944,7 +821,7 @@
     ],
     "runtime_mins": 174,
     "rating": 4.53,
-    "rating_count": 207283,
+    "rating_count": 207401,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/7s/h0/6e/0f/hhsYCYVPy1V0eTjkGNGdvpDO2qk-0-600-0-900-crop.jpg?v=f8d5b0fe80"
   },
   {
@@ -963,7 +840,7 @@
     ],
     "runtime_mins": 127,
     "rating": 3.97,
-    "rating_count": 1627013,
+    "rating_count": 1627862,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/1x/ad/d5/5d/vp46lgVDiFdT4Hw5WIISOPwnMaH-0-600-0-900-crop.jpg?v=d07803f1c3"
   },
   {
@@ -982,7 +859,7 @@
     ],
     "runtime_mins": 95,
     "rating": 3.64,
-    "rating_count": 655,
+    "rating_count": 656,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/8/1/3/7/7/181377-poem-of-the-sea-0-600-0-900-crop.jpg?v=0fcf70aee1"
   },
   {
@@ -1003,7 +880,7 @@
     ],
     "runtime_mins": 77,
     "rating": 3.74,
-    "rating_count": 970,
+    "rating_count": 969,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/0/8/7/6/9/208769-the-enchanted-desna-0-600-0-900-crop.jpg?v=99cb32b584"
   },
   {
@@ -1023,7 +900,7 @@
     ],
     "runtime_mins": 124,
     "rating": 4.09,
-    "rating_count": 855807,
+    "rating_count": 856098,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/8r/4k/tl/rx/mlOGVofLSyFAoVYcjVS2WRVvQjr-0-600-0-900-crop.jpg?v=ffceabaa03"
   },
   {
@@ -1044,7 +921,7 @@
     ],
     "runtime_mins": 119,
     "rating": 3.93,
-    "rating_count": 66259,
+    "rating_count": 66289,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/m3/ho/e6/pk/a-bittersweet-life-0-600-0-900-crop.jpg?v=3e0e43f3db"
   },
   {
@@ -1064,7 +941,7 @@
     ],
     "runtime_mins": 118,
     "rating": 3.87,
-    "rating_count": 108695,
+    "rating_count": 108729,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/3/3/0/6/2/833062-all-we-imagine-as-light-0-600-0-900-crop.jpg?v=7cd94c55ea"
   },
   {
@@ -1085,7 +962,7 @@
     ],
     "runtime_mins": 94,
     "rating": 3.71,
-    "rating_count": 914217,
+    "rating_count": 914554,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/1e/0j/vs/s6/xxSopLYATHXSepXcEaBh9Gazv6p-0-600-0-900-crop.jpg?v=6073ba801b"
   },
   {
@@ -1105,7 +982,7 @@
     ],
     "runtime_mins": 89,
     "rating": 4.07,
-    "rating_count": 64091,
+    "rating_count": 64115,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/1/8/3/2/21832-all-that-heaven-allows-0-600-0-900-crop.jpg?v=c9f47eb1f2"
   },
   {
@@ -1126,7 +1003,7 @@
     ],
     "runtime_mins": 101,
     "rating": 4.07,
-    "rating_count": 192433,
+    "rating_count": 192555,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/3/0/7/51307-strangers-on-a-train-0-600-0-900-crop.jpg?v=2d81dafc02"
   },
   {
@@ -1146,7 +1023,7 @@
     ],
     "runtime_mins": 74,
     "rating": 3.8,
-    "rating_count": 3674,
+    "rating_count": 3676,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/8/5/9/3/18593-electra-my-love-0-600-0-900-crop.jpg?v=d094ad6886"
   },
   {
@@ -1167,7 +1044,7 @@
     ],
     "runtime_mins": 120,
     "rating": 4.36,
-    "rating_count": 1761822,
+    "rating_count": 1762918,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/4/5/4/51454-oldboy-0-600-0-900-crop.jpg?v=294dbcadef"
   },
   {
@@ -1204,7 +1081,7 @@
     ],
     "runtime_mins": 128,
     "rating": 3.74,
-    "rating_count": 606356,
+    "rating_count": 607099,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/4/5/4/48454-bram-stoker-s-dracula-0-600-0-900-crop.jpg?v=18a4a777e2"
   },
   {
@@ -1223,7 +1100,7 @@
     ],
     "runtime_mins": 89,
     "rating": 4.1,
-    "rating_count": 36841,
+    "rating_count": 36851,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/3/3/8/2/73382-news-from-home-0-600-0-900-crop.jpg?v=ba20a839c0"
   },
   {
@@ -1246,7 +1123,7 @@
     ],
     "runtime_mins": 111,
     "rating": 3.81,
-    "rating_count": 74443,
+    "rating_count": 74550,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/4/8/4/49484-spellbound-0-600-0-900-crop.jpg?v=4832105dee"
   },
   {
@@ -1266,7 +1143,7 @@
     ],
     "runtime_mins": 107,
     "rating": 3.84,
-    "rating_count": 55973,
+    "rating_count": 56001,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/9/6/6/45966-far-from-heaven-0-600-0-900-crop.jpg?v=8196c7e0b8"
   },
   {
@@ -1287,7 +1164,7 @@
     ],
     "runtime_mins": 99,
     "rating": 3.0,
-    "rating_count": 2081,
+    "rating_count": 2090,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/6/4/1/1464641-zi-1-0-600-0-900-crop.jpg?v=1c848e34c1"
   },
   {
@@ -1306,7 +1183,7 @@
     ],
     "runtime_mins": 105,
     "rating": 4.2,
-    "rating_count": 34917,
+    "rating_count": 34951,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/9/9/1/13991-cria--0-600-0-900-crop.jpg?v=e040a4f888"
   },
   {
@@ -1325,7 +1202,7 @@
     ],
     "runtime_mins": 86,
     "rating": 3.8,
-    "rating_count": 12997,
+    "rating_count": 12996,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/8/0/7/8/28078-chinese-roulette-0-600-0-900-crop.jpg?v=94b78f22b1"
   },
   {
@@ -1345,7 +1222,7 @@
     ],
     "runtime_mins": 83,
     "rating": 3.99,
-    "rating_count": 50721,
+    "rating_count": 50737,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/1/5/1/45151-suzhou-river-0-600-0-900-crop.jpg?v=b6f5e42e5d"
   },
   {
@@ -1365,7 +1242,7 @@
     ],
     "runtime_mins": 92,
     "rating": 3.59,
-    "rating_count": 117754,
+    "rating_count": 117906,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/y4/da/6d/zs/osLd3jkFx5D1vGc5UkAqvY3dyOX-0-600-0-900-crop.jpg?v=58e68fe1a7"
   },
   {
@@ -1386,7 +1263,7 @@
     ],
     "runtime_mins": 134,
     "rating": 4.12,
-    "rating_count": 495047,
+    "rating_count": 495325,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/25/5e/r1/3t/z6yhgEzGUJaBBgAxoyggRzwLnVM-0-600-0-900-crop.jpg?v=49d0ffd43f"
   },
   {
@@ -1406,7 +1283,7 @@
     ],
     "runtime_mins": 107,
     "rating": 3.84,
-    "rating_count": 55973,
+    "rating_count": 56001,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/9/6/6/45966-far-from-heaven-0-600-0-900-crop.jpg?v=8196c7e0b8"
   },
   {
@@ -1426,7 +1303,7 @@
     ],
     "runtime_mins": 112,
     "rating": 3.75,
-    "rating_count": 28069,
+    "rating_count": 28085,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/2/5/7/7/22577-the-housemaid-0-600-0-900-crop.jpg?v=1a62ff16ab"
   },
   {
@@ -1446,7 +1323,7 @@
     ],
     "runtime_mins": 68,
     "rating": 3.82,
-    "rating_count": 51037,
+    "rating_count": 51053,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/9/0/5/4/39054-detour-0-600-0-900-crop.jpg?v=1a4eb74a91"
   },
   {
@@ -1482,7 +1359,7 @@
     ],
     "runtime_mins": 116,
     "rating": 3.77,
-    "rating_count": 892,
+    "rating_count": 891,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/7/1/7/6/3/171763-after-winter-comes-spring-0-600-0-900-crop.jpg?v=f8393d67b8"
   },
   {
@@ -1503,7 +1380,7 @@
     ],
     "runtime_mins": 99,
     "rating": 3.0,
-    "rating_count": 2081,
+    "rating_count": 2090,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/6/4/1/1464641-zi-1-0-600-0-900-crop.jpg?v=1c848e34c1"
   },
   {
@@ -1522,7 +1399,7 @@
     ],
     "runtime_mins": 99,
     "rating": 3.71,
-    "rating_count": 7786,
+    "rating_count": 7785,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/3/4/1/3/7/834137-small-slow-but-steady-0-600-0-900-crop.jpg?v=403abd891a"
   },
   {
@@ -1560,7 +1437,7 @@
     ],
     "runtime_mins": 99,
     "rating": 3.71,
-    "rating_count": 21550,
+    "rating_count": 21561,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/1/1/8/6/41186-the-woman-in-the-window-0-600-0-900-crop.jpg?v=ee1d3b5c4a"
   },
   {
@@ -1597,7 +1474,7 @@
     ],
     "runtime_mins": 92,
     "rating": 3.59,
-    "rating_count": 117754,
+    "rating_count": 117906,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/y4/da/6d/zs/osLd3jkFx5D1vGc5UkAqvY3dyOX-0-600-0-900-crop.jpg?v=58e68fe1a7"
   },
   {
@@ -1620,7 +1497,7 @@
     ],
     "runtime_mins": 111,
     "rating": 3.81,
-    "rating_count": 74443,
+    "rating_count": 74550,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/4/8/4/49484-spellbound-0-600-0-900-crop.jpg?v=4832105dee"
   },
   {
@@ -1641,7 +1518,7 @@
     ],
     "runtime_mins": 79,
     "rating": 4.18,
-    "rating_count": 119765,
+    "rating_count": 119817,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/2/0/2/51202-the-general-0-600-0-900-crop.jpg?v=8214c74694"
   },
   {
@@ -1678,7 +1555,7 @@
     ],
     "runtime_mins": 94,
     "rating": 3.82,
-    "rating_count": 11587,
+    "rating_count": 11593,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/1/3/5/49135-je-t-aime-je-t-aime-0-600-0-900-crop.jpg?v=eb0276db00"
   },
   {
@@ -1698,7 +1575,7 @@
     ],
     "runtime_mins": 83,
     "rating": 3.99,
-    "rating_count": 50721,
+    "rating_count": 50737,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/1/5/1/45151-suzhou-river-0-600-0-900-crop.jpg?v=b6f5e42e5d"
   },
   {
@@ -1707,7 +1584,7 @@
     "title": "Columbus",
     "director": "Kogonada .",
     "year": "2017",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31310",
+    "link": "https://metrograph.com/film/9999005076-columbus/",
     "showtimes": [
       "4:15pm"
     ],
@@ -1717,7 +1594,7 @@
     ],
     "runtime_mins": 104,
     "rating": 3.95,
-    "rating_count": 158636,
+    "rating_count": 158678,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/l1/zo/7p/wc/3ZE5Wl3CdfUH4BkWRmyMKPHkWHx-0-600-0-900-crop.jpg?v=800e4a6439"
   },
   {
@@ -1737,7 +1614,7 @@
     ],
     "runtime_mins": 83,
     "rating": 3.22,
-    "rating_count": 10455,
+    "rating_count": 10461,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/3/4/7/5/33475-the-gorgon-0-600-0-900-crop.jpg?v=b3fde28418"
   },
   {
@@ -1758,7 +1635,7 @@
     ],
     "runtime_mins": 99,
     "rating": 3.0,
-    "rating_count": 2081,
+    "rating_count": 2090,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/6/4/1/1464641-zi-1-0-600-0-900-crop.jpg?v=1c848e34c1"
   },
   {
@@ -1777,7 +1654,7 @@
     ],
     "runtime_mins": 78,
     "rating": 3.59,
-    "rating_count": 223,
+    "rating_count": 222,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/0/1/6/1/110161-crystal-voyager-0-600-0-900-crop.jpg?v=23677b443e"
   },
   {
@@ -1817,7 +1694,7 @@
     ],
     "runtime_mins": 134,
     "rating": 4.12,
-    "rating_count": 495047,
+    "rating_count": 495325,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/25/5e/r1/3t/z6yhgEzGUJaBBgAxoyggRzwLnVM-0-600-0-900-crop.jpg?v=49d0ffd43f"
   },
   {
@@ -1838,7 +1715,7 @@
     ],
     "runtime_mins": 121,
     "rating": 3.69,
-    "rating_count": 862720,
+    "rating_count": 862967,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/3/3/3/1/0/333310-the-killing-of-a-sacred-deer-0-600-0-900-crop.jpg?v=f2a22b1af9"
   },
   {
@@ -1859,7 +1736,7 @@
     ],
     "runtime_mins": 99,
     "rating": 3.0,
-    "rating_count": 2081,
+    "rating_count": 2090,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/6/4/1/1464641-zi-1-0-600-0-900-crop.jpg?v=1c848e34c1"
   },
   {
@@ -1879,7 +1756,7 @@
     ],
     "runtime_mins": 94,
     "rating": 3.82,
-    "rating_count": 11587,
+    "rating_count": 11593,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/1/3/5/49135-je-t-aime-je-t-aime-0-600-0-900-crop.jpg?v=eb0276db00"
   },
   {
@@ -1916,7 +1793,7 @@
     ],
     "runtime_mins": 95,
     "rating": 1.99,
-    "rating_count": 1610,
+    "rating_count": 1645,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/1/3/2/3/71323-playback-0-600-0-900-crop.jpg?v=70c529b5b1"
   },
   {
@@ -1936,8 +1813,8 @@
       "romance"
     ],
     "runtime_mins": 97,
-    "rating": 3.39,
-    "rating_count": 22417,
+    "rating": 3.38,
+    "rating_count": 22426,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/1/2/5/1/2/312512-in-bed-with-victoria-0-600-0-900-crop.jpg?v=411fd5ffda"
   },
   {
@@ -1956,7 +1833,7 @@
     ],
     "runtime_mins": 78,
     "rating": 3.59,
-    "rating_count": 223,
+    "rating_count": 222,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/0/1/6/1/110161-crystal-voyager-0-600-0-900-crop.jpg?v=23677b443e"
   },
   {
@@ -1994,7 +1871,7 @@
     ],
     "runtime_mins": 100,
     "rating": 3.91,
-    "rating_count": 2146299,
+    "rating_count": 2147347,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/6d/6l/r3/e9/nu7XIa67cXc2t7frXCE5voXUJcN.jpg-0-600-0-900-crop.jpg?v=58a476ae28"
   },
   {
@@ -2013,7 +1890,7 @@
     ],
     "runtime_mins": 128,
     "rating": 4.1,
-    "rating_count": 16959,
+    "rating_count": 16969,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/7/9/0/1/77901-the-meetings-of-anna-0-600-0-900-crop.jpg?v=95412557ba"
   },
   {
@@ -2033,7 +1910,7 @@
     ],
     "runtime_mins": 120,
     "rating": 3.48,
-    "rating_count": 64546,
+    "rating_count": 64555,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/0/4/3/5/2/404352-the-souvenir-0-600-0-900-crop.jpg?v=80e197362b"
   },
   {
@@ -2054,7 +1931,7 @@
     ],
     "runtime_mins": 138,
     "rating": 4.2,
-    "rating_count": 3890072,
+    "rating_count": 3892467,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/4/0/9/45409-shutter-island-0-600-0-900-crop.jpg?v=85dd4c38e3"
   },
   {
@@ -2090,7 +1967,7 @@
     ],
     "runtime_mins": 119,
     "rating": 3.75,
-    "rating_count": 9054,
+    "rating_count": 9059,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/7/8/6/2/8/978628-all-the-long-nights-0-600-0-900-crop.jpg?v=c3eb620f7d"
   },
   {
@@ -2130,7 +2007,7 @@
     ],
     "runtime_mins": 121,
     "rating": 3.64,
-    "rating_count": 5214,
+    "rating_count": 5217,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/2/0/9/3/32093-the-state-of-things-0-600-0-900-crop.jpg?v=b619c5b2e3"
   },
   {
@@ -2151,7 +2028,7 @@
     ],
     "runtime_mins": 121,
     "rating": 3.69,
-    "rating_count": 862720,
+    "rating_count": 862967,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/3/3/3/1/0/333310-the-killing-of-a-sacred-deer-0-600-0-900-crop.jpg?v=f2a22b1af9"
   },
   {
@@ -2172,7 +2049,7 @@
     ],
     "runtime_mins": 134,
     "rating": 4.12,
-    "rating_count": 495047,
+    "rating_count": 495325,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/25/5e/r1/3t/z6yhgEzGUJaBBgAxoyggRzwLnVM-0-600-0-900-crop.jpg?v=49d0ffd43f"
   },
   {
@@ -2192,7 +2069,7 @@
     ],
     "runtime_mins": 92,
     "rating": 3.59,
-    "rating_count": 117754,
+    "rating_count": 117906,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/y4/da/6d/zs/osLd3jkFx5D1vGc5UkAqvY3dyOX-0-600-0-900-crop.jpg?v=58e68fe1a7"
   },
   {
@@ -2213,7 +2090,7 @@
     ],
     "runtime_mins": 99,
     "rating": 3.0,
-    "rating_count": 2081,
+    "rating_count": 2090,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/6/4/1/1464641-zi-1-0-600-0-900-crop.jpg?v=1c848e34c1"
   },
   {
@@ -2251,7 +2128,7 @@
     ],
     "runtime_mins": 131,
     "rating": 3.4,
-    "rating_count": 123532,
+    "rating_count": 123570,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/8/6/6/3/1/386631-benedetta-0-600-0-900-crop.jpg?v=9d52b3ab59"
   },
   {
@@ -2271,7 +2148,7 @@
     ],
     "runtime_mins": 120,
     "rating": 3.48,
-    "rating_count": 64546,
+    "rating_count": 64555,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/0/4/3/5/2/404352-the-souvenir-0-600-0-900-crop.jpg?v=80e197362b"
   },
   {
@@ -2292,7 +2169,7 @@
     ],
     "runtime_mins": 110,
     "rating": 3.47,
-    "rating_count": 2981,
+    "rating_count": 2980,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/9/2/9/9/39299-somewhere-in-the-night-0-600-0-900-crop.jpg?v=f1a79aec16"
   },
   {
@@ -2328,7 +2205,7 @@
     ],
     "runtime_mins": 71,
     "rating": 3.4,
-    "rating_count": 3854,
+    "rating_count": 3855,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/7/3/7/1/27371-the-woman-on-the-beach-0-600-0-900-crop.jpg?v=7b70060ed1"
   },
   {
@@ -2364,7 +2241,7 @@
     ],
     "runtime_mins": 101,
     "rating": 4.32,
-    "rating_count": 165645,
+    "rating_count": 165735,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/7/5/0/51750-the-celebration-0-600-0-900-crop.jpg?v=7eefb2e0b7"
   },
   {
@@ -2384,7 +2261,7 @@
     ],
     "runtime_mins": 68,
     "rating": 3.82,
-    "rating_count": 51037,
+    "rating_count": 51053,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/9/0/5/4/39054-detour-0-600-0-900-crop.jpg?v=1a4eb74a91"
   },
   {
@@ -2422,7 +2299,7 @@
     ],
     "runtime_mins": 100,
     "rating": 3.91,
-    "rating_count": 2146299,
+    "rating_count": 2147347,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/6d/6l/r3/e9/nu7XIa67cXc2t7frXCE5voXUJcN.jpg-0-600-0-900-crop.jpg?v=58a476ae28"
   },
   {
@@ -2442,7 +2319,7 @@
     ],
     "runtime_mins": 113,
     "rating": 4.18,
-    "rating_count": 2246703,
+    "rating_count": 2247974,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/v1/3q/s4/aa/memento-0-600-0-900-crop.jpg?v=80f0732247"
   },
   {
@@ -2463,7 +2340,7 @@
     ],
     "runtime_mins": 121,
     "rating": 3.69,
-    "rating_count": 862720,
+    "rating_count": 862967,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/3/3/3/1/0/333310-the-killing-of-a-sacred-deer-0-600-0-900-crop.jpg?v=f2a22b1af9"
   },
   {
@@ -2483,7 +2360,7 @@
     ],
     "runtime_mins": 166,
     "rating": 4.03,
-    "rating_count": 9237,
+    "rating_count": 9240,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/74/e3/es/r5/m8cLo2QlY89jQqbeGevyaJXxUaD-0-600-0-900-crop.jpg?v=da50a8b2e2"
   },
   {
@@ -2503,7 +2380,7 @@
     ],
     "runtime_mins": 109,
     "rating": 3.54,
-    "rating_count": 1431,
+    "rating_count": 1430,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/9/0/1/8901-tickets-0-600-0-900-crop.jpg?v=6f79e45021"
   },
   {
@@ -2522,7 +2399,7 @@
     ],
     "runtime_mins": 121,
     "rating": 3.64,
-    "rating_count": 5214,
+    "rating_count": 5217,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/2/0/9/3/32093-the-state-of-things-0-600-0-900-crop.jpg?v=b619c5b2e3"
   },
   {
@@ -2560,7 +2437,7 @@
     ],
     "runtime_mins": 100,
     "rating": 3.91,
-    "rating_count": 2146299,
+    "rating_count": 2147347,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/6d/6l/r3/e9/nu7XIa67cXc2t7frXCE5voXUJcN.jpg-0-600-0-900-crop.jpg?v=58a476ae28"
   },
   {
@@ -2597,7 +2474,7 @@
     ],
     "runtime_mins": 166,
     "rating": 4.03,
-    "rating_count": 9237,
+    "rating_count": 9240,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/74/e3/es/r5/m8cLo2QlY89jQqbeGevyaJXxUaD-0-600-0-900-crop.jpg?v=da50a8b2e2"
   },
   {
@@ -2617,7 +2494,7 @@
     ],
     "runtime_mins": 104,
     "rating": 3.57,
-    "rating_count": 16064,
+    "rating_count": 16082,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/2/1/0/6/7/721067-other-people-s-children-0-600-0-900-crop.jpg?v=e76741cd91"
   },
   {
@@ -2636,7 +2513,7 @@
     ],
     "runtime_mins": 101,
     "rating": 3.33,
-    "rating_count": 48594,
+    "rating_count": 48605,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/8/3/2/5/488325-sibyl-0-600-0-900-crop.jpg?v=f472347cbf"
   },
   {
@@ -2724,7 +2601,7 @@
     ],
     "runtime_mins": 110,
     "rating": 4.43,
-    "rating_count": 56327,
+    "rating_count": 56349,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/4/6/6/15466-the-ascent-0-600-0-900-crop.jpg?v=23f005183e"
   },
   {
@@ -2745,7 +2622,7 @@
     ],
     "runtime_mins": 131,
     "rating": 3.4,
-    "rating_count": 123532,
+    "rating_count": 123570,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/8/6/6/3/1/386631-benedetta-0-600-0-900-crop.jpg?v=9d52b3ab59"
   },
   {
@@ -2765,7 +2642,7 @@
     ],
     "runtime_mins": 137,
     "rating": 4.09,
-    "rating_count": 1605936,
+    "rating_count": 1606975,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/8/6/7/51867-a-clockwork-orange-0-600-0-900-crop.jpg?v=d6d5407b50"
   },
   {
@@ -2804,7 +2681,7 @@
     ],
     "runtime_mins": 78,
     "rating": 3.48,
-    "rating_count": 129998,
+    "rating_count": 130059,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/4/1/4/45414-the-rescuers-0-600-0-900-crop.jpg?v=21a279ee0a"
   },
   {
@@ -2875,7 +2752,7 @@
     ],
     "runtime_mins": 166,
     "rating": 4.03,
-    "rating_count": 9237,
+    "rating_count": 9240,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/74/e3/es/r5/m8cLo2QlY89jQqbeGevyaJXxUaD-0-600-0-900-crop.jpg?v=da50a8b2e2"
   },
   {
@@ -2897,7 +2774,7 @@
     ],
     "runtime_mins": 118,
     "rating": 3.73,
-    "rating_count": 5080,
+    "rating_count": 5081,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/0/7/7/7/30777-emperor-of-the-north-0-600-0-900-crop.jpg?v=7286f47268"
   },
   {
@@ -2917,7 +2794,7 @@
     ],
     "runtime_mins": 113,
     "rating": 4.18,
-    "rating_count": 2246703,
+    "rating_count": 2247974,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/v1/3q/s4/aa/memento-0-600-0-900-crop.jpg?v=80f0732247"
   },
   {
@@ -2936,7 +2813,7 @@
     ],
     "runtime_mins": 101,
     "rating": 3.33,
-    "rating_count": 48594,
+    "rating_count": 48605,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/8/3/2/5/488325-sibyl-0-600-0-900-crop.jpg?v=f472347cbf"
   },
   {
@@ -2956,7 +2833,7 @@
     ],
     "runtime_mins": 137,
     "rating": 4.09,
-    "rating_count": 1605936,
+    "rating_count": 1606975,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/8/6/7/51867-a-clockwork-orange-0-600-0-900-crop.jpg?v=d6d5407b50"
   },
   {
@@ -2977,45 +2854,8 @@
     ],
     "runtime_mins": 110,
     "rating": 3.47,
-    "rating_count": 2981,
+    "rating_count": 2980,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/9/2/9/9/39299-somewhere-in-the-night-0-600-0-900-crop.jpg?v=f1a79aec16"
-  },
-  {
-    "date": "2026-10-29",
-    "theater": "ROXY CINEMA NEW YORK",
-    "title": "Suspiria",
-    "director": "N/A",
-    "year": "1977",
-    "link": "https://ticketing.uswest.veezi.com/purchase/7972?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
-    "showtimes": [
-      "4:30PM"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/suspiria/",
-    "genres": [
-      "horror",
-      "mystery"
-    ],
-    "runtime_mins": 99,
-    "rating": 3.92,
-    "rating_count": 613649,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/4/9/0/0/44900-suspiria-0-600-0-900-crop.jpg?v=d1fbb1d377"
-  },
-  {
-    "date": "2026-10-29",
-    "theater": "ROXY CINEMA NEW YORK",
-    "title": "Hostel: Part II - 35MM",
-    "director": "N/A",
-    "year": "2007",
-    "link": "https://ticketing.uswest.veezi.com/purchase/7963?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
-    "showtimes": [
-      "9:30PM"
-    ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
   },
   {
     "date": "2026-10-30",
@@ -3067,7 +2907,7 @@
     ],
     "runtime_mins": 110,
     "rating": 2.81,
-    "rating_count": 197662,
+    "rating_count": 198078,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/5/4/3/50543-halloween-0-600-0-900-crop.jpg?v=703f0b6d1c"
   },
   {
@@ -3138,7 +2978,7 @@
     ],
     "runtime_mins": 99,
     "rating": 3.92,
-    "rating_count": 613649,
+    "rating_count": 614349,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/4/9/0/0/44900-suspiria-0-600-0-900-crop.jpg?v=d1fbb1d377"
   },
   {
@@ -3157,7 +2997,7 @@
     ],
     "runtime_mins": 110,
     "rating": 2.81,
-    "rating_count": 197662,
+    "rating_count": 198078,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/5/4/3/50543-halloween-0-600-0-900-crop.jpg?v=703f0b6d1c"
   },
   {
@@ -3246,7 +3086,7 @@
     ],
     "runtime_mins": 96,
     "rating": 3.38,
-    "rating_count": 41098,
+    "rating_count": 41156,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/0y/yr/md/tq/l3cf2OQdozsvr2dk30QQrVvtPcW-0-600-0-900-crop.jpg?v=662d24a85d"
   },
   {
@@ -3302,26 +3142,6 @@
     "rating": null,
     "rating_count": null,
     "poster_url": null
-  },
-  {
-    "date": "2026-11-05",
-    "theater": "ROXY CINEMA NEW YORK",
-    "title": "Primetime",
-    "director": "N/A",
-    "year": "2026",
-    "link": "https://ticketing.uswest.veezi.com/purchase/7979?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
-    "showtimes": [
-      "4:45PM"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/primetime/",
-    "genres": [
-      "drama",
-      "thriller"
-    ],
-    "runtime_mins": 12,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/8/9/6/8/2/1089682-primetime-0-600-0-900-crop.jpg?v=f389cff79f"
   },
   {
     "date": "2026-11-05",
@@ -3424,7 +3244,7 @@
     ],
     "runtime_mins": 165,
     "rating": 4.04,
-    "rating_count": 2600,
+    "rating_count": 2601,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/8/3/8/7/3/283873-personal-problems-0-600-0-900-crop.jpg?v=3c1a31477c"
   },
   {
@@ -3708,7 +3528,7 @@
     ],
     "runtime_mins": 86,
     "rating": 3.86,
-    "rating_count": 10804,
+    "rating_count": 10811,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/9/8/0/3/1/198031-losing-ground-0-600-0-900-crop.jpg?v=316a24de98"
   },
   {
@@ -3885,7 +3705,7 @@
     ],
     "runtime_mins": 80,
     "rating": 3.08,
-    "rating_count": 5873,
+    "rating_count": 5876,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/0/8/3/0/7/908307-wwwrachelormontcom-0-600-0-900-crop.jpg?v=b2c844a496"
   },
   {
@@ -4040,7 +3860,7 @@
     ],
     "runtime_mins": 174,
     "rating": 4.6,
-    "rating_count": 528851,
+    "rating_count": 546056,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74"
   },
   {
@@ -4110,7 +3930,7 @@
     ],
     "runtime_mins": 174,
     "rating": 4.6,
-    "rating_count": 528851,
+    "rating_count": 546056,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74"
   },
   {
@@ -4164,7 +3984,7 @@
     ],
     "runtime_mins": 102,
     "rating": 3.35,
-    "rating_count": 254,
+    "rating_count": 256,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/3/3/3/2/2/1433322-jump-scare-0-600-0-900-crop.jpg?v=ce5be4f58a"
   },
   {
@@ -4268,7 +4088,7 @@
     ],
     "runtime_mins": 174,
     "rating": 4.6,
-    "rating_count": 528851,
+    "rating_count": 546056,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74"
   },
   {
