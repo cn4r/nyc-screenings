@@ -2,122 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:Edward Scissorhands @ METROGRAPH
-DTSTART:20261031T114500
-DTEND:20261031T134500
-DESCRIPTION:Dir: Tim Burton (1990)\nhttps://metrograph.com/film/9999001213
- -edward-scissorhands/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/9999001213-edward-scissorhands/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saturday Afternoon Cartoons: Time for Halloween @ METROGRAPH
-DTSTART:20261031T120000
-DTEND:20261031T140000
-DESCRIPTION:Dir: Multiple Dirs (1950)\nhttps://t.metrograph.com/Ticketing/
- visSelectTickets.aspx?cinemacode=9999&txtSessionId=31238
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31238
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beetlejuice @ METROGRAPH
-DTSTART:20261031T140000
-DTEND:20261031T160000
-DESCRIPTION:Dir: Tim Burton (1988)\nhttps://t.metrograph.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=9999&txtSessionId=31218
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31218
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Curse of Frankenstein @ METROGRAPH
-DTSTART:20261031T140000
-DTEND:20261031T160000
-DESCRIPTION:Dir: Terence Fisher (1957)\nhttps://metrograph.com/film/999900
- 5054-the-curse-of-frankenstein/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/9999005054-the-curse-of-frankenstein/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vera @ METROGRAPH
-DTSTART:20261031T155000
-DTEND:20261031T175000
-DESCRIPTION:Dir: Sérgio Toledo (1986)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31222
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31222
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Horror of Dracula @ METROGRAPH
-DTSTART:20261031T160000
-DTEND:20261031T180000
-DESCRIPTION:Dir: Terence Fisher (1958)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31182
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31182
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Trouble with Harry @ METROGRAPH
-DTSTART:20261031T174000
-DTEND:20261031T194000
-DESCRIPTION:Dir: Alfred Hitchcock (1955)\nhttps://t.metrograph.com/Ticketi
- ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31221
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31221
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brides of Dracula @ METROGRAPH
-DTSTART:20261031T175000
-DTEND:20261031T195000
-DESCRIPTION:Dir: Terence Fisher (1960)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31183
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31183
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minority Report @ METROGRAPH
-DTSTART:20261031T194000
-DTEND:20261031T214000
-DESCRIPTION:Dir: Steven Spielberg (2002)\nhttps://t.metrograph.com/Ticketi
- ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31220
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31220
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bram Stoker's Dracula @ METROGRAPH
-DTSTART:20261031T194500
-DTEND:20261031T214500
-DESCRIPTION:Dir: Francis Ford  Coppola (1992)\nhttps://metrograph.com/film
- /9999001199-bram-stokers-dracula/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/9999001199-bram-stokers-dracula/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rosemary's Baby @ METROGRAPH
-DTSTART:20261031T222500
-DTEND:20261101T002500
-DESCRIPTION:Dir: Roman Polanski (1968)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31224
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31224
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blade Runner: The Final Cut @ METROGRAPH
-DTSTART:20261031T223000
-DTEND:20261101T003000
-DESCRIPTION:Dir: Ridley Scott (1982)\nhttps://metrograph.com/film/99990007
- 18-blade-runner-the-final-cut/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/9999000718-blade-runner-the-final-cut/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hugo [3D Screening] @ METROGRAPH
 DTSTART:20261101T110000
 DTEND:20261101T130000
@@ -600,11 +484,10 @@ BEGIN:VEVENT
 SUMMARY:Small\, Slow But Steady @ METROGRAPH
 DTSTART:20261107T180000
 DTEND:20261107T200000
-DESCRIPTION:Dir: Sho Miyake (2022)\nhttps://t.metrograph.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=9999&txtSessionId=31312
+DESCRIPTION:Dir: Sho Miyake (2022)\nhttps://metrograph.com/film/9999005078
+ -small-slow-but-steady/
 LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31312
+URL:https://metrograph.com/film/9999005078-small-slow-but-steady/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asako I & II @ METROGRAPH
@@ -1798,47 +1681,6 @@ DESCRIPTION:Dir: Pier Paolo Pasolini (1975)\nhttps://t.metrograph.com/Tick
 LOCATION:METROGRAPH
 URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31433
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Night\, Deadly Night 5: The Toy Maker @ ROXY CINEMA NEW YOR
- K
-DTSTART:20261031T150000
-DTEND:20261031T170000
-DESCRIPTION:Dir: N/A (1991)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 921?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7921?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Texas Chainsaw Massacre - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20261031T170000
-DTEND:20261031T190000
-DESCRIPTION:Dir: N/A (1974)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 889?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7889?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Suspiria @ ROXY CINEMA NEW YORK
-DTSTART:20261031T190000
-DTEND:20261031T210000
-DESCRIPTION:Dir: N/A (1977)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 891?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7891?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Halloween @ ROXY CINEMA NEW YORK
-DTSTART:20261031T210000
-DTEND:20261031T230000
-DESCRIPTION:Dir: N/A (1978)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 893?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7893?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freaked - 35MM @ ROXY CINEMA NEW YORK
