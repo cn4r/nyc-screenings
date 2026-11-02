@@ -2,125 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:Hugo [3D Screening] @ METROGRAPH
-DTSTART:20261101T110000
-DTEND:20261101T130000
-DESCRIPTION:Dir: Martin Scorsese (2011)\nhttps://t.metrograph.com/Ticketin
- g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31225
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Addams Family @ METROGRAPH
-DTSTART:20261101T111500
-DTEND:20261101T131500
-DESCRIPTION:Dir: Barry Sonnenfeld (1991)\nhttps://t.metrograph.com/Ticketi
- ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31226
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31226
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All That Heaven Allows @ METROGRAPH
-DTSTART:20261101T133000
-DTEND:20261101T153000
-DESCRIPTION:Dir: Douglas Sirk (1955)\nhttps://t.metrograph.com/Ticketing/v
- isSelectTickets.aspx?cinemacode=9999&txtSessionId=31227
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31227
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sans Soleil @ METROGRAPH
-DTSTART:20261101T134500
-DTEND:20261101T154500
-DESCRIPTION:Dir: Chris Marker (1983)\nhttps://metrograph.com/film/99990037
- 88-sans-soleil/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/9999003788-sans-soleil/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Far From Heaven @ METROGRAPH
-DTSTART:20261101T153000
-DTEND:20261101T173000
-DESCRIPTION:Dir: Todd Haynes (2002)\nhttps://t.metrograph.com/Ticketing/vi
- sSelectTickets.aspx?cinemacode=9999&txtSessionId=31228
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31228
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Gorgon @ METROGRAPH
-DTSTART:20261101T160000
-DTEND:20261101T180000
-DESCRIPTION:Dir: Terence Fisher (1964)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31185
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31185
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:News from Home + Interior NY Subway\, 14th Street @ METROGRAPH
-DTSTART:20261101T174500
-DTEND:20261101T194500
-DESCRIPTION:Dir: Chantal  Akerman\, G. W. "Billy" Bitzer (1976)\nhttps://t
- .metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSession
- Id=31229
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31229
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hound of the Baskervilles @ METROGRAPH
-DTSTART:20261101T175000
-DTEND:20261101T195000
-DESCRIPTION:Dir: Terence Fisher (1959)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31234
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31234
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Something Special (Willy/Milly) @ METROGRAPH
-DTSTART:20261101T194500
-DTEND:20261101T214500
-DESCRIPTION:Dir: Paul Schneider (1986)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31233
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31233
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rushmore @ METROGRAPH
-DTSTART:20261101T195000
-DTEND:20261101T215000
-DESCRIPTION:Dir: Wes Anderson (1998)\nhttps://t.metrograph.com/Ticketing/v
- isSelectTickets.aspx?cinemacode=9999&txtSessionId=31230
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31230
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Autumn Sonata @ METROGRAPH
-DTSTART:20261101T214500
-DTEND:20261101T234500
-DESCRIPTION:Dir: Ingmar Bergman (1978)\nhttps://metrograph.com/film/999900
- 5045-autumn-sonata/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/9999005045-autumn-sonata/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Midnight in Paris @ METROGRAPH
-DTSTART:20261101T215000
-DTEND:20261101T235000
-DESCRIPTION:Dir: Woody Allen (2011)\nhttps://t.metrograph.com/Ticketing/vi
- sSelectTickets.aspx?cinemacode=9999&txtSessionId=31231
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31231
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Parallax View @ METROGRAPH
 DTSTART:20261102T160000
 DTEND:20261102T180000
@@ -364,11 +245,10 @@ BEGIN:VEVENT
 SUMMARY:zi @ METROGRAPH
 DTSTART:20261106T183000
 DTEND:20261106T203000
-DESCRIPTION:Dir: Kogonada . (2026)\nhttps://t.metrograph.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=9999&txtSessionId=31284
+DESCRIPTION:Dir: Kogonada . (2026)\nhttps://metrograph.com/film/9999005068
+ -zi/
 LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31284
+URL:https://metrograph.com/film/9999005068-zi/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cría Cuervos @ METROGRAPH
@@ -1681,37 +1561,6 @@ DESCRIPTION:Dir: Pier Paolo Pasolini (1975)\nhttps://t.metrograph.com/Tick
 LOCATION:METROGRAPH
 URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31433
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freaked - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20261101T150000
-DTEND:20261101T170000
-DESCRIPTION:Dir: N/A (1993)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 922?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7922?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ganja & Hess @ ROXY CINEMA NEW YORK
-DTSTART:20261101T170000
-DTEND:20261101T190000
-DESCRIPTION:Dir: N/A (1973)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 887?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7887?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Silent Night\, Deadly Night 5: The Toy Maker @ ROXY CINEMA NEW YOR
- K
-DTSTART:20261101T191500
-DTEND:20261101T211500
-DESCRIPTION:Dir: N/A (1991)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 923?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7923?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cinema Tehran Presents: Taste of Cherry by Abbas Kiarostami @ ROXY
