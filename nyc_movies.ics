@@ -2,76 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:The Parallax View @ METROGRAPH
-DTSTART:20261102T160000
-DTEND:20261102T180000
-DESCRIPTION:Dir: Alan J. Pakula (1974)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31319
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31319
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ivan @ METROGRAPH
-DTSTART:20261102T160000
-DTEND:20261102T180000
-DESCRIPTION:Dir: Oleksandr Dovzhenko (1932)\nhttps://t.metrograph.com/Tick
- eting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31318
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31318
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aerograd @ METROGRAPH
-DTSTART:20261102T180000
-DTEND:20261102T200000
-DESCRIPTION:Dir: Oleksandr Dovzhenko (1935)\nhttps://t.metrograph.com/Tick
- eting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31317
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31317
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ulysses' Gaze @ METROGRAPH
-DTSTART:20261102T181500
-DTEND:20261102T201500
-DESCRIPTION:Dir: Theo  Angelopoulos (1995)\nhttps://t.metrograph.com/Ticke
- ting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31313
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31313
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeycomb @ METROGRAPH
-DTSTART:20261102T194500
-DTEND:20261102T214500
-DESCRIPTION:Dir: Carlos  Saura (1969)\nhttps://t.metrograph.com/Ticketing/
- visSelectTickets.aspx?cinemacode=9999&txtSessionId=31316
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31316
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reality Bites @ METROGRAPH
-DTSTART:20261102T214500
-DTEND:20261102T234500
-DESCRIPTION:Dir: Ben Stiller (1994)\nhttps://t.metrograph.com/Ticketing/vi
- sSelectTickets.aspx?cinemacode=9999&txtSessionId=31314
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31314
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ana and the Wolves @ METROGRAPH
-DTSTART:20261102T215000
-DTEND:20261102T235000
-DESCRIPTION:Dir: Carlos  Saura (1973)\nhttps://t.metrograph.com/Ticketing/
- visSelectTickets.aspx?cinemacode=9999&txtSessionId=31315
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31315
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Yi Yi @ METROGRAPH
 DTSTART:20261103T150000
 DTEND:20261103T170000
@@ -430,7 +360,7 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31301
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fireflies Press presents Hermia & Helena @ METROGRAPH
+SUMMARY:Matías Piñeiro presents Hermia & Helena @ METROGRAPH
 DTSTART:20261108T135000
 DTEND:20261108T155000
 DESCRIPTION:Dir: Matías Piñeiro (2016)\nhttps://t.metrograph.com/Ticketi
@@ -1563,27 +1493,6 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31433
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cinema Tehran Presents: Taste of Cherry by Abbas Kiarostami @ ROXY
-  CINEMA NEW YORK
-DTSTART:20261102T190000
-DTEND:20261102T210000
-DESCRIPTION:Dir: N/A (1997)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 973?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7973?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bride of Re-Animator @ ROXY CINEMA NEW YORK
-DTSTART:20261102T213000
-DTEND:20261102T233000
-DESCRIPTION:Dir: N/A (1990)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 924?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7924?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Big Trouble in Little China - 35MM @ ROXY CINEMA NEW YORK
 DTSTART:20261103T203000
 DTEND:20261103T223000
@@ -2156,6 +2065,16 @@ DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
  961?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7961?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hedonist + Q&A @ ROXY CINEMA NEW YORK
+DTSTART:20261203T213000
+DTEND:20261203T233000
+DESCRIPTION:Dir: N/A (2025)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 999?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7999?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
