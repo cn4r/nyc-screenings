@@ -2,66 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:Yi Yi @ METROGRAPH
-DTSTART:20261103T150000
-DTEND:20261103T170000
-DESCRIPTION:Dir: Edward Yang (2000)\nhttps://t.metrograph.com/Ticketing/vi
- sSelectTickets.aspx?cinemacode=9999&txtSessionId=31320
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31320
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Girl\, Interrupted @ METROGRAPH
-DTSTART:20261103T152000
-DTEND:20261103T172000
-DESCRIPTION:Dir: James  Mangold (1999)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31322
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31322
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poem of the Sea @ METROGRAPH
-DTSTART:20261103T180000
-DTEND:20261103T200000
-DESCRIPTION:Dir: Yulia Solntseva (1958)\nhttps://t.metrograph.com/Ticketin
- g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31321
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31321
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Enchanted Desna @ METROGRAPH
-DTSTART:20261103T201000
-DTEND:20261103T221000
-DESCRIPTION:Dir: Yulia Solntseva (1964)\nhttps://t.metrograph.com/Ticketin
- g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31323
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31323
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Almost Famous @ METROGRAPH
-DTSTART:20261103T214500
-DTEND:20261103T234500
-DESCRIPTION:Dir: Cameron Crowe (2000)\nhttps://t.metrograph.com/Ticketing/
- visSelectTickets.aspx?cinemacode=9999&txtSessionId=31325
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31325
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Bittersweet Life @ METROGRAPH
-DTSTART:20261103T215000
-DTEND:20261103T235000
-DESCRIPTION:Dir: Kim Jee-woon (2005)\nhttps://t.metrograph.com/Ticketing/v
- isSelectTickets.aspx?cinemacode=9999&txtSessionId=31324
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31324
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:All We Imagine as Light @ METROGRAPH
 DTSTART:20261104T151500
 DTEND:20261104T171500
@@ -373,11 +313,10 @@ BEGIN:VEVENT
 SUMMARY:Je t'aime\, je t'aime @ METROGRAPH
 DTSTART:20261108T140000
 DTEND:20261108T160000
-DESCRIPTION:Dir: Alain Resnais (1968)\nhttps://t.metrograph.com/Ticketing/
- visSelectTickets.aspx?cinemacode=9999&txtSessionId=31303
+DESCRIPTION:Dir: Alain Resnais (1968)\nhttps://metrograph.com/film/9999005
+ 075-je-taime-je-taime/
 LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31303
+URL:https://metrograph.com/film/9999005075-je-taime-je-taime/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Suzhou River @ METROGRAPH
@@ -422,11 +361,10 @@ BEGIN:VEVENT
 SUMMARY:Crystal Voyager @ METROGRAPH
 DTSTART:20261108T193000
 DTEND:20261108T213000
-DESCRIPTION:Dir: David Elfick (1973)\nhttps://t.metrograph.com/Ticketing/v
- isSelectTickets.aspx?cinemacode=9999&txtSessionId=31306
+DESCRIPTION:Dir: David Elfick (1973)\nhttps://metrograph.com/film/99990010
+ 20-crystal-voyager/
 LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31306
+URL:https://metrograph.com/film/9999001020-crystal-voyager/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sad Vacation @ METROGRAPH
@@ -442,11 +380,10 @@ BEGIN:VEVENT
 SUMMARY:Lost Highway @ METROGRAPH
 DTSTART:20261108T212000
 DTEND:20261108T232000
-DESCRIPTION:Dir: David Lynch (1997)\nhttps://t.metrograph.com/Ticketing/vi
- sSelectTickets.aspx?cinemacode=9999&txtSessionId=31307
+DESCRIPTION:Dir: David Lynch (1997)\nhttps://metrograph.com/film/999900120
+ 8-lost-highway/
 LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31307
+URL:https://metrograph.com/film/9999001208-lost-highway/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brief Encounter @ METROGRAPH
@@ -1493,16 +1430,6 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31433
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Big Trouble in Little China - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20261103T203000
-DTEND:20261103T223000
-DESCRIPTION:Dir: N/A (1986)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 925?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7925?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Primetime @ ROXY CINEMA NEW YORK
 DTSTART:20261104T190000
 DTEND:20261104T210000
@@ -1581,16 +1508,6 @@ DESCRIPTION:Dir: N/A (1980)\nhttps://ticketing.uswest.veezi.com/purchase/7
  945?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7945?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A. Rimbaud @ ROXY CINEMA NEW YORK
-DTSTART:20261108T133000
-DTEND:20261108T153000
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 932?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7932?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
