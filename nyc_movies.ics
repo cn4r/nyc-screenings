@@ -2,76 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:All We Imagine as Light @ METROGRAPH
-DTSTART:20261104T151500
-DTEND:20261104T171500
-DESCRIPTION:Dir: Payal  Kapadia (2024)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31327
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31327
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Midnight in Paris @ METROGRAPH
-DTSTART:20261104T153000
-DTEND:20261104T173000
-DESCRIPTION:Dir: Woody Allen (2011)\nhttps://t.metrograph.com/Ticketing/vi
- sSelectTickets.aspx?cinemacode=9999&txtSessionId=31326
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31326
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All That Heaven Allows @ METROGRAPH
-DTSTART:20261104T173500
-DTEND:20261104T193500
-DESCRIPTION:Dir: Douglas Sirk (1955)\nhttps://t.metrograph.com/Ticketing/v
- isSelectTickets.aspx?cinemacode=9999&txtSessionId=31328
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31328
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Strangers on a Train @ METROGRAPH
-DTSTART:20261104T193500
-DTEND:20261104T213500
-DESCRIPTION:Dir: Alfred Hitchcock (1951)\nhttps://t.metrograph.com/Ticketi
- ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31329
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31329
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Electra\, My Love @ METROGRAPH
-DTSTART:20261104T204500
-DTEND:20261104T224500
-DESCRIPTION:Dir: Miklós Jancsó (1974)\nhttps://t.metrograph.com/Ticketin
- g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31332
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31332
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oldboy @ METROGRAPH
-DTSTART:20261104T214500
-DTEND:20261104T234500
-DESCRIPTION:Dir: Park Chan-wook (2003)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31330
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31330
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghost in the Shell: 30th Anniversary Remaster @ METROGRAPH
-DTSTART:20261104T222000
-DTEND:20261105T002000
-DESCRIPTION:Dir: Mamoru  Oshii (1995)\nhttps://t.metrograph.com/Ticketing/
- visSelectTickets.aspx?cinemacode=9999&txtSessionId=31331
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31331
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bram Stoker's Dracula @ METROGRAPH
 DTSTART:20261106T133000
 DTEND:20261106T153000
@@ -134,11 +64,10 @@ BEGIN:VEVENT
 SUMMARY:Chinese Roulette @ METROGRAPH
 DTSTART:20261106T205000
 DTEND:20261106T225000
-DESCRIPTION:Dir: Rainer Werner Fassbinder (1976)\nhttps://t.metrograph.com
- /Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31286
+DESCRIPTION:Dir: Rainer Werner Fassbinder (1976)\nhttps://metrograph.com/f
+ ilm/9999004476-chinese-roulette/
 LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31286
+URL:https://metrograph.com/film/9999004476-chinese-roulette/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Suzhou River @ METROGRAPH
@@ -224,11 +153,10 @@ BEGIN:VEVENT
 SUMMARY:zi @ METROGRAPH
 DTSTART:20261107T171500
 DTEND:20261107T191500
-DESCRIPTION:Dir: Kogonada . (2026)\nhttps://t.metrograph.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=9999&txtSessionId=31293
+DESCRIPTION:Dir: Kogonada . (2026)\nhttps://metrograph.com/film/9999005068
+ -zi/
 LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31293
+URL:https://metrograph.com/film/9999005068-zi/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Small\, Slow But Steady @ METROGRAPH
@@ -322,11 +250,10 @@ BEGIN:VEVENT
 SUMMARY:Suzhou River @ METROGRAPH
 DTSTART:20261108T160000
 DTEND:20261108T180000
-DESCRIPTION:Dir: Ye Lou (2000)\nhttps://t.metrograph.com/Ticketing/visSele
- ctTickets.aspx?cinemacode=9999&txtSessionId=31304
+DESCRIPTION:Dir: Ye Lou (2000)\nhttps://metrograph.com/film/9999003167-suz
+ hou-river/
 LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31304
+URL:https://metrograph.com/film/9999003167-suzhou-river/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Columbus @ METROGRAPH
@@ -1138,6 +1065,16 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31413
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Columbus @ METROGRAPH
+DTSTART:20261127T180000
+DTEND:20261127T200000
+DESCRIPTION:Dir: Kogonada . (2017)\nhttps://t.metrograph.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=9999&txtSessionId=31414
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31414
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Best Secret Agent @ METROGRAPH
 DTSTART:20261127T180000
 DTEND:20261127T200000
@@ -1146,16 +1083,6 @@ DESCRIPTION:Dir: Zhang Ying (1964)\nhttps://t.metrograph.com/Ticketing/vis
 LOCATION:METROGRAPH
 URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31408
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Columbus @ METROGRAPH
-DTSTART:20261127T181000
-DTEND:20261127T201000
-DESCRIPTION:Dir: Kogonada . (2017)\nhttps://t.metrograph.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=9999&txtSessionId=31414
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31414
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Taxi Driver @ METROGRAPH
@@ -1428,26 +1355,6 @@ DESCRIPTION:Dir: Pier Paolo Pasolini (1975)\nhttps://t.metrograph.com/Tick
 LOCATION:METROGRAPH
 URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31433
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Primetime @ ROXY CINEMA NEW YORK
-DTSTART:20261104T190000
-DTEND:20261104T210000
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 978?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7978?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Big Trouble in Little China - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20261104T213000
-DTEND:20261104T233000
-DESCRIPTION:Dir: N/A (1986)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 926?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7926?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Draughtsman's Contract + Live Performance @ ROXY CINEMA NEW YO
@@ -1833,6 +1740,16 @@ URL:https://ticketing.uswest.veezi.com/purchase/7944?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hannah and Her Sisters - 35MM @ ROXY CINEMA NEW YORK
+DTSTART:20261124T190000
+DTEND:20261124T210000
+DESCRIPTION:Dir: N/A (1986)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 983?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7983?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mean Streets - 35MM @ ROXY CINEMA NEW YORK
 DTSTART:20261124T211500
 DTEND:20261124T231500
@@ -1965,6 +1882,46 @@ URL:https://ticketing.uswest.veezi.com/purchase/7982?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hannah and Her Sisters - 35MM @ ROXY CINEMA NEW YORK
+DTSTART:20261130T213000
+DTEND:20261130T233000
+DESCRIPTION:Dir: N/A (1986)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 996?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7996?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghost World - 35mm & Difficult People + Q&A @ ROXY CINEMA NEW YORK
+DTSTART:20261201T183000
+DTEND:20261201T203000
+DESCRIPTION:Dir: N/A (2001)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 991?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7991?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Talk To Her - 35MM @ ROXY CINEMA NEW YORK
+DTSTART:20261201T213000
+DTEND:20261201T233000
+DESCRIPTION:Dir: N/A (2002)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 997?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7997?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bouchra @ ROXY CINEMA NEW YORK
+DTSTART:20261202T190000
+DTEND:20261202T210000
+DESCRIPTION:Dir: N/A (2024)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 992?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7992?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Leonora in the Morning Light + Q&A @ ROXY CINEMA NEW YORK
 DTSTART:20261202T210000
 DTEND:20261202T230000
@@ -1972,6 +1929,16 @@ DESCRIPTION:Dir: N/A (2025)\nhttps://ticketing.uswest.veezi.com/purchase/7
  987?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7987?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghost World - 35MM @ ROXY CINEMA NEW YORK
+DTSTART:20261203T153000
+DTEND:20261203T173000
+DESCRIPTION:Dir: N/A (2001)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 998?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7998?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
@@ -2012,6 +1979,56 @@ DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
  993?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7993?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Can See Everything @ ROXY CINEMA NEW YORK
+DTSTART:20261205T170000
+DTEND:20261205T190000
+DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 002?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8002?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Talk To Her - 35MM @ ROXY CINEMA NEW YORK
+DTSTART:20261205T203000
+DTEND:20261205T223000
+DESCRIPTION:Dir: N/A (2002)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 003?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8003?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ghost World - 35MM @ ROXY CINEMA NEW YORK
+DTSTART:20261206T140000
+DTEND:20261206T160000
+DESCRIPTION:Dir: N/A (2001)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 000?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8000?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bouchra @ ROXY CINEMA NEW YORK
+DTSTART:20261212T170000
+DTEND:20261212T190000
+DESCRIPTION:Dir: N/A (2024)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 001?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8001?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leonora in the Morning Light + Q&A @ ROXY CINEMA NEW YORK
+DTSTART:20261218T163000
+DTEND:20261218T183000
+DESCRIPTION:Dir: N/A (2025)\nhttps://ticketing.uswest.veezi.com/purchase/7
+ 995?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/7995?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 END:VCALENDAR
