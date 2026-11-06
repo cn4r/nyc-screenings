@@ -54,11 +54,10 @@ BEGIN:VEVENT
 SUMMARY:Cría Cuervos @ METROGRAPH
 DTSTART:20261106T183500
 DTEND:20261106T203500
-DESCRIPTION:Dir: Carlos  Saura (1976)\nhttps://t.metrograph.com/Ticketing/
- visSelectTickets.aspx?cinemacode=9999&txtSessionId=31285
+DESCRIPTION:Dir: Carlos  Saura (1976)\nhttps://metrograph.com/film/9999004
+ 160-cria-cuervos/
 LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31285
+URL:https://metrograph.com/film/9999004160-cria-cuervos/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chinese Roulette @ METROGRAPH
@@ -181,11 +180,10 @@ BEGIN:VEVENT
 SUMMARY:The Woman in the Window @ METROGRAPH
 DTSTART:20261107T204500
 DTEND:20261107T224500
-DESCRIPTION:Dir: Fritz Lang (1944)\nhttps://t.metrograph.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=9999&txtSessionId=31297
+DESCRIPTION:Dir: Fritz Lang (1944)\nhttps://metrograph.com/film/9999005072
+ -the-woman-in-the-window/
 LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31297
+URL:https://metrograph.com/film/9999005072-the-woman-in-the-window/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tenebrae @ METROGRAPH
@@ -844,7 +842,7 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31381
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Secrets and Lies @ METROGRAPH
+SUMMARY:Secrets & Lies @ METROGRAPH
 DTSTART:20261121T171500
 DTEND:20261121T191500
 DESCRIPTION:Dir: Mike  Leigh (1996)\nhttps://t.metrograph.com/Ticketing/vi
@@ -1035,7 +1033,7 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31406
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Secrets and Lies @ METROGRAPH
+SUMMARY:Secrets & Lies @ METROGRAPH
 DTSTART:20261127T131500
 DTEND:20261127T151500
 DESCRIPTION:Dir: Mike  Leigh (1996)\nhttps://t.metrograph.com/Ticketing/vi
@@ -1355,27 +1353,6 @@ DESCRIPTION:Dir: Pier Paolo Pasolini (1975)\nhttps://t.metrograph.com/Tick
 LOCATION:METROGRAPH
 URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31433
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Draughtsman's Contract + Live Performance @ ROXY CINEMA NEW YO
- RK
-DTSTART:20261105T190000
-DTEND:20261105T210000
-DESCRIPTION:Dir: N/A (1982)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 823?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7823?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Peregrine Falcon + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20261105T214500
-DTEND:20261105T234500
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 908?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7908?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leonora in the Morning Light + Q&A @ ROXY CINEMA NEW YORK
@@ -1740,6 +1717,16 @@ URL:https://ticketing.uswest.veezi.com/purchase/7944?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wings of Desire @ ROXY CINEMA NEW YORK
+DTSTART:20261123T220000
+DTEND:20261124T000000
+DESCRIPTION:Dir: N/A (1987)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 006?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8006?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hannah and Her Sisters - 35MM @ ROXY CINEMA NEW YORK
 DTSTART:20261124T190000
 DTEND:20261124T210000
@@ -1798,6 +1785,16 @@ DESCRIPTION:Dir: N/A (2025)\nhttps://ticketing.uswest.veezi.com/purchase/7
  942?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7942?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wings of Desire @ ROXY CINEMA NEW YORK
+DTSTART:20261127T213000
+DTEND:20261127T233000
+DESCRIPTION:Dir: N/A (1987)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 007?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8007?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
@@ -1962,6 +1959,16 @@ URL:https://ticketing.uswest.veezi.com/purchase/7999?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Leonora in the Morning Light + Q&A @ ROXY CINEMA NEW YORK
+DTSTART:20261204T160000
+DTEND:20261204T180000
+DESCRIPTION:Dir: N/A (2025)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 005?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8005?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Our Hero\, Balthazar + Q&A @ ROXY CINEMA NEW YORK
 DTSTART:20261204T190000
 DTEND:20261204T210000
@@ -1969,6 +1976,16 @@ DESCRIPTION:Dir: N/A (2025)\nhttps://ticketing.uswest.veezi.com/purchase/7
  994?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7994?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drinking and Driving @ ROXY CINEMA NEW YORK
+DTSTART:20261204T213000
+DTEND:20261204T233000
+DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 004?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8004?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
@@ -2013,8 +2030,8 @@ URL:https://ticketing.uswest.veezi.com/purchase/8000?siteToken=tt17e5ajy3v
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bouchra @ ROXY CINEMA NEW YORK
-DTSTART:20261212T170000
-DTEND:20261212T190000
+DTSTART:20261212T163000
+DTEND:20261212T183000
 DESCRIPTION:Dir: N/A (2024)\nhttps://ticketing.uswest.veezi.com/purchase/8
  001?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
