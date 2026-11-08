@@ -2,113 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:Far From Heaven @ METROGRAPH
-DTSTART:20261107T120000
-DTEND:20261107T140000
-DESCRIPTION:Dir: Todd Haynes (2002)\nhttps://t.metrograph.com/Ticketing/vi
- sSelectTickets.aspx?cinemacode=9999&txtSessionId=31291
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31291
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Housemaid @ METROGRAPH
-DTSTART:20261107T120000
-DTEND:20261107T140000
-DESCRIPTION:Dir: Kim Ki-young (1960)\nhttps://t.metrograph.com/Ticketing/v
- isSelectTickets.aspx?cinemacode=9999&txtSessionId=31290
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31290
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Detour @ METROGRAPH
-DTSTART:20261107T141000
-DTEND:20261107T161000
-DESCRIPTION:Dir: Edgar G. Ulmer (1945)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31296
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31296
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Two Seasons\, Two Strangers preceded by Nagahama @ METROGRAPH
-DTSTART:20261107T141500
-DTEND:20261107T161500
-DESCRIPTION:Dir: Sho Miyake (2025)\nhttps://t.metrograph.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=9999&txtSessionId=31311
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31311
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:After Winter Comes Spring @ METROGRAPH
-DTSTART:20261107T154000
-DTEND:20261107T174000
-DESCRIPTION:Dir: Helke Misselwitz (1998)\nhttps://t.metrograph.com/Ticketi
- ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31295
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31295
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:zi @ METROGRAPH
-DTSTART:20261107T171500
-DTEND:20261107T191500
-DESCRIPTION:Dir: Kogonada . (2026)\nhttps://metrograph.com/film/9999005068
- -zi/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/9999005068-zi/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Small\, Slow But Steady @ METROGRAPH
-DTSTART:20261107T180000
-DTEND:20261107T200000
-DESCRIPTION:Dir: Sho Miyake (2022)\nhttps://metrograph.com/film/9999005078
- -small-slow-but-steady/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/9999005078-small-slow-but-steady/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asako I & II @ METROGRAPH
-DTSTART:20261107T201000
-DTEND:20261107T221000
-DESCRIPTION:Dir: Ryusuke Hamaguchi (2019)\nhttps://t.metrograph.com/Ticket
- ing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31294
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31294
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Woman in the Window @ METROGRAPH
-DTSTART:20261107T204500
-DTEND:20261107T224500
-DESCRIPTION:Dir: Fritz Lang (1944)\nhttps://metrograph.com/film/9999005072
- -the-woman-in-the-window/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/9999005072-the-woman-in-the-window/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tenebrae @ METROGRAPH
-DTSTART:20261107T224500
-DTEND:20261108T004500
-DESCRIPTION:Dir: Dario Argento (1982)\nhttps://t.metrograph.com/Ticketing/
- visSelectTickets.aspx?cinemacode=9999&txtSessionId=31299
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31299
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brood @ METROGRAPH
-DTSTART:20261107T225000
-DTEND:20261108T005000
-DESCRIPTION:Dir: David Cronenberg (1979)\nhttps://t.metrograph.com/Ticketi
- ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31298
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31298
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Spellbound @ METROGRAPH
 DTSTART:20261108T113000
 DTEND:20261108T133000
@@ -1388,16 +1281,6 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31458
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:On Cinematography: Arthur Jafa & Bradford Young @ METROGRAPH
-DTSTART:20261204T190000
-DTEND:20261204T210000
-DESCRIPTION:Dir: Julie Dash (1991)\nhttps://t.metrograph.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=9999&txtSessionId=31454
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31454
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Museum Hours @ METROGRAPH
 DTSTART:20261204T191500
 DTEND:20261204T211500
@@ -1638,16 +1521,6 @@ DESCRIPTION:Dir: Kon Ichikawa (1976)\nhttps://t.metrograph.com/Ticketing/v
 LOCATION:METROGRAPH
 URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31478
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Personal Problems @ ROXY CINEMA NEW YORK
-DTSTART:20261107T153000
-DTEND:20261107T173000
-DESCRIPTION:Dir: N/A (1980)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 945?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7945?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tickled (10 Year Anniversary) + Q&A @ ROXY CINEMA NEW YORK
