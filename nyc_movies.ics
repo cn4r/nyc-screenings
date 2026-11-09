@@ -2,111 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:Spellbound @ METROGRAPH
-DTSTART:20261108T113000
-DTEND:20261108T133000
-DESCRIPTION:Dir: Alfred Hitchcock (1945)\nhttps://t.metrograph.com/Ticketi
- ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31300
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31300
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The General @ METROGRAPH
-DTSTART:20261108T120000
-DTEND:20261108T140000
-DESCRIPTION:Dir: Buster Keaton\, Clyde Bruckman (1926)\nhttps://t.metrogra
- ph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31301
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Matías Piñeiro presents Hermia & Helena @ METROGRAPH
-DTSTART:20261108T135000
-DTEND:20261108T155000
-DESCRIPTION:Dir: Matías Piñeiro (2016)\nhttps://t.metrograph.com/Ticketi
- ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31302
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31302
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Je t'aime\, je t'aime @ METROGRAPH
-DTSTART:20261108T140000
-DTEND:20261108T160000
-DESCRIPTION:Dir: Alain Resnais (1968)\nhttps://metrograph.com/film/9999005
- 075-je-taime-je-taime/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/9999005075-je-taime-je-taime/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Suzhou River @ METROGRAPH
-DTSTART:20261108T160000
-DTEND:20261108T180000
-DESCRIPTION:Dir: Ye Lou (2000)\nhttps://metrograph.com/film/9999003167-suz
- hou-river/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/9999003167-suzhou-river/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Columbus @ METROGRAPH
-DTSTART:20261108T161500
-DTEND:20261108T181500
-DESCRIPTION:Dir: Kogonada . (2017)\nhttps://metrograph.com/film/9999005076
- -columbus/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/9999005076-columbus/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Gorgon @ METROGRAPH
-DTSTART:20261108T174500
-DTEND:20261108T194500
-DESCRIPTION:Dir: Terence Fisher (1964)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31305
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31305
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:zi @ METROGRAPH
-DTSTART:20261108T190000
-DTEND:20261108T210000
-DESCRIPTION:Dir: Kogonada . (2026)\nhttps://t.metrograph.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=9999&txtSessionId=31309
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31309
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crystal Voyager @ METROGRAPH
-DTSTART:20261108T193000
-DTEND:20261108T213000
-DESCRIPTION:Dir: David Elfick (1973)\nhttps://metrograph.com/film/99990010
- 20-crystal-voyager/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/9999001020-crystal-voyager/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sad Vacation @ METROGRAPH
-DTSTART:20261108T211500
-DTEND:20261108T231500
-DESCRIPTION:Dir: Shinji Aoyama (2007)\nhttps://t.metrograph.com/Ticketing/
- visSelectTickets.aspx?cinemacode=9999&txtSessionId=31308
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31308
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lost Highway @ METROGRAPH
-DTSTART:20261108T212000
-DTEND:20261108T232000
-DESCRIPTION:Dir: David Lynch (1997)\nhttps://metrograph.com/film/999900120
- 8-lost-highway/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/9999001208-lost-highway/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Brief Encounter @ METROGRAPH
 DTSTART:20261111T152000
 DTEND:20261111T172000
@@ -217,16 +112,6 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31334
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Je t'aime\, je t'aime @ METROGRAPH
-DTSTART:20261113T170000
-DTEND:20261113T190000
-DESCRIPTION:Dir: Alain Resnais (1968)\nhttps://t.metrograph.com/Ticketing/
- visSelectTickets.aspx?cinemacode=9999&txtSessionId=31340
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31340
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Members Only Preview: All of a Sudden @ METROGRAPH
 DTSTART:20261113T170000
 DTEND:20261113T190000
@@ -235,6 +120,16 @@ DESCRIPTION:Dir: Ryusuke Hamaguchi (2026)\nhttps://metrograph.com/film/999
 LOCATION:METROGRAPH
 URL:https://metrograph.com/film/9999005080-members-only-preview-all-of-a-s
  udden/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Je t'aime\, je t'aime @ METROGRAPH
+DTSTART:20261113T170000
+DTEND:20261113T190000
+DESCRIPTION:Dir: Alain Resnais (1968)\nhttps://t.metrograph.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=9999&txtSessionId=31340
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31340
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Playback @ METROGRAPH
@@ -1523,26 +1418,6 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31478
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tickled (10 Year Anniversary) + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20261108T170000
-DTEND:20261108T190000
-DESCRIPTION:Dir: N/A (2016)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 898?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7898?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tripolar the Movie + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20261108T193000
-DTEND:20261108T213000
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 914?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7914?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gorilla Gorilla + Q&A @ ROXY CINEMA NEW YORK
 DTSTART:20261109T203000
 DTEND:20261109T223000
@@ -2007,6 +1882,16 @@ URL:https://ticketing.uswest.veezi.com/purchase/7982?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Water is Always Warm + Q&A @ ROXY CINEMA NEW YORK
+DTSTART:20261130T213000
+DTEND:20261130T233000
+DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 017?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8017?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ghost World - 35mm & Difficult People + Q&A @ ROXY CINEMA NEW YORK
 DTSTART:20261201T183000
 DTEND:20261201T203000
@@ -2167,6 +2052,27 @@ URL:https://ticketing.uswest.veezi.com/purchase/8016?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Fence @ ROXY CINEMA NEW YORK
+DTSTART:20261211T161500
+DTEND:20261211T181500
+DESCRIPTION:Dir: N/A (2025)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 011?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8011?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Castration Movie ⅗ Year of the Hyaena + Q&A @ ROXY CINEMA NEW YO
+ RK
+DTSTART:20261211T183000
+DTEND:20261211T203000
+DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 018?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8018?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bouchra @ ROXY CINEMA NEW YORK
 DTSTART:20261212T163000
 DTEND:20261212T183000
@@ -2174,6 +2080,38 @@ DESCRIPTION:Dir: N/A (2024)\nhttps://ticketing.uswest.veezi.com/purchase/8
  001?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/8001?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A. Rimbaud @ ROXY CINEMA NEW YORK
+DTSTART:20261213T120000
+DTEND:20261213T140000
+DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 008?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8008?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Castration Movie Chapter iii. Junior Ghosts—Premorphic Drift\; a
+  fragmentary passage @ ROXY CINEMA NEW YORK
+DTSTART:20261213T153000
+DTEND:20261213T173000
+DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 014?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8014?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Castration Movie ⅗ Year of the Hyaena + Q&A @ ROXY CINEMA NEW YO
+ RK
+DTSTART:20261213T180000
+DTEND:20261213T200000
+DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 019?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8019?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
