@@ -215,11 +215,11 @@ BEGIN:VEVENT
 SUMMARY:And Your Bird Can Sing preceded by August 8th @ METROGRAPH
 DTSTART:20261114T151000
 DTEND:20261114T171000
-DESCRIPTION:Dir: Sho Miyake (2018)\nhttps://t.metrograph.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=9999&txtSessionId=31344
+DESCRIPTION:Dir: Sho Miyake (2018)\nhttps://metrograph.com/film/9999005084
+ -and-your-bird-can-sing-preceded-by-august-8th/
 LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31344
+URL:https://metrograph.com/film/9999005084-and-your-bird-can-sing-preceded
+ -by-august-8th/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All the Long Nights @ METROGRAPH
@@ -1176,6 +1176,16 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31458
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:On Cinematography: Arthur Jafa & Bradford Young @ METROGRAPH
+DTSTART:20261204T190000
+DTEND:20261204T210000
+DESCRIPTION:Dir: Julie Dash (1991)\nhttps://t.metrograph.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=9999&txtSessionId=31454
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31454
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Museum Hours @ METROGRAPH
 DTSTART:20261204T191500
 DTEND:20261204T211500
@@ -1244,16 +1254,6 @@ DESCRIPTION:Dir: Derek Jarman\, Stan Brakhage (1993)\nhttps://t.metrograph
 LOCATION:METROGRAPH
 URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31462
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Inugami Family @ METROGRAPH
-DTSTART:20261205T151000
-DTEND:20261205T171000
-DESCRIPTION:Dir: Kon Ichikawa (1976)\nhttps://t.metrograph.com/Ticketing/v
- isSelectTickets.aspx?cinemacode=9999&txtSessionId=31470
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31470
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Time Indefinite @ METROGRAPH
@@ -1419,8 +1419,8 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gorilla Gorilla + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20261109T203000
-DTEND:20261109T223000
+DTSTART:20271109T203000
+DTEND:20271109T223000
 DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
  933?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
@@ -2022,13 +2022,13 @@ URL:https://ticketing.uswest.veezi.com/purchase/8003?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ghost World - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20261206T140000
-DTEND:20261206T160000
-DESCRIPTION:Dir: N/A (2001)\nhttps://ticketing.uswest.veezi.com/purchase/8
- 000?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+SUMMARY:Concessions - 35MM + Q&A @ ROXY CINEMA NEW YORK
+DTSTART:20261206T200000
+DTEND:20261206T220000
+DESCRIPTION:Dir: N/A (2025)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 020?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/8000?siteToken=tt17e5ajy3v
+URL:https://ticketing.uswest.veezi.com/purchase/8020?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
@@ -2122,6 +2122,36 @@ DESCRIPTION:Dir: N/A (2021)\nhttps://ticketing.uswest.veezi.com/purchase/8
  009?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/8009?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Tree of Life - 35MM @ ROXY CINEMA NEW YORK
+DTSTART:20261214T211500
+DTEND:20261214T231500
+DESCRIPTION:Dir: N/A (2011)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 021?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8021?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Cat in the Hat - 35MM @ ROXY CINEMA NEW YORK
+DTSTART:20261216T190000
+DTEND:20261216T210000
+DESCRIPTION:Dir: N/A (2003)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 022?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8022?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club Kid @ ROXY CINEMA NEW YORK
+DTSTART:20261216T210000
+DTEND:20261216T230000
+DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 013?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8013?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
