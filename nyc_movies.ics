@@ -1179,11 +1179,11 @@ BEGIN:VEVENT
 SUMMARY:On Cinematography: Arthur Jafa & Bradford Young @ METROGRAPH
 DTSTART:20261204T190000
 DTEND:20261204T210000
-DESCRIPTION:Dir: Julie Dash (1991)\nhttps://t.metrograph.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=9999&txtSessionId=31454
+DESCRIPTION:Dir: Julie Dash (1991)\nhttps://metrograph.com/film/9999005112
+ -on-cinematography-arthur-jafa-bradford-young/
 LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31454
+URL:https://metrograph.com/film/9999005112-on-cinematography-arthur-jafa-b
+ radford-young/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Museum Hours @ METROGRAPH
@@ -1197,8 +1197,8 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Michael Mann's Manhunter: The Final Cut @ METROGRAPH
-DTSTART:20261204T220500
-DTEND:20261205T000500
+DTSTART:20261204T220000
+DTEND:20261205T000000
 DESCRIPTION:Dir: Michael Mann (1986)\nhttps://t.metrograph.com/Ticketing/v
  isSelectTickets.aspx?cinemacode=9999&txtSessionId=31455
 LOCATION:METROGRAPH
@@ -1254,6 +1254,16 @@ DESCRIPTION:Dir: Derek Jarman\, Stan Brakhage (1993)\nhttps://t.metrograph
 LOCATION:METROGRAPH
 URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31462
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Inugami Family @ METROGRAPH
+DTSTART:20261205T151500
+DTEND:20261205T171500
+DESCRIPTION:Dir: Kon Ichikawa (1976)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=31484
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31484
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Time Indefinite @ METROGRAPH
@@ -1356,6 +1366,16 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31474
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Daughters of the Dust @ METROGRAPH
+DTSTART:20261206T140000
+DTEND:20261206T160000
+DESCRIPTION:Dir: Julie Dash (1991)\nhttps://t.metrograph.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=9999&txtSessionId=31485
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31485
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Leviathan @ METROGRAPH
 DTSTART:20261206T161500
 DTEND:20261206T181500
@@ -1418,29 +1438,9 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31478
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gorilla Gorilla + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20271109T203000
-DTEND:20271109T223000
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 933?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7933?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Salome Learns to Dance + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20261110T190000
-DTEND:20261110T210000
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 913?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7913?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Primetime @ ROXY CINEMA NEW YORK
-DTSTART:20261110T213000
-DTEND:20261110T233000
+DTSTART:20271110T213000
+DTEND:20271110T233000
 DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
  951?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
