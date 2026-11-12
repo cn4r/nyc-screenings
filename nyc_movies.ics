@@ -2,76 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:Brief Encounter @ METROGRAPH
-DTSTART:20261111T152000
-DTEND:20261111T172000
-DESCRIPTION:Dir: David Lean (1945)\nhttps://t.metrograph.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=9999&txtSessionId=31401
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31401
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Autumn Sonata @ METROGRAPH
-DTSTART:20261111T153000
-DTEND:20261111T173000
-DESCRIPTION:Dir: Ingmar Bergman (1978)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31398
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31398
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Trouble with Harry @ METROGRAPH
-DTSTART:20261111T171500
-DTEND:20261111T191500
-DESCRIPTION:Dir: Alfred Hitchcock (1955)\nhttps://t.metrograph.com/Ticketi
- ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31402
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31402
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beetlejuice @ METROGRAPH
-DTSTART:20261111T173000
-DTEND:20261111T193000
-DESCRIPTION:Dir: Tim Burton (1988)\nhttps://t.metrograph.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=9999&txtSessionId=31399
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31399
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:zi @ METROGRAPH
-DTSTART:20261111T193000
-DTEND:20261111T213000
-DESCRIPTION:Dir: Kogonada . (2026)\nhttps://t.metrograph.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=9999&txtSessionId=31400
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31400
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blade Runner: The Final Cut @ METROGRAPH
-DTSTART:20261111T214500
-DTEND:20261111T234500
-DESCRIPTION:Dir: Ridley Scott (1982)\nhttps://t.metrograph.com/Ticketing/v
- isSelectTickets.aspx?cinemacode=9999&txtSessionId=31404
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31404
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Horror of Dracula @ METROGRAPH
-DTSTART:20261111T224500
-DTEND:20261112T004500
-DESCRIPTION:Dir: Terence Fisher (1958)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31403
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31403
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sans Soleil @ METROGRAPH
 DTSTART:20261112T130000
 DTEND:20261112T150000
@@ -165,11 +95,10 @@ BEGIN:VEVENT
 SUMMARY:Tenebrae @ METROGRAPH
 DTSTART:20261113T230000
 DTEND:20261114T010000
-DESCRIPTION:Dir: Dario Argento (1982)\nhttps://t.metrograph.com/Ticketing/
- visSelectTickets.aspx?cinemacode=9999&txtSessionId=31338
+DESCRIPTION:Dir: Dario Argento (1982)\nhttps://metrograph.com/film/9999005
+ 073-tenebrae/
 LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31338
+URL:https://metrograph.com/film/9999005073-tenebrae/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drive @ METROGRAPH
@@ -225,11 +154,10 @@ BEGIN:VEVENT
 SUMMARY:All the Long Nights @ METROGRAPH
 DTSTART:20261114T174000
 DTEND:20261114T194000
-DESCRIPTION:Dir: Sho Miyake (2024)\nhttps://t.metrograph.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=9999&txtSessionId=31345
+DESCRIPTION:Dir: Sho Miyake (2024)\nhttps://metrograph.com/film/9999005085
+ -all-the-long-nights/
 LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31345
+URL:https://metrograph.com/film/9999005085-all-the-long-nights/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Slither @ METROGRAPH
@@ -1438,29 +1366,9 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31478
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Primetime @ ROXY CINEMA NEW YORK
-DTSTART:20271110T213000
-DTEND:20271110T233000
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 951?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7951?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tracks (4K Restoration) + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20261111T190000
-DTEND:20261111T210000
-DESCRIPTION:Dir: N/A (1976)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 915?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7915?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gorilla Gorilla + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20261111T213000
-DTEND:20261111T233000
+DTSTART:20271111T213000
+DTEND:20271111T233000
 DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
  934?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
