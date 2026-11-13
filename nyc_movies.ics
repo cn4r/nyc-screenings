@@ -2,26 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:Sans Soleil @ METROGRAPH
-DTSTART:20261112T130000
-DTEND:20261112T150000
-DESCRIPTION:Dir: Chris Marker (1983)\nhttps://t.metrograph.com/Ticketing/v
- isSelectTickets.aspx?cinemacode=9999&txtSessionId=31396
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31396
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:zi @ METROGRAPH
-DTSTART:20261112T131500
-DTEND:20261112T151500
-DESCRIPTION:Dir: Kogonada . (2026)\nhttps://t.metrograph.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=9999&txtSessionId=31397
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31397
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Killing of a Sacred Deer @ METROGRAPH
 DTSTART:20261113T143000
 DTEND:20261113T163000
@@ -55,21 +35,19 @@ BEGIN:VEVENT
 SUMMARY:Je t'aime\, je t'aime @ METROGRAPH
 DTSTART:20261113T170000
 DTEND:20261113T190000
-DESCRIPTION:Dir: Alain Resnais (1968)\nhttps://t.metrograph.com/Ticketing/
- visSelectTickets.aspx?cinemacode=9999&txtSessionId=31340
+DESCRIPTION:Dir: Alain Resnais (1968)\nhttps://metrograph.com/film/9999005
+ 075-je-taime-je-taime/
 LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31340
+URL:https://metrograph.com/film/9999005075-je-taime-je-taime/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Playback @ METROGRAPH
 DTSTART:20261113T190000
 DTEND:20261113T210000
-DESCRIPTION:Dir: Sho Miyake (2012)\nhttps://t.metrograph.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=9999&txtSessionId=31336
+DESCRIPTION:Dir: Sho Miyake (2012)\nhttps://metrograph.com/film/9999005081
+ -playback/
 LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31336
+URL:https://metrograph.com/film/9999005081-playback/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:In Bed with Victoria @ METROGRAPH
@@ -1364,16 +1342,6 @@ DESCRIPTION:Dir: Kon Ichikawa (1976)\nhttps://t.metrograph.com/Ticketing/v
 LOCATION:METROGRAPH
 URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31478
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gorilla Gorilla + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20271111T213000
-DTEND:20271111T233000
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 934?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7934?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Primetime @ ROXY CINEMA NEW YORK
