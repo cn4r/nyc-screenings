@@ -2,105 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:Les rendez-vous d'Anna @ METROGRAPH
-DTSTART:20261114T122000
-DTEND:20261114T142000
-DESCRIPTION:Dir: Chantal  Akerman (1978)\nhttps://t.metrograph.com/Ticketi
- ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31341
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31341
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Souvenir @ METROGRAPH
-DTSTART:20261114T123500
-DTEND:20261114T143500
-DESCRIPTION:Dir: Joanna Hogg (2019)\nhttps://t.metrograph.com/Ticketing/vi
- sSelectTickets.aspx?cinemacode=9999&txtSessionId=31342
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31342
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shutter Island @ METROGRAPH
-DTSTART:20261114T150000
-DTEND:20261114T170000
-DESCRIPTION:Dir: Martin Scorsese (2010)\nhttps://t.metrograph.com/Ticketin
- g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31343
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31343
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:And Your Bird Can Sing preceded by August 8th @ METROGRAPH
-DTSTART:20261114T151000
-DTEND:20261114T171000
-DESCRIPTION:Dir: Sho Miyake (2018)\nhttps://metrograph.com/film/9999005084
- -and-your-bird-can-sing-preceded-by-august-8th/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/9999005084-and-your-bird-can-sing-preceded
- -by-august-8th/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All the Long Nights @ METROGRAPH
-DTSTART:20261114T174000
-DTEND:20261114T194000
-DESCRIPTION:Dir: Sho Miyake (2024)\nhttps://metrograph.com/film/9999005085
- -all-the-long-nights/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/9999005085-all-the-long-nights/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Slither @ METROGRAPH
-DTSTART:20261114T174500
-DTEND:20261114T194500
-DESCRIPTION:Dir: Howard Zieff (1973)\nhttps://t.metrograph.com/Ticketing/v
- isSelectTickets.aspx?cinemacode=9999&txtSessionId=31346
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31346
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The State of Things @ METROGRAPH
-DTSTART:20261114T200000
-DTEND:20261114T220000
-DESCRIPTION:Dir: Wim Wenders (1982)\nhttps://t.metrograph.com/Ticketing/vi
- sSelectTickets.aspx?cinemacode=9999&txtSessionId=31347
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31347
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Killing of a Sacred Deer @ METROGRAPH
-DTSTART:20261114T201000
-DTEND:20261114T221000
-DESCRIPTION:Dir: Yorgos Lanthimos (2017)\nhttps://t.metrograph.com/Ticketi
- ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31348
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31348
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lost Highway @ METROGRAPH
-DTSTART:20261114T223500
-DTEND:20261115T003500
-DESCRIPTION:Dir: David Lynch (1997)\nhttps://t.metrograph.com/Ticketing/vi
- sSelectTickets.aspx?cinemacode=9999&txtSessionId=31350
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31350
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brood @ METROGRAPH
-DTSTART:20261114T224500
-DTEND:20261115T004500
-DESCRIPTION:Dir: David Cronenberg (1979)\nhttps://t.metrograph.com/Ticketi
- ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31349
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31349
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:zi @ METROGRAPH
 DTSTART:20261115T110000
 DTEND:20261115T130000
@@ -114,11 +15,11 @@ BEGIN:VEVENT
 SUMMARY:Wallace & Gromit: The Classic Shorts @ METROGRAPH
 DTSTART:20261115T111500
 DTEND:20261115T131500
-DESCRIPTION:Dir: Nick  Park (1995)\nhttps://t.metrograph.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=9999&txtSessionId=31352
+DESCRIPTION:Dir: Nick  Park (1995)\nhttps://metrograph.com/film/9999005087
+ -wallace-gromit-the-classic-shorts/
 LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31352
+URL:https://metrograph.com/film/9999005087-wallace-gromit-the-classic-shor
+ ts/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Benedetta @ METROGRAPH
@@ -1741,30 +1642,9 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31537
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:16mm Cartoons: Raunchy\, Sexy & Risqué + Q&A @ ROXY CINEMA NEW YO
- RK
-DTSTART:20261114T140000
-DTEND:20261114T160000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://ticketing.uswest.veezi.com/purchase/79
- 49?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7949?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Baby + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20261114T163000
-DTEND:20261114T183000
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 941?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7941?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Landlord - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20261114T190000
-DTEND:20261114T210000
+DTSTART:20271114T190000
+DTEND:20271114T210000
 DESCRIPTION:Dir: N/A (1970)\nhttps://ticketing.uswest.veezi.com/purchase/7
  938?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
@@ -1773,8 +1653,8 @@ URL:https://ticketing.uswest.veezi.com/purchase/7938?siteToken=tt17e5ajy3v
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Harakiri\, I Miss You + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20261114T211500
-DTEND:20261114T231500
+DTSTART:20271114T211500
+DTEND:20271114T231500
 DESCRIPTION:Dir: N/A (2025)\nhttps://ticketing.uswest.veezi.com/purchase/7
  939?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
@@ -2316,13 +2196,13 @@ URL:https://ticketing.uswest.veezi.com/purchase/8018?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bouchra @ ROXY CINEMA NEW YORK
-DTSTART:20261212T163000
-DTEND:20261212T183000
-DESCRIPTION:Dir: N/A (2024)\nhttps://ticketing.uswest.veezi.com/purchase/8
- 001?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+SUMMARY:Love Exposure @ ROXY CINEMA NEW YORK
+DTSTART:20261212T200000
+DTEND:20261212T220000
+DESCRIPTION:Dir: N/A (2008)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 023?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/8001?siteToken=tt17e5ajy3v
+URL:https://ticketing.uswest.veezi.com/purchase/8023?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
