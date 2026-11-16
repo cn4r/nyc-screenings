@@ -2,126 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:zi @ METROGRAPH
-DTSTART:20261115T110000
-DTEND:20261115T130000
-DESCRIPTION:Dir: Kogonada . (2026)\nhttps://t.metrograph.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=9999&txtSessionId=31351
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31351
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wallace & Gromit: The Classic Shorts @ METROGRAPH
-DTSTART:20261115T111500
-DTEND:20261115T131500
-DESCRIPTION:Dir: Nick  Park (1995)\nhttps://metrograph.com/film/9999005087
- -wallace-gromit-the-classic-shorts/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/9999005087-wallace-gromit-the-classic-shor
- ts/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Benedetta @ METROGRAPH
-DTSTART:20261115T131000
-DTEND:20261115T151000
-DESCRIPTION:Dir: Paul Verhoeven (2021)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31353
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31353
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Souvenir @ METROGRAPH
-DTSTART:20261115T131500
-DTEND:20261115T151500
-DESCRIPTION:Dir: Joanna Hogg (2019)\nhttps://t.metrograph.com/Ticketing/vi
- sSelectTickets.aspx?cinemacode=9999&txtSessionId=31354
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31354
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Somewhere in the Night @ METROGRAPH
-DTSTART:20261115T154000
-DTEND:20261115T174000
-DESCRIPTION:Dir: Joseph L.  Mankiewicz (1946)\nhttps://t.metrograph.com/Ti
- cketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31355
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31355
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lorraine O'Grady: Rivers\, First Draft Performance @ METROGRAPH
-DTSTART:20261115T154500
-DTEND:20261115T174500
-DESCRIPTION:Dir: Lorraine O'Grady\, Zawe Ashton (1982)\nhttps://t.metrogra
- ph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31362
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31362
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Woman on the Beach @ METROGRAPH
-DTSTART:20261115T180000
-DTEND:20261115T200000
-DESCRIPTION:Dir: Jean  Renoir (1947)\nhttps://t.metrograph.com/Ticketing/v
- isSelectTickets.aspx?cinemacode=9999&txtSessionId=31356
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31356
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Cockpit @ METROGRAPH
-DTSTART:20261115T181500
-DTEND:20261115T201500
-DESCRIPTION:Dir: Sho Miyake (2014)\nhttps://t.metrograph.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=9999&txtSessionId=31361
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31361
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Celebration @ METROGRAPH
-DTSTART:20261115T194000
-DTEND:20261115T214000
-DESCRIPTION:Dir: Thomas Vinterbergs (1998)\nhttps://t.metrograph.com/Ticke
- ting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31357
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31357
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Detour @ METROGRAPH
-DTSTART:20261115T200000
-DTEND:20261115T220000
-DESCRIPTION:Dir: Edgar G. Ulmer (1945)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31360
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31360
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tenebrae @ METROGRAPH
-DTSTART:20261115T214500
-DTEND:20261115T234500
-DESCRIPTION:Dir: Dario Argento (1982)\nhttps://t.metrograph.com/Ticketing/
- visSelectTickets.aspx?cinemacode=9999&txtSessionId=31359
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31359
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drive @ METROGRAPH
-DTSTART:20261115T215000
-DTEND:20261115T235000
-DESCRIPTION:Dir: Nicolas  Winding Refn (2011)\nhttps://t.metrograph.com/Ti
- cketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31358
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31358
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rushmore @ METROGRAPH
 DTSTART:20261116T141500
 DTEND:20261116T161500
@@ -396,11 +276,11 @@ BEGIN:VEVENT
 SUMMARY:Wallace & Gromit: The Classic Shorts @ METROGRAPH
 DTSTART:20261122T111500
 DTEND:20261122T131500
-DESCRIPTION:Dir: Nick  Park (1995)\nhttps://t.metrograph.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=9999&txtSessionId=31383
+DESCRIPTION:Dir: Nick  Park (1995)\nhttps://metrograph.com/film/9999005087
+ -wallace-gromit-the-classic-shorts/
 LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31383
+URL:https://metrograph.com/film/9999005087-wallace-gromit-the-classic-shor
+ ts/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Rescuers @ METROGRAPH
@@ -1642,56 +1522,6 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31537
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Landlord - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20271114T190000
-DTEND:20271114T210000
-DESCRIPTION:Dir: N/A (1970)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 938?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7938?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Harakiri\, I Miss You + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20271114T211500
-DTEND:20271114T231500
-DESCRIPTION:Dir: N/A (2025)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 939?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7939?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Losing Ground @ ROXY CINEMA NEW YORK
-DTSTART:20261115T150000
-DTEND:20261115T170000
-DESCRIPTION:Dir: N/A (1982)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 940?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7940?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gorilla Gorilla + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20261115T170000
-DTEND:20261115T190000
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 935?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7935?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Domestics @ ROXY CINEMA NEW YORK
-DTSTART:20261115T193000
-DTEND:20261115T213000
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 964?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7964?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Angel Levine - 35MM @ ROXY CINEMA NEW YORK
 DTSTART:20261116T190000
 DTEND:20261116T210000
@@ -2258,19 +2088,9 @@ URL:https://ticketing.uswest.veezi.com/purchase/8021?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Cat in the Hat - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20261216T190000
-DTEND:20261216T210000
-DESCRIPTION:Dir: N/A (2003)\nhttps://ticketing.uswest.veezi.com/purchase/8
- 022?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/8022?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Club Kid @ ROXY CINEMA NEW YORK
-DTSTART:20261216T210000
-DTEND:20261216T230000
+DTSTART:20261216T213000
+DTEND:20261216T233000
 DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/8
  013?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
