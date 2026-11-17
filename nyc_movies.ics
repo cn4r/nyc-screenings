@@ -2,96 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:Rushmore @ METROGRAPH
-DTSTART:20261116T141500
-DTEND:20261116T161500
-DESCRIPTION:Dir: Wes Anderson (1998)\nhttps://t.metrograph.com/Ticketing/v
- isSelectTickets.aspx?cinemacode=9999&txtSessionId=31444
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31444
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:News From Home @ METROGRAPH
-DTSTART:20261116T143000
-DTEND:20261116T163000
-DESCRIPTION:Dir: Chantal  Akerman (1976)\nhttps://t.metrograph.com/Ticketi
- ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31443
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31443
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Flavor of Green Tea Over Rice @ METROGRAPH
-DTSTART:20261116T161000
-DTEND:20261116T181000
-DESCRIPTION:Dir: Yasujirô  Ozu (1952)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31445
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31445
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bram Stoker's Dracula @ METROGRAPH
-DTSTART:20261116T163000
-DTEND:20261116T183000
-DESCRIPTION:Dir: Francis Ford  Coppola (1992)\nhttps://t.metrograph.com/Ti
- cketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31447
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31447
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honeycomb @ METROGRAPH
-DTSTART:20261116T182500
-DTEND:20261116T202500
-DESCRIPTION:Dir: Carlos  Saura (1969)\nhttps://t.metrograph.com/Ticketing/
- visSelectTickets.aspx?cinemacode=9999&txtSessionId=31451
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31451
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Night on Earth @ METROGRAPH
-DTSTART:20261116T191000
-DTEND:20261116T211000
-DESCRIPTION:Dir: Jim Jarmusch (1991)\nhttps://t.metrograph.com/Ticketing/v
- isSelectTickets.aspx?cinemacode=9999&txtSessionId=31446
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31446
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tetsuo: The Iron Man @ METROGRAPH
-DTSTART:20261116T203000
-DTEND:20261116T223000
-DESCRIPTION:Dir: Shinya  Tsukamoto (1989)\nhttps://t.metrograph.com/Ticket
- ing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31450
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31450
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rosemary's Baby @ METROGRAPH
-DTSTART:20261116T215000
-DTEND:20261116T235000
-DESCRIPTION:Dir: Roman Polanski (1968)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31448
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31448
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oldboy @ METROGRAPH
-DTSTART:20261116T220000
-DTEND:20261117T000000
-DESCRIPTION:Dir: Park Chan-wook (2003)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31449
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31449
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Memento @ METROGRAPH
 DTSTART:20261120T151000
 DTEND:20261120T171000
@@ -1523,8 +1433,8 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Angel Levine - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20261116T190000
-DTEND:20261116T210000
+DTSTART:20271116T190000
+DTEND:20271116T210000
 DESCRIPTION:Dir: N/A (1970)\nhttps://ticketing.uswest.veezi.com/purchase/7
  965?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
@@ -1533,8 +1443,8 @@ URL:https://ticketing.uswest.veezi.com/purchase/7965?siteToken=tt17e5ajy3v
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Domestics @ ROXY CINEMA NEW YORK
-DTSTART:20261116T211500
-DTEND:20261116T231500
+DTSTART:20271116T211500
+DTEND:20271116T231500
 DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
  966?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
@@ -1623,13 +1533,13 @@ URL:https://ticketing.uswest.veezi.com/purchase/7931?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dinner With Friends + Q&A @ ROXY CINEMA NEW YORK
+SUMMARY:Primetime @ ROXY CINEMA NEW YORK
 DTSTART:20261121T190000
 DTEND:20261121T210000
-DESCRIPTION:Dir: N/A (2025)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 903?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 025?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7903?siteToken=tt17e5ajy3v
+URL:https://ticketing.uswest.veezi.com/purchase/8025?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
@@ -1986,22 +1896,42 @@ URL:https://ticketing.uswest.veezi.com/purchase/8020?siteToken=tt17e5ajy3v
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Song to Song @ ROXY CINEMA NEW YORK
+DTSTART:20261207T183000
+DTEND:20261207T203000
+DESCRIPTION:Dir: N/A (2017)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 035?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8035?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Talk To Her - 35MM @ ROXY CINEMA NEW YORK
+DTSTART:20261207T210000
+DTEND:20261207T230000
+DESCRIPTION:Dir: N/A (2002)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 039?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8039?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Tree of Life - 35MM @ ROXY CINEMA NEW YORK
+DTSTART:20261208T184500
+DTEND:20261208T204500
+DESCRIPTION:Dir: N/A (2011)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 024?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8024?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Song to Song @ ROXY CINEMA NEW YORK
 DTSTART:20261208T213000
 DTEND:20261208T233000
 DESCRIPTION:Dir: N/A (2017)\nhttps://ticketing.uswest.veezi.com/purchase/8
  015?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/8015?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Song to Song @ ROXY CINEMA NEW YORK
-DTSTART:20261210T163000
-DTEND:20261210T183000
-DESCRIPTION:Dir: N/A (2017)\nhttps://ticketing.uswest.veezi.com/purchase/8
- 016?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/8016?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
@@ -2108,6 +2038,26 @@ URL:https://ticketing.uswest.veezi.com/purchase/8010?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Split Rock - 35MM + Q&A @ ROXY CINEMA NEW YORK
+DTSTART:20261217T184500
+DTEND:20261217T204500
+DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 026?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8026?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cinema Tehran presents: Persepolis - 35MM @ ROXY CINEMA NEW YORK
+DTSTART:20261217T213000
+DTEND:20261217T233000
+DESCRIPTION:Dir: N/A (2007)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 027?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8027?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Leonora in the Morning Light + Q&A @ ROXY CINEMA NEW YORK
 DTSTART:20261218T163000
 DTEND:20261218T183000
@@ -2115,6 +2065,86 @@ DESCRIPTION:Dir: N/A (2025)\nhttps://ticketing.uswest.veezi.com/purchase/7
  995?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/7995?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Emotions + Q&A @ ROXY CINEMA NEW YORK
+DTSTART:20261218T191500
+DTEND:20261218T211500
+DESCRIPTION:Dir: N/A (2021)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 030?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8030?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Split Rock - 35MM + Q&A @ ROXY CINEMA NEW YORK
+DTSTART:20261218T213000
+DTEND:20261218T233000
+DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 031?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8031?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spirited Away - 35MM @ ROXY CINEMA NEW YORK
+DTSTART:20261219T150000
+DTEND:20261219T170000
+DESCRIPTION:Dir: N/A (2001)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 032?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8032?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Cat in the Hat - 35MM @ ROXY CINEMA NEW YORK
+DTSTART:20261219T173000
+DTEND:20261219T193000
+DESCRIPTION:Dir: N/A (2003)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 033?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8033?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crocodile Dose @ ROXY CINEMA NEW YORK
+DTSTART:20261219T193000
+DTEND:20261219T213000
+DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 034?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8034?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cinema Tehran presents: Persepolis - 35MM @ ROXY CINEMA NEW YORK
+DTSTART:20261220T150000
+DTEND:20261220T170000
+DESCRIPTION:Dir: N/A (2007)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 028?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8028?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Isaiah's Phone + Q&A @ ROXY CINEMA NEW YORK
+DTSTART:20261220T200000
+DTEND:20261220T220000
+DESCRIPTION:Dir: N/A (2024)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 037?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8037?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cinema Tehran presents: Persepolis - 35MM @ ROXY CINEMA NEW YORK
+DTSTART:20261223T190000
+DTEND:20261223T210000
+DESCRIPTION:Dir: N/A (2007)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 029?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8029?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 END:VCALENDAR
