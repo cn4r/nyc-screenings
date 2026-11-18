@@ -1047,6 +1047,16 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31467
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wallace & Gromit: The Classic Shorts @ METROGRAPH
+DTSTART:20261206T104500
+DTEND:20261206T124500
+DESCRIPTION:Dir: Nick  Park (1995)\nhttps://t.metrograph.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=9999&txtSessionId=31541
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31541
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Poetry @ METROGRAPH
 DTSTART:20261206T110000
 DTEND:20261206T130000
@@ -1157,6 +1167,26 @@ DESCRIPTION:Dir: Andrei Tarkovsky (1979)\nhttps://t.metrograph.com/Ticketi
 LOCATION:METROGRAPH
 URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31508
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afternoons of Solitude @ METROGRAPH
+DTSTART:20261211T143000
+DTEND:20261211T163000
+DESCRIPTION:Dir: Albert Serra (2024)\nhttps://t.metrograph.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=9999&txtSessionId=31515
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31515
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keane @ METROGRAPH
+DTSTART:20261211T170000
+DTEND:20261211T190000
+DESCRIPTION:Dir: Lodge Kerrigan (2004)\nhttps://t.metrograph.com/Ticketing
+ /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31514
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31514
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rex: A Dinosaur's Story @ METROGRAPH
@@ -1422,6 +1452,16 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31535
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Calamity @ METROGRAPH
+DTSTART:20261213T214500
+DTEND:20261213T234500
+DESCRIPTION:Dir: Věra  Chytilová (1982)\nhttps://t.metrograph.com/Ticket
+ ing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31536
+LOCATION:METROGRAPH
+URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
+ 99&txtSessionId=31536
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kaili Blues @ METROGRAPH
 DTSTART:20261213T215000
 DTEND:20261213T235000
@@ -1430,26 +1470,6 @@ DESCRIPTION:Dir: Bi Gan (2015)\nhttps://t.metrograph.com/Ticketing/visSele
 LOCATION:METROGRAPH
 URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31537
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Angel Levine - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20271116T190000
-DTEND:20271116T210000
-DESCRIPTION:Dir: N/A (1970)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 965?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7965?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Domestics @ ROXY CINEMA NEW YORK
-DTSTART:20271116T211500
-DTEND:20271116T231500
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 966?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7966?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hannah and Her Sisters - 35MM @ ROXY CINEMA NEW YORK
@@ -1503,7 +1523,7 @@ URL:https://ticketing.uswest.veezi.com/purchase/7902?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WWW.RACHELORMONT.COM @ ROXY CINEMA NEW YORK
+SUMMARY:WWW. RACHELORMONT .COM @ ROXY CINEMA NEW YORK
 DTSTART:20261120T213000
 DTEND:20261120T233000
 DESCRIPTION:Dir: N/A (2024)\nhttps://ticketing.uswest.veezi.com/purchase/7
@@ -1915,16 +1935,6 @@ URL:https://ticketing.uswest.veezi.com/purchase/8039?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Tree of Life - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20261208T184500
-DTEND:20261208T204500
-DESCRIPTION:Dir: N/A (2011)\nhttps://ticketing.uswest.veezi.com/purchase/8
- 024?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/8024?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Song to Song @ ROXY CINEMA NEW YORK
 DTSTART:20261208T213000
 DTEND:20261208T233000
@@ -2125,6 +2135,17 @@ DESCRIPTION:Dir: N/A (2007)\nhttps://ticketing.uswest.veezi.com/purchase/8
  028?siteToken=tt17e5ajy3v48kh5b2kremvnz4
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/8028?siteToken=tt17e5ajy3v
+ 48kh5b2kremvnz4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christmas Eve in Miller's Point - 35MM + Q&A @ ROXY CINEMA NEW YOR
+ K
+DTSTART:20261220T171500
+DTEND:20261220T191500
+DESCRIPTION:Dir: N/A (2024)\nhttps://ticketing.uswest.veezi.com/purchase/8
+ 036?siteToken=tt17e5ajy3v48kh5b2kremvnz4
+LOCATION:ROXY CINEMA NEW YORK
+URL:https://ticketing.uswest.veezi.com/purchase/8036?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
 END:VEVENT
 BEGIN:VEVENT
