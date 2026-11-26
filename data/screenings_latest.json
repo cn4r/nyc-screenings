@@ -1,965 +1,5 @@
 [
   {
-    "date": "2026-11-20",
-    "theater": "METROGRAPH",
-    "title": "Memento",
-    "director": "Christopher Nolan",
-    "year": "2000",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31365",
-    "showtimes": [
-      "3:10pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/memento/",
-    "genres": [
-      "mystery",
-      "thriller"
-    ],
-    "runtime_mins": 113,
-    "rating": 4.18,
-    "rating_count": 2277590,
-    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/v1/3q/s4/aa/memento-0-600-0-900-crop.jpg?v=80f0732247"
-  },
-  {
-    "date": "2026-11-20",
-    "theater": "METROGRAPH",
-    "title": "The Killing of a Sacred Deer",
-    "director": "Yorgos Lanthimos",
-    "year": "2017",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31366",
-    "showtimes": [
-      "3:45pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/the-killing-of-a-sacred-deer/",
-    "genres": [
-      "drama",
-      "mystery",
-      "thriller"
-    ],
-    "runtime_mins": 121,
-    "rating": 3.69,
-    "rating_count": 869740,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/3/3/3/1/0/333310-the-killing-of-a-sacred-deer-0-600-0-900-crop.jpg?v=f2a22b1af9"
-  },
-  {
-    "date": "2026-11-20",
-    "theater": "METROGRAPH",
-    "title": "That Day, On The Beach",
-    "director": "Edward Yang",
-    "year": "1983",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31371",
-    "showtimes": [
-      "5:30pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/that-day-on-the-beach/",
-    "genres": [
-      "drama",
-      "romance"
-    ],
-    "runtime_mins": 166,
-    "rating": 4.03,
-    "rating_count": 9356,
-    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/74/e3/es/r5/m8cLo2QlY89jQqbeGevyaJXxUaD-0-600-0-900-crop.jpg?v=da50a8b2e2"
-  },
-  {
-    "date": "2026-11-20",
-    "theater": "METROGRAPH",
-    "title": "Tickets",
-    "director": "Abbas Kiarostami, Ken Loach, Ermanno Olmi",
-    "year": "2005",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31372",
-    "showtimes": [
-      "6:15pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/tickets/",
-    "genres": [
-      "comedy",
-      "drama"
-    ],
-    "runtime_mins": 109,
-    "rating": 3.54,
-    "rating_count": 1437,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/9/0/1/8901-tickets-0-600-0-900-crop.jpg?v=6f79e45021"
-  },
-  {
-    "date": "2026-11-20",
-    "theater": "METROGRAPH",
-    "title": "The State of Things",
-    "director": "Wim Wenders",
-    "year": "1982",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31367",
-    "showtimes": [
-      "8:35pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/the-state-of-things/",
-    "genres": [
-      "drama"
-    ],
-    "runtime_mins": 121,
-    "rating": 3.64,
-    "rating_count": 5279,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/2/0/9/3/32093-the-state-of-things-0-600-0-900-crop.jpg?v=b619c5b2e3"
-  },
-  {
-    "date": "2026-11-20",
-    "theater": "METROGRAPH",
-    "title": "Come Back to the 5 & Dime, Jimmy Dean, Jimmy Dean",
-    "director": "Robert Altman",
-    "year": "1982",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31370",
-    "showtimes": [
-      "8:45pm"
-    ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
-  },
-  {
-    "date": "2026-11-20",
-    "theater": "METROGRAPH",
-    "title": "Drive",
-    "director": "Nicolas  Winding Refn",
-    "year": "2011",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31368",
-    "showtimes": [
-      "11:00pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/drive-2011/",
-    "genres": [
-      "crime",
-      "drama",
-      "thriller"
-    ],
-    "runtime_mins": 100,
-    "rating": 3.91,
-    "rating_count": 2170356,
-    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/6d/6l/r3/e9/nu7XIa67cXc2t7frXCE5voXUJcN.jpg-0-600-0-900-crop.jpg?v=58a476ae28"
-  },
-  {
-    "date": "2026-11-20",
-    "theater": "METROGRAPH",
-    "title": "Suspiria [4K DCP]",
-    "director": "Dario Argento",
-    "year": "1977",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31369",
-    "showtimes": [
-      "11:00pm"
-    ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
-  },
-  {
-    "date": "2026-11-21",
-    "theater": "METROGRAPH",
-    "title": "That Day, On The Beach",
-    "director": "Edward Yang",
-    "year": "1983",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31373",
-    "showtimes": [
-      "12:00pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/that-day-on-the-beach/",
-    "genres": [
-      "drama",
-      "romance"
-    ],
-    "runtime_mins": 166,
-    "rating": 4.03,
-    "rating_count": 9356,
-    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/74/e3/es/r5/m8cLo2QlY89jQqbeGevyaJXxUaD-0-600-0-900-crop.jpg?v=da50a8b2e2"
-  },
-  {
-    "date": "2026-11-21",
-    "theater": "METROGRAPH",
-    "title": "Other People's Children",
-    "director": "Rebecca Zlotowski",
-    "year": "2022",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31374",
-    "showtimes": [
-      "1:00pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/other-peoples-children-2022/",
-    "genres": [
-      "comedy",
-      "drama"
-    ],
-    "runtime_mins": 104,
-    "rating": 3.57,
-    "rating_count": 16746,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/2/1/0/6/7/721067-other-people-s-children-0-600-0-900-crop.jpg?v=e76741cd91"
-  },
-  {
-    "date": "2026-11-21",
-    "theater": "METROGRAPH",
-    "title": "Sibyl",
-    "director": "Justine  Triet",
-    "year": "2019",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31375",
-    "showtimes": [
-      "3:10pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/sibyl/",
-    "genres": [
-      "drama"
-    ],
-    "runtime_mins": 101,
-    "rating": 3.33,
-    "rating_count": 49731,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/8/3/2/5/488325-sibyl-0-600-0-900-crop.jpg?v=f472347cbf"
-  },
-  {
-    "date": "2026-11-21",
-    "theater": "METROGRAPH",
-    "title": "Gunvor Nelson Program 1",
-    "director": "Gunvor Nelson",
-    "year": "1973",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31382",
-    "showtimes": [
-      "3:15pm"
-    ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
-  },
-  {
-    "date": "2026-11-21",
-    "theater": "METROGRAPH",
-    "title": "ACE Presents: Ghost World",
-    "director": "Terry  Zwigoff",
-    "year": "2001",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31381",
-    "showtimes": [
-      "5:10pm"
-    ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
-  },
-  {
-    "date": "2026-11-21",
-    "theater": "METROGRAPH",
-    "title": "Secrets & Lies",
-    "director": "Mike  Leigh",
-    "year": "1996",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31376",
-    "showtimes": [
-      "5:15pm"
-    ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
-  },
-  {
-    "date": "2026-11-21",
-    "theater": "METROGRAPH",
-    "title": "Come Back to the 5 & Dime, Jimmy Dean, Jimmy Dean",
-    "director": "Robert Altman",
-    "year": "1982",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31380",
-    "showtimes": [
-      "8:00pm"
-    ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
-  },
-  {
-    "date": "2026-11-21",
-    "theater": "METROGRAPH",
-    "title": "The Ascent",
-    "director": "Larisa  Shepitko",
-    "year": "1977",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31377",
-    "showtimes": [
-      "8:00pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/the-ascent/",
-    "genres": [
-      "drama",
-      "war"
-    ],
-    "runtime_mins": 110,
-    "rating": 4.43,
-    "rating_count": 57102,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/4/6/6/15466-the-ascent-0-600-0-900-crop.jpg?v=23f005183e"
-  },
-  {
-    "date": "2026-11-21",
-    "theater": "METROGRAPH",
-    "title": "Benedetta",
-    "director": "Paul Verhoeven",
-    "year": "2021",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31378",
-    "showtimes": [
-      "10:15pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/benedetta/",
-    "genres": [
-      "drama",
-      "history",
-      "romance"
-    ],
-    "runtime_mins": 131,
-    "rating": 3.4,
-    "rating_count": 124317,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/8/6/6/3/1/386631-benedetta-0-600-0-900-crop.jpg?v=9d52b3ab59"
-  },
-  {
-    "date": "2026-11-21",
-    "theater": "METROGRAPH",
-    "title": "A Clockwork Orange",
-    "director": "Stanley Kubrick",
-    "year": "1971",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31379",
-    "showtimes": [
-      "10:20pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/a-clockwork-orange/",
-    "genres": [
-      "crime",
-      "science-fiction"
-    ],
-    "runtime_mins": 137,
-    "rating": 4.09,
-    "rating_count": 1629108,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/8/6/7/51867-a-clockwork-orange-0-600-0-900-crop.jpg?v=d6d5407b50"
-  },
-  {
-    "date": "2026-11-22",
-    "theater": "METROGRAPH",
-    "title": "Wallace & Gromit: The Classic Shorts",
-    "director": "Nick  Park",
-    "year": "1995",
-    "link": "https://metrograph.com/film/9999005087-wallace-gromit-the-classic-shorts/",
-    "showtimes": [
-      "11:15am"
-    ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
-  },
-  {
-    "date": "2026-11-22",
-    "theater": "METROGRAPH",
-    "title": "The Rescuers",
-    "director": "Wolfgang  Reitherman, Art Stevens",
-    "year": "1977",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31384",
-    "showtimes": [
-      "11:15am"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/the-rescuers/",
-    "genres": [
-      "adventure",
-      "animation",
-      "family",
-      "fantasy"
-    ],
-    "runtime_mins": 78,
-    "rating": 3.48,
-    "rating_count": 131393,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/4/1/4/45414-the-rescuers-0-600-0-900-crop.jpg?v=21a279ee0a"
-  },
-  {
-    "date": "2026-11-22",
-    "theater": "METROGRAPH",
-    "title": "Come Back to the 5 & Dime, Jimmy Dean, Jimmy Dean",
-    "director": "Robert Altman",
-    "year": "1982",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31388",
-    "showtimes": [
-      "1:00pm"
-    ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
-  },
-  {
-    "date": "2026-11-22",
-    "theater": "METROGRAPH",
-    "title": "Gunvor Nelson Program 2",
-    "director": "Gunvor Nelson",
-    "year": "1993",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31385",
-    "showtimes": [
-      "1:15pm"
-    ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
-  },
-  {
-    "date": "2026-11-22",
-    "theater": "METROGRAPH",
-    "title": "Gunvor Nelson Program 3",
-    "director": "Gunvor Nelson",
-    "year": "1990",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31386",
-    "showtimes": [
-      "3:15pm"
-    ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
-  },
-  {
-    "date": "2026-11-22",
-    "theater": "METROGRAPH",
-    "title": "That Day, On The Beach",
-    "director": "Edward Yang",
-    "year": "1983",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31387",
-    "showtimes": [
-      "3:20pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/that-day-on-the-beach/",
-    "genres": [
-      "drama",
-      "romance"
-    ],
-    "runtime_mins": 166,
-    "rating": 4.03,
-    "rating_count": 9356,
-    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/74/e3/es/r5/m8cLo2QlY89jQqbeGevyaJXxUaD-0-600-0-900-crop.jpg?v=da50a8b2e2"
-  },
-  {
-    "date": "2026-11-22",
-    "theater": "METROGRAPH",
-    "title": "Emperor of the North",
-    "director": "Robert Aldrich",
-    "year": "1973",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31393",
-    "showtimes": [
-      "5:10pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/emperor-of-the-north/",
-    "genres": [
-      "action",
-      "adventure",
-      "drama",
-      "thriller"
-    ],
-    "runtime_mins": 118,
-    "rating": 3.73,
-    "rating_count": 5123,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/0/7/7/7/30777-emperor-of-the-north-0-600-0-900-crop.jpg?v=7286f47268"
-  },
-  {
-    "date": "2026-11-22",
-    "theater": "METROGRAPH",
-    "title": "Memento",
-    "director": "Christopher Nolan",
-    "year": "2000",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31389",
-    "showtimes": [
-      "6:35pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/memento/",
-    "genres": [
-      "mystery",
-      "thriller"
-    ],
-    "runtime_mins": 113,
-    "rating": 4.18,
-    "rating_count": 2277590,
-    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/v1/3q/s4/aa/memento-0-600-0-900-crop.jpg?v=80f0732247"
-  },
-  {
-    "date": "2026-11-22",
-    "theater": "METROGRAPH",
-    "title": "Sibyl",
-    "director": "Justine  Triet",
-    "year": "2019",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31392",
-    "showtimes": [
-      "7:30pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/sibyl/",
-    "genres": [
-      "drama"
-    ],
-    "runtime_mins": 101,
-    "rating": 3.33,
-    "rating_count": 49731,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/8/3/2/5/488325-sibyl-0-600-0-900-crop.jpg?v=f472347cbf"
-  },
-  {
-    "date": "2026-11-22",
-    "theater": "METROGRAPH",
-    "title": "A Clockwork Orange",
-    "director": "Stanley Kubrick",
-    "year": "1971",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31390",
-    "showtimes": [
-      "9:00pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/a-clockwork-orange/",
-    "genres": [
-      "crime",
-      "science-fiction"
-    ],
-    "runtime_mins": 137,
-    "rating": 4.09,
-    "rating_count": 1629108,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/8/6/7/51867-a-clockwork-orange-0-600-0-900-crop.jpg?v=d6d5407b50"
-  },
-  {
-    "date": "2026-11-22",
-    "theater": "METROGRAPH",
-    "title": "Somewhere in the Night",
-    "director": "Joseph L.  Mankiewicz",
-    "year": "1946",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31391",
-    "showtimes": [
-      "9:35pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/somewhere-in-the-night/",
-    "genres": [
-      "crime",
-      "mystery",
-      "thriller"
-    ],
-    "runtime_mins": 110,
-    "rating": 3.48,
-    "rating_count": 3023,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/9/2/9/9/39299-somewhere-in-the-night-0-600-0-900-crop.jpg?v=f1a79aec16"
-  },
-  {
-    "date": "2026-11-23",
-    "theater": "METROGRAPH",
-    "title": "Come Back to the 5 & Dime, Jimmy Dean, Jimmy Dean",
-    "director": "Robert Altman",
-    "year": "1982",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31486",
-    "showtimes": [
-      "4:00pm"
-    ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
-  },
-  {
-    "date": "2026-11-23",
-    "theater": "METROGRAPH",
-    "title": "Spellbound",
-    "director": "Alfred Hitchcock",
-    "year": "1945",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31487",
-    "showtimes": [
-      "4:10pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/spellbound/",
-    "genres": [
-      "drama",
-      "mystery",
-      "thriller"
-    ],
-    "runtime_mins": 111,
-    "rating": 3.81,
-    "rating_count": 75777,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/4/8/4/49484-spellbound-0-600-0-900-crop.jpg?v=4832105dee"
-  },
-  {
-    "date": "2026-11-23",
-    "theater": "METROGRAPH",
-    "title": "That Day, On The Beach",
-    "director": "Edward Yang",
-    "year": "1983",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31491",
-    "showtimes": [
-      "6:15pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/that-day-on-the-beach/",
-    "genres": [
-      "drama",
-      "romance"
-    ],
-    "runtime_mins": 166,
-    "rating": 4.03,
-    "rating_count": 9356,
-    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/74/e3/es/r5/m8cLo2QlY89jQqbeGevyaJXxUaD-0-600-0-900-crop.jpg?v=da50a8b2e2"
-  },
-  {
-    "date": "2026-11-23",
-    "theater": "METROGRAPH",
-    "title": "Sad Vacation",
-    "director": "Shinji Aoyama",
-    "year": "2007",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31488",
-    "showtimes": [
-      "6:30pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/sad-vacation/",
-    "genres": [
-      "drama"
-    ],
-    "runtime_mins": 136,
-    "rating": 3.58,
-    "rating_count": 747,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/9/6/6/7/99667-sad-vacation-0-600-0-900-crop.jpg?v=bc5f8320ca"
-  },
-  {
-    "date": "2026-11-23",
-    "theater": "METROGRAPH",
-    "title": "Lost Highway",
-    "director": "David Lynch",
-    "year": "1997",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31489",
-    "showtimes": [
-      "9:15pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/lost-highway/",
-    "genres": [
-      "drama",
-      "mystery",
-      "thriller"
-    ],
-    "runtime_mins": 134,
-    "rating": 4.12,
-    "rating_count": 502779,
-    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/25/5e/r1/3t/z6yhgEzGUJaBBgAxoyggRzwLnVM-0-600-0-900-crop.jpg?v=49d0ffd43f"
-  },
-  {
-    "date": "2026-11-23",
-    "theater": "METROGRAPH",
-    "title": "Cría Cuervos",
-    "director": "Carlos  Saura",
-    "year": "1976",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31490",
-    "showtimes": [
-      "9:30pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/cria-cuervos/",
-    "genres": [
-      "drama"
-    ],
-    "runtime_mins": 105,
-    "rating": 4.2,
-    "rating_count": 35581,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/9/9/1/13991-cria--0-600-0-900-crop.jpg?v=e040a4f888"
-  },
-  {
-    "date": "2026-11-24",
-    "theater": "METROGRAPH",
-    "title": "Asako I & II",
-    "director": "Ryusuke Hamaguchi",
-    "year": "2019",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31492",
-    "showtimes": [
-      "4:00pm"
-    ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
-  },
-  {
-    "date": "2026-11-24",
-    "theater": "METROGRAPH",
-    "title": "The Woman in the Window",
-    "director": "Fritz Lang",
-    "year": "1944",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31498",
-    "showtimes": [
-      "4:00pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/the-woman-in-the-window/",
-    "genres": [
-      "crime",
-      "drama",
-      "thriller"
-    ],
-    "runtime_mins": 99,
-    "rating": 3.71,
-    "rating_count": 21873,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/1/1/8/6/41186-the-woman-in-the-window-0-600-0-900-crop.jpg?v=ee1d3b5c4a"
-  },
-  {
-    "date": "2026-11-24",
-    "theater": "METROGRAPH",
-    "title": "The Woman on the Beach",
-    "director": "Jean  Renoir",
-    "year": "1947",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31497",
-    "showtimes": [
-      "6:10pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/the-woman-on-the-beach/",
-    "genres": [
-      "drama"
-    ],
-    "runtime_mins": 71,
-    "rating": 3.4,
-    "rating_count": 3909,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/7/3/7/1/27371-the-woman-on-the-beach-0-600-0-900-crop.jpg?v=7b70060ed1"
-  },
-  {
-    "date": "2026-11-24",
-    "theater": "METROGRAPH",
-    "title": "That Day, On The Beach",
-    "director": "Edward Yang",
-    "year": "1983",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31493",
-    "showtimes": [
-      "6:30pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/that-day-on-the-beach/",
-    "genres": [
-      "drama",
-      "romance"
-    ],
-    "runtime_mins": 166,
-    "rating": 4.03,
-    "rating_count": 9356,
-    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/74/e3/es/r5/m8cLo2QlY89jQqbeGevyaJXxUaD-0-600-0-900-crop.jpg?v=da50a8b2e2"
-  },
-  {
-    "date": "2026-11-24",
-    "theater": "METROGRAPH",
-    "title": "Come Back to the 5 & Dime, Jimmy Dean, Jimmy Dean",
-    "director": "Robert Altman",
-    "year": "1982",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31496",
-    "showtimes": [
-      "7:45pm"
-    ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
-  },
-  {
-    "date": "2026-11-24",
-    "theater": "METROGRAPH",
-    "title": "Drive",
-    "director": "Nicolas  Winding Refn",
-    "year": "2011",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31494",
-    "showtimes": [
-      "9:45pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/drive-2011/",
-    "genres": [
-      "crime",
-      "drama",
-      "thriller"
-    ],
-    "runtime_mins": 100,
-    "rating": 3.91,
-    "rating_count": 2170356,
-    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/6d/6l/r3/e9/nu7XIa67cXc2t7frXCE5voXUJcN.jpg-0-600-0-900-crop.jpg?v=58a476ae28"
-  },
-  {
-    "date": "2026-11-24",
-    "theater": "METROGRAPH",
-    "title": "Chinese Roulette",
-    "director": "Rainer Werner Fassbinder",
-    "year": "1976",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31495",
-    "showtimes": [
-      "10:00pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/chinese-roulette/",
-    "genres": [
-      "drama"
-    ],
-    "runtime_mins": 86,
-    "rating": 3.8,
-    "rating_count": 13085,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/8/0/7/8/28078-chinese-roulette-0-600-0-900-crop.jpg?v=94b78f22b1"
-  },
-  {
-    "date": "2026-11-25",
-    "theater": "METROGRAPH",
-    "title": "Suzhou River",
-    "director": "Ye Lou",
-    "year": "2000",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31499",
-    "showtimes": [
-      "3:15pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/suzhou-river/",
-    "genres": [
-      "drama",
-      "romance"
-    ],
-    "runtime_mins": 83,
-    "rating": 3.99,
-    "rating_count": 51488,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/1/5/1/45151-suzhou-river-0-600-0-900-crop.jpg?v=b6f5e42e5d"
-  },
-  {
-    "date": "2026-11-25",
-    "theater": "METROGRAPH",
-    "title": "News from Home + Interior NY Subway, 14th Street",
-    "director": "Chantal  Akerman, G. W. \"Billy\" Bitzer",
-    "year": "1976",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31500",
-    "showtimes": [
-      "3:30pm"
-    ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
-  },
-  {
-    "date": "2026-11-25",
-    "theater": "METROGRAPH",
-    "title": "Je t'aime, je t'aime",
-    "director": "Alain Resnais",
-    "year": "1968",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31506",
-    "showtimes": [
-      "5:00pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/je-taime-je-taime/",
-    "genres": [
-      "drama",
-      "science-fiction"
-    ],
-    "runtime_mins": 94,
-    "rating": 3.82,
-    "rating_count": 11700,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/1/3/5/49135-je-t-aime-je-t-aime-0-600-0-900-crop.jpg?v=eb0276db00"
-  },
-  {
-    "date": "2026-11-25",
-    "theater": "METROGRAPH",
-    "title": "Autumn Sonata",
-    "director": "Ingmar Bergman",
-    "year": "1978",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31501",
-    "showtimes": [
-      "5:30pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/autumn-sonata/",
-    "genres": [
-      "drama"
-    ],
-    "runtime_mins": 93,
-    "rating": 4.5,
-    "rating_count": 172348,
-    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/dr/d3/nw/gv/m4I32itPMlRWqWJamFAwFDbrBXp-0-600-0-900-crop.jpg?v=45433653ca"
-  },
-  {
-    "date": "2026-11-25",
-    "theater": "METROGRAPH",
-    "title": "Come Back to the 5 & Dime, Jimmy Dean, Jimmy Dean",
-    "director": "Robert Altman",
-    "year": "1982",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31505",
-    "showtimes": [
-      "7:00pm"
-    ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
-  },
-  {
-    "date": "2026-11-25",
-    "theater": "METROGRAPH",
-    "title": "The Housemaid",
-    "director": "Kim Ki-young",
-    "year": "1960",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31502",
-    "showtimes": [
-      "7:30pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/the-housemaid/",
-    "genres": [
-      "crime",
-      "drama"
-    ],
-    "runtime_mins": 112,
-    "rating": 3.75,
-    "rating_count": 28308,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/2/5/7/7/22577-the-housemaid-0-600-0-900-crop.jpg?v=1a62ff16ab"
-  },
-  {
-    "date": "2026-11-25",
-    "theater": "METROGRAPH",
-    "title": "That Day, On The Beach",
-    "director": "Edward Yang",
-    "year": "1983",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31504",
-    "showtimes": [
-      "9:15pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/that-day-on-the-beach/",
-    "genres": [
-      "drama",
-      "romance"
-    ],
-    "runtime_mins": 166,
-    "rating": 4.03,
-    "rating_count": 9356,
-    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/74/e3/es/r5/m8cLo2QlY89jQqbeGevyaJXxUaD-0-600-0-900-crop.jpg?v=da50a8b2e2"
-  },
-  {
-    "date": "2026-11-25",
-    "theater": "METROGRAPH",
-    "title": "Shutter Island",
-    "director": "Martin Scorsese",
-    "year": "2010",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31503",
-    "showtimes": [
-      "9:45pm"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/shutter-island/",
-    "genres": [
-      "drama",
-      "mystery",
-      "thriller"
-    ],
-    "runtime_mins": 138,
-    "rating": 4.21,
-    "rating_count": 3943945,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/4/0/9/45409-shutter-island-0-600-0-900-crop.jpg?v=85dd4c38e3"
-  },
-  {
     "date": "2026-11-27",
     "theater": "METROGRAPH",
     "title": "The Aristocats",
@@ -978,7 +18,7 @@
     ],
     "runtime_mins": 78,
     "rating": 3.79,
-    "rating_count": 400349,
+    "rating_count": 402230,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/6/5/3/7/46537-the-aristocats-0-600-0-900-crop.jpg?v=8eeab59d9f"
   },
   {
@@ -999,7 +39,7 @@
     ],
     "runtime_mins": 79,
     "rating": 4.18,
-    "rating_count": 120865,
+    "rating_count": 121620,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/2/0/2/51202-the-general-0-600-0-900-crop.jpg?v=8214c74694"
   },
   {
@@ -1018,7 +58,7 @@
     ],
     "runtime_mins": 149,
     "rating": 4.27,
-    "rating_count": 105668,
+    "rating_count": 106106,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/6/6/1/8/36618-the-sacrifice-0-600-0-900-crop.jpg?v=abe0768e2a"
   },
   {
@@ -1027,7 +67,7 @@
     "title": "Secrets & Lies",
     "director": "Mike  Leigh",
     "year": "1996",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31412",
+    "link": "https://metrograph.com/film/9999003282-secrets-lies/",
     "showtimes": [
       "1:15pm"
     ],
@@ -1056,7 +96,7 @@
     ],
     "runtime_mins": 88,
     "rating": 4.19,
-    "rating_count": 323883,
+    "rating_count": 325059,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/5/7/0/51570-rashomon-0-600-0-900-crop.jpg?v=f8eb7c45da"
   },
   {
@@ -1075,8 +115,8 @@
       "tv-movie"
     ],
     "runtime_mins": 76,
-    "rating": 3.52,
-    "rating_count": 6118,
+    "rating": 3.53,
+    "rating_count": 6147,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/8/8/7/6/28876-medea-0-600-0-900-crop.jpg?v=9eb658a3d1"
   },
   {
@@ -1095,7 +135,7 @@
     ],
     "runtime_mins": 104,
     "rating": 3.95,
-    "rating_count": 159691,
+    "rating_count": 160119,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/l1/zo/7p/wc/3ZE5Wl3CdfUH4BkWRmyMKPHkWHx-0-600-0-900-crop.jpg?v=800e4a6439"
   },
   {
@@ -1136,7 +176,7 @@
     ],
     "runtime_mins": 114,
     "rating": 4.1,
-    "rating_count": 2649341,
+    "rating_count": 2660647,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/9/4/7/51947-taxi-driver-0-600-0-900-crop.jpg?v=3ae07cca2d"
   },
   {
@@ -1155,7 +195,7 @@
     ],
     "runtime_mins": 106,
     "rating": 3.81,
-    "rating_count": 53780,
+    "rating_count": 53953,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/6/0/4/8/516048-compartment-no-6-0-600-0-900-crop.jpg?v=df9397c47f"
   },
   {
@@ -1175,7 +215,7 @@
     ],
     "runtime_mins": 137,
     "rating": 4.09,
-    "rating_count": 1629108,
+    "rating_count": 1636110,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/8/6/7/51867-a-clockwork-orange-0-600-0-900-crop.jpg?v=d6d5407b50"
   },
   {
@@ -1195,8 +235,8 @@
       "horror"
     ],
     "runtime_mins": 122,
-    "rating": 3.61,
-    "rating_count": 306696,
+    "rating": 3.6,
+    "rating_count": 307166,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/9/2/6/5/4/392654-mandy-0-600-0-900-crop.jpg?v=cf29f00f84"
   },
   {
@@ -1217,7 +257,7 @@
     ],
     "runtime_mins": 88,
     "rating": 4.19,
-    "rating_count": 323883,
+    "rating_count": 325059,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/5/7/0/51570-rashomon-0-600-0-900-crop.jpg?v=f8eb7c45da"
   },
   {
@@ -1236,7 +276,7 @@
     ],
     "runtime_mins": 82,
     "rating": 3.96,
-    "rating_count": 54691,
+    "rating_count": 54937,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/4/8/4/9484-goodbye-dragon-inn-0-600-0-900-crop.jpg?v=5371fbcb8a"
   },
   {
@@ -1255,7 +295,7 @@
     ],
     "runtime_mins": 123,
     "rating": 4.4,
-    "rating_count": 222002,
+    "rating_count": 223004,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/3/4/5/6345-a-separation-0-600-0-900-crop.jpg?v=dca05d4c0a"
   },
   {
@@ -1277,7 +317,7 @@
     ],
     "runtime_mins": 118,
     "rating": 3.73,
-    "rating_count": 5123,
+    "rating_count": 5154,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/0/7/7/7/30777-emperor-of-the-north-0-600-0-900-crop.jpg?v=7286f47268"
   },
   {
@@ -1314,7 +354,7 @@
     ],
     "runtime_mins": 127,
     "rating": 4.0,
-    "rating_count": 65925,
+    "rating_count": 66781,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/hn/ki/sn/sy/fE0Yjnxnv9JPs11elXha4BEwKTR-0-600-0-900-crop.jpg?v=968696995a"
   },
   {
@@ -1323,7 +363,7 @@
     "title": "Salò, or the 120 Days of Sodom",
     "director": "Pier Paolo Pasolini",
     "year": "1975",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31420",
+    "link": "https://metrograph.com/film/9999000023-salo-or-the-120-days-of-sodom/",
     "showtimes": [
       "6:10pm"
     ],
@@ -1334,7 +374,7 @@
     ],
     "runtime_mins": 117,
     "rating": 3.02,
-    "rating_count": 230823,
+    "rating_count": 231711,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/8/6/5/48865-salo-or-the-120-days-of-sodom-0-600-0-900-crop.jpg?v=d44ef57732"
   },
   {
@@ -1373,8 +413,8 @@
       "horror"
     ],
     "runtime_mins": 122,
-    "rating": 3.61,
-    "rating_count": 306696,
+    "rating": 3.6,
+    "rating_count": 307166,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/9/2/6/5/4/392654-mandy-0-600-0-900-crop.jpg?v=cf29f00f84"
   },
   {
@@ -1394,7 +434,7 @@
     ],
     "runtime_mins": 113,
     "rating": 4.18,
-    "rating_count": 2277590,
+    "rating_count": 2288619,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/v1/3q/s4/aa/memento-0-600-0-900-crop.jpg?v=80f0732247"
   },
   {
@@ -1403,9 +443,9 @@
     "title": "Millennium Mambo",
     "director": "Hou Hsiao-hsien",
     "year": "2001",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31428",
+    "link": "https://metrograph.com/film/9999001804-millennium-mambo/",
     "showtimes": [
-      "10:55pm"
+      "11:00pm"
     ],
     "letterboxd_url": "https://letterboxd.com/film/millennium-mambo/",
     "genres": [
@@ -1413,28 +453,25 @@
     ],
     "runtime_mins": 106,
     "rating": 3.81,
-    "rating_count": 89714,
+    "rating_count": 90078,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/1/9/5/45195-millennium-mambo-0-600-0-900-crop.jpg?v=0ef842bc87"
   },
   {
-    "date": "2026-11-29",
+    "date": "2026-11-28",
     "theater": "METROGRAPH",
-    "title": "The Ascent",
-    "director": "Larisa  Shepitko",
+    "title": "Suspiria [4K DCP]",
+    "director": "Dario Argento",
     "year": "1977",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31434",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31422",
     "showtimes": [
-      "11:15am"
+      "11:00pm"
     ],
-    "letterboxd_url": "https://letterboxd.com/film/the-ascent/",
-    "genres": [
-      "drama",
-      "war"
-    ],
-    "runtime_mins": 110,
-    "rating": 4.43,
-    "rating_count": 57102,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/4/6/6/15466-the-ascent-0-600-0-900-crop.jpg?v=23f005183e"
+    "letterboxd_url": null,
+    "genres": [],
+    "runtime_mins": null,
+    "rating": null,
+    "rating_count": null,
+    "poster_url": null
   },
   {
     "date": "2026-11-29",
@@ -1455,8 +492,28 @@
     ],
     "runtime_mins": 78,
     "rating": 3.48,
-    "rating_count": 131393,
+    "rating_count": 131970,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/4/1/4/45414-the-rescuers-0-600-0-900-crop.jpg?v=21a279ee0a"
+  },
+  {
+    "date": "2026-11-29",
+    "theater": "METROGRAPH",
+    "title": "The Ascent",
+    "director": "Larisa  Shepitko",
+    "year": "1977",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31434",
+    "showtimes": [
+      "11:15am"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/the-ascent/",
+    "genres": [
+      "drama",
+      "war"
+    ],
+    "runtime_mins": 110,
+    "rating": 4.43,
+    "rating_count": 57398,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/4/6/6/15466-the-ascent-0-600-0-900-crop.jpg?v=23f005183e"
   },
   {
     "date": "2026-11-29",
@@ -1475,7 +532,7 @@
     ],
     "runtime_mins": 166,
     "rating": 4.39,
-    "rating_count": 317572,
+    "rating_count": 318625,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/vz/7i/ka/ys/6ED4Wr2vgOc7yPiXIqovwLiQfCl-0-600-0-900-crop.jpg?v=3da900f744"
   },
   {
@@ -1495,7 +552,7 @@
     ],
     "runtime_mins": 127,
     "rating": 4.0,
-    "rating_count": 65925,
+    "rating_count": 66781,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/hn/ki/sn/sy/fE0Yjnxnv9JPs11elXha4BEwKTR-0-600-0-900-crop.jpg?v=968696995a"
   },
   {
@@ -1537,7 +594,7 @@
     ],
     "runtime_mins": 120,
     "rating": 3.85,
-    "rating_count": 147024,
+    "rating_count": 147500,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/4/1/3/51413-the-piano-0-600-0-900-crop.jpg?v=3b2718521a"
   },
   {
@@ -1577,7 +634,7 @@
     ],
     "runtime_mins": 149,
     "rating": 4.27,
-    "rating_count": 105668,
+    "rating_count": 106106,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/6/6/1/8/36618-the-sacrifice-0-600-0-900-crop.jpg?v=abe0768e2a"
   },
   {
@@ -1619,7 +676,7 @@
     ],
     "runtime_mins": 114,
     "rating": 4.1,
-    "rating_count": 2649341,
+    "rating_count": 2660647,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/9/4/7/51947-taxi-driver-0-600-0-900-crop.jpg?v=3ae07cca2d"
   },
   {
@@ -1639,8 +696,401 @@
     ],
     "runtime_mins": 117,
     "rating": 3.02,
-    "rating_count": 230823,
+    "rating_count": 231711,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/8/6/5/48865-salo-or-the-120-days-of-sodom-0-600-0-900-crop.jpg?v=d44ef57732"
+  },
+  {
+    "date": "2026-11-30",
+    "theater": "METROGRAPH",
+    "title": "Sans Soleil",
+    "director": "Chris Marker",
+    "year": "1983",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31542",
+    "showtimes": [
+      "4:45pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/sans-soleil/",
+    "genres": [
+      "documentary"
+    ],
+    "runtime_mins": 100,
+    "rating": 4.18,
+    "rating_count": 50648,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/f1/gs/in/tp/3L5sW2hGHQmNfVBdOsonSfGzSrN-0-600-0-900-crop.jpg?v=ba95db379a"
+  },
+  {
+    "date": "2026-11-30",
+    "theater": "METROGRAPH",
+    "title": "The Flavor of Green Tea Over Rice",
+    "director": "Yasujirô  Ozu",
+    "year": "1952",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31543",
+    "showtimes": [
+      "4:50pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/the-flavor-of-green-tea-over-rice/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 116,
+    "rating": 4.03,
+    "rating_count": 13124,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/9/2/0/10920-the-flavor-of-green-tea-over-rice-0-600-0-900-crop.jpg?v=cfe12bf79e"
+  },
+  {
+    "date": "2026-11-30",
+    "theater": "METROGRAPH",
+    "title": "Lost Highway",
+    "director": "David Lynch",
+    "year": "1997",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31544",
+    "showtimes": [
+      "7:00pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/lost-highway/",
+    "genres": [
+      "drama",
+      "mystery",
+      "thriller"
+    ],
+    "runtime_mins": 134,
+    "rating": 4.12,
+    "rating_count": 505421,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/25/5e/r1/3t/z6yhgEzGUJaBBgAxoyggRzwLnVM-0-600-0-900-crop.jpg?v=49d0ffd43f"
+  },
+  {
+    "date": "2026-11-30",
+    "theater": "METROGRAPH",
+    "title": "Socrates",
+    "director": "Roberto Rossellini",
+    "year": "1970",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31545",
+    "showtimes": [
+      "7:15pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/socrates/",
+    "genres": [
+      "drama",
+      "history"
+    ],
+    "runtime_mins": 119,
+    "rating": 3.6,
+    "rating_count": 3100,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/1/0/9/7/61097-socrates-0-600-0-900-crop.jpg?v=5a3b008952"
+  },
+  {
+    "date": "2026-11-30",
+    "theater": "METROGRAPH",
+    "title": "Night on Earth",
+    "director": "Jim Jarmusch",
+    "year": "1991",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31547",
+    "showtimes": [
+      "9:40pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/night-on-earth/",
+    "genres": [
+      "comedy",
+      "drama"
+    ],
+    "runtime_mins": 129,
+    "rating": 4.0,
+    "rating_count": 144670,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/7/2/3/51723-night-on-earth-0-600-0-900-crop.jpg?v=b2c1cfb249"
+  },
+  {
+    "date": "2026-11-30",
+    "theater": "METROGRAPH",
+    "title": "Oldboy",
+    "director": "Park Chan-wook",
+    "year": "2003",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31546",
+    "showtimes": [
+      "9:45pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/oldboy/",
+    "genres": [
+      "action",
+      "mystery",
+      "thriller"
+    ],
+    "runtime_mins": 120,
+    "rating": 4.36,
+    "rating_count": 1796435,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/4/5/4/51454-oldboy-0-600-0-900-crop.jpg?v=294dbcadef"
+  },
+  {
+    "date": "2026-12-02",
+    "theater": "METROGRAPH",
+    "title": "In Bed with Victoria",
+    "director": "Justine  Triet",
+    "year": "2016",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31549",
+    "showtimes": [
+      "4:00pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/in-bed-with-victoria/",
+    "genres": [
+      "comedy",
+      "drama",
+      "romance"
+    ],
+    "runtime_mins": 97,
+    "rating": 3.39,
+    "rating_count": 22778,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/1/2/5/1/2/312512-in-bed-with-victoria-0-600-0-900-crop.jpg?v=411fd5ffda"
+  },
+  {
+    "date": "2026-12-02",
+    "theater": "METROGRAPH",
+    "title": "The Piano",
+    "director": "Jane Campion",
+    "year": "1993",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31550",
+    "showtimes": [
+      "4:15pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/the-piano/",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "runtime_mins": 120,
+    "rating": 3.85,
+    "rating_count": 147500,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/4/1/3/51413-the-piano-0-600-0-900-crop.jpg?v=3b2718521a"
+  },
+  {
+    "date": "2026-12-02",
+    "theater": "METROGRAPH",
+    "title": "An Autumn Afternoon",
+    "director": "Yasujirô  Ozu",
+    "year": "1962",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31555",
+    "showtimes": [
+      "6:00pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/an-autumn-afternoon/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 113,
+    "rating": 4.21,
+    "rating_count": 37469,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/9/6/0/14960-an-autumn-afternoon-0-600-0-900-crop.jpg?v=5485638abd"
+  },
+  {
+    "date": "2026-12-02",
+    "theater": "METROGRAPH",
+    "title": "Shutter Island",
+    "director": "Martin Scorsese",
+    "year": "2010",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31551",
+    "showtimes": [
+      "6:45pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/shutter-island/",
+    "genres": [
+      "drama",
+      "mystery",
+      "thriller"
+    ],
+    "runtime_mins": 138,
+    "rating": 4.21,
+    "rating_count": 3965258,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/4/0/9/45409-shutter-island-0-600-0-900-crop.jpg?v=85dd4c38e3"
+  },
+  {
+    "date": "2026-12-02",
+    "theater": "METROGRAPH",
+    "title": "The Cockpit",
+    "director": "Sho Miyake",
+    "year": "2014",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31554",
+    "showtimes": [
+      "8:15pm"
+    ],
+    "letterboxd_url": null,
+    "genres": [],
+    "runtime_mins": null,
+    "rating": null,
+    "rating_count": null,
+    "poster_url": null
+  },
+  {
+    "date": "2026-12-02",
+    "theater": "METROGRAPH",
+    "title": "A Clockwork Orange",
+    "director": "Stanley Kubrick",
+    "year": "1971",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31552",
+    "showtimes": [
+      "9:30pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/a-clockwork-orange/",
+    "genres": [
+      "crime",
+      "science-fiction"
+    ],
+    "runtime_mins": 137,
+    "rating": 4.09,
+    "rating_count": 1636110,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/8/6/7/51867-a-clockwork-orange-0-600-0-900-crop.jpg?v=d6d5407b50"
+  },
+  {
+    "date": "2026-12-02",
+    "theater": "METROGRAPH",
+    "title": "And Your Bird Can Sing preceded by August 8th",
+    "director": "Sho Miyake",
+    "year": "2018",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31553",
+    "showtimes": [
+      "9:45pm"
+    ],
+    "letterboxd_url": null,
+    "genres": [],
+    "runtime_mins": null,
+    "rating": null,
+    "rating_count": null,
+    "poster_url": null
+  },
+  {
+    "date": "2026-12-03",
+    "theater": "METROGRAPH",
+    "title": "Once Upon A Time In The West",
+    "director": "Sergio Leone",
+    "year": "1968",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31556",
+    "showtimes": [
+      "4:00pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/once-upon-a-time-in-the-west/",
+    "genres": [
+      "drama",
+      "western"
+    ],
+    "runtime_mins": 166,
+    "rating": 4.39,
+    "rating_count": 318625,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/vz/7i/ka/ys/6ED4Wr2vgOc7yPiXIqovwLiQfCl-0-600-0-900-crop.jpg?v=3da900f744"
+  },
+  {
+    "date": "2026-12-03",
+    "theater": "METROGRAPH",
+    "title": "Small, Slow But Steady",
+    "director": "Sho Miyake",
+    "year": "2022",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31557",
+    "showtimes": [
+      "4:00pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/small-slow-but-steady/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 99,
+    "rating": 3.71,
+    "rating_count": 7936,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/3/4/1/3/7/834137-small-slow-but-steady-0-600-0-900-crop.jpg?v=403abd891a"
+  },
+  {
+    "date": "2026-12-03",
+    "theater": "METROGRAPH",
+    "title": "All the Long Nights",
+    "director": "Sho Miyake",
+    "year": "2024",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31558",
+    "showtimes": [
+      "6:10pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/all-the-long-nights/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 119,
+    "rating": 3.75,
+    "rating_count": 9236,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/7/8/6/2/8/978628-all-the-long-nights-0-600-0-900-crop.jpg?v=c3eb620f7d"
+  },
+  {
+    "date": "2026-12-03",
+    "theater": "METROGRAPH",
+    "title": "Memento",
+    "director": "Christopher Nolan",
+    "year": "2000",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31562",
+    "showtimes": [
+      "7:15pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/memento/",
+    "genres": [
+      "mystery",
+      "thriller"
+    ],
+    "runtime_mins": 113,
+    "rating": 4.18,
+    "rating_count": 2288619,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/v1/3q/s4/aa/memento-0-600-0-900-crop.jpg?v=80f0732247"
+  },
+  {
+    "date": "2026-12-03",
+    "theater": "METROGRAPH",
+    "title": "La Raulito",
+    "director": "Lautaro Murúa",
+    "year": "1975",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31559",
+    "showtimes": [
+      "8:30pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/la-raulito/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 95,
+    "rating": 3.63,
+    "rating_count": 710,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/9/3/3/0/149330-la-raulito-0-600-0-900-crop.jpg?v=640fc69bd7"
+  },
+  {
+    "date": "2026-12-03",
+    "theater": "METROGRAPH",
+    "title": "Lost Highway",
+    "director": "David Lynch",
+    "year": "1997",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31561",
+    "showtimes": [
+      "9:45pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/lost-highway/",
+    "genres": [
+      "drama",
+      "mystery",
+      "thriller"
+    ],
+    "runtime_mins": 134,
+    "rating": 4.12,
+    "rating_count": 505421,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/25/5e/r1/3t/z6yhgEzGUJaBBgAxoyggRzwLnVM-0-600-0-900-crop.jpg?v=49d0ffd43f"
+  },
+  {
+    "date": "2026-12-03",
+    "theater": "METROGRAPH",
+    "title": "Tetsuo: The Iron Man",
+    "director": "Shinya  Tsukamoto",
+    "year": "1989",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31560",
+    "showtimes": [
+      "10:30pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/tetsuo-the-iron-man/",
+    "genres": [
+      "horror",
+      "science-fiction"
+    ],
+    "runtime_mins": 67,
+    "rating": 3.85,
+    "rating_count": 139557,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/3/6/0/2/23602-tetsuo-the-iron-man-0-600-0-900-crop.jpg?v=7db3db7b0d"
   },
   {
     "date": "2026-12-04",
@@ -1658,7 +1108,7 @@
     ],
     "runtime_mins": 149,
     "rating": 4.27,
-    "rating_count": 105668,
+    "rating_count": 106106,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/6/6/1/8/36618-the-sacrifice-0-600-0-900-crop.jpg?v=abe0768e2a"
   },
   {
@@ -1677,7 +1127,7 @@
     ],
     "runtime_mins": 139,
     "rating": 4.23,
-    "rating_count": 42394,
+    "rating_count": 42740,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/7/5/2/4/17524-poetry-0-600-0-900-crop.jpg?v=3dcf186b9f"
   },
   {
@@ -1696,7 +1146,7 @@
     ],
     "runtime_mins": 120,
     "rating": 4.19,
-    "rating_count": 47660,
+    "rating_count": 47853,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/4/9/1/47491-tokyo-sonata-0-600-0-900-crop.jpg?v=5a599cbfec"
   },
   {
@@ -1716,16 +1166,16 @@
     ],
     "runtime_mins": 95,
     "rating": 3.61,
-    "rating_count": 4184,
+    "rating_count": 4193,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/3/8/6/6/43866-keane-0-600-0-900-crop.jpg?v=70e8f716df"
   },
   {
     "date": "2026-12-04",
     "theater": "METROGRAPH",
-    "title": "On Cinematography: Arthur Jafa & Bradford Young",
+    "title": "On Cinematography: A Conversation with Arthur Jafa",
     "director": "Julie Dash",
     "year": "1991",
-    "link": "https://metrograph.com/film/9999005112-on-cinematography-arthur-jafa-bradford-young/",
+    "link": "https://metrograph.com/film/9999005112-on-cinematography-a-conversation-with-arthur-jafa/",
     "showtimes": [
       "7:00pm"
     ],
@@ -1752,7 +1202,7 @@
     ],
     "runtime_mins": 107,
     "rating": 3.78,
-    "rating_count": 5241,
+    "rating_count": 5252,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/9/9/0/5/99905-museum-hours-0-600-0-900-crop.jpg?v=e8ffe0f458"
   },
   {
@@ -1789,7 +1239,7 @@
     ],
     "runtime_mins": 101,
     "rating": 3.37,
-    "rating_count": 966892,
+    "rating_count": 969731,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/zr/lv/9v/wy/4MrwJZr0R9LbyOgZqwLNmtzzxbu-0-600-0-900-crop.jpg?v=0f234ef9c3"
   },
   {
@@ -1809,7 +1259,7 @@
     ],
     "runtime_mins": 113,
     "rating": 3.96,
-    "rating_count": 25240,
+    "rating_count": 25312,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/9/3/8/6/1/293861-kaili-blues-0-600-0-900-crop.jpg?v=b442d856ad"
   },
   {
@@ -1830,7 +1280,7 @@
     ],
     "runtime_mins": 94,
     "rating": 3.76,
-    "rating_count": 1850,
+    "rating_count": 1858,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/4/9/6/0/64960-lady-killer-0-600-0-900-crop.jpg?v=b4f3da8571"
   },
   {
@@ -1883,8 +1333,8 @@
       "mystery"
     ],
     "runtime_mins": 146,
-    "rating": 3.7,
-    "rating_count": 2766,
+    "rating": 3.71,
+    "rating_count": 2785,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/3/1/9/1/63191-the-inugamis-0-600-0-900-crop.jpg?v=dac7f3cc42"
   },
   {
@@ -1903,7 +1353,7 @@
     ],
     "runtime_mins": 114,
     "rating": 3.98,
-    "rating_count": 1131,
+    "rating_count": 1141,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/0/7/6/3/80763-time-indefinite-0-600-0-900-crop.jpg?v=cade70d006"
   },
   {
@@ -1929,7 +1379,7 @@
     "title": "Remake",
     "director": "Ross McElwee",
     "year": "2025",
-    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31469",
+    "link": "https://metrograph.com/film/9999005123-remake/",
     "showtimes": [
       "6:10pm"
     ],
@@ -1938,8 +1388,8 @@
       "documentary"
     ],
     "runtime_mins": 116,
-    "rating": 4.01,
-    "rating_count": 3504,
+    "rating": 4.0,
+    "rating_count": 3628,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/0/9/8/8/2/1209882-remake-2025-0-600-0-900-crop.jpg?v=148b9fcfa3"
   },
   {
@@ -1958,7 +1408,7 @@
     ],
     "runtime_mins": 120,
     "rating": 4.19,
-    "rating_count": 47660,
+    "rating_count": 47853,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/4/9/1/47491-tokyo-sonata-0-600-0-900-crop.jpg?v=5a599cbfec"
   },
   {
@@ -1978,7 +1428,7 @@
     ],
     "runtime_mins": 114,
     "rating": 4.1,
-    "rating_count": 2649341,
+    "rating_count": 2660647,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/9/4/7/51947-taxi-driver-0-600-0-900-crop.jpg?v=3ae07cca2d"
   },
   {
@@ -1998,7 +1448,7 @@
     ],
     "runtime_mins": 117,
     "rating": 3.02,
-    "rating_count": 230823,
+    "rating_count": 231711,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/8/6/5/48865-salo-or-the-120-days-of-sodom-0-600-0-900-crop.jpg?v=d44ef57732"
   },
   {
@@ -2018,7 +1468,7 @@
     ],
     "runtime_mins": 101,
     "rating": 3.37,
-    "rating_count": 966892,
+    "rating_count": 969731,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/zr/lv/9v/wy/4MrwJZr0R9LbyOgZqwLNmtzzxbu-0-600-0-900-crop.jpg?v=0f234ef9c3"
   },
   {
@@ -2054,7 +1504,7 @@
     ],
     "runtime_mins": 139,
     "rating": 4.23,
-    "rating_count": 42394,
+    "rating_count": 42740,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/7/5/2/4/17524-poetry-0-600-0-900-crop.jpg?v=3dcf186b9f"
   },
   {
@@ -2073,7 +1523,7 @@
     ],
     "runtime_mins": 68,
     "rating": 3.83,
-    "rating_count": 3024,
+    "rating_count": 3033,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/5/6/4/15564-wild-boys-of-the-road-0-600-0-900-crop.jpg?v=e46670c6f3"
   },
   {
@@ -2110,7 +1560,7 @@
     ],
     "runtime_mins": 112,
     "rating": 3.75,
-    "rating_count": 21784,
+    "rating_count": 21878,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/2/7/9/0/52790-daughters-of-the-dust-0-600-0-900-crop.jpg?v=85a7f36e22"
   },
   {
@@ -2129,7 +1579,7 @@
     ],
     "runtime_mins": 87,
     "rating": 3.71,
-    "rating_count": 12895,
+    "rating_count": 12965,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/9/7/9/4/99794-leviathan-0-600-0-900-crop.jpg?v=c7c49e25b5"
   },
   {
@@ -2165,7 +1615,7 @@
     ],
     "runtime_mins": 101,
     "rating": 4.32,
-    "rating_count": 167657,
+    "rating_count": 168375,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/7/5/0/51750-the-celebration-0-600-0-900-crop.jpg?v=7eefb2e0b7"
   },
   {
@@ -2186,7 +1636,7 @@
     ],
     "runtime_mins": 94,
     "rating": 3.76,
-    "rating_count": 1850,
+    "rating_count": 1858,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/4/9/6/0/64960-lady-killer-0-600-0-900-crop.jpg?v=b4f3da8571"
   },
   {
@@ -2206,7 +1656,7 @@
     ],
     "runtime_mins": 162,
     "rating": 4.39,
-    "rating_count": 418405,
+    "rating_count": 420185,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/0/6/2/51062-stalker-0-600-0-900-crop.jpg?v=97d71ac60e"
   },
   {
@@ -2225,8 +1675,8 @@
       "mystery"
     ],
     "runtime_mins": 146,
-    "rating": 3.7,
-    "rating_count": 2766,
+    "rating": 3.71,
+    "rating_count": 2785,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/3/1/9/1/63191-the-inugamis-0-600-0-900-crop.jpg?v=dac7f3cc42"
   },
   {
@@ -2246,7 +1696,7 @@
     ],
     "runtime_mins": 162,
     "rating": 4.39,
-    "rating_count": 418405,
+    "rating_count": 420185,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/0/6/2/51062-stalker-0-600-0-900-crop.jpg?v=97d71ac60e"
   },
   {
@@ -2265,7 +1715,7 @@
     ],
     "runtime_mins": 126,
     "rating": 3.78,
-    "rating_count": 23785,
+    "rating_count": 23862,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/7/7/9/1/5/877915-afternoons-of-solitude-0-600-0-900-crop.jpg?v=d81a720146"
   },
   {
@@ -2285,7 +1735,7 @@
     ],
     "runtime_mins": 95,
     "rating": 3.61,
-    "rating_count": 4184,
+    "rating_count": 4193,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/3/8/6/6/43866-keane-0-600-0-900-crop.jpg?v=70e8f716df"
   },
   {
@@ -2305,7 +1755,7 @@
     ],
     "runtime_mins": 106,
     "rating": 3.58,
-    "rating_count": 1322,
+    "rating_count": 1331,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/5/3/4/6/9/553469-rex-a-dinosaurs-story-0-600-0-900-crop.jpg?v=46a03956f8"
   },
   {
@@ -2326,7 +1776,7 @@
     ],
     "runtime_mins": 99,
     "rating": 3.8,
-    "rating_count": 6259,
+    "rating_count": 6708,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/7/8/4/1467784-chronovisor-0-600-0-900-crop.jpg?v=50c00b9581"
   },
   {
@@ -2346,7 +1796,7 @@
     ],
     "runtime_mins": 130,
     "rating": 3.61,
-    "rating_count": 20246,
+    "rating_count": 20274,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/1/5/6/7/5/315675-nocturama-0-600-0-900-crop.jpg?v=436818bce6"
   },
   {
@@ -2384,7 +1834,7 @@
     ],
     "runtime_mins": 129,
     "rating": 3.2,
-    "rating_count": 592111,
+    "rating_count": 594042,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/5/1/6/51516-the-matrix-revolutions-0-600-0-900-crop.jpg?v=919dceb0be"
   },
   {
@@ -2404,7 +1854,7 @@
     ],
     "runtime_mins": 127,
     "rating": 4.13,
-    "rating_count": 2540007,
+    "rating_count": 2549005,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/1g/zz/ez/d8/yyCKYaW908ZbpexpnBJ3p8o87HA-0-600-0-900-crop.jpg?v=19a50874d0"
   },
   {
@@ -2424,7 +1874,7 @@
     ],
     "runtime_mins": 109,
     "rating": 3.66,
-    "rating_count": 3958,
+    "rating_count": 4100,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/2/8/7/1/72871-the-power-of-kangwon-province-0-600-0-900-crop.jpg?v=18f5a30548"
   },
   {
@@ -2444,7 +1894,7 @@
     ],
     "runtime_mins": 106,
     "rating": 3.58,
-    "rating_count": 1322,
+    "rating_count": 1331,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/5/3/4/6/9/553469-rex-a-dinosaurs-story-0-600-0-900-crop.jpg?v=46a03956f8"
   },
   {
@@ -2464,7 +1914,7 @@
     ],
     "runtime_mins": 94,
     "rating": 3.85,
-    "rating_count": 4998,
+    "rating_count": 5014,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/9/0/7/7/79077-chronicle-of-anna-magdalena-bach-0-600-0-900-crop.jpg?v=98d7abde11"
   },
   {
@@ -2482,8 +1932,8 @@
       "drama"
     ],
     "runtime_mins": 114,
-    "rating": 3.97,
-    "rating_count": 6825,
+    "rating": 3.96,
+    "rating_count": 6848,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/3/2/7/4/23274-the-stranger-0-600-0-900-crop.jpg?v=e3c7940340"
   },
   {
@@ -2572,7 +2022,7 @@
     ],
     "runtime_mins": 95,
     "rating": 3.41,
-    "rating_count": 7697,
+    "rating_count": 7722,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/7/2/5/4/97254-wolf-s-hole-0-600-0-900-crop.jpg?v=b0825bb89e"
   },
   {
@@ -2593,7 +2043,7 @@
     ],
     "runtime_mins": 129,
     "rating": 3.2,
-    "rating_count": 592111,
+    "rating_count": 594042,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/5/1/6/51516-the-matrix-revolutions-0-600-0-900-crop.jpg?v=919dceb0be"
   },
   {
@@ -2613,28 +2063,25 @@
     ],
     "runtime_mins": 117,
     "rating": 3.02,
-    "rating_count": 230823,
+    "rating_count": 231711,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/8/6/5/48865-salo-or-the-120-days-of-sodom-0-600-0-900-crop.jpg?v=d44ef57732"
   },
   {
     "date": "2026-12-13",
     "theater": "METROGRAPH",
-    "title": "Rex: A Dinosaur's Story",
+    "title": "Rex: A Dinosaur's Story [Easy Reader Version]",
     "director": "Haruki Kadokawa",
     "year": "1993",
     "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31530",
     "showtimes": [
       "11:00am"
     ],
-    "letterboxd_url": "https://letterboxd.com/film/rex-a-dinosaurs-story/",
-    "genres": [
-      "adventure",
-      "family"
-    ],
-    "runtime_mins": 106,
-    "rating": 3.58,
-    "rating_count": 1322,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/5/3/4/6/9/553469-rex-a-dinosaurs-story-0-600-0-900-crop.jpg?v=46a03956f8"
+    "letterboxd_url": null,
+    "genres": [],
+    "runtime_mins": null,
+    "rating": null,
+    "rating_count": null,
+    "poster_url": null
   },
   {
     "date": "2026-12-13",
@@ -2670,7 +2117,7 @@
     ],
     "runtime_mins": 87,
     "rating": 3.86,
-    "rating_count": 4534,
+    "rating_count": 4550,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/2/5/4/0/52540-7-women-0-600-0-900-crop.jpg?v=d3734949da"
   },
   {
@@ -2706,7 +2153,7 @@
     ],
     "runtime_mins": 126,
     "rating": 3.78,
-    "rating_count": 23785,
+    "rating_count": 23862,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/7/7/9/1/5/877915-afternoons-of-solitude-0-600-0-900-crop.jpg?v=d81a720146"
   },
   {
@@ -2778,7 +2225,7 @@
     ],
     "runtime_mins": 137,
     "rating": 3.1,
-    "rating_count": 157130,
+    "rating_count": 157684,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/4/6/2/6/9/446269-the-empty-man-0-600-0-900-crop.jpg?v=d9ee98bd77"
   },
   {
@@ -2797,7 +2244,7 @@
     ],
     "runtime_mins": 96,
     "rating": 3.42,
-    "rating_count": 585,
+    "rating_count": 587,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/4/8/1148-calamity-1982-0-600-0-900-crop.jpg?v=fc164406a1"
   },
   {
@@ -2817,319 +2264,558 @@
     ],
     "runtime_mins": 113,
     "rating": 3.96,
-    "rating_count": 25240,
+    "rating_count": 25312,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/9/3/8/6/1/293861-kaili-blues-0-600-0-900-crop.jpg?v=b442d856ad"
   },
   {
-    "date": "2026-11-19",
-    "theater": "ROXY CINEMA NEW YORK",
-    "title": "Hannah and Her Sisters - 35MM",
-    "director": "N/A",
-    "year": "1986",
-    "link": "https://ticketing.uswest.veezi.com/purchase/7974?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
+    "date": "2026-12-18",
+    "theater": "METROGRAPH",
+    "title": "Godzilla",
+    "director": "Ishiro Honda",
+    "year": "1954",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31563",
     "showtimes": [
-      "3:45PM"
+      "2:00pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
-  },
-  {
-    "date": "2026-11-19",
-    "theater": "ROXY CINEMA NEW YORK",
-    "title": "Tár + Live Performance",
-    "director": "N/A",
-    "year": "2022",
-    "link": "https://ticketing.uswest.veezi.com/purchase/7824?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
-    "showtimes": [
-      "6:00PM"
-    ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
-  },
-  {
-    "date": "2026-11-19",
-    "theater": "ROXY CINEMA NEW YORK",
-    "title": "Full Screen: A Contemporary Music Video Showcase + Q&A",
-    "director": "N/A",
-    "year": "N/A",
-    "link": "https://ticketing.uswest.veezi.com/purchase/7971?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
-    "showtimes": [
-      "9:30PM"
-    ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
-  },
-  {
-    "date": "2026-11-20",
-    "theater": "ROXY CINEMA NEW YORK",
-    "title": "Tracks (4K Restoration)",
-    "director": "N/A",
-    "year": "1976",
-    "link": "https://ticketing.uswest.veezi.com/purchase/7950?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
-    "showtimes": [
-      "5:00PM"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/tracks/",
+    "letterboxd_url": "https://letterboxd.com/film/godzilla/",
     "genres": [
-      "crime",
-      "drama"
-    ],
-    "runtime_mins": 92,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/0/8/7/1/60871-tracks-0-600-0-900-crop.jpg?v=79b1fee8f3"
-  },
-  {
-    "date": "2026-11-20",
-    "theater": "ROXY CINEMA NEW YORK",
-    "title": "Dinner With Friends + Q&A",
-    "director": "N/A",
-    "year": "2025",
-    "link": "https://ticketing.uswest.veezi.com/purchase/7902?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
-    "showtimes": [
-      "7:00PM"
-    ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
-  },
-  {
-    "date": "2026-11-20",
-    "theater": "ROXY CINEMA NEW YORK",
-    "title": "WWW. RACHELORMONT .COM",
-    "director": "N/A",
-    "year": "2024",
-    "link": "https://ticketing.uswest.veezi.com/purchase/7953?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
-    "showtimes": [
-      "9:30PM"
-    ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
-  },
-  {
-    "date": "2026-11-21",
-    "theater": "ROXY CINEMA NEW YORK",
-    "title": "Orfeo",
-    "director": "N/A",
-    "year": "2025",
-    "link": "https://ticketing.uswest.veezi.com/purchase/7910?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
-    "showtimes": [
-      "1:45PM"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/orfeo/",
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/8/1/7/6/488176-orfeo-0-600-0-900-crop.jpg?v=44d7abdb42"
-  },
-  {
-    "date": "2026-11-21",
-    "theater": "ROXY CINEMA NEW YORK",
-    "title": "In the Hand of Dante + Q&A",
-    "director": "N/A",
-    "year": "2026",
-    "link": "https://ticketing.uswest.veezi.com/purchase/7931?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
-    "showtimes": [
-      "3:30PM"
-    ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
-  },
-  {
-    "date": "2026-11-21",
-    "theater": "ROXY CINEMA NEW YORK",
-    "title": "Primetime",
-    "director": "N/A",
-    "year": "2026",
-    "link": "https://ticketing.uswest.veezi.com/purchase/8025?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
-    "showtimes": [
-      "7:00PM"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/primetime/",
-    "genres": [
-      "drama",
+      "horror",
+      "science-fiction",
       "thriller"
     ],
-    "runtime_mins": 12,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/8/9/6/8/2/1089682-primetime-0-600-0-900-crop.jpg?v=f389cff79f"
+    "runtime_mins": 96,
+    "rating": 4.08,
+    "rating_count": 196920,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/8/6/6/50866-godzilla-0-600-0-900-crop.jpg?v=2b549c08f0"
   },
   {
-    "date": "2026-11-21",
-    "theater": "ROXY CINEMA NEW YORK",
-    "title": "Knights of Night + Q&A",
-    "director": "N/A",
-    "year": "2026",
-    "link": "https://ticketing.uswest.veezi.com/purchase/7930?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
+    "date": "2026-12-18",
+    "theater": "METROGRAPH",
+    "title": "The Umbrellas of Cherbourg",
+    "director": "Jaques Demy",
+    "year": "1964",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31568",
     "showtimes": [
-      "9:15PM"
+      "2:30pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/the-umbrellas-of-cherbourg/",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "runtime_mins": 93,
+    "rating": 4.14,
+    "rating_count": 217782,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/kj/2i/dj/q6/jQuRu615tCfZKJzGCKzGbuIsfmP-0-600-0-900-crop.jpg?v=89036aefa7"
   },
   {
-    "date": "2026-11-22",
-    "theater": "ROXY CINEMA NEW YORK",
-    "title": "Dinner With Friends + Q&A",
-    "director": "N/A",
-    "year": "2025",
-    "link": "https://ticketing.uswest.veezi.com/purchase/7904?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
+    "date": "2026-12-18",
+    "theater": "METROGRAPH",
+    "title": "Imitation of Life",
+    "director": "Douglas Sirk",
+    "year": "1959",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31564",
     "showtimes": [
-      "3:00PM"
+      "4:00pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/imitation-of-life-1959/",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "runtime_mins": 125,
+    "rating": 4.02,
+    "rating_count": 34769,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/9/3/1/2/29312-imitation-of-life-0-600-0-900-crop.jpg?v=3ca7c6cf64"
   },
   {
-    "date": "2026-11-22",
-    "theater": "ROXY CINEMA NEW YORK",
-    "title": "Orfeo",
-    "director": "N/A",
-    "year": "2025",
-    "link": "https://ticketing.uswest.veezi.com/purchase/7911?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
+    "date": "2026-12-18",
+    "theater": "METROGRAPH",
+    "title": "Fanny and Alexander (Theatrical version)",
+    "director": "Ingmar Bergman",
+    "year": "1982",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31569",
     "showtimes": [
-      "8:30PM"
+      "4:30pm"
     ],
-    "letterboxd_url": "https://letterboxd.com/film/orfeo/",
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/8/1/7/6/488176-orfeo-0-600-0-900-crop.jpg?v=44d7abdb42"
-  },
-  {
-    "date": "2026-11-23",
-    "theater": "ROXY CINEMA NEW YORK",
-    "title": "Mean Streets - 35MM + Q&A",
-    "director": "N/A",
-    "year": "1973",
-    "link": "https://ticketing.uswest.veezi.com/purchase/7944?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
-    "showtimes": [
-      "7:00PM"
-    ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
-  },
-  {
-    "date": "2026-11-23",
-    "theater": "ROXY CINEMA NEW YORK",
-    "title": "Wings of Desire",
-    "director": "N/A",
-    "year": "1987",
-    "link": "https://ticketing.uswest.veezi.com/purchase/8006?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
-    "showtimes": [
-      "10:00PM"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/wings-of-desire/",
+    "letterboxd_url": "https://letterboxd.com/film/fanny-and-alexander/",
     "genres": [
       "drama",
       "fantasy",
+      "mystery"
+    ],
+    "runtime_mins": 188,
+    "rating": 4.4,
+    "rating_count": 81286,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/5/3/6/48536-fanny-alexander-0-600-0-900-crop.jpg?v=7a54d11e04"
+  },
+  {
+    "date": "2026-12-18",
+    "theater": "METROGRAPH",
+    "title": "Rewind & Play",
+    "director": "Alain  Gomis",
+    "year": "2022",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31565",
+    "showtimes": [
+      "6:30pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/rewind-and-play/",
+    "genres": [
+      "documentary",
+      "music"
+    ],
+    "runtime_mins": 65,
+    "rating": 3.75,
+    "rating_count": 3679,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/3/3/4/4/2/833442-rewind-and-play-0-600-0-900-crop.jpg?v=e1328e8be7"
+  },
+  {
+    "date": "2026-12-18",
+    "theater": "METROGRAPH",
+    "title": "The Day She Returns",
+    "director": "Hong Sangsoo",
+    "year": "2026",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31570",
+    "showtimes": [
+      "8:00pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/the-day-she-returns/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 85,
+    "rating": 3.59,
+    "rating_count": 4240,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/7/5/4/3/5/1375435-the-day-she-returns-0-600-0-900-crop.jpg?v=3b142d62a2"
+  },
+  {
+    "date": "2026-12-18",
+    "theater": "METROGRAPH",
+    "title": "Forbidden Planet",
+    "director": "Fred M. Wilcox",
+    "year": "1956",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31566",
+    "showtimes": [
+      "8:00pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/forbidden-planet/",
+    "genres": [
+      "adventure",
+      "science-fiction"
+    ],
+    "runtime_mins": 98,
+    "rating": 3.61,
+    "rating_count": 49254,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/7x/ox/ux/z9/p2bjagPNjohe0SyRnCjnNxqnej4-0-600-0-900-crop.jpg?v=f5f5b71721"
+  },
+  {
+    "date": "2026-12-18",
+    "theater": "METROGRAPH",
+    "title": "Batman Returns",
+    "director": "Tim Burton",
+    "year": "1992",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31567",
+    "showtimes": [
+      "10:00pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/batman-returns/",
+    "genres": [
+      "action",
+      "fantasy"
+    ],
+    "runtime_mins": 126,
+    "rating": 3.6,
+    "rating_count": 555715,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/7/0/9/51709-batman-returns-0-600-0-900-crop.jpg?v=810ef07957"
+  },
+  {
+    "date": "2026-12-18",
+    "theater": "METROGRAPH",
+    "title": "Sorcerer",
+    "director": "William Friedkin",
+    "year": "1977",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31571",
+    "showtimes": [
+      "10:00pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/sorcerer/",
+    "genres": [
+      "action",
+      "adventure",
+      "thriller"
+    ],
+    "runtime_mins": 122,
+    "rating": 4.27,
+    "rating_count": 176240,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/5/6/5/0/25650-sorcerer-0-600-0-900-crop.jpg?v=8dd4d17006"
+  },
+  {
+    "date": "2026-12-19",
+    "theater": "METROGRAPH",
+    "title": "Chronicle of Anna Magdalena Bach",
+    "director": "Jean-Marie Straub, Danièle  Huillet",
+    "year": "1968",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31572",
+    "showtimes": [
+      "11:00am"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/chronicle-of-anna-magdalena-bach/",
+    "genres": [
+      "drama",
+      "music"
+    ],
+    "runtime_mins": 94,
+    "rating": 3.85,
+    "rating_count": 5014,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/9/0/7/7/79077-chronicle-of-anna-magdalena-bach-0-600-0-900-crop.jpg?v=98d7abde11"
+  },
+  {
+    "date": "2026-12-19",
+    "theater": "METROGRAPH",
+    "title": "The Muppet Christmas Carol",
+    "director": "Brian  Henson",
+    "year": "1992",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31573",
+    "showtimes": [
+      "11:00am"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/the-muppet-christmas-carol/",
+    "genres": [
+      "comedy",
+      "drama",
+      "family",
+      "fantasy",
+      "music"
+    ],
+    "runtime_mins": 86,
+    "rating": 4.05,
+    "rating_count": 394814,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/6/2/3/1/46231-the-muppet-christmas-carol-0-600-0-900-crop.jpg?v=f16d842c57"
+  },
+  {
+    "date": "2026-12-19",
+    "theater": "METROGRAPH",
+    "title": "Pather Panchali",
+    "director": "Satyajit Ray",
+    "year": "1955",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31574",
+    "showtimes": [
+      "1:00pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/pather-panchali/",
+    "genres": [
+      "drama",
+      "history"
+    ],
+    "runtime_mins": 125,
+    "rating": 4.32,
+    "rating_count": 78643,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/6/4/9/48649-pather-panchali-0-600-0-900-crop.jpg?v=55ae5de64b"
+  },
+  {
+    "date": "2026-12-19",
+    "theater": "METROGRAPH",
+    "title": "Saturday Afternoon Cartoons: That Frosty Holiday",
+    "director": "Multiple Dirs",
+    "year": "1950",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31577",
+    "showtimes": [
+      "1:00pm"
+    ],
+    "letterboxd_url": null,
+    "genres": [],
+    "runtime_mins": null,
+    "rating": null,
+    "rating_count": null,
+    "poster_url": null
+  },
+  {
+    "date": "2026-12-19",
+    "theater": "METROGRAPH",
+    "title": "Art Cinema for Tots: Tales from the Forest",
+    "director": "Yuri Norstein",
+    "year": "1973",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31575",
+    "showtimes": [
+      "3:30pm"
+    ],
+    "letterboxd_url": null,
+    "genres": [],
+    "runtime_mins": null,
+    "rating": null,
+    "rating_count": null,
+    "poster_url": null
+  },
+  {
+    "date": "2026-12-19",
+    "theater": "METROGRAPH",
+    "title": "Drama! Experiments! Brilliant Finale!",
+    "director": "Multiple Dirs",
+    "year": "1906",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31576",
+    "showtimes": [
+      "3:30pm"
+    ],
+    "letterboxd_url": null,
+    "genres": [],
+    "runtime_mins": null,
+    "rating": null,
+    "rating_count": null,
+    "poster_url": null
+  },
+  {
+    "date": "2026-12-19",
+    "theater": "METROGRAPH",
+    "title": "The Power of Kangwon Province",
+    "director": "Hong Sangsoo",
+    "year": "1998",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31584",
+    "showtimes": [
+      "4:30pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/the-power-of-kangwon-province/",
+    "genres": [
+      "drama",
       "romance"
     ],
-    "runtime_mins": 128,
-    "rating": 4.3,
-    "rating_count": 208987,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/9/0/7/51907-wings-of-desire-0-600-0-900-crop.jpg?v=9b4044c82d"
+    "runtime_mins": 109,
+    "rating": 3.66,
+    "rating_count": 4100,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/2/8/7/1/72871-the-power-of-kangwon-province-0-600-0-900-crop.jpg?v=18f5a30548"
   },
   {
-    "date": "2026-11-24",
-    "theater": "ROXY CINEMA NEW YORK",
-    "title": "Hannah and Her Sisters - 35MM",
-    "director": "N/A",
-    "year": "1986",
-    "link": "https://ticketing.uswest.veezi.com/purchase/7983?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
+    "date": "2026-12-19",
+    "theater": "METROGRAPH",
+    "title": "Metropolitan",
+    "director": "Whit Stillman",
+    "year": "1990",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31578",
     "showtimes": [
-      "7:00PM"
+      "4:45pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/metropolitan/",
+    "genres": [
+      "comedy",
+      "drama",
+      "romance"
+    ],
+    "runtime_mins": 99,
+    "rating": 3.81,
+    "rating_count": 47964,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/2/4/1/1/42411-metropolitan-0-600-0-900-crop.jpg?v=cc125fb022"
   },
   {
-    "date": "2026-11-24",
-    "theater": "ROXY CINEMA NEW YORK",
-    "title": "Mean Streets - 35MM",
-    "director": "N/A",
-    "year": "1973",
-    "link": "https://ticketing.uswest.veezi.com/purchase/7986?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
-    "showtimes": [
-      "9:15PM"
-    ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
-  },
-  {
-    "date": "2026-11-25",
-    "theater": "ROXY CINEMA NEW YORK",
-    "title": "You Can See Everything",
-    "director": "N/A",
+    "date": "2026-12-19",
+    "theater": "METROGRAPH",
+    "title": "The Day She Returns",
+    "director": "Hong Sangsoo",
     "year": "2026",
-    "link": "https://ticketing.uswest.veezi.com/purchase/7985?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31583",
     "showtimes": [
-      "6:00PM"
+      "6:45pm"
     ],
-    "letterboxd_url": "https://letterboxd.com/film/you-can-see-everything/",
+    "letterboxd_url": "https://letterboxd.com/film/the-day-she-returns/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 85,
+    "rating": 3.59,
+    "rating_count": 4240,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/7/5/4/3/5/1375435-the-day-she-returns-0-600-0-900-crop.jpg?v=3b142d62a2"
+  },
+  {
+    "date": "2026-12-19",
+    "theater": "METROGRAPH",
+    "title": "Hail Mary preceded by The Book of Mary",
+    "director": "Jean-Luc Godard",
+    "year": "1985",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31579",
+    "showtimes": [
+      "7:30pm"
+    ],
+    "letterboxd_url": null,
+    "genres": [],
+    "runtime_mins": null,
+    "rating": null,
+    "rating_count": null,
+    "poster_url": null
+  },
+  {
+    "date": "2026-12-19",
+    "theater": "METROGRAPH",
+    "title": "Rewind & Play",
+    "director": "Alain  Gomis",
+    "year": "2022",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31582",
+    "showtimes": [
+      "8:30pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/rewind-and-play/",
+    "genres": [
+      "documentary",
+      "music"
+    ],
+    "runtime_mins": 65,
+    "rating": 3.75,
+    "rating_count": 3679,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/3/3/4/4/2/833442-rewind-and-play-0-600-0-900-crop.jpg?v=e1328e8be7"
+  },
+  {
+    "date": "2026-12-19",
+    "theater": "METROGRAPH",
+    "title": "Magnolia",
+    "director": "Paul Thomas Anderson",
+    "year": "1999",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31580",
+    "showtimes": [
+      "9:45pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/magnolia/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 189,
+    "rating": 4.23,
+    "rating_count": 674388,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/7/2/8/51728-magnolia-0-600-0-900-crop.jpg?v=178b5e5c17"
+  },
+  {
+    "date": "2026-12-19",
+    "theater": "METROGRAPH",
+    "title": "Stalker",
+    "director": "Andrei Tarkovsky",
+    "year": "1979",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31581",
+    "showtimes": [
+      "10:00pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/stalker/",
+    "genres": [
+      "drama",
+      "science-fiction"
+    ],
+    "runtime_mins": 162,
+    "rating": 4.39,
+    "rating_count": 420185,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/0/6/2/51062-stalker-0-600-0-900-crop.jpg?v=97d71ac60e"
+  },
+  {
+    "date": "2026-12-20",
+    "theater": "METROGRAPH",
+    "title": "Beauty and the Beast",
+    "director": "Gary Trousdale, Kirk Wise",
+    "year": "1991",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31585",
+    "showtimes": [
+      "11:00am"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/beauty-and-the-beast-1991/",
+    "genres": [
+      "animation",
+      "family",
+      "fantasy",
+      "romance"
+    ],
+    "runtime_mins": 84,
+    "rating": 3.93,
+    "rating_count": 1072025,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/qw/zu/zk/ky/iLe8yMOF5we6lvYbKLHzho7ATQk-0-600-0-900-crop.jpg?v=c4c6ebbfa3"
+  },
+  {
+    "date": "2026-12-20",
+    "theater": "METROGRAPH",
+    "title": "Journey to the Beginning of Time",
+    "director": "Karel  Zeman",
+    "year": "1955",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31586",
+    "showtimes": [
+      "11:00am"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/journey-to-the-beginning-of-time/",
+    "genres": [
+      "adventure",
+      "family",
+      "fantasy",
+      "science-fiction"
+    ],
+    "runtime_mins": 85,
+    "rating": 3.59,
+    "rating_count": 6827,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/6/0/6/47606-journey-to-the-beginning-of-time-0-600-0-900-crop.jpg?v=4a4ef93bf2"
+  },
+  {
+    "date": "2026-12-20",
+    "theater": "METROGRAPH",
+    "title": "Gertrud",
+    "director": "Carl  Theodor Dreyer",
+    "year": "1964",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31588",
+    "showtimes": [
+      "1:00pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/gertrud/",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "runtime_mins": 119,
+    "rating": 3.92,
+    "rating_count": 12320,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/8e/6w/yv/pk/jDS2ynVUcyUJzVg4ffzn9MFqVrD-0-600-0-900-crop.jpg?v=c57f442272"
+  },
+  {
+    "date": "2026-12-20",
+    "theater": "METROGRAPH",
+    "title": "The Lost World",
+    "director": "Harry O. Hoyt",
+    "year": "1925",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31587",
+    "showtimes": [
+      "1:00pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/the-lost-world/",
+    "genres": [
+      "adventure",
+      "drama",
+      "fantasy",
+      "horror",
+      "romance",
+      "science-fiction",
+      "thriller"
+    ],
+    "runtime_mins": 104,
+    "rating": 3.42,
+    "rating_count": 8548,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/9/7/8/49978-the-lost-world-0-600-0-900-crop.jpg?v=0f267a0d1d"
+  },
+  {
+    "date": "2026-12-20",
+    "theater": "METROGRAPH",
+    "title": "A Tale of the Wind",
+    "director": "Joris Ivens",
+    "year": "1988",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31589",
+    "showtimes": [
+      "3:15pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/a-tale-of-the-wind/",
     "genres": [
       "documentary"
     ],
-    "runtime_mins": 175,
-    "rating": 4.58,
-    "rating_count": 849988,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74"
+    "runtime_mins": 80,
+    "rating": 3.7,
+    "rating_count": 1759,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/9/9/7/4/79974-a-tale-of-the-wind-0-600-0-900-crop.jpg?v=0487e2359e"
   },
   {
-    "date": "2026-11-25",
-    "theater": "ROXY CINEMA NEW YORK",
-    "title": "Cinema Tehran Presents: Taste of Cherry by Abbas Kiarostami",
-    "director": "N/A",
-    "year": "1997",
-    "link": "https://ticketing.uswest.veezi.com/purchase/7989?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
+    "date": "2026-12-20",
+    "theater": "METROGRAPH",
+    "title": "The Day He Arrives",
+    "director": "Hong Sangsoo",
+    "year": "2012",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31596",
     "showtimes": [
-      "9:30PM"
+      "3:30pm"
     ],
     "letterboxd_url": null,
     "genres": [],
@@ -3137,6 +2823,126 @@
     "rating": null,
     "rating_count": null,
     "poster_url": null
+  },
+  {
+    "date": "2026-12-20",
+    "theater": "METROGRAPH",
+    "title": "From Russia with Love",
+    "director": "Terence  Young",
+    "year": "1963",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31590",
+    "showtimes": [
+      "5:00pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/from-russia-with-love/",
+    "genres": [
+      "action",
+      "adventure",
+      "thriller"
+    ],
+    "runtime_mins": 115,
+    "rating": 3.58,
+    "rating_count": 208651,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/nx/m3/w5/qo/nZ4XAOXaNHgyVRmmnlxzkjgVr9u-0-600-0-900-crop.jpg?v=dbea2601c4"
+  },
+  {
+    "date": "2026-12-20",
+    "theater": "METROGRAPH",
+    "title": "The Day She Returns",
+    "director": "Hong Sangsoo",
+    "year": "2026",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31595",
+    "showtimes": [
+      "5:30pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/the-day-she-returns/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 85,
+    "rating": 3.59,
+    "rating_count": 4240,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/7/5/4/3/5/1375435-the-day-she-returns-0-600-0-900-crop.jpg?v=3b142d62a2"
+  },
+  {
+    "date": "2026-12-20",
+    "theater": "METROGRAPH",
+    "title": "Godzilla",
+    "director": "Ishiro Honda",
+    "year": "1954",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31591",
+    "showtimes": [
+      "7:20pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/godzilla/",
+    "genres": [
+      "horror",
+      "science-fiction",
+      "thriller"
+    ],
+    "runtime_mins": 96,
+    "rating": 4.08,
+    "rating_count": 196920,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/8/6/6/50866-godzilla-0-600-0-900-crop.jpg?v=2b549c08f0"
+  },
+  {
+    "date": "2026-12-20",
+    "theater": "METROGRAPH",
+    "title": "Empathy and Disaster",
+    "director": "Multiple Dirs",
+    "year": "1906",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31594",
+    "showtimes": [
+      "7:45pm"
+    ],
+    "letterboxd_url": null,
+    "genres": [],
+    "runtime_mins": null,
+    "rating": null,
+    "rating_count": null,
+    "poster_url": null
+  },
+  {
+    "date": "2026-12-20",
+    "theater": "METROGRAPH",
+    "title": "Sorcerer",
+    "director": "William Friedkin",
+    "year": "1977",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31593",
+    "showtimes": [
+      "9:00pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/sorcerer/",
+    "genres": [
+      "action",
+      "adventure",
+      "thriller"
+    ],
+    "runtime_mins": 122,
+    "rating": 4.27,
+    "rating_count": 176240,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/5/6/5/0/25650-sorcerer-0-600-0-900-crop.jpg?v=8dd4d17006"
+  },
+  {
+    "date": "2026-12-20",
+    "theater": "METROGRAPH",
+    "title": "King Kong",
+    "director": "Merian C.  Cooper, Ernest B.  Schoedsack",
+    "year": "1933",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31592",
+    "showtimes": [
+      "9:20pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/king-kong/",
+    "genres": [
+      "adventure",
+      "fantasy",
+      "horror"
+    ],
+    "runtime_mins": 100,
+    "rating": 3.82,
+    "rating_count": 126625,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/8/1/2/51812-king-kong-0-600-0-900-crop.jpg?v=a05d839067"
   },
   {
     "date": "2026-11-27",
@@ -3175,23 +2981,22 @@
   {
     "date": "2026-11-27",
     "theater": "ROXY CINEMA NEW YORK",
-    "title": "Wings of Desire",
+    "title": "Primetime",
     "director": "N/A",
-    "year": "1987",
-    "link": "https://ticketing.uswest.veezi.com/purchase/8007?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
+    "year": "2026",
+    "link": "https://ticketing.uswest.veezi.com/purchase/8049?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
     "showtimes": [
       "9:30PM"
     ],
-    "letterboxd_url": "https://letterboxd.com/film/wings-of-desire/",
+    "letterboxd_url": "https://letterboxd.com/film/primetime/",
     "genres": [
       "drama",
-      "fantasy",
-      "romance"
+      "thriller"
     ],
-    "runtime_mins": 128,
-    "rating": 4.3,
-    "rating_count": 208987,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/9/0/7/51907-wings-of-desire-0-600-0-900-crop.jpg?v=9b4044c82d"
+    "runtime_mins": 12,
+    "rating": null,
+    "rating_count": null,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/8/9/6/8/2/1089682-primetime-0-600-0-900-crop.jpg?v=f389cff79f"
   },
   {
     "date": "2026-11-28",
@@ -3208,8 +3013,8 @@
       "documentary"
     ],
     "runtime_mins": 175,
-    "rating": 4.58,
-    "rating_count": 849988,
+    "rating": 4.61,
+    "rating_count": 1029951,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74"
   },
   {
@@ -3249,22 +3054,22 @@
   {
     "date": "2026-11-28",
     "theater": "ROXY CINEMA NEW YORK",
-    "title": "Jump Scare",
+    "title": "Club Kid",
     "director": "N/A",
     "year": "2026",
-    "link": "https://ticketing.uswest.veezi.com/purchase/7990?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
+    "link": "https://ticketing.uswest.veezi.com/purchase/8050?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
     "showtimes": [
       "9:30PM"
     ],
-    "letterboxd_url": "https://letterboxd.com/film/jump-scare/",
+    "letterboxd_url": "https://letterboxd.com/film/club-kid/",
     "genres": [
       "comedy",
-      "horror"
+      "drama"
     ],
-    "runtime_mins": 102,
-    "rating": 3.35,
-    "rating_count": 264,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/3/3/3/2/2/1433322-jump-scare-0-600-0-900-crop.jpg?v=ce5be4f58a"
+    "runtime_mins": 122,
+    "rating": 4.44,
+    "rating_count": 157190,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/5/6/2/4/2/1456242-club-kid-0-600-0-900-crop.jpg?v=b2d52aad9d"
   },
   {
     "date": "2026-11-29",
@@ -3274,7 +3079,7 @@
     "year": "2026",
     "link": "https://ticketing.uswest.veezi.com/purchase/7962?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
     "showtimes": [
-      "2:15PM"
+      "1:45PM"
     ],
     "letterboxd_url": null,
     "genres": [],
@@ -3318,6 +3123,26 @@
     "poster_url": null
   },
   {
+    "date": "2026-11-29",
+    "theater": "ROXY CINEMA NEW YORK",
+    "title": "Club Kid",
+    "director": "N/A",
+    "year": "2026",
+    "link": "https://ticketing.uswest.veezi.com/purchase/8051?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
+    "showtimes": [
+      "10:15PM"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/club-kid/",
+    "genres": [
+      "comedy",
+      "drama"
+    ],
+    "runtime_mins": 122,
+    "rating": 4.44,
+    "rating_count": 157190,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/5/6/2/4/2/1456242-club-kid-0-600-0-900-crop.jpg?v=b2d52aad9d"
+  },
+  {
     "date": "2026-11-30",
     "theater": "ROXY CINEMA NEW YORK",
     "title": "The Scout + Q&A",
@@ -3352,12 +3177,12 @@
     "poster_url": null
   },
   {
-    "date": "2026-12-01",
+    "date": "2026-12-02",
     "theater": "ROXY CINEMA NEW YORK",
-    "title": "Ghost World - 35mm & Difficult People + Q&A",
+    "title": "Bouchra + Q&A",
     "director": "N/A",
-    "year": "2001",
-    "link": "https://ticketing.uswest.veezi.com/purchase/7991?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
+    "year": "2024",
+    "link": "https://ticketing.uswest.veezi.com/purchase/7992?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
     "showtimes": [
       "6:30PM"
     ],
@@ -3367,44 +3192,6 @@
     "rating": null,
     "rating_count": null,
     "poster_url": null
-  },
-  {
-    "date": "2026-12-01",
-    "theater": "ROXY CINEMA NEW YORK",
-    "title": "Talk To Her - 35MM",
-    "director": "N/A",
-    "year": "2002",
-    "link": "https://ticketing.uswest.veezi.com/purchase/7997?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
-    "showtimes": [
-      "9:30PM"
-    ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
-  },
-  {
-    "date": "2026-12-02",
-    "theater": "ROXY CINEMA NEW YORK",
-    "title": "Bouchra",
-    "director": "N/A",
-    "year": "2024",
-    "link": "https://ticketing.uswest.veezi.com/purchase/7992?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
-    "showtimes": [
-      "7:00PM"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/bouchra/",
-    "genres": [
-      "animation",
-      "comedy",
-      "drama"
-    ],
-    "runtime_mins": 83,
-    "rating": 3.82,
-    "rating_count": 9633,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/9/3/0/2/5/1393025-bouchra-0-600-0-900-crop.jpg?v=8606db1ed5"
   },
   {
     "date": "2026-12-02",
@@ -3443,31 +3230,12 @@
   {
     "date": "2026-12-03",
     "theater": "ROXY CINEMA NEW YORK",
-    "title": "You Can See Everything",
-    "director": "N/A",
-    "year": "2026",
-    "link": "https://ticketing.uswest.veezi.com/purchase/7961?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
-    "showtimes": [
-      "6:00PM"
-    ],
-    "letterboxd_url": "https://letterboxd.com/film/you-can-see-everything/",
-    "genres": [
-      "documentary"
-    ],
-    "runtime_mins": 175,
-    "rating": 4.58,
-    "rating_count": 849988,
-    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74"
-  },
-  {
-    "date": "2026-12-03",
-    "theater": "ROXY CINEMA NEW YORK",
     "title": "The Hedonist + Q&A",
     "director": "N/A",
     "year": "2025",
     "link": "https://ticketing.uswest.veezi.com/purchase/7999?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
     "showtimes": [
-      "9:30PM"
+      "10:00PM"
     ],
     "letterboxd_url": null,
     "genres": [],
@@ -3527,7 +3295,7 @@
     ],
     "runtime_mins": 105,
     "rating": 3.68,
-    "rating_count": 437,
+    "rating_count": 472,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/0/2/9/3/3/1302933-drinking-and-driving-0-600-0-900-crop.jpg?v=c2ad354606"
   },
   {
@@ -3562,17 +3330,17 @@
       "documentary"
     ],
     "runtime_mins": 175,
-    "rating": 4.58,
-    "rating_count": 849988,
+    "rating": 4.61,
+    "rating_count": 1029951,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74"
   },
   {
     "date": "2026-12-05",
     "theater": "ROXY CINEMA NEW YORK",
-    "title": "Talk To Her - 35MM",
+    "title": "Gorilla Gorilla + Q&A",
     "director": "N/A",
-    "year": "2002",
-    "link": "https://ticketing.uswest.veezi.com/purchase/8003?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
+    "year": "2026",
+    "link": "https://ticketing.uswest.veezi.com/purchase/8046?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
     "showtimes": [
       "8:30PM"
     ],
@@ -3586,12 +3354,31 @@
   {
     "date": "2026-12-06",
     "theater": "ROXY CINEMA NEW YORK",
+    "title": "You Can See Everything",
+    "director": "N/A",
+    "year": "2026",
+    "link": "https://ticketing.uswest.veezi.com/purchase/8052?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
+    "showtimes": [
+      "1:00PM"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/you-can-see-everything/",
+    "genres": [
+      "documentary"
+    ],
+    "runtime_mins": 175,
+    "rating": 4.61,
+    "rating_count": 1029951,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74"
+  },
+  {
+    "date": "2026-12-06",
+    "theater": "ROXY CINEMA NEW YORK",
     "title": "Concessions - 35MM + Q&A",
     "director": "N/A",
     "year": "2025",
     "link": "https://ticketing.uswest.veezi.com/purchase/8020?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
     "showtimes": [
-      "8:00PM"
+      "8:30PM"
     ],
     "letterboxd_url": null,
     "genres": [],
@@ -3617,7 +3404,7 @@
     ],
     "runtime_mins": 129,
     "rating": 3.0,
-    "rating_count": 63420,
+    "rating_count": 63553,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/xw/bz/mp/i1/rEvtGhNY2DQ4L8Ma6rpMhL6IbKM-0-600-0-900-crop.jpg?v=de8d8da5b5"
   },
   {
@@ -3654,7 +3441,7 @@
     ],
     "runtime_mins": 129,
     "rating": 3.0,
-    "rating_count": 63420,
+    "rating_count": 63553,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/xw/bz/mp/i1/rEvtGhNY2DQ4L8Ma6rpMhL6IbKM-0-600-0-900-crop.jpg?v=de8d8da5b5"
   },
   {
@@ -3711,7 +3498,7 @@
     ],
     "runtime_mins": 237,
     "rating": 4.39,
-    "rating_count": 102200,
+    "rating_count": 102660,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/3/6/8/6/33686-love-exposure-0-600-0-900-crop.jpg?v=c3299bb506"
   },
   {
@@ -3731,7 +3518,7 @@
     ],
     "runtime_mins": 175,
     "rating": 3.51,
-    "rating_count": 320,
+    "rating_count": 332,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/2/5/3/6/1/1/1253611-a-rimbaud-0-600-0-900-crop.jpg?v=9baa94575f"
   },
   {
@@ -3819,7 +3606,7 @@
     ],
     "runtime_mins": 122,
     "rating": 4.44,
-    "rating_count": 91373,
+    "rating_count": 157190,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/5/6/2/4/2/1456242-club-kid-0-600-0-900-crop.jpg?v=b2d52aad9d"
   },
   {
@@ -3974,7 +3761,7 @@
     ],
     "runtime_mins": 70,
     "rating": 3.67,
-    "rating_count": 388,
+    "rating_count": 426,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/9/1/4/2/1/1491421-crocodile-dose-0-600-0-900-crop.jpg?v=5fb76f0efa"
   },
   {
@@ -4029,6 +3816,81 @@
     "poster_url": null
   },
   {
+    "date": "2026-12-21",
+    "theater": "ROXY CINEMA NEW YORK",
+    "title": "Cinema Tehran presents: Cinema Paradiso",
+    "director": "N/A",
+    "year": "1988",
+    "link": "https://ticketing.uswest.veezi.com/purchase/8040?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
+    "showtimes": [
+      "7:00PM"
+    ],
+    "letterboxd_url": null,
+    "genres": [],
+    "runtime_mins": null,
+    "rating": null,
+    "rating_count": null,
+    "poster_url": null
+  },
+  {
+    "date": "2026-12-21",
+    "theater": "ROXY CINEMA NEW YORK",
+    "title": "Club Kid",
+    "director": "N/A",
+    "year": "2026",
+    "link": "https://ticketing.uswest.veezi.com/purchase/8042?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
+    "showtimes": [
+      "9:45PM"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/club-kid/",
+    "genres": [
+      "comedy",
+      "drama"
+    ],
+    "runtime_mins": 122,
+    "rating": 4.44,
+    "rating_count": 157190,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/5/6/2/4/2/1456242-club-kid-0-600-0-900-crop.jpg?v=b2d52aad9d"
+  },
+  {
+    "date": "2026-12-22",
+    "theater": "ROXY CINEMA NEW YORK",
+    "title": "Amadeus (4K Restoration)",
+    "director": "N/A",
+    "year": "1984",
+    "link": "https://ticketing.uswest.veezi.com/purchase/8043?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
+    "showtimes": [
+      "6:00PM"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/amadeus/",
+    "genres": [
+      "drama",
+      "history",
+      "music"
+    ],
+    "runtime_mins": 160,
+    "rating": 4.37,
+    "rating_count": 616700,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/bn/hr/ki/ay/eP2pJudgGzUlo2kZuh0tF1MInsb-0-600-0-900-crop.jpg?v=907dc282ae"
+  },
+  {
+    "date": "2026-12-22",
+    "theater": "ROXY CINEMA NEW YORK",
+    "title": "Spirited Away - 35MM",
+    "director": "N/A",
+    "year": "2001",
+    "link": "https://ticketing.uswest.veezi.com/purchase/8044?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
+    "showtimes": [
+      "9:00PM"
+    ],
+    "letterboxd_url": null,
+    "genres": [],
+    "runtime_mins": null,
+    "rating": null,
+    "rating_count": null,
+    "poster_url": null
+  },
+  {
     "date": "2026-12-23",
     "theater": "ROXY CINEMA NEW YORK",
     "title": "Cinema Tehran presents: Persepolis - 35MM",
@@ -4044,5 +3906,59 @@
     "rating": null,
     "rating_count": null,
     "poster_url": null
+  },
+  {
+    "date": "2026-12-23",
+    "theater": "ROXY CINEMA NEW YORK",
+    "title": "Cinema Tehran presents: Cinema Paradiso",
+    "director": "N/A",
+    "year": "1988",
+    "link": "https://ticketing.uswest.veezi.com/purchase/8041?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
+    "showtimes": [
+      "9:15PM"
+    ],
+    "letterboxd_url": null,
+    "genres": [],
+    "runtime_mins": null,
+    "rating": null,
+    "rating_count": null,
+    "poster_url": null
+  },
+  {
+    "date": "2026-12-28",
+    "theater": "ROXY CINEMA NEW YORK",
+    "title": "Spirited Away - 35MM",
+    "director": "N/A",
+    "year": "2001",
+    "link": "https://ticketing.uswest.veezi.com/purchase/8038?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
+    "showtimes": [
+      "7:00PM"
+    ],
+    "letterboxd_url": null,
+    "genres": [],
+    "runtime_mins": null,
+    "rating": null,
+    "rating_count": null,
+    "poster_url": null
+  },
+  {
+    "date": "2026-12-29",
+    "theater": "ROXY CINEMA NEW YORK",
+    "title": "Club Kid",
+    "director": "N/A",
+    "year": "2026",
+    "link": "https://ticketing.uswest.veezi.com/purchase/8045?siteToken=tt17e5ajy3v48kh5b2kremvnz4",
+    "showtimes": [
+      "7:00PM"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/club-kid/",
+    "genres": [
+      "comedy",
+      "drama"
+    ],
+    "runtime_mins": 122,
+    "rating": 4.44,
+    "rating_count": 157190,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/5/6/2/4/2/1456242-club-kid-0-600-0-900-crop.jpg?v=b2d52aad9d"
   }
 ]
