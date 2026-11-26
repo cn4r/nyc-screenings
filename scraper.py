@@ -19,7 +19,7 @@ import time
 import re
 import json
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Comment
 from urllib.parse import quote
 
 # --- SETUP ---
@@ -601,113 +601,465 @@ def scrape_roxy_cinema():
     return all_data
 
 
-def scrape_paris_theater(driver):
-    """Scrape Paris Theater listings from paristheaternyc.com."""
+def scrape_paris_theater(driver=None):
+    """Scrape Paris Theater from paristheaternyc.com.
+
+    The site was rebuilt as a client-rendered Next.js app whose daily schedule
+    widget loads from an API that never fires in a headless browser, so the
+    regular day-by-day grid is not reachable. What *is* embedded in the page is
+    the CMS payload of dated special screenings (previews, Q&As), which is what
+    this returns. The `driver` argument is accepted but unused.
+    """
     print("\nScraping Paris Theater...")
     all_data = []
     try:
-        driver.get("https://www.paristheaternyc.com")
-        time.sleep(3)
-        scroll_full_page(driver)
-        time.sleep(2)
+        resp = SESSION.get("https://www.paristheaternyc.com", timeout=25)
+        # The payload is JSON embedded in a JS string, so unescape it first
+        payload = resp.text.replace('\\"', '"')
+        payload = payload.encode('utf-8', 'ignore').decode('unicode_escape', 'ignore')
 
-        # Extract all film links from the homepage
-        film_links = set()
-        anchors = driver.find_elements(By.TAG_NAME, 'a')
-        for a in anchors:
-            href = a.get_attribute('href') or ''
-            if '/film/' in href and 'paristheaternyc.com' in href:
-                film_links.add(href)
+        events = re.findall(
+            r'"EventName":"(.*?)".*?"EventDate":"(\d{4}-\d{2}-\d{2})"'
+            r'.*?"TicketLink":"(.*?)".*?"EventTime":"(.*?)"',
+            payload,
+        )
 
-        print(f"  Found {len(film_links)} film pages")
-
-        for film_url in film_links:
-            try:
-                driver.get(film_url)
-                time.sleep(2)
-                scroll_full_page(driver)
-                time.sleep(1)
-
-                page_text = driver.find_element(By.TAG_NAME, 'body').text
-                title_el = driver.find_elements(By.TAG_NAME, 'h1')
-                title = title_el[0].text.strip() if title_el else "Unknown"
-                if not title or title == "Unknown":
-                    continue
-
-                # Extract director — look for "Directed by" or "Dir." pattern
-                director = "N/A"
-                dir_match = re.search(r'(?:Directed by|Dir\.?)\s+(.+?)(?:\n|$)', page_text, re.IGNORECASE)
-                if dir_match:
-                    director = dir_match.group(1).strip()
-
-                # Extract year
-                year = "N/A"
-                year_match = re.search(r'\b(19\d{2}|20[0-2]\d)\b', page_text)
-                if year_match:
-                    year = year_match.group(1)
-
-                # Extract dates and showtimes
-                # Look for date patterns like "June 12, 2026" or "Jun 12-16"
-                date_matches = re.findall(
-                    r'(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\w*\s+\d{1,2}(?:\s*[-–]\s*\d{1,2})?,?\s*\d{4}',
-                    page_text, re.IGNORECASE
-                )
-                time_matches = re.findall(r'\d{1,2}:\d{2}\s*[AP]M', page_text, re.IGNORECASE)
-                showtimes = time_matches if time_matches else ['Check website']
-
-                # Parse date ranges and create entries for each day
-                for date_str_raw in date_matches:
-                    try:
-                        # Handle ranges like "June 12-16, 2026"
-                        range_match = re.match(
-                            r'(\w+)\s+(\d{1,2})\s*[-–]\s*(\d{1,2}),?\s*(\d{4})',
-                            date_str_raw
-                        )
-                        if range_match:
-                            month_str, start_day, end_day, yr = range_match.groups()
-                            for day in range(int(start_day), int(end_day) + 1):
-                                try:
-                                    dt = datetime.strptime(f"{month_str} {day} {yr}", "%B %d %Y")
-                                    all_data.append({
-                                        'date': dt.strftime('%Y-%m-%d'),
-                                        'theater': 'PARIS THEATER',
-                                        'title': title,
-                                        'director': director,
-                                        'year': year,
-                                        'link': film_url,
-                                        'showtimes': showtimes,
-                                    })
-                                except ValueError:
-                                    pass
-                        else:
-                            # Single date like "June 12, 2026"
-                            clean = re.sub(r'\s+', ' ', date_str_raw.strip())
-                            for fmt in ('%B %d, %Y', '%B %d %Y', '%b %d, %Y', '%b %d %Y'):
-                                try:
-                                    dt = datetime.strptime(clean, fmt)
-                                    all_data.append({
-                                        'date': dt.strftime('%Y-%m-%d'),
-                                        'theater': 'PARIS THEATER',
-                                        'title': title,
-                                        'director': director,
-                                        'year': year,
-                                        'link': film_url,
-                                        'showtimes': showtimes,
-                                    })
-                                    break
-                                except ValueError:
-                                    continue
-                    except Exception:
-                        continue
-
-            except Exception as e:
-                print(f"  Error on {film_url}: {e}")
+        seen = set()
+        for name, date_str, ticket, event_time in events:
+            if (name, date_str, event_time) in seen:
                 continue
+            seen.add((name, date_str, event_time))
+
+            # Names read "INK | Q&A with Danny Boyle" — the film is the first part
+            title = name.split('|')[0].strip() or name.strip()
+            if not title:
+                continue
+
+            tm = re.match(r'(\d{1,2})(?::(\d{2}))?\s*([apAP]\.?[mM])', event_time.strip())
+            showtime = (
+                f"{tm.group(1)}:{tm.group(2) or '00'} {tm.group(3).replace('.', '').upper()}"
+                if tm else (event_time.strip() or 'Check website')
+            )
+
+            all_data.append({
+                'date': date_str,
+                'theater': 'PARIS THEATER',
+                'title': title,
+                'director': 'N/A',
+                'year': 'N/A',
+                'link': ticket.strip() or 'https://www.paristheaternyc.com',
+                'showtimes': [showtime],
+            })
 
     except Exception as e:
         print(f"  Paris Theater scrape error: {e}")
 
     print(f"  Got {len(all_data)} Paris Theater screenings")
+    return all_data
+# --- DIRECT THEATER SCRAPERS ---------------------------------------------
+# Screen Slate (the old aggregator source) began returning
+# "403 Automated access is not allowed" in Nov 2026, so each venue it used to
+# cover is now scraped from its own public calendar instead.
+
+def _infer_date(month_name, day, today=None):
+    """Build YYYY-MM-DD from a month name + day, guessing the year.
+
+    Calendars omit the year, so assume the nearest upcoming occurrence: if
+    using the current year lands us more than 60 days in the past, it's next
+    year's listing (a December page viewed in January, say).
+    """
+    today = today or datetime.now()
+    for fmt in ('%b', '%B'):
+        try:
+            month = datetime.strptime(month_name[:3] if fmt == '%b' else month_name, fmt).month
+            break
+        except ValueError:
+            continue
+    else:
+        return None
+
+    for year in (today.year, today.year + 1):
+        try:
+            d = datetime(year, month, int(day))
+        except ValueError:
+            return None
+        if (d - today).days > -60:
+            return d.strftime('%Y-%m-%d')
+    return None
+
+
+def _dedupe_times(times):
+    """Drop duplicates but keep original order (responsive markup repeats times)."""
+    seen = set()
+    out = []
+    for t in times:
+        key = t.upper().replace(' ', '')
+        if key not in seen:
+            seen.add(key)
+            out.append(t)
+    return out
+
+
+def scrape_ifc_center():
+    """Scrape IFC Center from ifccenter.com (no Selenium needed).
+
+    Structure: div.daily-schedule holds an h3 date ("Thu Nov 26") and an li per
+    film with div.details > h3 > a (title) and ul.times > li > a (showtimes).
+    Covers roughly the next week.
+    """
+    print("\nScraping IFC Center...")
+    all_data = []
+    try:
+        resp = SESSION.get("https://www.ifccenter.com/", timeout=20)
+        soup = BeautifulSoup(resp.text, 'html.parser')
+
+        for day_div in soup.find_all(class_='daily-schedule'):
+            header = day_div.find('h3')
+            if not header:
+                continue
+            # Header reads "Thu Nov 26" — month and day are the last two words
+            parts = header.get_text(strip=True).split()
+            if len(parts) < 3:
+                continue
+            date_str = _infer_date(parts[-2], parts[-1])
+            if not date_str:
+                continue
+
+            for li in day_div.find_all('li', recursive=True):
+                details = li.find('div', class_='details')
+                if not details:
+                    continue
+                title_a = details.find('h3')
+                title_a = title_a.find('a') if title_a else None
+                if not title_a:
+                    continue
+                title = title_a.get_text(strip=True)
+                if not title:
+                    continue
+
+                showtimes, ticket_link = [], None
+                times_ul = details.find('ul', class_='times')
+                if times_ul:
+                    for ta in times_ul.find_all('a', href=True):
+                        t = ta.get_text(strip=True)
+                        if re.match(r'\d{1,2}:\d{2}\s*[apAP][mM]', t):
+                            showtimes.append(t)
+                            ticket_link = ticket_link or ta['href'].strip()
+
+                all_data.append({
+                    'date': date_str,
+                    'theater': 'IFC CENTER',
+                    'title': title,
+                    'director': 'N/A',
+                    'year': 'N/A',
+                    'link': ticket_link or title_a.get('href') or 'https://www.ifccenter.com/',
+                    'showtimes': _dedupe_times(showtimes) or ['Check website'],
+                })
+
+    except Exception as e:
+        print(f"  IFC Center scrape error: {e}")
+
+    print(f"  Got {len(all_data)} IFC Center screenings")
+    return all_data
+
+
+def scrape_film_forum():
+    """Scrape Film Forum from filmforum.org (no Selenium needed).
+
+    The homepage carries a week of schedule in div#tabs-N blocks; the day of
+    month sits in an HTML comment at the top of each block. Times are printed
+    bare ("2:30"), without am/pm, so they're normalized below.
+    """
+    print("\nScraping Film Forum...")
+    all_data = []
+    try:
+        resp = SESSION.get("https://filmforum.org/", timeout=20)
+        soup = BeautifulSoup(resp.text, 'html.parser')
+        today = datetime.now()
+
+        for tab in soup.find_all('div', id=re.compile(r'^tabs-\d+$')):
+            # Day-of-month lives in a comment like <!-- 26 -->
+            day = None
+            for node in tab.children:
+                if isinstance(node, Comment):
+                    cm = re.search(r'\d{1,2}', node)
+                    if cm:
+                        day = int(cm.group(0))
+                        break
+            if day is None:
+                continue
+
+            # Tabs run forward from today, so pick the month that fits
+            date_str = None
+            for delta_month in (0, 1):
+                month = today.month + delta_month
+                year = today.year + (month > 12)
+                month = month - 12 if month > 12 else month
+                try:
+                    cand = datetime(year, month, day)
+                except ValueError:
+                    continue
+                if (cand - today).days > -2:
+                    date_str = cand.strftime('%Y-%m-%d')
+                    break
+            if not date_str:
+                continue
+
+            for p in tab.find_all('p'):
+                strong = p.find('strong')
+                title_a = strong.find('a', href=True) if strong else None
+                if not title_a:
+                    continue
+                title = title_a.get_text(strip=True)
+                if not title:
+                    continue
+
+                showtimes = []
+                for span in p.find_all('span'):
+                    raw = span.get_text(strip=True)
+                    tm = re.match(r'(\d{1,2}):(\d{2})', raw)
+                    if not tm:
+                        continue
+                    hour, minute = int(tm.group(1)), tm.group(2)
+                    # Film Forum lists bare times: 10 and 11 are morning
+                    # matinees, everything else (12 through 9) is afternoon/evening.
+                    suffix = 'AM' if hour in (10, 11) else 'PM'
+                    showtimes.append(f"{hour}:{minute} {suffix}")
+
+                if not showtimes:
+                    continue
+
+                all_data.append({
+                    'date': date_str,
+                    'theater': 'FILM FORUM',
+                    'title': title,
+                    'director': 'N/A',
+                    'year': 'N/A',
+                    'link': title_a['href'],
+                    'showtimes': _dedupe_times(showtimes),
+                })
+
+    except Exception as e:
+        print(f"  Film Forum scrape error: {e}")
+
+    print(f"  Got {len(all_data)} Film Forum screenings")
+    return all_data
+
+
+def scrape_anthology(months_ahead=2):
+    """Scrape Anthology Film Archives from anthologyfilmarchives.org.
+
+    Monthly calendar table: td.calendar_day holds the day number, each
+    li.calendar_event holds a showtime followed by the title link.
+    """
+    print("\nScraping Anthology Film Archives...")
+    all_data = []
+    base = "https://anthologyfilmarchives.org"
+    today = datetime.now()
+
+    for offset in range(months_ahead + 1):
+        month = today.month + offset
+        year = today.year + (month - 1) // 12
+        month = (month - 1) % 12 + 1
+        try:
+            resp = SESSION.get(
+                f"{base}/film_screenings/calendar",
+                params={'month': month, 'year': year},
+                timeout=20,
+            )
+            soup = BeautifulSoup(resp.text, 'html.parser')
+
+            for cell in soup.find_all('td', class_='calendar_day'):
+                day_span = cell.find('span', class_='day')
+                day = (day_span.get_text(strip=True) if day_span else cell.get('name') or '')
+                if not day.isdigit():
+                    continue
+                try:
+                    date_str = datetime(year, month, int(day)).strftime('%Y-%m-%d')
+                except ValueError:
+                    continue
+
+                for li in cell.find_all('li', class_='calendar_event'):
+                    a = li.find('a', href=True)
+                    if not a:
+                        continue
+                    title = a.get_text(strip=True)
+                    # Strip trailing notes like "(Director in person!)"
+                    title = re.sub(r'\s*\([^)]*\)\s*$', '', title).strip()
+                    if not title:
+                        continue
+
+                    # Showtime is the bare text before the title link
+                    lead = li.get_text(' ', strip=True)
+                    tm = re.match(r'(\d{1,2}:\d{2}\s*[apAP][mM])', lead)
+                    showtimes = [tm.group(1)] if tm else ['Check website']
+
+                    href = a['href']
+                    all_data.append({
+                        'date': date_str,
+                        'theater': 'ANTHOLOGY FILM ARCHIVES',
+                        'title': title,
+                        'director': 'N/A',
+                        'year': 'N/A',
+                        'link': href if href.startswith('http') else base + href,
+                        'showtimes': showtimes,
+                    })
+        except Exception as e:
+            print(f"  Anthology {year}-{month:02d} error: {e}")
+
+    print(f"  Got {len(all_data)} Anthology screenings")
+    return all_data
+
+
+def scrape_film_at_lincoln_center():
+    """Scrape Film at Lincoln Center from filmlinc.org.
+
+    Film pages carry a "Showtimes" block ("Thu, Nov 26" followed by times) plus
+    a DIRECTOR / YEAR / RUNTIME metadata list, so this collects film slugs from
+    the calendar pages and then reads each film page.
+    """
+    print("\nScraping Film at Lincoln Center...")
+    all_data = []
+    base = "https://www.filmlinc.org"
+    slugs = set()
+
+    try:
+        for listing in ("/calendar/", "/now-playing/"):
+            try:
+                resp = SESSION.get(base + listing, timeout=25)
+                for m in re.finditer(r'href="(/films/[^"#?]+/)"', resp.text):
+                    slugs.add(m.group(1))
+            except Exception as e:
+                print(f"  FLC listing {listing} error: {e}")
+
+        print(f"  Found {len(slugs)} film pages")
+
+        for slug in sorted(slugs):
+            try:
+                resp = SESSION.get(base + slug, timeout=25)
+                lines = BeautifulSoup(resp.text, 'html.parser').get_text('\n', strip=True).split('\n')
+
+                director, year = 'N/A', 'N/A'
+                for i, line in enumerate(lines):
+                    if line.strip().upper() == 'DIRECTOR' and i + 1 < len(lines):
+                        director = lines[i + 1].strip() or 'N/A'
+                    elif line.strip().upper() == 'YEAR' and i + 1 < len(lines):
+                        ym = re.search(r'(19\d{2}|20\d{2})', lines[i + 1])
+                        if ym:
+                            year = ym.group(1)
+
+                title = 'N/A'
+                for line in lines:
+                    if line.strip() and line.strip().lower() not in ('skip to main content',):
+                        title = line.strip()
+                        break
+                h1 = BeautifulSoup(resp.text, 'html.parser').find('h1')
+                if h1 and h1.get_text(strip=True):
+                    title = h1.get_text(strip=True)
+
+                # Walk the Showtimes block: date headers then times beneath each
+                try:
+                    start = next(i for i, l in enumerate(lines) if l.strip().lower() == 'showtimes')
+                except StopIteration:
+                    continue
+
+                by_date = {}
+                current = None
+                for line in lines[start + 1:]:
+                    s = line.strip()
+                    dm = re.match(r'^(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun)[a-z]*,\s*(\w{3,})\.?\s+(\d{1,2})$', s)
+                    if dm:
+                        current = _infer_date(dm.group(1), dm.group(2))
+                        by_date.setdefault(current, [])
+                        continue
+                    tm = re.match(r'^(\d{1,2}:\d{2}\s*[apAP][mM])$', s)
+                    if tm and current:
+                        by_date[current].append(tm.group(1))
+                        continue
+                    if s.upper() in ('OC', 'MORE SHOWTIMES', ''):
+                        continue
+                    if s.upper() in ('DIRECTOR', 'YEAR', 'COUNTRY', 'RUNTIME', 'LANGUAGE'):
+                        break
+
+                for date_str, times in by_date.items():
+                    if not date_str or not times:
+                        continue
+                    all_data.append({
+                        'date': date_str,
+                        'theater': 'FILM AT LINCOLN CENTER',
+                        'title': title,
+                        'director': director,
+                        'year': year,
+                        'link': base + slug,
+                        'showtimes': _dedupe_times(times),
+                    })
+            except Exception as e:
+                print(f"  FLC {slug} error: {e}")
+
+    except Exception as e:
+        print(f"  Film at Lincoln Center scrape error: {e}")
+
+    print(f"  Got {len(all_data)} Film at Lincoln Center screenings")
+    return all_data
+
+
+def scrape_bam(driver):
+    """Scrape BAM from bam.org/calendar (needs Selenium — calendar is JS-rendered).
+
+    Rendered structure: div.calendarblock carries the date in its id
+    ("2026-11-01") and one button.eventblock per event, with the title in
+    data-name and showtimes in ul.timeblock > li.cal_time.
+    """
+    print("\nScraping BAM...")
+    all_data = []
+    try:
+        driver.get("https://www.bam.org/calendar?v=film")
+        time.sleep(8)
+        soup = BeautifulSoup(driver.page_source, 'html.parser')
+
+        for block in soup.find_all('div', class_='calendarblock'):
+            date_str = block.get('id', '')
+            if not re.fullmatch(r'\d{4}-\d{2}-\d{2}', date_str):
+                continue
+
+            for ev in block.find_all('button', class_='eventblock'):
+                if (ev.get('data-genre') or '').strip().lower() != 'film':
+                    continue
+                title = (ev.get('data-name') or '').strip()
+                if not title:
+                    name_span = ev.find('span', class_='cal_event')
+                    title = name_span.get_text(strip=True) if name_span else ''
+                if not title:
+                    continue
+
+                showtimes = []
+                for li in ev.find_all('li', class_='cal_time'):
+                    t = li.get_text(strip=True)
+                    if t:
+                        # BAM prints "4pm" / "7:30pm"
+                        tm = re.match(r'(\d{1,2})(?::(\d{2}))?\s*([apAP][mM])', t)
+                        showtimes.append(
+                            f"{tm.group(1)}:{tm.group(2) or '00'} {tm.group(3).upper()}" if tm else t
+                        )
+
+                link = (ev.get('data-buylink') or ev.get('data-morelink') or '').strip()
+                if link.startswith('/'):
+                    link = 'https://www.bam.org' + link
+
+                all_data.append({
+                    'date': date_str,
+                    'theater': 'BAM',
+                    'title': title,
+                    'director': 'N/A',
+                    'year': 'N/A',
+                    'link': link or 'https://www.bam.org/film',
+                    'showtimes': _dedupe_times(showtimes) or ['Check website'],
+                })
+
+    except Exception as e:
+        print(f"  BAM scrape error: {e}")
+
+    print(f"  Got {len(all_data)} BAM screenings")
     return all_data
 
 
@@ -800,26 +1152,42 @@ if __name__ == "__main__":
     print("=" * 60)
     print(f"\n📂 Data folder: {DATA_FOLDER}\n")
     
-    # Scrape next 90 days
-    NUM_DAYS = 90
-    screenings = master_scrape(NUM_DAYS)
-    
-    # Scrape theaters not fully covered by Screen Slate
-    metrograph_data = scrape_metrograph()
-    screenings.extend(metrograph_data)
+    # Screen Slate used to supply most venues, but as of Nov 2026 it returns
+    # "403 Automated access is not allowed", so every theater is scraped
+    # directly from its own calendar. master_scrape() is kept below in case
+    # that ever changes.
+    screenings = []
 
-    roxy_data = scrape_roxy_cinema()
-    screenings.extend(roxy_data)
+    for scrape in (scrape_metrograph, scrape_roxy_cinema, scrape_ifc_center,
+                   scrape_film_forum, scrape_anthology,
+                   scrape_film_at_lincoln_center):
+        try:
+            screenings.extend(scrape())
+        except Exception as e:
+            print(f"  ! {scrape.__name__} failed: {e}")
 
-    paris_driver = make_driver()
+    # Venues whose calendars only exist after JS runs
+    driver = make_driver()
     try:
-        paris_data = scrape_paris_theater(paris_driver)
-        screenings.extend(paris_data)
+        for scrape in (scrape_bam, scrape_paris_theater):
+            try:
+                screenings.extend(scrape(driver))
+            except Exception as e:
+                print(f"  ! {scrape.__name__} failed: {e}")
     finally:
         try:
-            paris_driver.quit()
+            driver.quit()
         except Exception:
             pass
+
+    # Monthly calendars (Anthology, BAM) include days already past; the site
+    # bills itself as the next 90 days, so keep only today onward.
+    today_str = datetime.now().strftime('%Y-%m-%d')
+    horizon = (datetime.now() + timedelta(days=90)).strftime('%Y-%m-%d')
+    before = len(screenings)
+    screenings = [s for s in screenings if today_str <= s.get('date', '') <= horizon]
+    if before != len(screenings):
+        print(f"\n  Dropped {before - len(screenings)} screenings outside today..+90d")
 
     if screenings:
         print(f"\n{'='*60}")
@@ -838,4 +1206,4 @@ if __name__ == "__main__":
         print(f"\nRun 'python build_website.py' to generate the website.")
         print(f"\n{'='*60}\n")
     else:
-        print("\n❌ No screenings found. Check your internet connection or Screen Slate availability.")
+        print("\n❌ No screenings found. Check your internet connection or whether the theater sites changed.")
