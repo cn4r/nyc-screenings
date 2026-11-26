@@ -39,7 +39,7 @@
     ],
     "runtime_mins": 79,
     "rating": 4.18,
-    "rating_count": 121656,
+    "rating_count": 121657,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/2/0/2/51202-the-general-0-600-0-900-crop.jpg?v=8214c74694"
   },
   {
@@ -58,7 +58,7 @@
     ],
     "runtime_mins": 149,
     "rating": 4.27,
-    "rating_count": 106125,
+    "rating_count": 106126,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/6/6/1/8/36618-the-sacrifice-0-600-0-900-crop.jpg?v=abe0768e2a"
   },
   {
@@ -135,7 +135,7 @@
     ],
     "runtime_mins": 104,
     "rating": 3.95,
-    "rating_count": 160138,
+    "rating_count": 160139,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/l1/zo/7p/wc/3ZE5Wl3CdfUH4BkWRmyMKPHkWHx-0-600-0-900-crop.jpg?v=800e4a6439"
   },
   {
@@ -176,7 +176,7 @@
     ],
     "runtime_mins": 114,
     "rating": 4.1,
-    "rating_count": 2661374,
+    "rating_count": 2661381,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/9/4/7/51947-taxi-driver-0-600-0-900-crop.jpg?v=3ae07cca2d"
   },
   {
@@ -215,7 +215,7 @@
     ],
     "runtime_mins": 137,
     "rating": 4.09,
-    "rating_count": 1636464,
+    "rating_count": 1636468,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/8/6/7/51867-a-clockwork-orange-0-600-0-900-crop.jpg?v=d6d5407b50"
   },
   {
@@ -295,7 +295,7 @@
     ],
     "runtime_mins": 123,
     "rating": 4.4,
-    "rating_count": 223059,
+    "rating_count": 223062,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/3/4/5/6345-a-separation-0-600-0-900-crop.jpg?v=dca05d4c0a"
   },
   {
@@ -434,7 +434,7 @@
     ],
     "runtime_mins": 113,
     "rating": 4.18,
-    "rating_count": 2289243,
+    "rating_count": 2289253,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/v1/3q/s4/aa/memento-0-600-0-900-crop.jpg?v=80f0732247"
   },
   {
@@ -634,7 +634,7 @@
     ],
     "runtime_mins": 149,
     "rating": 4.27,
-    "rating_count": 106125,
+    "rating_count": 106126,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/6/6/1/8/36618-the-sacrifice-0-600-0-900-crop.jpg?v=abe0768e2a"
   },
   {
@@ -676,7 +676,7 @@
     ],
     "runtime_mins": 114,
     "rating": 4.1,
-    "rating_count": 2661374,
+    "rating_count": 2661381,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/9/4/7/51947-taxi-driver-0-600-0-900-crop.jpg?v=3ae07cca2d"
   },
   {
@@ -755,7 +755,7 @@
     ],
     "runtime_mins": 134,
     "rating": 4.12,
-    "rating_count": 505567,
+    "rating_count": 505568,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/25/5e/r1/3t/z6yhgEzGUJaBBgAxoyggRzwLnVM-0-600-0-900-crop.jpg?v=49d0ffd43f"
   },
   {
@@ -816,7 +816,7 @@
     ],
     "runtime_mins": 120,
     "rating": 4.36,
-    "rating_count": 1796949,
+    "rating_count": 1796953,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/4/5/4/51454-oldboy-0-600-0-900-crop.jpg?v=294dbcadef"
   },
   {
@@ -897,7 +897,7 @@
     ],
     "runtime_mins": 138,
     "rating": 4.21,
-    "rating_count": 3966545,
+    "rating_count": 3966555,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/5/4/0/9/45409-shutter-island-0-600-0-900-crop.jpg?v=85dd4c38e3"
   },
   {
@@ -934,7 +934,7 @@
     ],
     "runtime_mins": 137,
     "rating": 4.09,
-    "rating_count": 1636464,
+    "rating_count": 1636468,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/8/6/7/51867-a-clockwork-orange-0-600-0-900-crop.jpg?v=d6d5407b50"
   },
   {
@@ -1029,7 +1029,7 @@
     ],
     "runtime_mins": 113,
     "rating": 4.18,
-    "rating_count": 2289243,
+    "rating_count": 2289253,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/v1/3q/s4/aa/memento-0-600-0-900-crop.jpg?v=80f0732247"
   },
   {
@@ -1042,12 +1042,14 @@
     "showtimes": [
       "8:30pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/la-raulito/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 95,
+    "rating": 3.63,
+    "rating_count": 710,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/9/3/3/0/149330-la-raulito-0-600-0-900-crop.jpg?v=640fc69bd7"
   },
   {
     "date": "2026-12-03",
@@ -1067,7 +1069,7 @@
     ],
     "runtime_mins": 134,
     "rating": 4.12,
-    "rating_count": 505567,
+    "rating_count": 505568,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/25/5e/r1/3t/z6yhgEzGUJaBBgAxoyggRzwLnVM-0-600-0-900-crop.jpg?v=49d0ffd43f"
   },
   {
@@ -1106,7 +1108,7 @@
     ],
     "runtime_mins": 149,
     "rating": 4.27,
-    "rating_count": 106125,
+    "rating_count": 106126,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/6/6/1/8/36618-the-sacrifice-0-600-0-900-crop.jpg?v=abe0768e2a"
   },
   {
@@ -1138,12 +1140,14 @@
     "showtimes": [
       "4:30pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/tokyo-sonata/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 120,
+    "rating": 4.19,
+    "rating_count": 47856,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/4/9/1/47491-tokyo-sonata-0-600-0-900-crop.jpg?v=5a599cbfec"
   },
   {
     "date": "2026-12-04",
@@ -1155,12 +1159,15 @@
     "showtimes": [
       "5:00pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/keane/",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "runtime_mins": 95,
+    "rating": 3.61,
+    "rating_count": 4193,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/3/8/6/6/43866-keane-0-600-0-900-crop.jpg?v=70e8f716df"
   },
   {
     "date": "2026-12-04",
@@ -1189,12 +1196,14 @@
     "showtimes": [
       "7:15pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/museum-hours/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 107,
+    "rating": 3.78,
+    "rating_count": 5252,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/9/9/0/5/99905-museum-hours-0-600-0-900-crop.jpg?v=e8ffe0f458"
   },
   {
     "date": "2026-12-04",
@@ -1223,12 +1232,15 @@
     "showtimes": [
       "10:15pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/it-follows/",
+    "genres": [
+      "horror",
+      "mystery"
+    ],
+    "runtime_mins": 101,
+    "rating": 3.37,
+    "rating_count": 969861,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/zr/lv/9v/wy/4MrwJZr0R9LbyOgZqwLNmtzzxbu-0-600-0-900-crop.jpg?v=0f234ef9c3"
   },
   {
     "date": "2026-12-05",
@@ -1240,12 +1252,15 @@
     "showtimes": [
       "11:15am"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/kaili-blues/",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "runtime_mins": 113,
+    "rating": 3.96,
+    "rating_count": 25315,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/9/3/8/6/1/293861-kaili-blues-0-600-0-900-crop.jpg?v=b442d856ad"
   },
   {
     "date": "2026-12-05",
@@ -1257,12 +1272,16 @@
     "showtimes": [
       "11:15am"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/lady-killer-1937/",
+    "genres": [
+      "drama",
+      "romance",
+      "war"
+    ],
+    "runtime_mins": 94,
+    "rating": 3.76,
+    "rating_count": 1858,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/4/9/6/0/64960-lady-killer-0-600-0-900-crop.jpg?v=b4f3da8571"
   },
   {
     "date": "2026-12-05",
@@ -1328,12 +1347,14 @@
     "showtimes": [
       "3:20pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/time-indefinite/",
+    "genres": [
+      "documentary"
+    ],
+    "runtime_mins": 114,
+    "rating": 3.98,
+    "rating_count": 1142,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/0/7/6/3/80763-time-indefinite-0-600-0-900-crop.jpg?v=cade70d006"
   },
   {
     "date": "2026-12-05",
@@ -1381,12 +1402,14 @@
     "showtimes": [
       "8:35pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/tokyo-sonata/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 120,
+    "rating": 4.19,
+    "rating_count": 47856,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/4/9/1/47491-tokyo-sonata-0-600-0-900-crop.jpg?v=5a599cbfec"
   },
   {
     "date": "2026-12-05",
@@ -1405,7 +1428,7 @@
     ],
     "runtime_mins": 114,
     "rating": 4.1,
-    "rating_count": 2661374,
+    "rating_count": 2661381,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/9/4/7/51947-taxi-driver-0-600-0-900-crop.jpg?v=3ae07cca2d"
   },
   {
@@ -1438,12 +1461,15 @@
     "showtimes": [
       "11:00pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/it-follows/",
+    "genres": [
+      "horror",
+      "mystery"
+    ],
+    "runtime_mins": 101,
+    "rating": 3.37,
+    "rating_count": 969861,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/zr/lv/9v/wy/4MrwJZr0R9LbyOgZqwLNmtzzxbu-0-600-0-900-crop.jpg?v=0f234ef9c3"
   },
   {
     "date": "2026-12-06",
@@ -1491,12 +1517,14 @@
     "showtimes": [
       "12:30pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/wild-boys-of-the-road/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 68,
+    "rating": 3.83,
+    "rating_count": 3035,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/5/6/4/15564-wild-boys-of-the-road-0-600-0-900-crop.jpg?v=e46670c6f3"
   },
   {
     "date": "2026-12-06",
@@ -1525,12 +1553,15 @@
     "showtimes": [
       "2:00pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/daughters-of-the-dust/",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "runtime_mins": 112,
+    "rating": 3.75,
+    "rating_count": 21878,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/2/7/9/0/52790-daughters-of-the-dust-0-600-0-900-crop.jpg?v=85a7f36e22"
   },
   {
     "date": "2026-12-06",
@@ -1542,12 +1573,14 @@
     "showtimes": [
       "4:15pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/leviathan-2012/",
+    "genres": [
+      "documentary"
+    ],
+    "runtime_mins": 87,
+    "rating": 3.71,
+    "rating_count": 12966,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/9/7/9/4/99794-leviathan-0-600-0-900-crop.jpg?v=c7c49e25b5"
   },
   {
     "date": "2026-12-06",
@@ -1582,7 +1615,7 @@
     ],
     "runtime_mins": 101,
     "rating": 4.32,
-    "rating_count": 168415,
+    "rating_count": 168418,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/7/5/0/51750-the-celebration-0-600-0-900-crop.jpg?v=7eefb2e0b7"
   },
   {
@@ -1595,12 +1628,16 @@
     "showtimes": [
       "7:00pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/lady-killer-1937/",
+    "genres": [
+      "drama",
+      "romance",
+      "war"
+    ],
+    "runtime_mins": 94,
+    "rating": 3.76,
+    "rating_count": 1858,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/4/9/6/0/64960-lady-killer-0-600-0-900-crop.jpg?v=b4f3da8571"
   },
   {
     "date": "2026-12-06",
@@ -1641,6 +1678,277 @@
     "rating": 3.71,
     "rating_count": 2785,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/6/3/1/9/1/63191-the-inugamis-0-600-0-900-crop.jpg?v=dac7f3cc42"
+  },
+  {
+    "date": "2026-12-09",
+    "theater": "METROGRAPH",
+    "title": "The Ascent",
+    "director": "Larisa  Shepitko",
+    "year": "1977",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31597",
+    "showtimes": [
+      "5:00pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/the-ascent/",
+    "genres": [
+      "drama",
+      "war"
+    ],
+    "runtime_mins": 110,
+    "rating": 4.43,
+    "rating_count": 57415,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/4/6/6/15466-the-ascent-0-600-0-900-crop.jpg?v=23f005183e"
+  },
+  {
+    "date": "2026-12-09",
+    "theater": "METROGRAPH",
+    "title": "Les rendez-vous d'Anna",
+    "director": "Chantal  Akerman",
+    "year": "1978",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31598",
+    "showtimes": [
+      "5:00pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/les-rendez-vous-danna/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 128,
+    "rating": 4.1,
+    "rating_count": 17225,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/7/9/0/1/77901-the-meetings-of-anna-0-600-0-900-crop.jpg?v=95412557ba"
+  },
+  {
+    "date": "2026-12-09",
+    "theater": "METROGRAPH",
+    "title": "Autumn Sonata",
+    "director": "Ingmar Bergman",
+    "year": "1978",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31599",
+    "showtimes": [
+      "7:25pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/autumn-sonata/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 93,
+    "rating": 4.5,
+    "rating_count": 173762,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/dr/d3/nw/gv/m4I32itPMlRWqWJamFAwFDbrBXp-0-600-0-900-crop.jpg?v=45433653ca"
+  },
+  {
+    "date": "2026-12-09",
+    "theater": "METROGRAPH",
+    "title": "Tickets",
+    "director": "Abbas Kiarostami, Ken Loach, Ermanno Olmi",
+    "year": "2005",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31601",
+    "showtimes": [
+      "7:30pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/tickets/",
+    "genres": [
+      "comedy",
+      "drama"
+    ],
+    "runtime_mins": 109,
+    "rating": 3.55,
+    "rating_count": 1454,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/9/0/1/8901-tickets-0-600-0-900-crop.jpg?v=6f79e45021"
+  },
+  {
+    "date": "2026-12-09",
+    "theater": "METROGRAPH",
+    "title": "Taxi Driver",
+    "director": "Martin Scorsese",
+    "year": "1976",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31600",
+    "showtimes": [
+      "9:30pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/taxi-driver/",
+    "genres": [
+      "crime",
+      "drama"
+    ],
+    "runtime_mins": 114,
+    "rating": 4.1,
+    "rating_count": 2661381,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/9/4/7/51947-taxi-driver-0-600-0-900-crop.jpg?v=3ae07cca2d"
+  },
+  {
+    "date": "2026-12-09",
+    "theater": "METROGRAPH",
+    "title": "Slither",
+    "director": "Howard Zieff",
+    "year": "1973",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31602",
+    "showtimes": [
+      "9:45pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/slither-1973/",
+    "genres": [
+      "comedy",
+      "crime",
+      "thriller"
+    ],
+    "runtime_mins": 97,
+    "rating": 3.29,
+    "rating_count": 1425,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/3/7/0/4/73704-slither-0-600-0-900-crop.jpg?v=0c5f50b094"
+  },
+  {
+    "date": "2026-12-10",
+    "theater": "METROGRAPH",
+    "title": "Wallace & Gromit: The Classic Shorts",
+    "director": "Nick  Park",
+    "year": "1995",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31603",
+    "showtimes": [
+      "3:30pm"
+    ],
+    "letterboxd_url": null,
+    "genres": [],
+    "runtime_mins": null,
+    "rating": null,
+    "rating_count": null,
+    "poster_url": null
+  },
+  {
+    "date": "2026-12-10",
+    "theater": "METROGRAPH",
+    "title": "Secrets & Lies",
+    "director": "Mike  Leigh",
+    "year": "1996",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31610",
+    "showtimes": [
+      "4:00pm"
+    ],
+    "letterboxd_url": null,
+    "genres": [],
+    "runtime_mins": null,
+    "rating": null,
+    "rating_count": null,
+    "poster_url": null
+  },
+  {
+    "date": "2026-12-10",
+    "theater": "METROGRAPH",
+    "title": "Rashomon",
+    "director": "Akira Kurosawa",
+    "year": "1950",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31604",
+    "showtimes": [
+      "5:20pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/rashomon/",
+    "genres": [
+      "crime",
+      "drama",
+      "mystery"
+    ],
+    "runtime_mins": 88,
+    "rating": 4.19,
+    "rating_count": 325139,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/5/7/0/51570-rashomon-0-600-0-900-crop.jpg?v=f8eb7c45da"
+  },
+  {
+    "date": "2026-12-10",
+    "theater": "METROGRAPH",
+    "title": "The Sacrifice",
+    "director": "Andrei Tarkovsky",
+    "year": "1986",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31609",
+    "showtimes": [
+      "6:45pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/the-sacrifice/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 149,
+    "rating": 4.27,
+    "rating_count": 106126,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/6/6/1/8/36618-the-sacrifice-0-600-0-900-crop.jpg?v=abe0768e2a"
+  },
+  {
+    "date": "2026-12-10",
+    "theater": "METROGRAPH",
+    "title": "Detour",
+    "director": "Edgar G. Ulmer",
+    "year": "1945",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31605",
+    "showtimes": [
+      "7:15pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/detour/",
+    "genres": [
+      "drama",
+      "thriller"
+    ],
+    "runtime_mins": 68,
+    "rating": 3.81,
+    "rating_count": 52388,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/3/9/0/5/4/39054-detour-0-600-0-900-crop.jpg?v=1a4eb74a91"
+  },
+  {
+    "date": "2026-12-10",
+    "theater": "METROGRAPH",
+    "title": "Tetsuo: The Iron Man",
+    "director": "Shinya  Tsukamoto",
+    "year": "1989",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31606",
+    "showtimes": [
+      "8:45pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/tetsuo-the-iron-man/",
+    "genres": [
+      "horror",
+      "science-fiction"
+    ],
+    "runtime_mins": 67,
+    "rating": 3.85,
+    "rating_count": 139576,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/3/6/0/2/23602-tetsuo-the-iron-man-0-600-0-900-crop.jpg?v=7db3db7b0d"
+  },
+  {
+    "date": "2026-12-10",
+    "theater": "METROGRAPH",
+    "title": "Lost Highway",
+    "director": "David Lynch",
+    "year": "1997",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31608",
+    "showtimes": [
+      "9:45pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/lost-highway/",
+    "genres": [
+      "drama",
+      "mystery",
+      "thriller"
+    ],
+    "runtime_mins": 134,
+    "rating": 4.12,
+    "rating_count": 505568,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/25/5e/r1/3t/z6yhgEzGUJaBBgAxoyggRzwLnVM-0-600-0-900-crop.jpg?v=49d0ffd43f"
+  },
+  {
+    "date": "2026-12-10",
+    "theater": "METROGRAPH",
+    "title": "Tenebrae",
+    "director": "Dario Argento",
+    "year": "1982",
+    "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31607",
+    "showtimes": [
+      "10:15pm"
+    ],
+    "letterboxd_url": "https://letterboxd.com/film/tenebrae/",
+    "genres": [],
+    "runtime_mins": null,
+    "rating": null,
+    "rating_count": null,
+    "poster_url": null
   },
   {
     "date": "2026-12-11",
@@ -1691,12 +1999,15 @@
     "showtimes": [
       "5:00pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/keane/",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "runtime_mins": 95,
+    "rating": 3.61,
+    "rating_count": 4193,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/3/8/6/6/43866-keane-0-600-0-900-crop.jpg?v=70e8f716df"
   },
   {
     "date": "2026-12-11",
@@ -1708,12 +2019,15 @@
     "showtimes": [
       "5:15pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/rex-a-dinosaurs-story/",
+    "genres": [
+      "adventure",
+      "family"
+    ],
+    "runtime_mins": 106,
+    "rating": 3.58,
+    "rating_count": 1331,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/5/3/4/6/9/553469-rex-a-dinosaurs-story-0-600-0-900-crop.jpg?v=46a03956f8"
   },
   {
     "date": "2026-12-11",
@@ -1804,12 +2118,15 @@
     "showtimes": [
       "11:00am"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/jurassic-park/",
+    "genres": [
+      "adventure",
+      "science-fiction"
+    ],
+    "runtime_mins": 127,
+    "rating": 4.13,
+    "rating_count": 2549576,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/1g/zz/ez/d8/yyCKYaW908ZbpexpnBJ3p8o87HA-0-600-0-900-crop.jpg?v=19a50874d0"
   },
   {
     "date": "2026-12-12",
@@ -1821,12 +2138,15 @@
     "showtimes": [
       "11:45am"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/the-power-of-kangwon-province/",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "runtime_mins": 109,
+    "rating": 3.66,
+    "rating_count": 3964,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/2/8/7/1/72871-the-power-of-kangwon-province-0-600-0-900-crop.jpg?v=18f5a30548"
   },
   {
     "date": "2026-12-12",
@@ -1838,12 +2158,15 @@
     "showtimes": [
       "1:35pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/rex-a-dinosaurs-story/",
+    "genres": [
+      "adventure",
+      "family"
+    ],
+    "runtime_mins": 106,
+    "rating": 3.58,
+    "rating_count": 1331,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/5/3/4/6/9/553469-rex-a-dinosaurs-story-0-600-0-900-crop.jpg?v=46a03956f8"
   },
   {
     "date": "2026-12-12",
@@ -1855,12 +2178,15 @@
     "showtimes": [
       "2:00pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/chronicle-of-anna-magdalena-bach/",
+    "genres": [
+      "drama",
+      "music"
+    ],
+    "runtime_mins": 94,
+    "rating": 3.85,
+    "rating_count": 5016,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/9/0/7/7/79077-chronicle-of-anna-magdalena-bach-0-600-0-900-crop.jpg?v=98d7abde11"
   },
   {
     "date": "2026-12-12",
@@ -1872,12 +2198,14 @@
     "showtimes": [
       "3:50pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/the-stranger-1991/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 114,
+    "rating": 3.97,
+    "rating_count": 6847,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/3/2/7/4/23274-the-stranger-0-600-0-900-crop.jpg?v=e3c7940340"
   },
   {
     "date": "2026-12-12",
@@ -1957,12 +2285,16 @@
     "showtimes": [
       "8:40pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/wolfs-hole/",
+    "genres": [
+      "drama",
+      "horror",
+      "science-fiction"
+    ],
+    "runtime_mins": 95,
+    "rating": 3.41,
+    "rating_count": 7724,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/7/2/5/4/97254-wolf-s-hole-0-600-0-900-crop.jpg?v=b0825bb89e"
   },
   {
     "date": "2026-12-12",
@@ -2049,12 +2381,15 @@
     "showtimes": [
       "12:00pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/7-women/",
+    "genres": [
+      "drama",
+      "history"
+    ],
+    "runtime_mins": 87,
+    "rating": 3.86,
+    "rating_count": 4550,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/2/5/4/0/52540-7-women-0-600-0-900-crop.jpg?v=d3734949da"
   },
   {
     "date": "2026-12-13",
@@ -2174,12 +2509,14 @@
     "showtimes": [
       "9:45pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/calamity-1982/",
+    "genres": [
+      "comedy"
+    ],
+    "runtime_mins": 96,
+    "rating": 3.42,
+    "rating_count": 588,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/4/8/1148-calamity-1982-0-600-0-900-crop.jpg?v=fc164406a1"
   },
   {
     "date": "2026-12-13",
@@ -2191,12 +2528,15 @@
     "showtimes": [
       "9:50pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/kaili-blues/",
+    "genres": [
+      "drama",
+      "mystery"
+    ],
+    "runtime_mins": 113,
+    "rating": 3.96,
+    "rating_count": 25315,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/9/3/8/6/1/293861-kaili-blues-0-600-0-900-crop.jpg?v=b442d856ad"
   },
   {
     "date": "2026-12-18",
@@ -2216,7 +2556,7 @@
     ],
     "runtime_mins": 96,
     "rating": 4.08,
-    "rating_count": 197014,
+    "rating_count": 197017,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/8/6/6/50866-godzilla-0-600-0-900-crop.jpg?v=2b549c08f0"
   },
   {
@@ -2256,7 +2596,7 @@
     ],
     "runtime_mins": 125,
     "rating": 4.02,
-    "rating_count": 34783,
+    "rating_count": 34785,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/9/3/1/2/29312-imitation-of-life-0-600-0-900-crop.jpg?v=3ca7c6cf64"
   },
   {
@@ -2310,12 +2650,14 @@
     "showtimes": [
       "8:00pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/the-day-she-returns/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 85,
+    "rating": 3.59,
+    "rating_count": 4244,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/7/5/4/3/5/1375435-the-day-she-returns-0-600-0-900-crop.jpg?v=3b142d62a2"
   },
   {
     "date": "2026-12-18",
@@ -2327,12 +2669,15 @@
     "showtimes": [
       "8:00pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/forbidden-planet/",
+    "genres": [
+      "adventure",
+      "science-fiction"
+    ],
+    "runtime_mins": 98,
+    "rating": 3.61,
+    "rating_count": 49262,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/7x/ox/ux/z9/p2bjagPNjohe0SyRnCjnNxqnej4-0-600-0-900-crop.jpg?v=f5f5b71721"
   },
   {
     "date": "2026-12-18",
@@ -2344,12 +2689,15 @@
     "showtimes": [
       "10:00pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/batman-returns/",
+    "genres": [
+      "action",
+      "fantasy"
+    ],
+    "runtime_mins": 126,
+    "rating": 3.6,
+    "rating_count": 555806,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/7/0/9/51709-batman-returns-0-600-0-900-crop.jpg?v=810ef07957"
   },
   {
     "date": "2026-12-18",
@@ -2361,12 +2709,16 @@
     "showtimes": [
       "10:00pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/sorcerer/",
+    "genres": [
+      "action",
+      "adventure",
+      "thriller"
+    ],
+    "runtime_mins": 122,
+    "rating": 4.27,
+    "rating_count": 176277,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/5/6/5/0/25650-sorcerer-0-600-0-900-crop.jpg?v=8dd4d17006"
   },
   {
     "date": "2026-12-19",
@@ -2378,12 +2730,15 @@
     "showtimes": [
       "11:00am"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/chronicle-of-anna-magdalena-bach/",
+    "genres": [
+      "drama",
+      "music"
+    ],
+    "runtime_mins": 94,
+    "rating": 3.85,
+    "rating_count": 5016,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/9/0/7/7/79077-chronicle-of-anna-magdalena-bach-0-600-0-900-crop.jpg?v=98d7abde11"
   },
   {
     "date": "2026-12-19",
@@ -2405,7 +2760,7 @@
     ],
     "runtime_mins": 86,
     "rating": 4.05,
-    "rating_count": 394948,
+    "rating_count": 394949,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/6/2/3/1/46231-the-muppet-christmas-carol-0-600-0-900-crop.jpg?v=f16d842c57"
   },
   {
@@ -2418,12 +2773,15 @@
     "showtimes": [
       "1:00pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/pather-panchali/",
+    "genres": [
+      "drama",
+      "history"
+    ],
+    "runtime_mins": 125,
+    "rating": 4.32,
+    "rating_count": 78668,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/8/6/4/9/48649-pather-panchali-0-600-0-900-crop.jpg?v=55ae5de64b"
   },
   {
     "date": "2026-12-19",
@@ -2486,12 +2844,15 @@
     "showtimes": [
       "4:30pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/the-power-of-kangwon-province/",
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "runtime_mins": 109,
+    "rating": 3.66,
+    "rating_count": 3964,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/2/8/7/1/72871-the-power-of-kangwon-province-0-600-0-900-crop.jpg?v=18f5a30548"
   },
   {
     "date": "2026-12-19",
@@ -2503,12 +2864,16 @@
     "showtimes": [
       "4:45pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/metropolitan/",
+    "genres": [
+      "comedy",
+      "drama",
+      "romance"
+    ],
+    "runtime_mins": 99,
+    "rating": 3.81,
+    "rating_count": 47977,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/2/4/1/1/42411-metropolitan-0-600-0-900-crop.jpg?v=cc125fb022"
   },
   {
     "date": "2026-12-19",
@@ -2520,12 +2885,14 @@
     "showtimes": [
       "6:45pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/the-day-she-returns/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 85,
+    "rating": 3.59,
+    "rating_count": 4244,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/7/5/4/3/5/1375435-the-day-she-returns-0-600-0-900-crop.jpg?v=3b142d62a2"
   },
   {
     "date": "2026-12-19",
@@ -2574,12 +2941,14 @@
     "showtimes": [
       "9:45pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/magnolia/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 189,
+    "rating": 4.23,
+    "rating_count": 674571,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/7/2/8/51728-magnolia-0-600-0-900-crop.jpg?v=178b5e5c17"
   },
   {
     "date": "2026-12-19",
@@ -2620,7 +2989,7 @@
     ],
     "runtime_mins": 84,
     "rating": 3.93,
-    "rating_count": 1072343,
+    "rating_count": 1072344,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/qw/zu/zk/ky/iLe8yMOF5we6lvYbKLHzho7ATQk-0-600-0-900-crop.jpg?v=c4c6ebbfa3"
   },
   {
@@ -2675,12 +3044,20 @@
     "showtimes": [
       "1:00pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/the-lost-world/",
+    "genres": [
+      "adventure",
+      "drama",
+      "fantasy",
+      "horror",
+      "romance",
+      "science-fiction",
+      "thriller"
+    ],
+    "runtime_mins": 104,
+    "rating": 3.42,
+    "rating_count": 8546,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/9/9/7/8/49978-the-lost-world-0-600-0-900-crop.jpg?v=0f267a0d1d"
   },
   {
     "date": "2026-12-20",
@@ -2692,12 +3069,14 @@
     "showtimes": [
       "3:15pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/a-tale-of-the-wind/",
+    "genres": [
+      "documentary"
+    ],
+    "runtime_mins": 80,
+    "rating": 3.7,
+    "rating_count": 1759,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/9/9/7/4/79974-a-tale-of-the-wind-0-600-0-900-crop.jpg?v=0487e2359e"
   },
   {
     "date": "2026-12-20",
@@ -2726,12 +3105,16 @@
     "showtimes": [
       "5:00pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/from-russia-with-love/",
+    "genres": [
+      "action",
+      "adventure",
+      "thriller"
+    ],
+    "runtime_mins": 115,
+    "rating": 3.58,
+    "rating_count": 208852,
+    "poster_url": "https://a.ltrbxd.com/resized/sm/upload/nx/m3/w5/qo/nZ4XAOXaNHgyVRmmnlxzkjgVr9u-0-600-0-900-crop.jpg?v=dbea2601c4"
   },
   {
     "date": "2026-12-20",
@@ -2743,12 +3126,14 @@
     "showtimes": [
       "5:30pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/the-day-she-returns/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 85,
+    "rating": 3.59,
+    "rating_count": 4244,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/7/5/4/3/5/1375435-the-day-she-returns-0-600-0-900-crop.jpg?v=3b142d62a2"
   },
   {
     "date": "2026-12-20",
@@ -2768,7 +3153,7 @@
     ],
     "runtime_mins": 96,
     "rating": 4.08,
-    "rating_count": 197014,
+    "rating_count": 197017,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/0/8/6/6/50866-godzilla-0-600-0-900-crop.jpg?v=2b549c08f0"
   },
   {
@@ -2798,12 +3183,16 @@
     "showtimes": [
       "9:00pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/sorcerer/",
+    "genres": [
+      "action",
+      "adventure",
+      "thriller"
+    ],
+    "runtime_mins": 122,
+    "rating": 4.27,
+    "rating_count": 176277,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/2/5/6/5/0/25650-sorcerer-0-600-0-900-crop.jpg?v=8dd4d17006"
   },
   {
     "date": "2026-12-20",
@@ -2815,12 +3204,16 @@
     "showtimes": [
       "9:20pm"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/king-kong/",
+    "genres": [
+      "adventure",
+      "fantasy",
+      "horror"
+    ],
+    "runtime_mins": 100,
+    "rating": 3.82,
+    "rating_count": 126648,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/5/1/8/1/2/51812-king-kong-0-600-0-900-crop.jpg?v=a05d839067"
   },
   {
     "date": "2026-11-27",
@@ -2892,7 +3285,7 @@
     ],
     "runtime_mins": 175,
     "rating": 4.61,
-    "rating_count": 1042196,
+    "rating_count": 1042305,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74"
   },
   {
@@ -2946,7 +3339,7 @@
     ],
     "runtime_mins": 122,
     "rating": 4.44,
-    "rating_count": 159800,
+    "rating_count": 159843,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/5/6/2/4/2/1456242-club-kid-0-600-0-900-crop.jpg?v=b2d52aad9d"
   },
   {
@@ -3017,7 +3410,7 @@
     ],
     "runtime_mins": 122,
     "rating": 4.44,
-    "rating_count": 159800,
+    "rating_count": 159843,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/5/6/2/4/2/1456242-club-kid-0-600-0-900-crop.jpg?v=b2d52aad9d"
   },
   {
@@ -3209,7 +3602,7 @@
     ],
     "runtime_mins": 175,
     "rating": 4.61,
-    "rating_count": 1042196,
+    "rating_count": 1042305,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74"
   },
   {
@@ -3245,7 +3638,7 @@
     ],
     "runtime_mins": 175,
     "rating": 4.61,
-    "rating_count": 1042196,
+    "rating_count": 1042305,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74"
   },
   {
@@ -3484,7 +3877,7 @@
     ],
     "runtime_mins": 122,
     "rating": 4.44,
-    "rating_count": 159800,
+    "rating_count": 159843,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/5/6/2/4/2/1456242-club-kid-0-600-0-900-crop.jpg?v=b2d52aad9d"
   },
   {
@@ -3727,7 +4120,7 @@
     ],
     "runtime_mins": 122,
     "rating": 4.44,
-    "rating_count": 159800,
+    "rating_count": 159843,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/5/6/2/4/2/1456242-club-kid-0-600-0-900-crop.jpg?v=b2d52aad9d"
   },
   {
@@ -3748,7 +4141,7 @@
     ],
     "runtime_mins": 160,
     "rating": 4.37,
-    "rating_count": 616868,
+    "rating_count": 616870,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/bn/hr/ki/ay/eP2pJudgGzUlo2kZuh0tF1MInsb-0-600-0-900-crop.jpg?v=907dc282ae"
   },
   {
@@ -3836,7 +4229,7 @@
     ],
     "runtime_mins": 122,
     "rating": 4.44,
-    "rating_count": 159800,
+    "rating_count": 159843,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/5/6/2/4/2/1456242-club-kid-0-600-0-900-crop.jpg?v=b2d52aad9d"
   },
   {
@@ -3902,7 +4295,7 @@
     ],
     "runtime_mins": 101,
     "rating": 3.89,
-    "rating_count": 71102,
+    "rating_count": 71104,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/8/3/5/1464835-the-history-of-concrete-0-600-0-900-crop.jpg?v=a9805b24e4"
   },
   {
@@ -3993,7 +4386,7 @@
     ],
     "runtime_mins": 77,
     "rating": 4.54,
-    "rating_count": 64085,
+    "rating_count": 64086,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/0/2/0/6/1620206-naza-0-600-0-900-crop.jpg?v=c34667d5c5"
   },
   {
@@ -4181,7 +4574,7 @@
     ],
     "runtime_mins": 101,
     "rating": 3.89,
-    "rating_count": 71102,
+    "rating_count": 71104,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/8/3/5/1464835-the-history-of-concrete-0-600-0-900-crop.jpg?v=a9805b24e4"
   },
   {
@@ -4200,7 +4593,7 @@
     ],
     "runtime_mins": 115,
     "rating": 4.11,
-    "rating_count": 175374,
+    "rating_count": 175375,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/8/0/5/47805-the-holy-mountain-0-600-0-900-crop.jpg?v=d7002e900e"
   },
   {
@@ -4285,7 +4678,7 @@
     ],
     "runtime_mins": 77,
     "rating": 4.54,
-    "rating_count": 64085,
+    "rating_count": 64086,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/0/2/0/6/1620206-naza-0-600-0-900-crop.jpg?v=c34667d5c5"
   },
   {
@@ -4349,7 +4742,7 @@
     ],
     "runtime_mins": 102,
     "rating": 4.19,
-    "rating_count": 5218,
+    "rating_count": 5219,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/9/7/7/9/8/1197798-tangles-0-600-0-900-crop.jpg?v=2a0828a7bd"
   },
   {
@@ -4517,7 +4910,7 @@
     ],
     "runtime_mins": 101,
     "rating": 3.89,
-    "rating_count": 71102,
+    "rating_count": 71104,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/8/3/5/1464835-the-history-of-concrete-0-600-0-900-crop.jpg?v=a9805b24e4"
   },
   {
@@ -4536,7 +4929,7 @@
     ],
     "runtime_mins": 115,
     "rating": 4.11,
-    "rating_count": 175374,
+    "rating_count": 175375,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/4/7/8/0/5/47805-the-holy-mountain-0-600-0-900-crop.jpg?v=d7002e900e"
   },
   {
@@ -4622,7 +5015,7 @@
     ],
     "runtime_mins": 77,
     "rating": 4.54,
-    "rating_count": 64085,
+    "rating_count": 64086,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/0/2/0/6/1620206-naza-0-600-0-900-crop.jpg?v=c34667d5c5"
   },
   {
@@ -4685,7 +5078,7 @@
     ],
     "runtime_mins": 102,
     "rating": 4.19,
-    "rating_count": 5218,
+    "rating_count": 5219,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/9/7/7/9/8/1197798-tangles-0-600-0-900-crop.jpg?v=2a0828a7bd"
   },
   {
@@ -4790,7 +5183,7 @@
     ],
     "runtime_mins": 101,
     "rating": 3.89,
-    "rating_count": 71102,
+    "rating_count": 71104,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/8/3/5/1464835-the-history-of-concrete-0-600-0-900-crop.jpg?v=a9805b24e4"
   },
   {
@@ -4876,7 +5269,7 @@
     ],
     "runtime_mins": 77,
     "rating": 4.54,
-    "rating_count": 64085,
+    "rating_count": 64086,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/0/2/0/6/1620206-naza-0-600-0-900-crop.jpg?v=c34667d5c5"
   },
   {
@@ -4939,7 +5332,7 @@
     ],
     "runtime_mins": 102,
     "rating": 4.19,
-    "rating_count": 5218,
+    "rating_count": 5219,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/9/7/7/9/8/1197798-tangles-0-600-0-900-crop.jpg?v=2a0828a7bd"
   },
   {
@@ -5043,7 +5436,7 @@
     ],
     "runtime_mins": 101,
     "rating": 3.89,
-    "rating_count": 71102,
+    "rating_count": 71104,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/8/3/5/1464835-the-history-of-concrete-0-600-0-900-crop.jpg?v=a9805b24e4"
   },
   {
@@ -5128,7 +5521,7 @@
     ],
     "runtime_mins": 77,
     "rating": 4.54,
-    "rating_count": 64085,
+    "rating_count": 64086,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/0/2/0/6/1620206-naza-0-600-0-900-crop.jpg?v=c34667d5c5"
   },
   {
@@ -5210,7 +5603,7 @@
     ],
     "runtime_mins": 102,
     "rating": 4.19,
-    "rating_count": 5218,
+    "rating_count": 5219,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/9/7/7/9/8/1197798-tangles-0-600-0-900-crop.jpg?v=2a0828a7bd"
   },
   {
@@ -5311,7 +5704,7 @@
     ],
     "runtime_mins": 124,
     "rating": 3.83,
-    "rating_count": 15432,
+    "rating_count": 15434,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/5/1/8/9/4/7/1518947-everytime-0-600-0-900-crop.jpg?v=5980567fe9"
   },
   {
@@ -5333,7 +5726,7 @@
     ],
     "runtime_mins": 101,
     "rating": 3.89,
-    "rating_count": 71102,
+    "rating_count": 71104,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/8/3/5/1464835-the-history-of-concrete-0-600-0-900-crop.jpg?v=a9805b24e4"
   },
   {
@@ -5418,7 +5811,7 @@
     ],
     "runtime_mins": 77,
     "rating": 4.54,
-    "rating_count": 64085,
+    "rating_count": 64086,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/0/2/0/6/1620206-naza-0-600-0-900-crop.jpg?v=c34667d5c5"
   },
   {
@@ -5481,7 +5874,7 @@
     ],
     "runtime_mins": 102,
     "rating": 4.19,
-    "rating_count": 5218,
+    "rating_count": 5219,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/9/7/7/9/8/1197798-tangles-0-600-0-900-crop.jpg?v=2a0828a7bd"
   },
   {
@@ -5605,7 +5998,7 @@
     ],
     "runtime_mins": 101,
     "rating": 3.89,
-    "rating_count": 71102,
+    "rating_count": 71104,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/8/3/5/1464835-the-history-of-concrete-0-600-0-900-crop.jpg?v=a9805b24e4"
   },
   {
@@ -5688,7 +6081,7 @@
     ],
     "runtime_mins": 77,
     "rating": 4.54,
-    "rating_count": 64085,
+    "rating_count": 64086,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/0/2/0/6/1620206-naza-0-600-0-900-crop.jpg?v=c34667d5c5"
   },
   {
@@ -5732,7 +6125,7 @@
     ],
     "runtime_mins": 102,
     "rating": 4.19,
-    "rating_count": 5218,
+    "rating_count": 5219,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/1/9/7/7/9/8/1197798-tangles-0-600-0-900-crop.jpg?v=2a0828a7bd"
   },
   {
@@ -5794,7 +6187,7 @@
     ],
     "runtime_mins": 125,
     "rating": 4.35,
-    "rating_count": 66747,
+    "rating_count": 66748,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/9f/9p/hc/bc/vKxKRsJkBScf2OBHnuVCed3IJAC-0-600-0-900-crop.jpg?v=6e407cfb74"
   },
   {
@@ -5838,7 +6231,7 @@
     ],
     "runtime_mins": 100,
     "rating": 3.98,
-    "rating_count": 7924,
+    "rating_count": 7925,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/8/4/4/1464844-once-upon-a-time-in-harlem-0-600-0-900-crop.jpg?v=fd01dec086"
   },
   {
@@ -5958,7 +6351,7 @@
     ],
     "runtime_mins": 125,
     "rating": 4.35,
-    "rating_count": 66747,
+    "rating_count": 66748,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/9f/9p/hc/bc/vKxKRsJkBScf2OBHnuVCed3IJAC-0-600-0-900-crop.jpg?v=6e407cfb74"
   },
   {
@@ -6003,7 +6396,7 @@
     ],
     "runtime_mins": 100,
     "rating": 3.98,
-    "rating_count": 7924,
+    "rating_count": 7925,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/8/4/4/1464844-once-upon-a-time-in-harlem-0-600-0-900-crop.jpg?v=fd01dec086"
   },
   {
@@ -6141,7 +6534,7 @@
     ],
     "runtime_mins": 125,
     "rating": 4.35,
-    "rating_count": 66747,
+    "rating_count": 66748,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/9f/9p/hc/bc/vKxKRsJkBScf2OBHnuVCed3IJAC-0-600-0-900-crop.jpg?v=6e407cfb74"
   },
   {
@@ -6186,7 +6579,7 @@
     ],
     "runtime_mins": 100,
     "rating": 3.98,
-    "rating_count": 7924,
+    "rating_count": 7925,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/8/4/4/1464844-once-upon-a-time-in-harlem-0-600-0-900-crop.jpg?v=fd01dec086"
   },
   {
@@ -6276,7 +6669,7 @@
     "year": "N/A",
     "link": "https://filmforum.org/film/pinocchio-ffjr-2026",
     "showtimes": [
-      "11:00 AM"
+      "11:00 PM"
     ],
     "letterboxd_url": "https://letterboxd.com/film/pinocchio/",
     "genres": [
@@ -6328,7 +6721,7 @@
     ],
     "runtime_mins": 125,
     "rating": 4.35,
-    "rating_count": 66747,
+    "rating_count": 66748,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/9f/9p/hc/bc/vKxKRsJkBScf2OBHnuVCed3IJAC-0-600-0-900-crop.jpg?v=6e407cfb74"
   },
   {
@@ -6373,7 +6766,7 @@
     ],
     "runtime_mins": 100,
     "rating": 3.98,
-    "rating_count": 7924,
+    "rating_count": 7925,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/8/4/4/1464844-once-upon-a-time-in-harlem-0-600-0-900-crop.jpg?v=fd01dec086"
   },
   {
@@ -6489,7 +6882,7 @@
     ],
     "runtime_mins": 125,
     "rating": 4.35,
-    "rating_count": 66747,
+    "rating_count": 66748,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/9f/9p/hc/bc/vKxKRsJkBScf2OBHnuVCed3IJAC-0-600-0-900-crop.jpg?v=6e407cfb74"
   },
   {
@@ -6533,7 +6926,7 @@
     ],
     "runtime_mins": 100,
     "rating": 3.98,
-    "rating_count": 7924,
+    "rating_count": 7925,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/8/4/4/1464844-once-upon-a-time-in-harlem-0-600-0-900-crop.jpg?v=fd01dec086"
   },
   {
@@ -6673,7 +7066,7 @@
     ],
     "runtime_mins": 125,
     "rating": 4.35,
-    "rating_count": 66747,
+    "rating_count": 66748,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/9f/9p/hc/bc/vKxKRsJkBScf2OBHnuVCed3IJAC-0-600-0-900-crop.jpg?v=6e407cfb74"
   },
   {
@@ -6717,7 +7110,7 @@
     ],
     "runtime_mins": 100,
     "rating": 3.98,
-    "rating_count": 7924,
+    "rating_count": 7925,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/8/4/4/1464844-once-upon-a-time-in-harlem-0-600-0-900-crop.jpg?v=fd01dec086"
   },
   {
@@ -6840,7 +7233,7 @@
     ],
     "runtime_mins": 125,
     "rating": 4.35,
-    "rating_count": 66747,
+    "rating_count": 66748,
     "poster_url": "https://a.ltrbxd.com/resized/sm/upload/9f/9p/hc/bc/vKxKRsJkBScf2OBHnuVCed3IJAC-0-600-0-900-crop.jpg?v=6e407cfb74"
   },
   {
@@ -6884,7 +7277,7 @@
     ],
     "runtime_mins": 100,
     "rating": 3.98,
-    "rating_count": 7924,
+    "rating_count": 7925,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/8/4/4/1464844-once-upon-a-time-in-harlem-0-600-0-900-crop.jpg?v=fd01dec086"
   },
   {
@@ -8598,7 +8991,7 @@
     ],
     "runtime_mins": 197,
     "rating": 4.22,
-    "rating_count": 37548,
+    "rating_count": 37549,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/5/3/4/0/3/1353403-all-of-a-sudden-2026-0-600-0-900-crop.jpg?v=193035b8b9"
   },
   {
@@ -8619,7 +9012,7 @@
     ],
     "runtime_mins": 197,
     "rating": 4.22,
-    "rating_count": 37548,
+    "rating_count": 37549,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/5/3/4/0/3/1353403-all-of-a-sudden-2026-0-600-0-900-crop.jpg?v=193035b8b9"
   },
   {
@@ -8640,7 +9033,7 @@
     ],
     "runtime_mins": 197,
     "rating": 4.22,
-    "rating_count": 37548,
+    "rating_count": 37549,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/5/3/4/0/3/1353403-all-of-a-sudden-2026-0-600-0-900-crop.jpg?v=193035b8b9"
   },
   {
@@ -8661,7 +9054,7 @@
     ],
     "runtime_mins": 197,
     "rating": 4.22,
-    "rating_count": 37548,
+    "rating_count": 37549,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/5/3/4/0/3/1353403-all-of-a-sudden-2026-0-600-0-900-crop.jpg?v=193035b8b9"
   },
   {
@@ -8682,7 +9075,7 @@
     ],
     "runtime_mins": 197,
     "rating": 4.22,
-    "rating_count": 37548,
+    "rating_count": 37549,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/5/3/4/0/3/1353403-all-of-a-sudden-2026-0-600-0-900-crop.jpg?v=193035b8b9"
   },
   {
@@ -8703,7 +9096,7 @@
     ],
     "runtime_mins": 197,
     "rating": 4.22,
-    "rating_count": 37548,
+    "rating_count": 37549,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/5/3/4/0/3/1353403-all-of-a-sudden-2026-0-600-0-900-crop.jpg?v=193035b8b9"
   },
   {
@@ -8718,12 +9111,15 @@
       "6:15 PM",
       "8:40 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/bitter-christmas/",
+    "genres": [
+      "comedy",
+      "drama"
+    ],
+    "runtime_mins": 111,
+    "rating": 3.15,
+    "rating_count": 69736,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/8/1/4/3/7/981437-bitter-christmas-0-600-0-900-crop.jpg?v=e53e0d2801"
   },
   {
     "date": "2026-11-27",
@@ -8738,12 +9134,15 @@
       "6:15 PM",
       "8:30 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/bitter-christmas/",
+    "genres": [
+      "comedy",
+      "drama"
+    ],
+    "runtime_mins": 111,
+    "rating": 3.15,
+    "rating_count": 69736,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/8/1/4/3/7/981437-bitter-christmas-0-600-0-900-crop.jpg?v=e53e0d2801"
   },
   {
     "date": "2026-11-28",
@@ -8758,12 +9157,15 @@
       "6:15 PM",
       "8:30 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/bitter-christmas/",
+    "genres": [
+      "comedy",
+      "drama"
+    ],
+    "runtime_mins": 111,
+    "rating": 3.15,
+    "rating_count": 69736,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/8/1/4/3/7/981437-bitter-christmas-0-600-0-900-crop.jpg?v=e53e0d2801"
   },
   {
     "date": "2026-11-29",
@@ -8778,12 +9180,15 @@
       "6:15 PM",
       "8:30 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/bitter-christmas/",
+    "genres": [
+      "comedy",
+      "drama"
+    ],
+    "runtime_mins": 111,
+    "rating": 3.15,
+    "rating_count": 69736,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/8/1/4/3/7/981437-bitter-christmas-0-600-0-900-crop.jpg?v=e53e0d2801"
   },
   {
     "date": "2026-11-30",
@@ -8798,12 +9203,15 @@
       "6:15 PM",
       "8:30 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/bitter-christmas/",
+    "genres": [
+      "comedy",
+      "drama"
+    ],
+    "runtime_mins": 111,
+    "rating": 3.15,
+    "rating_count": 69736,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/8/1/4/3/7/981437-bitter-christmas-0-600-0-900-crop.jpg?v=e53e0d2801"
   },
   {
     "date": "2026-12-01",
@@ -8818,12 +9226,15 @@
       "6:15 PM",
       "8:30 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/bitter-christmas/",
+    "genres": [
+      "comedy",
+      "drama"
+    ],
+    "runtime_mins": 111,
+    "rating": 3.15,
+    "rating_count": 69736,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/9/8/1/4/3/7/981437-bitter-christmas-0-600-0-900-crop.jpg?v=e53e0d2801"
   },
   {
     "date": "2026-11-27",
@@ -8835,12 +9246,15 @@
     "showtimes": [
       "1:05 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/fatherland-2026/",
+    "genres": [
+      "drama",
+      "history"
+    ],
+    "runtime_mins": 82,
+    "rating": 3.66,
+    "rating_count": 62345,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/1/5/3/1/8/1315318-fatherland-2026-0-600-0-900-crop.jpg?v=6995cce652"
   },
   {
     "date": "2026-11-28",
@@ -8852,12 +9266,15 @@
     "showtimes": [
       "1:05 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/fatherland-2026/",
+    "genres": [
+      "drama",
+      "history"
+    ],
+    "runtime_mins": 82,
+    "rating": 3.66,
+    "rating_count": 62345,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/1/5/3/1/8/1315318-fatherland-2026-0-600-0-900-crop.jpg?v=6995cce652"
   },
   {
     "date": "2026-11-29",
@@ -8869,12 +9286,15 @@
     "showtimes": [
       "1:05 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/fatherland-2026/",
+    "genres": [
+      "drama",
+      "history"
+    ],
+    "runtime_mins": 82,
+    "rating": 3.66,
+    "rating_count": 62345,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/1/5/3/1/8/1315318-fatherland-2026-0-600-0-900-crop.jpg?v=6995cce652"
   },
   {
     "date": "2026-11-30",
@@ -8886,12 +9306,15 @@
     "showtimes": [
       "1:05 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/fatherland-2026/",
+    "genres": [
+      "drama",
+      "history"
+    ],
+    "runtime_mins": 82,
+    "rating": 3.66,
+    "rating_count": 62345,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/1/5/3/1/8/1315318-fatherland-2026-0-600-0-900-crop.jpg?v=6995cce652"
   },
   {
     "date": "2026-12-01",
@@ -8903,12 +9326,15 @@
     "showtimes": [
       "1:05 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/fatherland-2026/",
+    "genres": [
+      "drama",
+      "history"
+    ],
+    "runtime_mins": 82,
+    "rating": 3.66,
+    "rating_count": 62345,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/1/5/3/1/8/1315318-fatherland-2026-0-600-0-900-crop.jpg?v=6995cce652"
   },
   {
     "date": "2026-12-02",
@@ -8920,12 +9346,15 @@
     "showtimes": [
       "1:05 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/fatherland-2026/",
+    "genres": [
+      "drama",
+      "history"
+    ],
+    "runtime_mins": 82,
+    "rating": 3.66,
+    "rating_count": 62345,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/3/1/5/3/1/8/1315318-fatherland-2026-0-600-0-900-crop.jpg?v=6995cce652"
   },
   {
     "date": "2026-12-17",
@@ -8943,7 +9372,7 @@
     ],
     "runtime_mins": 145,
     "rating": 4.13,
-    "rating_count": 68129,
+    "rating_count": 68132,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/4/1/1/3/9/1041139-la-gradiva-0-600-0-900-crop.jpg?v=c4e64935fa"
   },
   {
@@ -8965,7 +9394,7 @@
     ],
     "runtime_mins": 145,
     "rating": 4.13,
-    "rating_count": 68129,
+    "rating_count": 68132,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/4/1/1/3/9/1041139-la-gradiva-0-600-0-900-crop.jpg?v=c4e64935fa"
   },
   {
@@ -8987,7 +9416,7 @@
     ],
     "runtime_mins": 145,
     "rating": 4.13,
-    "rating_count": 68129,
+    "rating_count": 68132,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/4/1/1/3/9/1041139-la-gradiva-0-600-0-900-crop.jpg?v=c4e64935fa"
   },
   {
@@ -9009,7 +9438,7 @@
     ],
     "runtime_mins": 145,
     "rating": 4.13,
-    "rating_count": 68129,
+    "rating_count": 68132,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/4/1/1/3/9/1041139-la-gradiva-0-600-0-900-crop.jpg?v=c4e64935fa"
   },
   {
@@ -9031,7 +9460,7 @@
     ],
     "runtime_mins": 145,
     "rating": 4.13,
-    "rating_count": 68129,
+    "rating_count": 68132,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/4/1/1/3/9/1041139-la-gradiva-0-600-0-900-crop.jpg?v=c4e64935fa"
   },
   {
@@ -9053,7 +9482,7 @@
     ],
     "runtime_mins": 145,
     "rating": 4.13,
-    "rating_count": 68129,
+    "rating_count": 68132,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/0/4/1/1/3/9/1041139-la-gradiva-0-600-0-900-crop.jpg?v=c4e64935fa"
   },
   {
@@ -9067,12 +9496,16 @@
       "6:00 PM",
       "8:45 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/minotaur-2026/",
+    "genres": [
+      "crime",
+      "drama",
+      "thriller"
+    ],
+    "runtime_mins": 142,
+    "rating": 3.71,
+    "rating_count": 32872,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/6/3/3/3/9/763339-minotaur-2026-0-600-0-900-crop.jpg?v=e55e5e7945"
   },
   {
     "date": "2026-11-27",
@@ -9086,12 +9519,16 @@
       "6:00 PM",
       "8:45 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/minotaur-2026/",
+    "genres": [
+      "crime",
+      "drama",
+      "thriller"
+    ],
+    "runtime_mins": 142,
+    "rating": 3.71,
+    "rating_count": 32872,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/6/3/3/3/9/763339-minotaur-2026-0-600-0-900-crop.jpg?v=e55e5e7945"
   },
   {
     "date": "2026-11-28",
@@ -9105,12 +9542,16 @@
       "6:00 PM",
       "8:45 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/minotaur-2026/",
+    "genres": [
+      "crime",
+      "drama",
+      "thriller"
+    ],
+    "runtime_mins": 142,
+    "rating": 3.71,
+    "rating_count": 32872,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/6/3/3/3/9/763339-minotaur-2026-0-600-0-900-crop.jpg?v=e55e5e7945"
   },
   {
     "date": "2026-11-29",
@@ -9124,12 +9565,16 @@
       "6:00 PM",
       "8:45 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/minotaur-2026/",
+    "genres": [
+      "crime",
+      "drama",
+      "thriller"
+    ],
+    "runtime_mins": 142,
+    "rating": 3.71,
+    "rating_count": 32872,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/6/3/3/3/9/763339-minotaur-2026-0-600-0-900-crop.jpg?v=e55e5e7945"
   },
   {
     "date": "2026-11-30",
@@ -9143,12 +9588,16 @@
       "6:00 PM",
       "8:45 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/minotaur-2026/",
+    "genres": [
+      "crime",
+      "drama",
+      "thriller"
+    ],
+    "runtime_mins": 142,
+    "rating": 3.71,
+    "rating_count": 32872,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/6/3/3/3/9/763339-minotaur-2026-0-600-0-900-crop.jpg?v=e55e5e7945"
   },
   {
     "date": "2026-12-01",
@@ -9162,12 +9611,16 @@
       "6:00 PM",
       "8:45 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/minotaur-2026/",
+    "genres": [
+      "crime",
+      "drama",
+      "thriller"
+    ],
+    "runtime_mins": 142,
+    "rating": 3.71,
+    "rating_count": 32872,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/6/3/3/3/9/763339-minotaur-2026-0-600-0-900-crop.jpg?v=e55e5e7945"
   },
   {
     "date": "2026-11-26",
@@ -9188,7 +9641,7 @@
     ],
     "runtime_mins": 122,
     "rating": 4.44,
-    "rating_count": 159800,
+    "rating_count": 159843,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/5/6/2/4/2/1456242-club-kid-0-600-0-900-crop.jpg?v=b2d52aad9d"
   },
   {
@@ -9203,12 +9656,16 @@
       "6:30 PM",
       "9:15 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/minotaur-2026/",
+    "genres": [
+      "crime",
+      "drama",
+      "thriller"
+    ],
+    "runtime_mins": 142,
+    "rating": 3.71,
+    "rating_count": 32872,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/6/3/3/3/9/763339-minotaur-2026-0-600-0-900-crop.jpg?v=e55e5e7945"
   },
   {
     "date": "2026-11-26",
@@ -9222,12 +9679,14 @@
       "7:00 PM",
       "9:40 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/elsinore/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 111,
+    "rating": 3.87,
+    "rating_count": 12933,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=858fb58a95"
   },
   {
     "date": "2026-11-26",
@@ -9241,12 +9700,15 @@
       "6:50 PM",
       "9:30 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/paper-tiger/",
+    "genres": [
+      "adventure",
+      "drama"
+    ],
+    "runtime_mins": 100,
+    "rating": 3.18,
+    "rating_count": 330,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/5/1/2/4/85124-paper-tiger-0-600-0-900-crop.jpg?v=355717e725"
   },
   {
     "date": "2026-11-26",
@@ -9265,7 +9727,7 @@
     ],
     "runtime_mins": 175,
     "rating": 4.61,
-    "rating_count": 1042196,
+    "rating_count": 1042305,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74"
   },
   {
@@ -9288,7 +9750,7 @@
     ],
     "runtime_mins": 117,
     "rating": 4.14,
-    "rating_count": 350356,
+    "rating_count": 350365,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/0/2/6/3/2/802632-wild-horse-nine-0-600-0-900-crop.jpg?v=eade7a541c"
   },
   {
@@ -9311,7 +9773,7 @@
     ],
     "runtime_mins": 122,
     "rating": 4.44,
-    "rating_count": 159800,
+    "rating_count": 159843,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/5/6/2/4/2/1456242-club-kid-0-600-0-900-crop.jpg?v=b2d52aad9d"
   },
   {
@@ -9327,12 +9789,16 @@
       "6:30 PM",
       "9:15 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/minotaur-2026/",
+    "genres": [
+      "crime",
+      "drama",
+      "thriller"
+    ],
+    "runtime_mins": 142,
+    "rating": 3.71,
+    "rating_count": 32872,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/6/3/3/3/9/763339-minotaur-2026-0-600-0-900-crop.jpg?v=e55e5e7945"
   },
   {
     "date": "2026-11-27",
@@ -9347,12 +9813,14 @@
       "7:00 PM",
       "9:40 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/elsinore/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 111,
+    "rating": 3.87,
+    "rating_count": 12933,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=858fb58a95"
   },
   {
     "date": "2026-11-27",
@@ -9367,12 +9835,15 @@
       "6:45 PM",
       "9:30 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/paper-tiger/",
+    "genres": [
+      "adventure",
+      "drama"
+    ],
+    "runtime_mins": 100,
+    "rating": 3.18,
+    "rating_count": 330,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/5/1/2/4/85124-paper-tiger-0-600-0-900-crop.jpg?v=355717e725"
   },
   {
     "date": "2026-11-27",
@@ -9392,7 +9863,7 @@
     ],
     "runtime_mins": 175,
     "rating": 4.61,
-    "rating_count": 1042196,
+    "rating_count": 1042305,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74"
   },
   {
@@ -9416,7 +9887,7 @@
     ],
     "runtime_mins": 117,
     "rating": 4.14,
-    "rating_count": 350356,
+    "rating_count": 350365,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/0/2/6/3/2/802632-wild-horse-nine-0-600-0-900-crop.jpg?v=eade7a541c"
   },
   {
@@ -9439,7 +9910,7 @@
     ],
     "runtime_mins": 122,
     "rating": 4.44,
-    "rating_count": 159800,
+    "rating_count": 159843,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/5/6/2/4/2/1456242-club-kid-0-600-0-900-crop.jpg?v=b2d52aad9d"
   },
   {
@@ -9455,12 +9926,16 @@
       "6:30 PM",
       "9:15 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/minotaur-2026/",
+    "genres": [
+      "crime",
+      "drama",
+      "thriller"
+    ],
+    "runtime_mins": 142,
+    "rating": 3.71,
+    "rating_count": 32872,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/6/3/3/3/9/763339-minotaur-2026-0-600-0-900-crop.jpg?v=e55e5e7945"
   },
   {
     "date": "2026-11-28",
@@ -9475,12 +9950,14 @@
       "7:00 PM",
       "9:40 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/elsinore/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 111,
+    "rating": 3.87,
+    "rating_count": 12933,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=858fb58a95"
   },
   {
     "date": "2026-11-28",
@@ -9495,12 +9972,15 @@
       "6:45 PM",
       "9:30 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/paper-tiger/",
+    "genres": [
+      "adventure",
+      "drama"
+    ],
+    "runtime_mins": 100,
+    "rating": 3.18,
+    "rating_count": 330,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/5/1/2/4/85124-paper-tiger-0-600-0-900-crop.jpg?v=355717e725"
   },
   {
     "date": "2026-11-28",
@@ -9520,7 +10000,7 @@
     ],
     "runtime_mins": 175,
     "rating": 4.61,
-    "rating_count": 1042196,
+    "rating_count": 1042305,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74"
   },
   {
@@ -9544,7 +10024,7 @@
     ],
     "runtime_mins": 117,
     "rating": 4.14,
-    "rating_count": 350356,
+    "rating_count": 350365,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/0/2/6/3/2/802632-wild-horse-nine-0-600-0-900-crop.jpg?v=eade7a541c"
   },
   {
@@ -9567,7 +10047,7 @@
     ],
     "runtime_mins": 122,
     "rating": 4.44,
-    "rating_count": 159800,
+    "rating_count": 159843,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/5/6/2/4/2/1456242-club-kid-0-600-0-900-crop.jpg?v=b2d52aad9d"
   },
   {
@@ -9583,12 +10063,16 @@
       "6:30 PM",
       "9:15 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/minotaur-2026/",
+    "genres": [
+      "crime",
+      "drama",
+      "thriller"
+    ],
+    "runtime_mins": 142,
+    "rating": 3.71,
+    "rating_count": 32872,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/6/3/3/3/9/763339-minotaur-2026-0-600-0-900-crop.jpg?v=e55e5e7945"
   },
   {
     "date": "2026-11-29",
@@ -9603,12 +10087,14 @@
       "7:00 PM",
       "9:40 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/elsinore/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 111,
+    "rating": 3.87,
+    "rating_count": 12933,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=858fb58a95"
   },
   {
     "date": "2026-11-29",
@@ -9623,12 +10109,15 @@
       "6:45 PM",
       "9:30 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/paper-tiger/",
+    "genres": [
+      "adventure",
+      "drama"
+    ],
+    "runtime_mins": 100,
+    "rating": 3.18,
+    "rating_count": 330,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/5/1/2/4/85124-paper-tiger-0-600-0-900-crop.jpg?v=355717e725"
   },
   {
     "date": "2026-11-29",
@@ -9648,7 +10137,7 @@
     ],
     "runtime_mins": 175,
     "rating": 4.61,
-    "rating_count": 1042196,
+    "rating_count": 1042305,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74"
   },
   {
@@ -9672,7 +10161,7 @@
     ],
     "runtime_mins": 117,
     "rating": 4.14,
-    "rating_count": 350356,
+    "rating_count": 350365,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/0/2/6/3/2/802632-wild-horse-nine-0-600-0-900-crop.jpg?v=eade7a541c"
   },
   {
@@ -9687,12 +10176,16 @@
       "6:30 PM",
       "9:15 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/minotaur-2026/",
+    "genres": [
+      "crime",
+      "drama",
+      "thriller"
+    ],
+    "runtime_mins": 142,
+    "rating": 3.71,
+    "rating_count": 32872,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/6/3/3/3/9/763339-minotaur-2026-0-600-0-900-crop.jpg?v=e55e5e7945"
   },
   {
     "date": "2026-11-30",
@@ -9706,12 +10199,14 @@
       "7:00 PM",
       "9:40 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/elsinore/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 111,
+    "rating": 3.87,
+    "rating_count": 12933,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=858fb58a95"
   },
   {
     "date": "2026-11-30",
@@ -9732,7 +10227,7 @@
     ],
     "runtime_mins": 122,
     "rating": 4.44,
-    "rating_count": 159800,
+    "rating_count": 159843,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/5/6/2/4/2/1456242-club-kid-0-600-0-900-crop.jpg?v=b2d52aad9d"
   },
   {
@@ -9747,12 +10242,15 @@
       "6:45 PM",
       "9:30 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/paper-tiger/",
+    "genres": [
+      "adventure",
+      "drama"
+    ],
+    "runtime_mins": 100,
+    "rating": 3.18,
+    "rating_count": 330,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/5/1/2/4/85124-paper-tiger-0-600-0-900-crop.jpg?v=355717e725"
   },
   {
     "date": "2026-11-30",
@@ -9771,7 +10269,7 @@
     ],
     "runtime_mins": 175,
     "rating": 4.61,
-    "rating_count": 1042196,
+    "rating_count": 1042305,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74"
   },
   {
@@ -9794,7 +10292,7 @@
     ],
     "runtime_mins": 117,
     "rating": 4.14,
-    "rating_count": 350356,
+    "rating_count": 350365,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/0/2/6/3/2/802632-wild-horse-nine-0-600-0-900-crop.jpg?v=eade7a541c"
   },
   {
@@ -9809,12 +10307,16 @@
       "6:30 PM",
       "9:15 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/minotaur-2026/",
+    "genres": [
+      "crime",
+      "drama",
+      "thriller"
+    ],
+    "runtime_mins": 142,
+    "rating": 3.71,
+    "rating_count": 32872,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/6/3/3/3/9/763339-minotaur-2026-0-600-0-900-crop.jpg?v=e55e5e7945"
   },
   {
     "date": "2026-12-01",
@@ -9828,12 +10330,14 @@
       "6:30 PM",
       "9:10 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/elsinore/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 111,
+    "rating": 3.87,
+    "rating_count": 12933,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=858fb58a95"
   },
   {
     "date": "2026-12-01",
@@ -9852,7 +10356,7 @@
     ],
     "runtime_mins": 101,
     "rating": 3.89,
-    "rating_count": 71102,
+    "rating_count": 71104,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/4/8/3/5/1464835-the-history-of-concrete-0-600-0-900-crop.jpg?v=a9805b24e4"
   },
   {
@@ -9867,12 +10371,15 @@
       "6:45 PM",
       "9:30 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/paper-tiger/",
+    "genres": [
+      "adventure",
+      "drama"
+    ],
+    "runtime_mins": 100,
+    "rating": 3.18,
+    "rating_count": 330,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/5/1/2/4/85124-paper-tiger-0-600-0-900-crop.jpg?v=355717e725"
   },
   {
     "date": "2026-12-01",
@@ -9893,7 +10400,7 @@
     ],
     "runtime_mins": 122,
     "rating": 4.44,
-    "rating_count": 159800,
+    "rating_count": 159843,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/5/6/2/4/2/1456242-club-kid-0-600-0-900-crop.jpg?v=b2d52aad9d"
   },
   {
@@ -9916,7 +10423,7 @@
     ],
     "runtime_mins": 117,
     "rating": 4.14,
-    "rating_count": 350356,
+    "rating_count": 350365,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/0/2/6/3/2/802632-wild-horse-nine-0-600-0-900-crop.jpg?v=eade7a541c"
   },
   {
@@ -9931,12 +10438,16 @@
       "6:30 PM",
       "9:15 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/minotaur-2026/",
+    "genres": [
+      "crime",
+      "drama",
+      "thriller"
+    ],
+    "runtime_mins": 142,
+    "rating": 3.71,
+    "rating_count": 32872,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/6/3/3/3/9/763339-minotaur-2026-0-600-0-900-crop.jpg?v=e55e5e7945"
   },
   {
     "date": "2026-12-02",
@@ -9950,12 +10461,14 @@
       "7:00 PM",
       "9:40 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/elsinore/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 111,
+    "rating": 3.87,
+    "rating_count": 12933,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=858fb58a95"
   },
   {
     "date": "2026-12-02",
@@ -9969,12 +10482,15 @@
       "6:45 PM",
       "9:30 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/paper-tiger/",
+    "genres": [
+      "adventure",
+      "drama"
+    ],
+    "runtime_mins": 100,
+    "rating": 3.18,
+    "rating_count": 330,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/5/1/2/4/85124-paper-tiger-0-600-0-900-crop.jpg?v=355717e725"
   },
   {
     "date": "2026-12-02",
@@ -9994,7 +10510,7 @@
     ],
     "runtime_mins": 122,
     "rating": 4.44,
-    "rating_count": 159800,
+    "rating_count": 159843,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/5/6/2/4/2/1456242-club-kid-0-600-0-900-crop.jpg?v=b2d52aad9d"
   },
   {
@@ -10014,7 +10530,7 @@
     ],
     "runtime_mins": 175,
     "rating": 4.61,
-    "rating_count": 1042196,
+    "rating_count": 1042305,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74"
   },
   {
@@ -10036,7 +10552,7 @@
     ],
     "runtime_mins": 117,
     "rating": 4.14,
-    "rating_count": 350356,
+    "rating_count": 350365,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/0/2/6/3/2/802632-wild-horse-nine-0-600-0-900-crop.jpg?v=eade7a541c"
   },
   {
@@ -10051,12 +10567,15 @@
       "6:45 PM",
       "9:30 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/paper-tiger/",
+    "genres": [
+      "adventure",
+      "drama"
+    ],
+    "runtime_mins": 100,
+    "rating": 3.18,
+    "rating_count": 330,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/5/1/2/4/85124-paper-tiger-0-600-0-900-crop.jpg?v=355717e725"
   },
   {
     "date": "2026-12-03",
@@ -10070,12 +10589,16 @@
       "6:30 PM",
       "9:15 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/minotaur-2026/",
+    "genres": [
+      "crime",
+      "drama",
+      "thriller"
+    ],
+    "runtime_mins": 142,
+    "rating": 3.71,
+    "rating_count": 32872,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/7/6/3/3/3/9/763339-minotaur-2026-0-600-0-900-crop.jpg?v=e55e5e7945"
   },
   {
     "date": "2026-12-03",
@@ -10089,12 +10612,14 @@
       "7:00 PM",
       "9:40 PM"
     ],
-    "letterboxd_url": null,
-    "genres": [],
-    "runtime_mins": null,
-    "rating": null,
-    "rating_count": null,
-    "poster_url": null
+    "letterboxd_url": "https://letterboxd.com/film/elsinore/",
+    "genres": [
+      "drama"
+    ],
+    "runtime_mins": 111,
+    "rating": 3.87,
+    "rating_count": 12933,
+    "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/6/7/5/9/6/1467596-elsinore-0-600-0-900-crop.jpg?v=858fb58a95"
   },
   {
     "date": "2026-12-03",
@@ -10115,7 +10640,7 @@
     ],
     "runtime_mins": 122,
     "rating": 4.44,
-    "rating_count": 159800,
+    "rating_count": 159843,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/4/5/6/2/4/2/1456242-club-kid-0-600-0-900-crop.jpg?v=b2d52aad9d"
   },
   {
@@ -10135,7 +10660,7 @@
     ],
     "runtime_mins": 175,
     "rating": 4.61,
-    "rating_count": 1042196,
+    "rating_count": 1042305,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74"
   },
   {
@@ -10158,7 +10683,7 @@
     ],
     "runtime_mins": 117,
     "rating": 4.14,
-    "rating_count": 350356,
+    "rating_count": 350365,
     "poster_url": "https://a.ltrbxd.com/resized/film-poster/8/0/2/6/3/2/802632-wild-horse-nine-0-600-0-900-crop.jpg?v=eade7a541c"
   },
   {

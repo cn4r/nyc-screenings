@@ -821,10 +821,9 @@ def scrape_film_forum():
                     if not tm:
                         continue
                     hour, minute = int(tm.group(1)), tm.group(2)
-                    # Film Forum lists bare times: 10 and 11 are morning
-                    # matinees, everything else (12 through 9) is afternoon/evening.
-                    suffix = 'AM' if hour in (10, 11) else 'PM'
-                    showtimes.append(f"{hour}:{minute} {suffix}")
+                    # Film Forum lists times bare, with no am/pm anywhere on the
+                    # page. Always read them as PM.
+                    showtimes.append(f"{hour}:{minute} PM")
 
                 if not showtimes:
                     continue
