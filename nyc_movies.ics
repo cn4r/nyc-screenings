@@ -2,125 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//NYC Movie Calendar//
 BEGIN:VEVENT
-SUMMARY:The Aristocats @ METROGRAPH
-DTSTART:20261127T110000
-DTEND:20261127T130000
-DESCRIPTION:Dir: Wolfgang  Reitherman (1970)\nhttps://t.metrograph.com/Tic
- keting/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31405
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31405
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The General @ METROGRAPH
-DTSTART:20261127T111500
-DTEND:20261127T131500
-DESCRIPTION:Dir: Buster Keaton\, Clyde Bruckman (1926)\nhttps://t.metrogra
- ph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31411
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31411
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Sacrifice @ METROGRAPH
-DTSTART:20261127T130000
-DTEND:20261127T150000
-DESCRIPTION:Dir: Andrei Tarkovsky (1986)\nhttps://t.metrograph.com/Ticketi
- ng/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31406
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31406
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Secrets & Lies @ METROGRAPH
-DTSTART:20261127T131500
-DTEND:20261127T151500
-DESCRIPTION:Dir: Mike  Leigh (1996)\nhttps://metrograph.com/film/999900328
- 2-secrets-lies/
-LOCATION:METROGRAPH
-URL:https://metrograph.com/film/9999003282-secrets-lies/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rashomon @ METROGRAPH
-DTSTART:20261127T160000
-DTEND:20261127T180000
-DESCRIPTION:Dir: Akira Kurosawa (1950)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31407
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31407
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Medea (1988) @ METROGRAPH
-DTSTART:20261127T161500
-DTEND:20261127T181500
-DESCRIPTION:Dir: Lars Von Trier (1988)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31413
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31413
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Columbus @ METROGRAPH
-DTSTART:20261127T180000
-DTEND:20261127T200000
-DESCRIPTION:Dir: Kogonada . (2017)\nhttps://t.metrograph.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=9999&txtSessionId=31414
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31414
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Best Secret Agent @ METROGRAPH
-DTSTART:20261127T180000
-DTEND:20261127T200000
-DESCRIPTION:Dir: Zhang Ying (1964)\nhttps://t.metrograph.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=9999&txtSessionId=31408
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31408
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taxi Driver @ METROGRAPH
-DTSTART:20261127T201000
-DTEND:20261127T221000
-DESCRIPTION:Dir: Martin Scorsese (1976)\nhttps://t.metrograph.com/Ticketin
- g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31409
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31409
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Compartment No. 6 @ METROGRAPH
-DTSTART:20261127T201500
-DTEND:20261127T221500
-DESCRIPTION:Dir: Juho Kuosmanen (2021)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31415
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31415
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Clockwork Orange @ METROGRAPH
-DTSTART:20261127T223000
-DTEND:20261128T003000
-DESCRIPTION:Dir: Stanley Kubrick (1971)\nhttps://t.metrograph.com/Ticketin
- g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31410
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31410
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mandy @ METROGRAPH
-DTSTART:20261127T223500
-DTEND:20261128T003500
-DESCRIPTION:Dir: Panos Cosmatos (2018)\nhttps://t.metrograph.com/Ticketing
- /visSelectTickets.aspx?cinemacode=9999&txtSessionId=31416
-LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31416
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rashomon @ METROGRAPH
 DTSTART:20261128T110000
 DTEND:20261128T130000
@@ -333,11 +214,10 @@ BEGIN:VEVENT
 SUMMARY:Taxi Driver @ METROGRAPH
 DTSTART:20261129T214000
 DTEND:20261129T234000
-DESCRIPTION:Dir: Martin Scorsese (1976)\nhttps://t.metrograph.com/Ticketin
- g/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31439
+DESCRIPTION:Dir: Martin Scorsese (1976)\nhttps://metrograph.com/film/99990
+ 00036-taxi-driver/
 LOCATION:METROGRAPH
-URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
- 99&txtSessionId=31439
+URL:https://metrograph.com/film/9999000036-taxi-driver/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Salò\, or the 120 Days of Sodom @ METROGRAPH
@@ -2100,36 +1980,6 @@ URL:https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=99
  99&txtSessionId=31654
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mean Streets - 35MM @ ROXY CINEMA NEW YORK
-DTSTART:20261127T163000
-DTEND:20261127T183000
-DESCRIPTION:Dir: N/A (1973)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 958?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7958?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Fin + Q&A @ ROXY CINEMA NEW YORK
-DTSTART:20261127T190000
-DTEND:20261127T210000
-DESCRIPTION:Dir: N/A (2025)\nhttps://ticketing.uswest.veezi.com/purchase/7
- 942?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/7942?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Primetime @ ROXY CINEMA NEW YORK
-DTSTART:20261127T213000
-DTEND:20261127T233000
-DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/8
- 049?siteToken=tt17e5ajy3v48kh5b2kremvnz4
-LOCATION:ROXY CINEMA NEW YORK
-URL:https://ticketing.uswest.veezi.com/purchase/8049?siteToken=tt17e5ajy3v
- 48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:You Can See Everything @ ROXY CINEMA NEW YORK
 DTSTART:20261128T130000
 DTEND:20261128T150000
@@ -2673,347 +2523,6 @@ DESCRIPTION:Dir: N/A (2026)\nhttps://ticketing.uswest.veezi.com/purchase/8
 LOCATION:ROXY CINEMA NEW YORK
 URL:https://ticketing.uswest.veezi.com/purchase/8045?siteToken=tt17e5ajy3v
  48kh5b2kremvnz4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:14th @ IFC CENTER
-DTSTART:20261127T110500
-DTEND:20261127T130500
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=590898~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=590898~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:14th @ IFC CENTER
-DTSTART:20261127T135500
-DTEND:20261127T155500
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=590898~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=590898~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:14th @ IFC CENTER
-DTSTART:20261127T190000
-DTEND:20261127T210000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=590898~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=590898~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ben'imana @ IFC CENTER
-DTSTART:20261127T104500
-DTEND:20261127T124500
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=590316~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=590316~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Conversation @ IFC CENTER
-DTSTART:20261127T235500
-DTEND:20261128T015500
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=590918~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=590918~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Devils @ IFC CENTER
-DTSTART:20261127T110000
-DTEND:20261127T130000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=590897~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=590897~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Devils @ IFC CENTER
-DTSTART:20261127T164000
-DTEND:20261127T184000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=590897~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=590897~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Devils @ IFC CENTER
-DTSTART:20261127T213500
-DTEND:20261127T233500
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=590897~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=590897~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Devils @ IFC CENTER
-DTSTART:20261127T235000
-DTEND:20261128T015000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=590897~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=590897~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Earth Girls Are Easy @ IFC CENTER
-DTSTART:20261127T234000
-DTEND:20261128T014000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=590916~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=590916~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Female Trouble @ IFC CENTER
-DTSTART:20261127T235900
-DTEND:20261128T015900
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=590921~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=590921~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The History of Concrete @ IFC CENTER
-DTSTART:20261127T123000
-DTEND:20261127T143000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=590903~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=590903~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The History of Concrete @ IFC CENTER
-DTSTART:20261127T190500
-DTEND:20261127T210500
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=590903~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=590903~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The History of Concrete @ IFC CENTER
-DTSTART:20261127T213500
-DTEND:20261127T233500
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=590903~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=590903~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holy Mountain @ IFC CENTER
-DTSTART:20261127T234500
-DTEND:20261128T014500
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=590922~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=590922~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Host @ IFC CENTER
-DTSTART:20261127T162000
-DTEND:20261127T182000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=590905~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=590905~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Host @ IFC CENTER
-DTSTART:20261127T213000
-DTEND:20261127T233000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=590905~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=590905~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Josephine @ IFC CENTER
-DTSTART:20261127T131000
-DTEND:20261127T151000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=590901~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=590901~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Josephine @ IFC CENTER
-DTSTART:20261127T160000
-DTEND:20261127T180000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=590901~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=590901~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Josephine @ IFC CENTER
-DTSTART:20261127T185000
-DTEND:20261127T205000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=590901~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=590901~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Josephine @ IFC CENTER
-DTSTART:20261127T212500
-DTEND:20261127T232500
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=590901~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=590901~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mouse @ IFC CENTER
-DTSTART:20261127T165000
-DTEND:20261127T185000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=590910~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=590910~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Naza @ IFC CENTER
-DTSTART:20261127T145000
-DTEND:20261127T165000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=590906~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=590906~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Naza @ IFC CENTER
-DTSTART:20261127T193000
-DTEND:20261127T213000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=590906~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=590906~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Possible Love @ IFC CENTER
-DTSTART:20261127T105000
-DTEND:20261127T125000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=590899~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=590899~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rate It X @ IFC CENTER
-DTSTART:20261127T104000
-DTEND:20261127T124000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=590900~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=590900~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tangles @ IFC CENTER
-DTSTART:20261127T133000
-DTEND:20261127T153000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=588762~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=588762~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tangles @ IFC CENTER
-DTSTART:20261127T140500
-DTEND:20261127T160500
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=588762~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=588762~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tangles @ IFC CENTER
-DTSTART:20261127T161000
-DTEND:20261127T181000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=588762~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=588762~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tangles @ IFC CENTER
-DTSTART:20261127T184500
-DTEND:20261127T204500
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=588762~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=588762~8722a542-64c1-4c0b-af02-c3e8a239d769&
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tangles @ IFC CENTER
-DTSTART:20261127T212000
-DTEND:20261127T232000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
- icketsearchcriteria.aspx?evtinfo=588762~8722a542-64c1-4c0b-af02-c3e8a239d7
- 69&
-LOCATION:IFC CENTER
-URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
- ?evtinfo=588762~8722a542-64c1-4c0b-af02-c3e8a239d769&
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:14th @ IFC CENTER
@@ -4744,133 +4253,48 @@ URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
  ?evtinfo=588776~8722a542-64c1-4c0b-af02-c3e8a239d769&
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ALL OF A SUDDEN @ FILM FORUM
-DTSTART:20261127T121500
-DTEND:20261127T141500
-DESCRIPTION:Dir: N/A (N/A)\nhttps://filmforum.org/film/all-of-a-sudden
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/all-of-a-sudden
+SUMMARY:It's a Wonderful Life @ IFC CENTER
+DTSTART:20261204T132000
+DTEND:20261204T152000
+DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
+ icketsearchcriteria.aspx?evtinfo=589439~8722a542-64c1-4c0b-af02-c3e8a239d7
+ 69&
+LOCATION:IFC CENTER
+URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
+ ?evtinfo=589439~8722a542-64c1-4c0b-af02-c3e8a239d769&
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ALL OF A SUDDEN @ FILM FORUM
-DTSTART:20261127T143000
-DTEND:20261127T163000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://filmforum.org/film/all-of-a-sudden
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/all-of-a-sudden
+SUMMARY:It's a Wonderful Life @ IFC CENTER
+DTSTART:20261204T161000
+DTEND:20261204T181000
+DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
+ icketsearchcriteria.aspx?evtinfo=589439~8722a542-64c1-4c0b-af02-c3e8a239d7
+ 69&
+LOCATION:IFC CENTER
+URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
+ ?evtinfo=589439~8722a542-64c1-4c0b-af02-c3e8a239d769&
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ALL OF A SUDDEN @ FILM FORUM
-DTSTART:20261127T183000
-DTEND:20261127T203000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://filmforum.org/film/all-of-a-sudden
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/all-of-a-sudden
+SUMMARY:It's a Wonderful Life @ IFC CENTER
+DTSTART:20261204T190000
+DTEND:20261204T210000
+DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
+ icketsearchcriteria.aspx?evtinfo=589439~8722a542-64c1-4c0b-af02-c3e8a239d7
+ 69&
+LOCATION:IFC CENTER
+URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
+ ?evtinfo=589439~8722a542-64c1-4c0b-af02-c3e8a239d769&
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RAISE THE RED LANTERN @ FILM FORUM
-DTSTART:20261127T161000
-DTEND:20261127T181000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://filmforum.org/film/raise-the-red-lante
- rn
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/raise-the-red-lantern
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RAISE THE RED LANTERN @ FILM FORUM
-DTSTART:20261127T185000
-DTEND:20261127T205000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://filmforum.org/film/raise-the-red-lante
- rn
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/raise-the-red-lantern
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FATHERLAND @ FILM FORUM
-DTSTART:20261127T123000
-DTEND:20261127T143000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://filmforum.org/film/fatherland
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/fatherland
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FATHERLAND @ FILM FORUM
-DTSTART:20261127T160000
-DTEND:20261127T180000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://filmforum.org/film/fatherland
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/fatherland
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FATHERLAND @ FILM FORUM
-DTSTART:20261127T201500
-DTEND:20261127T221500
-DESCRIPTION:Dir: N/A (N/A)\nhttps://filmforum.org/film/fatherland
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/fatherland
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ONCE UPON A TIME IN HARLEM @ FILM FORUM
-DTSTART:20261127T133000
-DTEND:20261127T153000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://filmforum.org/film/once-upon-a-time-in
- -harlem
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/once-upon-a-time-in-harlem
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ONCE UPON A TIME IN HARLEM @ FILM FORUM
-DTSTART:20261127T180000
-DTEND:20261127T200000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://filmforum.org/film/once-upon-a-time-in
- -harlem
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/once-upon-a-time-in-harlem
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VOYAGE TO ITALY @ FILM FORUM
-DTSTART:20261127T121500
-DTEND:20261127T141500
-DESCRIPTION:Dir: N/A (N/A)\nhttps://filmforum.org/film/voyage-to-italy-ros
- sellini-120
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/voyage-to-italy-rossellini-120
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROME\, OPEN CITY @ FILM FORUM
-DTSTART:20261127T142000
-DTEND:20261127T162000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://filmforum.org/film/rome-open-city-ross
- ellini-120
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/rome-open-city-rossellini-120
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GERMANY\, YEAR ZERO @ FILM FORUM
-DTSTART:20261127T163500
-DTEND:20261127T183500
-DESCRIPTION:Dir: N/A (N/A)\nhttps://filmforum.org/film/germany-year-zero-r
- ossellini-120
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/germany-year-zero-rossellini-120
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DOV’È LA LIBERTÀ? @ FILM FORUM
-DTSTART:20261127T181500
-DTEND:20261127T201500
-DESCRIPTION:Dir: N/A (N/A)\nhttps://filmforum.org/film/dove-la-liberta-ros
- sellini-120
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/dove-la-liberta-rossellini-120
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GENERAL DELLA ROVERE @ FILM FORUM
-DTSTART:20261127T202000
-DTEND:20261127T222000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://filmforum.org/film/general-della-rover
- e-rossellini-120
-LOCATION:FILM FORUM
-URL:https://filmforum.org/film/general-della-rovere-rossellini-120
+SUMMARY:Let's Keep This Conversation to a Minimum @ IFC CENTER
+DTSTART:20261204T104500
+DTEND:20261204T124500
+DESCRIPTION:Dir: N/A (N/A)\nhttps://tickets.ifccenter.com/websales/pages/t
+ icketsearchcriteria.aspx?evtinfo=588801~8722a542-64c1-4c0b-af02-c3e8a239d7
+ 69&
+LOCATION:IFC CENTER
+URL:https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx
+ ?evtinfo=588801~8722a542-64c1-4c0b-af02-c3e8a239d769&
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ALL OF A SUDDEN @ FILM FORUM
@@ -5632,28 +5056,6 @@ DESCRIPTION:Dir: N/A (N/A)\nhttps://filmforum.org/film/rome-open-city-ross
  ellini-120
 LOCATION:FILM FORUM
 URL:https://filmforum.org/film/rome-open-city-rossellini-120
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ANDY WARHOL’S 'SCREEN TESTS' + CONRAD VENTUR’S 'SCREEN TESTS R
- EVISITED'\, PGM 1 @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20261127T183000
-DTEND:20261127T203000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://anthologyfilmarchives.org/film_screeni
- ngs/calendar?view=list&month=11&year=2026#showing-62293
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://anthologyfilmarchives.org/film_screenings/calendar?view=list&m
- onth=11&year=2026#showing-62293
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ANDY WARHOL’S 'SCREEN TESTS' + CONRAD VENTUR’S 'SCREEN TESTS R
- EVISITED'\, PGM 2 @ ANTHOLOGY FILM ARCHIVES
-DTSTART:20261127T204500
-DTEND:20261127T224500
-DESCRIPTION:Dir: N/A (N/A)\nhttps://anthologyfilmarchives.org/film_screeni
- ngs/calendar?view=list&month=11&year=2026#showing-62296
-LOCATION:ANTHOLOGY FILM ARCHIVES
-URL:https://anthologyfilmarchives.org/film_screenings/calendar?view=list&m
- onth=11&year=2026#showing-62296
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EC: JENNINGS / KIRSANOFF @ ANTHOLOGY FILM ARCHIVES
@@ -6544,33 +5946,6 @@ URL:https://www.filmlinc.org/films/across-movi-verse-j-hoberman/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All of a Sudden @ FILM AT LINCOLN CENTER
-DTSTART:20261127T121500
-DTEND:20261127T141500
-DESCRIPTION:Dir: Ryûsuke Hamaguchi (2026)\nhttps://www.filmlinc.org/films
- /all-of-a-sudden/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/all-of-a-sudden/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All of a Sudden @ FILM AT LINCOLN CENTER
-DTSTART:20261127T160000
-DTEND:20261127T180000
-DESCRIPTION:Dir: Ryûsuke Hamaguchi (2026)\nhttps://www.filmlinc.org/films
- /all-of-a-sudden/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/all-of-a-sudden/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All of a Sudden @ FILM AT LINCOLN CENTER
-DTSTART:20261127T194500
-DTEND:20261127T214500
-DESCRIPTION:Dir: Ryûsuke Hamaguchi (2026)\nhttps://www.filmlinc.org/films
- /all-of-a-sudden/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/all-of-a-sudden/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All of a Sudden @ FILM AT LINCOLN CENTER
 DTSTART:20261128T121500
 DTEND:20261128T141500
 DESCRIPTION:Dir: Ryûsuke Hamaguchi (2026)\nhttps://www.filmlinc.org/films
@@ -6705,40 +6080,31 @@ LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/films/all-of-a-sudden/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bitter Christmas @ FILM AT LINCOLN CENTER
-DTSTART:20261127T130000
-DTEND:20261127T150000
-DESCRIPTION:Dir: Pedro Almodóvar (2026)\nhttps://www.filmlinc.org/films/b
- itter-christmas/
+SUMMARY:All of a Sudden @ FILM AT LINCOLN CENTER
+DTSTART:20261203T121500
+DTEND:20261203T141500
+DESCRIPTION:Dir: Ryûsuke Hamaguchi (2026)\nhttps://www.filmlinc.org/films
+ /all-of-a-sudden/
 LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/bitter-christmas/
+URL:https://www.filmlinc.org/films/all-of-a-sudden/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bitter Christmas @ FILM AT LINCOLN CENTER
-DTSTART:20261127T153000
-DTEND:20261127T173000
-DESCRIPTION:Dir: Pedro Almodóvar (2026)\nhttps://www.filmlinc.org/films/b
- itter-christmas/
+SUMMARY:All of a Sudden @ FILM AT LINCOLN CENTER
+DTSTART:20261203T160000
+DTEND:20261203T180000
+DESCRIPTION:Dir: Ryûsuke Hamaguchi (2026)\nhttps://www.filmlinc.org/films
+ /all-of-a-sudden/
 LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/bitter-christmas/
+URL:https://www.filmlinc.org/films/all-of-a-sudden/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bitter Christmas @ FILM AT LINCOLN CENTER
-DTSTART:20261127T181500
-DTEND:20261127T201500
-DESCRIPTION:Dir: Pedro Almodóvar (2026)\nhttps://www.filmlinc.org/films/b
- itter-christmas/
+SUMMARY:All of a Sudden @ FILM AT LINCOLN CENTER
+DTSTART:20261203T194500
+DTEND:20261203T214500
+DESCRIPTION:Dir: Ryûsuke Hamaguchi (2026)\nhttps://www.filmlinc.org/films
+ /all-of-a-sudden/
 LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/bitter-christmas/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bitter Christmas @ FILM AT LINCOLN CENTER
-DTSTART:20261127T203000
-DTEND:20261127T223000
-DESCRIPTION:Dir: Pedro Almodóvar (2026)\nhttps://www.filmlinc.org/films/b
- itter-christmas/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/bitter-christmas/
+URL:https://www.filmlinc.org/films/all-of-a-sudden/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bitter Christmas @ FILM AT LINCOLN CENTER
@@ -6903,13 +6269,40 @@ LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/films/bitter-christmas/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fatherland @ FILM AT LINCOLN CENTER
-DTSTART:20261127T130500
-DTEND:20261127T150500
-DESCRIPTION:Dir: Paweł Pawlikowski (2026)\nhttps://www.filmlinc.org/films
- /fatherland/
+SUMMARY:Bitter Christmas @ FILM AT LINCOLN CENTER
+DTSTART:20261203T130000
+DTEND:20261203T150000
+DESCRIPTION:Dir: Pedro Almodóvar (2026)\nhttps://www.filmlinc.org/films/b
+ itter-christmas/
 LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/fatherland/
+URL:https://www.filmlinc.org/films/bitter-christmas/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bitter Christmas @ FILM AT LINCOLN CENTER
+DTSTART:20261203T153000
+DTEND:20261203T173000
+DESCRIPTION:Dir: Pedro Almodóvar (2026)\nhttps://www.filmlinc.org/films/b
+ itter-christmas/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/bitter-christmas/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bitter Christmas @ FILM AT LINCOLN CENTER
+DTSTART:20261203T181500
+DTEND:20261203T201500
+DESCRIPTION:Dir: Pedro Almodóvar (2026)\nhttps://www.filmlinc.org/films/b
+ itter-christmas/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/bitter-christmas/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bitter Christmas @ FILM AT LINCOLN CENTER
+DTSTART:20261203T203000
+DTEND:20261203T223000
+DESCRIPTION:Dir: Pedro Almodóvar (2026)\nhttps://www.filmlinc.org/films/b
+ itter-christmas/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/bitter-christmas/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fatherland @ FILM AT LINCOLN CENTER
@@ -6951,6 +6344,15 @@ BEGIN:VEVENT
 SUMMARY:Fatherland @ FILM AT LINCOLN CENTER
 DTSTART:20261202T130500
 DTEND:20261202T150500
+DESCRIPTION:Dir: Paweł Pawlikowski (2026)\nhttps://www.filmlinc.org/films
+ /fatherland/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/fatherland/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fatherland @ FILM AT LINCOLN CENTER
+DTSTART:20261203T130500
+DTEND:20261203T150500
 DESCRIPTION:Dir: Paweł Pawlikowski (2026)\nhttps://www.filmlinc.org/films
  /fatherland/
 LOCATION:FILM AT LINCOLN CENTER
@@ -7147,33 +6549,6 @@ URL:https://www.filmlinc.org/films/la-gradiva/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minotaur @ FILM AT LINCOLN CENTER
-DTSTART:20261127T150000
-DTEND:20261127T170000
-DESCRIPTION:Dir: Andrey Zvyagintsev (2026)\nhttps://www.filmlinc.org/films
- /minotaur/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/minotaur/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minotaur @ FILM AT LINCOLN CENTER
-DTSTART:20261127T180000
-DTEND:20261127T200000
-DESCRIPTION:Dir: Andrey Zvyagintsev (2026)\nhttps://www.filmlinc.org/films
- /minotaur/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/minotaur/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minotaur @ FILM AT LINCOLN CENTER
-DTSTART:20261127T204500
-DTEND:20261127T224500
-DESCRIPTION:Dir: Andrey Zvyagintsev (2026)\nhttps://www.filmlinc.org/films
- /minotaur/
-LOCATION:FILM AT LINCOLN CENTER
-URL:https://www.filmlinc.org/films/minotaur/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minotaur @ FILM AT LINCOLN CENTER
 DTSTART:20261128T150000
 DTEND:20261128T170000
 DESCRIPTION:Dir: Andrey Zvyagintsev (2026)\nhttps://www.filmlinc.org/films
@@ -7308,196 +6683,31 @@ LOCATION:FILM AT LINCOLN CENTER
 URL:https://www.filmlinc.org/films/minotaur/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Kid @ BAM
-DTSTART:20261127T131000
-DTEND:20261127T151000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://commerce.bam.org/production/59717
-LOCATION:BAM
-URL:https://commerce.bam.org/production/59717
+SUMMARY:Minotaur @ FILM AT LINCOLN CENTER
+DTSTART:20261203T150000
+DTEND:20261203T170000
+DESCRIPTION:Dir: Andrey Zvyagintsev (2026)\nhttps://www.filmlinc.org/films
+ /minotaur/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/minotaur/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Kid @ BAM
-DTSTART:20261127T160000
-DTEND:20261127T180000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://commerce.bam.org/production/59717
-LOCATION:BAM
-URL:https://commerce.bam.org/production/59717
+SUMMARY:Minotaur @ FILM AT LINCOLN CENTER
+DTSTART:20261203T180000
+DTEND:20261203T200000
+DESCRIPTION:Dir: Andrey Zvyagintsev (2026)\nhttps://www.filmlinc.org/films
+ /minotaur/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/minotaur/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Kid @ BAM
-DTSTART:20261127T184000
-DTEND:20261127T204000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://commerce.bam.org/production/59717
-LOCATION:BAM
-URL:https://commerce.bam.org/production/59717
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Club Kid @ BAM
-DTSTART:20261127T212000
-DTEND:20261127T232000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://commerce.bam.org/production/59717
-LOCATION:BAM
-URL:https://commerce.bam.org/production/59717
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minotaur @ BAM
-DTSTART:20261127T130000
-DTEND:20261127T150000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://commerce.bam.org/production/59770
-LOCATION:BAM
-URL:https://commerce.bam.org/production/59770
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minotaur @ BAM
-DTSTART:20261127T154500
-DTEND:20261127T174500
-DESCRIPTION:Dir: N/A (N/A)\nhttps://commerce.bam.org/production/59770
-LOCATION:BAM
-URL:https://commerce.bam.org/production/59770
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minotaur @ BAM
-DTSTART:20261127T183000
-DTEND:20261127T203000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://commerce.bam.org/production/59770
-LOCATION:BAM
-URL:https://commerce.bam.org/production/59770
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minotaur @ BAM
-DTSTART:20261127T211500
-DTEND:20261127T231500
-DESCRIPTION:Dir: N/A (N/A)\nhttps://commerce.bam.org/production/59770
-LOCATION:BAM
-URL:https://commerce.bam.org/production/59770
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore @ BAM
-DTSTART:20261127T134000
-DTEND:20261127T154000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://commerce.bam.org/production/59803
-LOCATION:BAM
-URL:https://commerce.bam.org/production/59803
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore @ BAM
-DTSTART:20261127T163000
-DTEND:20261127T183000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://commerce.bam.org/production/59803
-LOCATION:BAM
-URL:https://commerce.bam.org/production/59803
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore @ BAM
-DTSTART:20261127T190000
-DTEND:20261127T210000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://commerce.bam.org/production/59803
-LOCATION:BAM
-URL:https://commerce.bam.org/production/59803
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elsinore @ BAM
-DTSTART:20261127T214000
-DTEND:20261127T234000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://commerce.bam.org/production/59803
-LOCATION:BAM
-URL:https://commerce.bam.org/production/59803
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paper Tiger @ BAM
-DTSTART:20261127T132000
-DTEND:20261127T152000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://www.bam.org/film/2026/paper-tiger#perf
- ormanceHeader
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/paper-tiger#performanceHeader
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paper Tiger @ BAM
-DTSTART:20261127T161500
-DTEND:20261127T181500
-DESCRIPTION:Dir: N/A (N/A)\nhttps://www.bam.org/film/2026/paper-tiger#perf
- ormanceHeader
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/paper-tiger#performanceHeader
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paper Tiger @ BAM
-DTSTART:20261127T184500
-DTEND:20261127T204500
-DESCRIPTION:Dir: N/A (N/A)\nhttps://www.bam.org/film/2026/paper-tiger#perf
- ormanceHeader
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/paper-tiger#performanceHeader
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paper Tiger @ BAM
-DTSTART:20261127T213000
-DTEND:20261127T233000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://www.bam.org/film/2026/paper-tiger#perf
- ormanceHeader
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/paper-tiger#performanceHeader
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything @ BAM
-DTSTART:20261127T130000
-DTEND:20261127T150000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://commerce.bam.org/production/58645
-LOCATION:BAM
-URL:https://commerce.bam.org/production/58645
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything @ BAM
-DTSTART:20261127T163000
-DTEND:20261127T183000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://commerce.bam.org/production/58645
-LOCATION:BAM
-URL:https://commerce.bam.org/production/58645
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything @ BAM
-DTSTART:20261127T200000
-DTEND:20261127T220000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://commerce.bam.org/production/58645
-LOCATION:BAM
-URL:https://commerce.bam.org/production/58645
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine @ BAM
-DTSTART:20261127T133000
-DTEND:20261127T153000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://www.bam.org/film/2026/wild-horse-nine#
- performanceHeader
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/wild-horse-nine#performanceHeader
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine @ BAM
-DTSTART:20261127T162000
-DTEND:20261127T182000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://www.bam.org/film/2026/wild-horse-nine#
- performanceHeader
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/wild-horse-nine#performanceHeader
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine @ BAM
-DTSTART:20261127T185000
-DTEND:20261127T205000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://www.bam.org/film/2026/wild-horse-nine#
- performanceHeader
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/wild-horse-nine#performanceHeader
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine @ BAM
-DTSTART:20261127T213000
-DTEND:20261127T233000
-DESCRIPTION:Dir: N/A (N/A)\nhttps://www.bam.org/film/2026/wild-horse-nine#
- performanceHeader
-LOCATION:BAM
-URL:https://www.bam.org/film/2026/wild-horse-nine#performanceHeader
+SUMMARY:Minotaur @ FILM AT LINCOLN CENTER
+DTSTART:20261203T204500
+DTEND:20261203T224500
+DESCRIPTION:Dir: Andrey Zvyagintsev (2026)\nhttps://www.filmlinc.org/films
+ /minotaur/
+LOCATION:FILM AT LINCOLN CENTER
+URL:https://www.filmlinc.org/films/minotaur/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club Kid @ BAM
